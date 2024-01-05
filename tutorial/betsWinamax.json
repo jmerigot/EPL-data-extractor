@@ -1,0 +1,474 @@
+{
+  "Premier League 2023/24": {
+    "Manchester City": [
+      1.75,
+      66
+    ],
+    "time": 1716076800,
+    "formated_time": "2024-05-19 00:00:00",
+    "Liverpool": [
+      3.25,
+      6
+    ],
+    "Arsenal": [
+      7.5,
+      19
+    ],
+    "Aston Villa": [
+      25,
+      2
+    ],
+    "Tottenham Hotspur": [
+      35,
+      3
+    ],
+    "Manchester United": [
+      400,
+      2
+    ],
+    "West Ham United": [
+      500,
+      0
+    ],
+    "Newcastle United": [
+      500,
+      1
+    ],
+    "Chelsea": [
+      1000,
+      1
+    ],
+    "Brighton & Hove Albion": [
+      1000,
+      0
+    ]
+  },
+  "Tottenham - Burnley": {
+    "Tottenham": [
+      1.4,
+      99
+    ],
+    "time": 1704484800,
+    "formated_time": "2024-01-05 20:00:00",
+    "Match nul": [
+      5.2,
+      1
+    ],
+    "Burnley": [
+      6.25,
+      0
+    ]
+  },
+  "Inter Milan - Hellas V\u00e9rone": {
+    "Inter": [
+      1.15,
+      96
+    ],
+    "time": 1704540600,
+    "formated_time": "2024-01-06 11:30:00",
+    "Match nul": [
+      7.75,
+      3
+    ],
+    "Hellas V\u00e9rone": [
+      17,
+      1
+    ]
+  },
+  "Nice - Auxerre": {
+    "Nice": [
+      1.74,
+      86
+    ],
+    "time": 1704570300,
+    "formated_time": "2024-01-06 19:45:00",
+    "Match nul": [
+      3.55,
+      9
+    ],
+    "Auxerre": [
+      4.6,
+      5
+    ]
+  },
+  "US Revel - Paris SG": {
+    "US Revel": [
+      75,
+      13
+    ],
+    "time": 1704656700,
+    "formated_time": "2024-01-07 19:45:00",
+    "Match nul": [
+      25,
+      3
+    ],
+    "PSG": [
+      1.01,
+      84
+    ]
+  },
+  "Metz - Clermont": {
+    "Metz": [
+      2.5,
+      69
+    ],
+    "time": 1704483900,
+    "formated_time": "2024-01-05 19:45:00",
+    "Match nul": [
+      3.05,
+      17
+    ],
+    "Clermont": [
+      2.75,
+      14
+    ]
+  },
+  "Lens - Monaco": {
+    "Lens": [
+      2.2,
+      50
+    ],
+    "time": 1704634200,
+    "formated_time": "2024-01-07 13:30:00",
+    "Match nul": [
+      3.55,
+      19
+    ],
+    "Monaco": [
+      2.85,
+      31
+    ]
+  },
+  "Chelsea - Fulham": {
+    "Chelsea": [
+      1.6,
+      52
+    ],
+    "time": 1705149000,
+    "formated_time": "2024-01-13 12:30:00",
+    "Match nul": [
+      4.2,
+      45
+    ],
+    "Fulham": [
+      5.2,
+      3
+    ]
+  },
+  "Sheffield United - West Ham": {
+    "Sheffield United": [
+      3.55,
+      1
+    ],
+    "time": 1705845600,
+    "formated_time": "2024-01-21 14:00:00",
+    "Match nul": [
+      3.3,
+      1
+    ],
+    "West Ham": [
+      1.78,
+      98
+    ]
+  },
+  "Brentford - Nottingham Forest": {
+    "Brentford": [
+      1.88,
+      4
+    ],
+    "time": 1705771800,
+    "formated_time": "2024-01-20 17:30:00",
+    "Match nul": [
+      3.2,
+      92
+    ],
+    "Nottingham Forest": [
+      3.25,
+      4
+    ]
+  },
+  "Brighton - Wolverhampton": {
+    "Brighton": [
+      1.56,
+      32
+    ],
+    "time": 1705952700,
+    "formated_time": "2024-01-22 19:45:00",
+    "Match nul": [
+      3.65,
+      52
+    ],
+    "Wolverhampton": [
+      4.3,
+      16
+    ]
+  },
+  "Newcastle - Manchester City": {
+    "Newcastle": [
+      5.4,
+      2
+    ],
+    "time": 1705167000,
+    "formated_time": "2024-01-13 17:30:00",
+    "Match nul": [
+      4.3,
+      10
+    ],
+    "Manchester City": [
+      1.56,
+      88
+    ]
+  },
+  "Burnley - Luton Town": {
+    "Burnley": [
+      1.94,
+      33
+    ],
+    "time": 1705347900,
+    "formated_time": "2024-01-15 19:45:00",
+    "Match nul": [
+      3.55,
+      60
+    ],
+    "Luton Town": [
+      3.85,
+      7
+    ]
+  },
+  "Manchester United - Tottenham": {
+    "Manchester United": [
+      2.15,
+      28
+    ],
+    "time": 1705249800,
+    "formated_time": "2024-01-14 16:30:00",
+    "Match nul": [
+      3.8,
+      26
+    ],
+    "Tottenham": [
+      3,
+      46
+    ]
+  },
+  "Everton - Aston Villa": {
+    "Everton": [
+      2.75,
+      6
+    ],
+    "time": 1705240800,
+    "formated_time": "2024-01-14 14:00:00",
+    "Match nul": [
+      3.5,
+      29
+    ],
+    "Aston Villa": [
+      2.45,
+      65
+    ]
+  },
+  "Bournemouth - Liverpool": {
+    "Bournemouth": [
+      4.2,
+      0
+    ],
+    "time": 1705854600,
+    "formated_time": "2024-01-21 16:30:00",
+    "Match nul": [
+      3.8,
+      3
+    ],
+    "Liverpool": [
+      1.54,
+      97
+    ]
+  },
+  "Arsenal - Crystal Palace": {
+    "Arsenal": [
+      1.28,
+      98
+    ],
+    "time": 1705753800,
+    "formated_time": "2024-01-20 12:30:00",
+    "Match nul": [
+      4.3,
+      1
+    ],
+    "Crystal Palace": [
+      7.25,
+      1
+    ]
+  },
+  "Luton Town - Brighton": {
+    "Luton Town": [
+      4.3,
+      5
+    ],
+    "time": 1706643900,
+    "formated_time": "2024-01-30 19:45:00",
+    "Match nul": [
+      3.75,
+      2
+    ],
+    "Brighton": [
+      1.54,
+      93
+    ]
+  },
+  "Tottenham - Brentford": {
+    "Tottenham": [
+      1.56,
+      100
+    ],
+    "time": 1706729400,
+    "formated_time": "2024-01-31 19:30:00",
+    "Match nul": [
+      3.75,
+      0
+    ],
+    "Brentford": [
+      4.2,
+      0
+    ]
+  },
+  "Wolverhampton - Manchester United": {
+    "Wolverhampton": [
+      2.4,
+      9
+    ],
+    "time": 1706818500,
+    "formated_time": "2024-02-01 20:15:00",
+    "Match nul": [
+      3.25,
+      2
+    ],
+    "Manchester United": [
+      2.35,
+      89
+    ]
+  },
+  "Aston Villa - Newcastle": {
+    "Aston Villa": [
+      1.84,
+      81
+    ],
+    "time": 1706645700,
+    "formated_time": "2024-01-30 20:15:00",
+    "Match nul": [
+      3.5,
+      13
+    ],
+    "Newcastle": [
+      3.15,
+      6
+    ]
+  },
+  "Fulham - Everton": {
+    "Fulham": [
+      2.3,
+      43
+    ],
+    "time": 1706643900,
+    "formated_time": "2024-01-30 19:45:00",
+    "Match nul": [
+      3.05,
+      45
+    ],
+    "Everton": [
+      2.55,
+      12
+    ]
+  },
+  "West Ham - Bournemouth": {
+    "West Ham": [
+      1.94,
+      98
+    ],
+    "time": 1706815800,
+    "formated_time": "2024-02-01 19:30:00",
+    "Match nul": [
+      3.45,
+      0
+    ],
+    "Bournemouth": [
+      2.9,
+      2
+    ]
+  },
+  "Manchester City - Burnley": {
+    "Manchester City": [
+      1.09,
+      100
+    ],
+    "time": 1706729400,
+    "formated_time": "2024-01-31 19:30:00",
+    "Match nul": [
+      6.25,
+      null
+    ],
+    "Burnley": [
+      13,
+      0
+    ]
+  },
+  "Nottingham Forest - Arsenal": {
+    "Nottingham Forest": [
+      5.7,
+      2
+    ],
+    "time": 1706643000,
+    "formated_time": "2024-01-30 19:30:00",
+    "Match nul": [
+      3.95,
+      0
+    ],
+    "Arsenal": [
+      1.39,
+      98
+    ]
+  },
+  "Crystal Palace - Sheffield United": {
+    "Crystal Palace": [
+      1.42,
+      91
+    ],
+    "time": 1706644800,
+    "formated_time": "2024-01-30 20:00:00",
+    "Match nul": [
+      3.75,
+      7
+    ],
+    "Sheffield United": [
+      5.7,
+      2
+    ]
+  },
+  "Liverpool - Chelsea": {
+    "Liverpool": [
+      1.45,
+      94
+    ],
+    "time": 1706732100,
+    "formated_time": "2024-01-31 20:15:00",
+    "Match nul": [
+      4,
+      1
+    ],
+    "Chelsea": [
+      4.8,
+      5
+    ]
+  },
+  "Boston Celtics - Utah Jazz": {
+    "Boston Celtics": [
+      1.09,
+      97
+    ],
+    "time": 1704500100,
+    "formated_time": "2024-01-06 00:15:00",
+    "Utah Jazz": [
+      7.25,
+      3
+    ]
+  }
+}
