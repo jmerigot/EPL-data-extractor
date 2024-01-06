@@ -35,6 +35,19 @@ class BetSpider(scrapy.Spider):
         with open('betsBetclic.json', 'w') as json_file:
             json.dump(results, json_file, indent=2)
 
+        next_page_links = response.css('a.cardEvent::attr(href)').getall()
+        print(next_page_links)
+
+        for next_page in next_page_links:
+            yield response.follow(next_page, callback=self.parse_match)
+
+    def parse_match(self, response):
+        page = response.url.split("/")[-2]
+        filename = f"quotes-{page}.html"
+        Path(filename).write_bytes(response.body)
+        self.log(f"Saved file {filename}")
+        raise error
+
 
 """    def parse(self, response):
         page = response.url.split("/")[-2]

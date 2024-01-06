@@ -1,0 +1,4868 @@
+{
+  "R\u00e9sultat": {
+    "Nice": {
+      "percentage": 92,
+      "odds": 1.8
+    },
+    "Match nul": {
+      "percentage": 4,
+      "odds": 3.7
+    },
+    "Auxerre": {
+      "percentage": 4,
+      "odds": 4.3
+    }
+  },
+  "Qualification": {
+    "Nice": {
+      "percentage": 65,
+      "odds": 1.33
+    },
+    "Auxerre": {
+      "percentage": 35,
+      "odds": 3
+    }
+  },
+  "Buteur": {
+    "Terem Moffi": {
+      "percentage": 37,
+      "odds": 2.85
+    },
+    "Ga\u00ebtan Laborde": {
+      "percentage": 22,
+      "odds": 2.85
+    },
+    "Evann Guessand": {
+      "percentage": 1,
+      "odds": 2.85
+    },
+    "Alexis Claude-Maurice": {
+      "percentage": 0,
+      "odds": 4.1
+    },
+    "Florian Aye": {
+      "percentage": 4,
+      "odds": 4.5
+    },
+    "Ado Onaiwu": {
+      "percentage": 1,
+      "odds": 4.5
+    },
+    "Gauthier Hein": {
+      "percentage": 31,
+      "odds": 5
+    },
+    "Ousmane Camara": {
+      "percentage": 0,
+      "odds": 6
+    },
+    "Gaetan Perrin": {
+      "percentage": 2,
+      "odds": 6
+    },
+    "Morgan Sanson": {
+      "percentage": 0,
+      "odds": 6
+    },
+    "Ayoub Amraoui": {
+      "percentage": 0,
+      "odds": 6.25
+    },
+    "Youssouf Ndayishimiye": {
+      "percentage": 0,
+      "odds": 7.25
+    },
+    "Rayan Raveloson": {
+      "percentage": 0,
+      "odds": 7.5
+    },
+    "Pablo Rosario": {
+      "percentage": 0,
+      "odds": 9.5
+    },
+    "Dante ": {
+      "percentage": 0,
+      "odds": 9.5
+    },
+    "Jean-Clair Todibo": {
+      "percentage": 0,
+      "odds": 9.5
+    },
+    "Romain Perraud": {
+      "percentage": 1,
+      "odds": 11
+    },
+    "Melvin Bard": {
+      "percentage": 0,
+      "odds": 11
+    },
+    "Jubal ": {
+      "percentage": 1,
+      "odds": 12
+    },
+    "Jordan Lotomba": {
+      "percentage": 0,
+      "odds": 13
+    },
+    "Theo Pellenard": {
+      "percentage": 0,
+      "odds": 17
+    },
+    "Paul Joly": {
+      "percentage": 0,
+      "odds": 17
+    },
+    "Colin Dagba": {
+      "percentage": 0,
+      "odds": 17
+    },
+    "Assane Diousse": {
+      "percentage": 0,
+      "odds": 17
+    }
+  },
+  "Double chance": {
+    "Nice ou match nul": {
+      "percentage": 82,
+      "odds": 1.18
+    },
+    "Nice ou Auxerre": {
+      "percentage": 7,
+      "odds": 1.23
+    },
+    "Auxerre ou match nul": {
+      "percentage": 11,
+      "odds": 1.86
+    }
+  },
+  "Score exact": {
+    "0 - 0": {
+      "percentage": 15,
+      "odds": 9
+    },
+    "1 - 0": {
+      "percentage": 11,
+      "odds": 6
+    },
+    "2 - 0": {
+      "percentage": 17,
+      "odds": 7.25
+    },
+    "3 - 0": {
+      "percentage": 1,
+      "odds": 12
+    },
+    "4 - 0": {
+      "percentage": 0,
+      "odds": 26
+    },
+    "5 - 0": {
+      "percentage": 0,
+      "odds": 55
+    },
+    "0 - 1": {
+      "percentage": 1,
+      "odds": 9.5
+    },
+    "1 - 1": {
+      "percentage": 13,
+      "odds": 6
+    },
+    "2 - 1": {
+      "percentage": 12,
+      "odds": 7.5
+    },
+    "3 - 1": {
+      "percentage": 9,
+      "odds": 12.5
+    },
+    "4 - 1": {
+      "percentage": 0,
+      "odds": 27
+    },
+    "5 - 1": {
+      "percentage": 0,
+      "odds": 55
+    },
+    "0 - 2": {
+      "percentage": 1,
+      "odds": 19
+    },
+    "1 - 2": {
+      "percentage": 4,
+      "odds": 12
+    },
+    "2 - 2": {
+      "percentage": 9,
+      "odds": 13.5
+    },
+    "3 - 2": {
+      "percentage": 1,
+      "odds": 24
+    },
+    "4 - 2": {
+      "percentage": 2,
+      "odds": 48
+    },
+    "5 - 2": {
+      "percentage": 0,
+      "odds": 85
+    },
+    "0 - 3": {
+      "percentage": 1,
+      "odds": 48
+    },
+    "1 - 3": {
+      "percentage": 0,
+      "odds": 32
+    },
+    "2 - 3": {
+      "percentage": 0,
+      "odds": 38
+    },
+    "3 - 3": {
+      "percentage": 1,
+      "odds": 55
+    },
+    "4 - 3": {
+      "percentage": 0,
+      "odds": 85
+    },
+    "5 - 3": {
+      "percentage": 0,
+      "odds": 180
+    },
+    "0 - 4": {
+      "percentage": 0,
+      "odds": 100
+    },
+    "1 - 4": {
+      "percentage": 0,
+      "odds": 75
+    },
+    "2 - 4": {
+      "percentage": 0,
+      "odds": 85
+    },
+    "3 - 4": {
+      "percentage": 1,
+      "odds": 120
+    },
+    "4 - 4": {
+      "percentage": 0,
+      "odds": 225
+    },
+    "5 - 4": {
+      "percentage": 0,
+      "odds": 450
+    },
+    "0 - 5": {
+      "percentage": 0,
+      "odds": 350
+    },
+    "1 - 5": {
+      "percentage": 0,
+      "odds": 225
+    },
+    "2 - 5": {
+      "percentage": 0,
+      "odds": 275
+    },
+    "3 - 5": {
+      "percentage": 0,
+      "odds": 450
+    },
+    "4 - 5": {
+      "percentage": 0,
+      "odds": 500
+    },
+    "Autre": {
+      "percentage": 1,
+      "odds": 55
+    }
+  },
+  "Score exact multichance": {
+    "1-0 ou 2-0 ou 3-0": {
+      "percentage": 69,
+      "odds": 3
+    },
+    "0-1 ou 0-2 ou 0-3": {
+      "percentage": 0,
+      "odds": 6.5
+    },
+    "4-0 ou 5-0 ou 6-0": {
+      "percentage": 0,
+      "odds": 19
+    },
+    "0-4 ou 0-5 ou 0-6": {
+      "percentage": 0,
+      "odds": 95
+    },
+    "2-1 ou 3-1 ou 4-1": {
+      "percentage": 29,
+      "odds": 4.5
+    },
+    "1-2 ou 1-3 ou 1-4": {
+      "percentage": 0,
+      "odds": 9
+    },
+    "3-2 ou 4-2 ou 4-3 ou 5-1": {
+      "percentage": 1,
+      "odds": 14
+    },
+    "2-3 ou 2-4 ou 3-4 ou 1-5": {
+      "percentage": 1,
+      "odds": 29
+    },
+    "Autre victoire \u00e0 domicile": {
+      "percentage": 0,
+      "odds": 50
+    },
+    "Autre victoire \u00e0 l'ext\u00e9rieur": {
+      "percentage": 0,
+      "odds": 100
+    },
+    "Match nul": {
+      "percentage": 0,
+      "odds": 3.3
+    }
+  },
+  "Les 2 \u00e9quipes marquent": {
+    "Oui": {
+      "percentage": 99,
+      "odds": 1.74
+    },
+    "Non": {
+      "percentage": 1,
+      "odds": 1.74
+    }
+  },
+  "\u00c9cart de buts|Nice gagne par au moins 3 buts d'\u00e9cart": {
+    "Oui": {
+      "percentage": 21,
+      "odds": 5.9
+    },
+    "Non": {
+      "percentage": 79,
+      "odds": 1.08
+    }
+  },
+  "\u00c9cart de buts|Nice gagne par au moins 2 buts d'\u00e9cart": {
+    "Oui": {
+      "percentage": 80,
+      "odds": 2.85
+    },
+    "Non": {
+      "percentage": 20,
+      "odds": 1.29
+    }
+  },
+  "\u00c9cart de buts|Auxerre gagne par au moins 2 buts d'\u00e9cart": {
+    "Non": {
+      "percentage": 71,
+      "odds": 1.03
+    },
+    "Oui": {
+      "percentage": 29,
+      "odds": 9
+    }
+  },
+  "\u00c9cart de buts (handicap)": {
+    "Nice +1.5": {
+      "percentage": 100,
+      "odds": 1.03
+    },
+    "Auxerre -1.5": {
+      "percentage": 0,
+      "odds": 9
+    }
+  },
+  "Nombre de buts": {
+    "Plus de 5": {
+      "percentage": 91,
+      "odds": 12
+    },
+    "Moins de 5": {
+      "percentage": 9,
+      "odds": 1.02
+    }
+  },
+  "Vainqueur (rembours\u00e9 si match nul)": {
+    "Nice": {
+      "percentage": 98,
+      "odds": 1.28
+    },
+    "Auxerre": {
+      "percentage": 2,
+      "odds": 2.9
+    }
+  },
+  "But sur penalty": {
+    "Nice marque sur penalty": {
+      "percentage": 13,
+      "odds": 4.4
+    },
+    "Auxerre marque sur penalty": {
+      "percentage": 4,
+      "odds": 7
+    },
+    "Au moins une des deux \u00e9quipes marque sur penalty": {
+      "percentage": 36,
+      "odds": 3.2
+    },
+    "Les deux \u00e9quipes marquent sur penalty": {
+      "percentage": 16,
+      "odds": 32
+    },
+    "Aucun penalty marqu\u00e9": {
+      "percentage": 31,
+      "odds": 1.24
+    }
+  },
+  "Quel joueur inscrira 2 buts ou plus ?": {
+    "Terem Moffi": {
+      "percentage": 76,
+      "odds": 11.5
+    },
+    "Ga\u00ebtan Laborde": {
+      "percentage": 12,
+      "odds": 11.5
+    },
+    "Evann Guessand": {
+      "percentage": 0,
+      "odds": 11.5
+    },
+    "Alexis Claude-Maurice": {
+      "percentage": 0,
+      "odds": 25
+    },
+    "Florian Aye": {
+      "percentage": 0,
+      "odds": 30
+    },
+    "Ado Onaiwu": {
+      "percentage": 1,
+      "odds": 30
+    },
+    "Gauthier Hein": {
+      "percentage": 9,
+      "odds": 38
+    },
+    "Ousmane Camara": {
+      "percentage": 0,
+      "odds": 50
+    },
+    "Gaetan Perrin": {
+      "percentage": 1,
+      "odds": 50
+    },
+    "Morgan Sanson": {
+      "percentage": 0,
+      "odds": 50
+    },
+    "Ayoub Amraoui": {
+      "percentage": 0,
+      "odds": 55
+    },
+    "Youssouf Ndayishimiye": {
+      "percentage": 0,
+      "odds": 60
+    },
+    "Rayan Raveloson": {
+      "percentage": 0,
+      "odds": 65
+    },
+    "Pablo Rosario": {
+      "percentage": 0,
+      "odds": 100
+    },
+    "Dante ": {
+      "percentage": 0,
+      "odds": 100
+    },
+    "Jean-Clair Todibo": {
+      "percentage": 0,
+      "odds": 100
+    },
+    "Romain Perraud": {
+      "percentage": 0,
+      "odds": 130
+    },
+    "Melvin Bard": {
+      "percentage": 0,
+      "odds": 130
+    },
+    "Jubal ": {
+      "percentage": 1,
+      "odds": 160
+    },
+    "Jordan Lotomba": {
+      "percentage": 0,
+      "odds": 200
+    },
+    "Theo Pellenard": {
+      "percentage": 0,
+      "odds": 200
+    },
+    "Paul Joly": {
+      "percentage": 0,
+      "odds": 200
+    },
+    "Colin Dagba": {
+      "percentage": 0,
+      "odds": 200
+    },
+    "Assane Diousse": {
+      "percentage": 0,
+      "odds": 200
+    }
+  },
+  "Quel joueur inscrira 3 buts ou plus ?": {
+    "Terem Moffi": {
+      "percentage": 76,
+      "odds": 60
+    },
+    "Ga\u00ebtan Laborde": {
+      "percentage": 24,
+      "odds": 60
+    },
+    "Evann Guessand": {
+      "percentage": 0,
+      "odds": 60
+    },
+    "Alexis Claude-Maurice": {
+      "percentage": 0,
+      "odds": 130
+    },
+    "Florian Aye": {
+      "percentage": 0,
+      "odds": 160
+    },
+    "Ado Onaiwu": {
+      "percentage": 0,
+      "odds": 160
+    },
+    "Gauthier Hein": {
+      "percentage": 0,
+      "odds": 200
+    },
+    "Ousmane Camara": {
+      "percentage": 0,
+      "odds": 400
+    },
+    "Gaetan Perrin": {
+      "percentage": 0,
+      "odds": 400
+    },
+    "Morgan Sanson": {
+      "percentage": 0,
+      "odds": 400
+    },
+    "Ayoub Amraoui": {
+      "percentage": 0,
+      "odds": 450
+    },
+    "Youssouf Ndayishimiye": {
+      "percentage": 0,
+      "odds": 450
+    },
+    "Rayan Raveloson": {
+      "percentage": 0,
+      "odds": 500
+    },
+    "Pablo Rosario": {
+      "percentage": 0,
+      "odds": 500
+    },
+    "Dante ": {
+      "percentage": 0,
+      "odds": 500
+    },
+    "Jean-Clair Todibo": {
+      "percentage": 0,
+      "odds": 500
+    },
+    "Romain Perraud": {
+      "percentage": 0,
+      "odds": 500
+    },
+    "Melvin Bard": {
+      "percentage": 0,
+      "odds": 500
+    },
+    "Jubal ": {
+      "percentage": 0,
+      "odds": 500
+    },
+    "Jordan Lotomba": {
+      "percentage": 0,
+      "odds": 500
+    },
+    "Theo Pellenard": {
+      "percentage": 0,
+      "odds": 500
+    },
+    "Paul Joly": {
+      "percentage": 0,
+      "odds": 500
+    },
+    "Colin Dagba": {
+      "percentage": 0,
+      "odds": 500
+    },
+    "Assane Diousse": {
+      "percentage": 0,
+      "odds": 500
+    }
+  },
+  "Quel joueur inscrira 4 buts ou plus ?": {
+    "Terem Moffi": {
+      "percentage": 75,
+      "odds": 275
+    },
+    "Ga\u00ebtan Laborde": {
+      "percentage": 25,
+      "odds": 275
+    },
+    "Evann Guessand": {
+      "percentage": 0,
+      "odds": 275
+    },
+    "Alexis Claude-Maurice": {
+      "percentage": 0,
+      "odds": 800
+    },
+    "Florian Aye": {
+      "percentage": 0,
+      "odds": 1300
+    },
+    "Ado Onaiwu": {
+      "percentage": 0,
+      "odds": 1300
+    },
+    "Gauthier Hein": {
+      "percentage": 0,
+      "odds": 1500
+    },
+    "Ousmane Camara": {
+      "percentage": 0,
+      "odds": 1500
+    },
+    "Gaetan Perrin": {
+      "percentage": 0,
+      "odds": 1500
+    },
+    "Morgan Sanson": {
+      "percentage": 0,
+      "odds": 1500
+    },
+    "Ayoub Amraoui": {
+      "percentage": 0,
+      "odds": 1500
+    },
+    "Youssouf Ndayishimiye": {
+      "percentage": 0,
+      "odds": 1500
+    },
+    "Rayan Raveloson": {
+      "percentage": 0,
+      "odds": 1500
+    },
+    "Pablo Rosario": {
+      "percentage": 0,
+      "odds": 1500
+    },
+    "Dante ": {
+      "percentage": 0,
+      "odds": 1500
+    },
+    "Jean-Clair Todibo": {
+      "percentage": 0,
+      "odds": 1500
+    },
+    "Romain Perraud": {
+      "percentage": 0,
+      "odds": 1500
+    },
+    "Melvin Bard": {
+      "percentage": 0,
+      "odds": 1500
+    },
+    "Jubal ": {
+      "percentage": 0,
+      "odds": 1500
+    },
+    "Jordan Lotomba": {
+      "percentage": 0,
+      "odds": 1500
+    },
+    "Theo Pellenard": {
+      "percentage": 0,
+      "odds": 1500
+    },
+    "Paul Joly": {
+      "percentage": 0,
+      "odds": 1500
+    },
+    "Colin Dagba": {
+      "percentage": 0,
+      "odds": 1500
+    },
+    "Assane Diousse": {
+      "percentage": 0,
+      "odds": 1500
+    }
+  },
+  "Duo Buteurs - T. Moffi + G. Laborde ": {
+    "Plus de 3,5": {
+      "percentage": 0,
+      "odds": 55
+    }
+  },
+  "Duo Buteurs - T. Moffi + E. Guessand ": {
+    "Plus de 3,5": {
+      "percentage": 0,
+      "odds": 55
+    }
+  },
+  "Duo Buteurs - T. Moffi + F. Aye ": {
+    "Plus de 3,5": {
+      "percentage": 0,
+      "odds": 90
+    }
+  },
+  "Duo Buteurs - G. Laborde + F. Aye ": {
+    "Plus de 3,5": {
+      "percentage": 0,
+      "odds": 90
+    }
+  },
+  "Duo Buteurs - T. Moffi + G. Hein ": {
+    "Plus de 3,5": {
+      "percentage": 0,
+      "odds": 100
+    }
+  },
+  "Duo Buteurs - G. Laborde + G. Hein ": {
+    "Plus de 3,5": {
+      "percentage": 0,
+      "odds": 100
+    }
+  },
+  "Duo Buteurs - E. Guessand + G. Hein ": {
+    "Plus de 3,5": {
+      "percentage": 0,
+      "odds": 100
+    }
+  },
+  "Duo Buteurs - F. Aye + G. Hein ": {
+    "Plus de 3,5": {
+      "percentage": 0,
+      "odds": 200
+    }
+  },
+  "Trio Buteurs - T. Moffi + E. Guessand + G. Laborde ": {
+    "Plus de 3,5": {
+      "percentage": 0,
+      "odds": 21
+    }
+  },
+  "Trio Buteurs - E. Guessand + G. Laborde + F. Aye ": {
+    "Plus de 3,5": {
+      "percentage": 0,
+      "odds": 32
+    }
+  },
+  "Trio Buteurs - T. Moffi + G. Laborde + G. Hein ": {
+    "Plus de 3,5": {
+      "percentage": 100,
+      "odds": 36
+    }
+  },
+  "Trio Buteurs - T. Moffi + E. Guessand + G. Hein ": {
+    "Plus de 3,5": {
+      "percentage": 0,
+      "odds": 36
+    }
+  },
+  "Trio Buteurs - G. Laborde + F. Aye + A. Claude-Maurice ": {
+    "Plus de 3,5": {
+      "percentage": 0,
+      "odds": 48
+    }
+  },
+  "Trio Buteurs - E. Guessand + A. Onaiwu + A. Claude-Maurice ": {
+    "Plus de 3,5": {
+      "percentage": 0,
+      "odds": 48
+    }
+  },
+  "Trio Buteurs - T. Moffi + F. Aye + G. Hein ": {
+    "Plus de 3,5": {
+      "percentage": 0,
+      "odds": 55
+    }
+  },
+  "Trio Buteurs - A. Onaiwu + F. Aye + G. Hein ": {
+    "Plus de 3,5": {
+      "percentage": 0,
+      "odds": 85
+    }
+  },
+  "Double chance buteur": {
+    "T. Moffi ou G. Laborde": {
+      "percentage": 99,
+      "odds": 1.64
+    },
+    "T. Moffi ou E. Guessand": {
+      "percentage": 0,
+      "odds": 1.64
+    },
+    "T. Moffi ou F. Aye": {
+      "percentage": 0,
+      "odds": 1.94
+    },
+    "G. Laborde ou G. Hein": {
+      "percentage": 0,
+      "odds": 2
+    },
+    "T. Moffi ou G. Hein": {
+      "percentage": 1,
+      "odds": 2
+    },
+    "F. Aye ou G. Hein": {
+      "percentage": 0,
+      "odds": 2.55
+    }
+  },
+  "Triple chance buteur": {
+    "T. Moffi ou E. Guessand ou G. Laborde": {
+      "percentage": 76,
+      "odds": 1.33
+    },
+    "E. Guessand ou G. Laborde ou F. Aye": {
+      "percentage": 0,
+      "odds": 1.45
+    },
+    "T. Moffi ou G. Laborde ou G. Hein": {
+      "percentage": 3,
+      "odds": 1.47
+    },
+    "T. Moffi ou E. Guessand ou G. Hein": {
+      "percentage": 8,
+      "odds": 1.47
+    },
+    "T. Moffi ou F. Aye ou G. Hein": {
+      "percentage": 0,
+      "odds": 1.64
+    },
+    "A. Onaiwu ou F. Aye ou G. Hein": {
+      "percentage": 13,
+      "odds": 1.9
+    }
+  },
+  "Buteur et son \u00e9quipe gagne": {
+    "Terem Moffi": {
+      "percentage": 90,
+      "odds": 3.45
+    },
+    "Ga\u00ebtan Laborde": {
+      "percentage": 0,
+      "odds": 3.45
+    },
+    "Evann Guessand": {
+      "percentage": 0,
+      "odds": 3.45
+    },
+    "Alexis Claude-Maurice": {
+      "percentage": 0,
+      "odds": 4.7
+    },
+    "Morgan Sanson": {
+      "percentage": 0,
+      "odds": 7
+    },
+    "Ayoub Amraoui": {
+      "percentage": 0,
+      "odds": 7.25
+    },
+    "Florian Aye": {
+      "percentage": 10,
+      "odds": 8.5
+    },
+    "Ado Onaiwu": {
+      "percentage": 0,
+      "odds": 8.5
+    },
+    "Youssouf Ndayishimiye": {
+      "percentage": 0,
+      "odds": 8.5
+    },
+    "Gauthier Hein": {
+      "percentage": 0,
+      "odds": 9
+    },
+    "Ousmane Camara": {
+      "percentage": 0,
+      "odds": 11
+    },
+    "Gaetan Perrin": {
+      "percentage": 0,
+      "odds": 11
+    },
+    "Pablo Rosario": {
+      "percentage": 0,
+      "odds": 11.5
+    },
+    "Dante ": {
+      "percentage": 0,
+      "odds": 11.5
+    },
+    "Jean-Clair Todibo": {
+      "percentage": 0,
+      "odds": 11.5
+    },
+    "Romain Perraud": {
+      "percentage": 0,
+      "odds": 14.5
+    },
+    "Melvin Bard": {
+      "percentage": 0,
+      "odds": 14.5
+    },
+    "Rayan Raveloson": {
+      "percentage": 0,
+      "odds": 14.5
+    },
+    "Jordan Lotomba": {
+      "percentage": 0,
+      "odds": 18
+    },
+    "Jubal ": {
+      "percentage": 0,
+      "odds": 27
+    },
+    "Theo Pellenard": {
+      "percentage": 0,
+      "odds": 44
+    },
+    "Paul Joly": {
+      "percentage": 0,
+      "odds": 44
+    },
+    "Colin Dagba": {
+      "percentage": 0,
+      "odds": 44
+    },
+    "Assane Diousse": {
+      "percentage": 0,
+      "odds": 44
+    }
+  },
+  "Chaque joueur marque": {
+    "T. Moffi et G. Laborde": {
+      "percentage": 100,
+      "odds": 7
+    },
+    "T. Moffi et E. Guessand": {
+      "percentage": 0,
+      "odds": 7
+    },
+    "T. Moffi et F. Aye": {
+      "percentage": 0,
+      "odds": 11
+    },
+    "G. Laborde et G. Hein": {
+      "percentage": 0,
+      "odds": 12.5
+    },
+    "T. Moffi et G. Hein": {
+      "percentage": 0,
+      "odds": 12.5
+    },
+    "F. Aye et G. Hein": {
+      "percentage": 0,
+      "odds": 20
+    }
+  },
+  "Premier buteur": {
+    "Terem Moffi": {
+      "percentage": 93,
+      "odds": 5.5
+    },
+    "Ga\u00ebtan Laborde": {
+      "percentage": 0,
+      "odds": 5.5
+    },
+    "Evann Guessand": {
+      "percentage": 7,
+      "odds": 5.5
+    },
+    "Alexis Claude-Maurice": {
+      "percentage": 0,
+      "odds": 8
+    },
+    "Florian Aye": {
+      "percentage": 0,
+      "odds": 9
+    },
+    "Ado Onaiwu": {
+      "percentage": 0,
+      "odds": 9
+    },
+    "Gauthier Hein": {
+      "percentage": 0,
+      "odds": 10
+    },
+    "Ousmane Camara": {
+      "percentage": 0,
+      "odds": 13
+    },
+    "Gaetan Perrin": {
+      "percentage": 0,
+      "odds": 13
+    },
+    "Morgan Sanson": {
+      "percentage": 0,
+      "odds": 13
+    },
+    "Ayoub Amraoui": {
+      "percentage": 0,
+      "odds": 13.5
+    },
+    "Youssouf Ndayishimiye": {
+      "percentage": 0,
+      "odds": 16
+    },
+    "Rayan Raveloson": {
+      "percentage": 0,
+      "odds": 17
+    },
+    "Pablo Rosario": {
+      "percentage": 0,
+      "odds": 23
+    },
+    "Dante ": {
+      "percentage": 0,
+      "odds": 23
+    },
+    "Jean-Clair Todibo": {
+      "percentage": 0,
+      "odds": 23
+    },
+    "Romain Perraud": {
+      "percentage": 0,
+      "odds": 28
+    },
+    "Melvin Bard": {
+      "percentage": 0,
+      "odds": 28
+    },
+    "Jubal ": {
+      "percentage": 0,
+      "odds": 32
+    },
+    "Jordan Lotomba": {
+      "percentage": 0,
+      "odds": 36
+    },
+    "Theo Pellenard": {
+      "percentage": 0,
+      "odds": 50
+    },
+    "Paul Joly": {
+      "percentage": 0,
+      "odds": 50
+    },
+    "Colin Dagba": {
+      "percentage": 0,
+      "odds": 50
+    },
+    "Assane Diousse": {
+      "percentage": 0,
+      "odds": 50
+    }
+  },
+  "Dernier buteur": {
+    "Terem Moffi": {
+      "percentage": 0,
+      "odds": 5.5
+    },
+    "Ga\u00ebtan Laborde": {
+      "percentage": 0,
+      "odds": 5.5
+    },
+    "Evann Guessand": {
+      "percentage": 0,
+      "odds": 5.5
+    },
+    "Alexis Claude-Maurice": {
+      "percentage": 0,
+      "odds": 8
+    },
+    "Florian Aye": {
+      "percentage": 0,
+      "odds": 9
+    },
+    "Ado Onaiwu": {
+      "percentage": 0,
+      "odds": 9
+    },
+    "Gauthier Hein": {
+      "percentage": 0,
+      "odds": 10
+    },
+    "Ousmane Camara": {
+      "percentage": 0,
+      "odds": 13
+    },
+    "Gaetan Perrin": {
+      "percentage": 0,
+      "odds": 13
+    },
+    "Morgan Sanson": {
+      "percentage": 0,
+      "odds": 13
+    },
+    "Ayoub Amraoui": {
+      "percentage": 0,
+      "odds": 13.5
+    },
+    "Youssouf Ndayishimiye": {
+      "percentage": 0,
+      "odds": 16
+    },
+    "Rayan Raveloson": {
+      "percentage": 0,
+      "odds": 17
+    },
+    "Pablo Rosario": {
+      "percentage": 0,
+      "odds": 23
+    },
+    "Dante ": {
+      "percentage": 0,
+      "odds": 23
+    },
+    "Jean-Clair Todibo": {
+      "percentage": 0,
+      "odds": 23
+    },
+    "Romain Perraud": {
+      "percentage": 0,
+      "odds": 28
+    },
+    "Melvin Bard": {
+      "percentage": 0,
+      "odds": 28
+    },
+    "Jubal ": {
+      "percentage": 0,
+      "odds": 32
+    },
+    "Jordan Lotomba": {
+      "percentage": 0,
+      "odds": 36
+    },
+    "Theo Pellenard": {
+      "percentage": 0,
+      "odds": 50
+    },
+    "Paul Joly": {
+      "percentage": 0,
+      "odds": 50
+    },
+    "Colin Dagba": {
+      "percentage": 0,
+      "odds": 50
+    },
+    "Assane Diousse": {
+      "percentage": 0,
+      "odds": 50
+    }
+  },
+  "Type de but de Terem Moffi": {
+    "Coup franc direct": {
+      "percentage": 0,
+      "odds": 40
+    },
+    "T\u00eate": {
+      "percentage": 100,
+      "odds": 11.5
+    },
+    "Penalty": {
+      "percentage": 0,
+      "odds": 4.75
+    }
+  },
+  "Type de but de Ga\u00ebtan Laborde": {
+    "Coup franc direct": {
+      "percentage": 87,
+      "odds": 40
+    },
+    "T\u00eate": {
+      "percentage": 13,
+      "odds": 11.5
+    },
+    "Penalty": {
+      "percentage": 0,
+      "odds": 4.75
+    }
+  },
+  "Type de but de Morgan Sanson": {
+    "Coup franc direct": {
+      "percentage": 0,
+      "odds": 40
+    },
+    "T\u00eate": {
+      "percentage": 0,
+      "odds": 50
+    },
+    "Penalty": {
+      "percentage": 0,
+      "odds": 5.5
+    }
+  },
+  "Type de but de Florian Aye": {
+    "Coup franc direct": {
+      "percentage": 0,
+      "odds": 60
+    },
+    "T\u00eate": {
+      "percentage": 0,
+      "odds": 30
+    },
+    "Penalty": {
+      "percentage": 0,
+      "odds": 8.5
+    }
+  },
+  "Type de but de Gauthier Hein": {
+    "Coup franc direct": {
+      "percentage": 0,
+      "odds": 60
+    },
+    "T\u00eate": {
+      "percentage": 0,
+      "odds": 40
+    },
+    "Penalty": {
+      "percentage": 0,
+      "odds": 8.5
+    }
+  },
+  "Type de but de Gaetan Perrin": {
+    "Coup franc direct": {
+      "percentage": 0,
+      "odds": 60
+    },
+    "T\u00eate": {
+      "percentage": 100,
+      "odds": 50
+    },
+    "Penalty": {
+      "percentage": 0,
+      "odds": 8.5
+    }
+  },
+  "Mi-temps - Buteur ": {
+    "Terem Moffi": {
+      "percentage": 17,
+      "odds": 4.9
+    },
+    "Ga\u00ebtan Laborde": {
+      "percentage": 77,
+      "odds": 4.9
+    },
+    "Evann Guessand": {
+      "percentage": 0,
+      "odds": 4.9
+    },
+    "Alexis Claude-Maurice": {
+      "percentage": 0,
+      "odds": 7.25
+    },
+    "Florian Aye": {
+      "percentage": 0,
+      "odds": 8
+    },
+    "Ado Onaiwu": {
+      "percentage": 0,
+      "odds": 8
+    },
+    "Gauthier Hein": {
+      "percentage": 6,
+      "odds": 9
+    },
+    "Ousmane Camara": {
+      "percentage": 0,
+      "odds": 11
+    },
+    "Gaetan Perrin": {
+      "percentage": 0,
+      "odds": 11
+    },
+    "Morgan Sanson": {
+      "percentage": 0,
+      "odds": 11
+    },
+    "Ayoub Amraoui": {
+      "percentage": 0,
+      "odds": 11.5
+    },
+    "Youssouf Ndayishimiye": {
+      "percentage": 0,
+      "odds": 14
+    },
+    "Rayan Raveloson": {
+      "percentage": 0,
+      "odds": 14.5
+    },
+    "Pablo Rosario": {
+      "percentage": 0,
+      "odds": 19
+    },
+    "Dante ": {
+      "percentage": 0,
+      "odds": 19
+    },
+    "Jean-Clair Todibo": {
+      "percentage": 0,
+      "odds": 19
+    },
+    "Romain Perraud": {
+      "percentage": 0,
+      "odds": 24
+    },
+    "Melvin Bard": {
+      "percentage": 0,
+      "odds": 24
+    },
+    "Jubal ": {
+      "percentage": 0,
+      "odds": 27
+    },
+    "Jordan Lotomba": {
+      "percentage": 0,
+      "odds": 30
+    },
+    "Theo Pellenard": {
+      "percentage": 0,
+      "odds": 46
+    },
+    "Paul Joly": {
+      "percentage": 0,
+      "odds": 46
+    },
+    "Colin Dagba": {
+      "percentage": 0,
+      "odds": 46
+    },
+    "Assane Diousse": {
+      "percentage": 0,
+      "odds": 46
+    }
+  },
+  "2de mi-temps - Buteur": {
+    "Terem Moffi": {
+      "percentage": 1,
+      "odds": 4.1
+    },
+    "Ga\u00ebtan Laborde": {
+      "percentage": 98,
+      "odds": 4.1
+    },
+    "Evann Guessand": {
+      "percentage": 0,
+      "odds": 4.1
+    },
+    "Alexis Claude-Maurice": {
+      "percentage": 0,
+      "odds": 5.9
+    },
+    "Florian Aye": {
+      "percentage": 0,
+      "odds": 6.5
+    },
+    "Ado Onaiwu": {
+      "percentage": 0,
+      "odds": 6.5
+    },
+    "Gauthier Hein": {
+      "percentage": 1,
+      "odds": 7.25
+    },
+    "Ousmane Camara": {
+      "percentage": 0,
+      "odds": 8.5
+    },
+    "Gaetan Perrin": {
+      "percentage": 0,
+      "odds": 8.5
+    },
+    "Morgan Sanson": {
+      "percentage": 0,
+      "odds": 8.5
+    },
+    "Ayoub Amraoui": {
+      "percentage": 0,
+      "odds": 9
+    },
+    "Youssouf Ndayishimiye": {
+      "percentage": 0,
+      "odds": 11
+    },
+    "Rayan Raveloson": {
+      "percentage": 0,
+      "odds": 11
+    },
+    "Pablo Rosario": {
+      "percentage": 0,
+      "odds": 15
+    },
+    "Dante ": {
+      "percentage": 0,
+      "odds": 15
+    },
+    "Jean-Clair Todibo": {
+      "percentage": 0,
+      "odds": 15
+    },
+    "Romain Perraud": {
+      "percentage": 0,
+      "odds": 19
+    },
+    "Melvin Bard": {
+      "percentage": 0,
+      "odds": 19
+    },
+    "Jubal ": {
+      "percentage": 0,
+      "odds": 21
+    },
+    "Jordan Lotomba": {
+      "percentage": 0,
+      "odds": 24
+    },
+    "Theo Pellenard": {
+      "percentage": 0,
+      "odds": 38
+    },
+    "Paul Joly": {
+      "percentage": 0,
+      "odds": 38
+    },
+    "Colin Dagba": {
+      "percentage": 0,
+      "odds": 38
+    },
+    "Assane Diousse": {
+      "percentage": 0,
+      "odds": 38
+    }
+  },
+  "Buteur dans les deux mi-temps": {
+    "Terem Moffi": {
+      "percentage": 0,
+      "odds": 21
+    },
+    "Ga\u00ebtan Laborde": {
+      "percentage": 0,
+      "odds": 21
+    },
+    "Evann Guessand": {
+      "percentage": 0,
+      "odds": 21
+    },
+    "Alexis Claude-Maurice": {
+      "percentage": 0,
+      "odds": 44
+    },
+    "Florian Aye": {
+      "percentage": 0,
+      "odds": 50
+    },
+    "Ado Onaiwu": {
+      "percentage": 0,
+      "odds": 50
+    },
+    "Gauthier Hein": {
+      "percentage": 0,
+      "odds": 55
+    },
+    "Ousmane Camara": {
+      "percentage": 0,
+      "odds": 65
+    },
+    "Gaetan Perrin": {
+      "percentage": 0,
+      "odds": 65
+    },
+    "Morgan Sanson": {
+      "percentage": 0,
+      "odds": 65
+    },
+    "Ayoub Amraoui": {
+      "percentage": 0,
+      "odds": 75
+    },
+    "Youssouf Ndayishimiye": {
+      "percentage": 0,
+      "odds": 95
+    },
+    "Rayan Raveloson": {
+      "percentage": 0,
+      "odds": 100
+    },
+    "Pablo Rosario": {
+      "percentage": 0,
+      "odds": 160
+    },
+    "Dante ": {
+      "percentage": 0,
+      "odds": 160
+    },
+    "Jean-Clair Todibo": {
+      "percentage": 0,
+      "odds": 160
+    },
+    "Romain Perraud": {
+      "percentage": 0,
+      "odds": 225
+    },
+    "Melvin Bard": {
+      "percentage": 0,
+      "odds": 225
+    },
+    "Jubal ": {
+      "percentage": 0,
+      "odds": 275
+    },
+    "Jordan Lotomba": {
+      "percentage": 0,
+      "odds": 350
+    },
+    "Theo Pellenard": {
+      "percentage": 0,
+      "odds": 500
+    },
+    "Paul Joly": {
+      "percentage": 0,
+      "odds": 500
+    },
+    "Colin Dagba": {
+      "percentage": 0,
+      "odds": 500
+    },
+    "Assane Diousse": {
+      "percentage": 0,
+      "odds": 500
+    }
+  },
+  "Mi-temps - Double chance buteur": {
+    "T. Moffi ou G. Laborde": {
+      "percentage": 100,
+      "odds": 2.95
+    },
+    "T. Moffi ou E. Guessand": {
+      "percentage": 0,
+      "odds": 2.95
+    },
+    "E. Guessand ou G. Laborde": {
+      "percentage": 0,
+      "odds": 2.95
+    },
+    "T. Moffi ou A. Claude-Maurice": {
+      "percentage": 0,
+      "odds": 3.45
+    },
+    "E. Guessand ou A. Claude-Maurice": {
+      "percentage": 0,
+      "odds": 3.45
+    },
+    "G. Laborde ou A. Claude-Maurice": {
+      "percentage": 0,
+      "odds": 3.45
+    },
+    "E. Guessand ou F. Aye": {
+      "percentage": 0,
+      "odds": 3.6
+    },
+    "T. Moffi ou F. Aye": {
+      "percentage": 0,
+      "odds": 3.6
+    },
+    "G. Laborde ou F. Aye": {
+      "percentage": 0,
+      "odds": 3.6
+    },
+    "G. Laborde ou G. Hein": {
+      "percentage": 0,
+      "odds": 3.7
+    },
+    "T. Moffi ou G. Hein": {
+      "percentage": 0,
+      "odds": 3.7
+    },
+    "E. Guessand ou G. Hein": {
+      "percentage": 0,
+      "odds": 3.7
+    },
+    "F. Aye ou A. Claude-Maurice": {
+      "percentage": 0,
+      "odds": 4.4
+    },
+    "A. Claude-Maurice ou G. Hein": {
+      "percentage": 0,
+      "odds": 4.6
+    },
+    "F. Aye ou G. Hein": {
+      "percentage": 0,
+      "odds": 4.8
+    },
+    "M. Sanson ou A. Onaiwu": {
+      "percentage": 0,
+      "odds": 5.3
+    },
+    "Ousmane Camara ou A. Onaiwu": {
+      "percentage": 0,
+      "odds": 5.3
+    },
+    "A. Onaiwu ou G. Perrin": {
+      "percentage": 0,
+      "odds": 5.3
+    },
+    "A. Amraoui ou A. Onaiwu": {
+      "percentage": 0,
+      "odds": 5.4
+    },
+    "Y. Ndayishimiye ou A. Onaiwu": {
+      "percentage": 0,
+      "odds": 5.7
+    },
+    "Ousmane Camara ou M. Sanson": {
+      "percentage": 0,
+      "odds": 6.25
+    },
+    "M. Sanson ou G. Perrin": {
+      "percentage": 0,
+      "odds": 6.25
+    },
+    "Ousmane Camara ou G. Perrin": {
+      "percentage": 0,
+      "odds": 6.25
+    },
+    "M. Sanson ou A. Amraoui": {
+      "percentage": 0,
+      "odds": 6.25
+    },
+    "Ousmane Camara ou A. Amraoui": {
+      "percentage": 0,
+      "odds": 6.25
+    },
+    "A. Amraoui ou G. Perrin": {
+      "percentage": 0,
+      "odds": 6.25
+    },
+    "Y. Ndayishimiye ou M. Sanson": {
+      "percentage": 0,
+      "odds": 6.75
+    },
+    "Y. Ndayishimiye ou Ousmane Camara": {
+      "percentage": 0,
+      "odds": 6.75
+    },
+    "Y. Ndayishimiye ou G. Perrin": {
+      "percentage": 0,
+      "odds": 6.75
+    },
+    "Y. Ndayishimiye ou A. Amraoui": {
+      "percentage": 0,
+      "odds": 7
+    }
+  },
+  "Mi-temps - Triple chance buteur": {
+    "T. Moffi ou E. Guessand ou G. Laborde": {
+      "percentage": 90,
+      "odds": 2.15
+    },
+    "E. Guessand ou G. Laborde ou F. Aye": {
+      "percentage": 0,
+      "odds": 2.45
+    },
+    "T. Moffi ou G. Laborde ou G. Hein": {
+      "percentage": 10,
+      "odds": 2.5
+    },
+    "T. Moffi ou E. Guessand ou G. Hein": {
+      "percentage": 0,
+      "odds": 2.5
+    },
+    "E. Guessand ou A. Onaiwu ou A. Claude-Maurice": {
+      "percentage": 0,
+      "odds": 2.75
+    },
+    "G. Laborde ou F. Aye ou A. Claude-Maurice": {
+      "percentage": 0,
+      "odds": 2.75
+    },
+    "T. Moffi ou A. Claude-Maurice ou G. Hein": {
+      "percentage": 0,
+      "odds": 2.85
+    },
+    "G. Laborde ou A. Onaiwu ou F. Aye": {
+      "percentage": 0,
+      "odds": 2.85
+    },
+    "T. Moffi ou F. Aye ou G. Hein": {
+      "percentage": 0,
+      "odds": 2.9
+    },
+    "E. Guessand ou Ousmane Camara ou A. Claude-Maurice": {
+      "percentage": 0,
+      "odds": 2.95
+    },
+    "A. Onaiwu ou F. Aye ou G. Hein": {
+      "percentage": 0,
+      "odds": 3.55
+    },
+    "Ousmane Camara ou A. Onaiwu ou A. Claude-Maurice": {
+      "percentage": 0,
+      "odds": 3.6
+    },
+    "Ousmane Camara ou A. Onaiwu ou G. Perrin": {
+      "percentage": 0,
+      "odds": 4
+    },
+    "Ousmane Camara ou M. Sanson ou G. Perrin": {
+      "percentage": 0,
+      "odds": 4.5
+    },
+    "M. Sanson ou A. Amraoui ou G. Perrin": {
+      "percentage": 0,
+      "odds": 4.5
+    },
+    "Ousmane Camara ou A. Amraoui ou G. Perrin": {
+      "percentage": 0,
+      "odds": 4.5
+    },
+    "Y. Ndayishimiye ou M. Sanson ou G. Perrin": {
+      "percentage": 0,
+      "odds": 4.8
+    },
+    "Y. Ndayishimiye ou M. Sanson ou A. Amraoui": {
+      "percentage": 0,
+      "odds": 4.8
+    },
+    "M. Sanson ou A. Amraoui ou R. Raveloson": {
+      "percentage": 0,
+      "odds": 4.9
+    },
+    "Y. Ndayishimiye ou A. Amraoui ou R. Raveloson": {
+      "percentage": 0,
+      "odds": 5.3
+    },
+    "Y. Ndayishimiye ou R. Raveloson ou P. Rosario": {
+      "percentage": 0,
+      "odds": 6
+    },
+    "Y. Ndayishimiye ou Dante ou R. Raveloson": {
+      "percentage": 0,
+      "odds": 6
+    },
+    "Dante ou R. Raveloson ou P. Rosario": {
+      "percentage": 0,
+      "odds": 6.75
+    },
+    "J-C. Todibo ou Dante ou P. Rosario": {
+      "percentage": 0,
+      "odds": 7.5
+    },
+    "J-C. Todibo ou Dante ou R. Perraud": {
+      "percentage": 0,
+      "odds": 8
+    },
+    "J-C. Todibo ou R. Perraud ou P. Rosario": {
+      "percentage": 0,
+      "odds": 8
+    },
+    "Dante ou R. Perraud ou P. Rosario": {
+      "percentage": 0,
+      "odds": 8
+    },
+    "M. Bard ou J-C. Todibo ou R. Perraud": {
+      "percentage": 0,
+      "odds": 8.5
+    },
+    "J-C. Todibo ou Jubal  ou R. Perraud": {
+      "percentage": 0,
+      "odds": 8.5
+    },
+    "M. Bard ou Jubal  ou J. Lotomba": {
+      "percentage": 0,
+      "odds": 10
+    }
+  },
+  "Terem Moffi face \u00e0 Auxerre": {
+    "Terem Moffi": {
+      "percentage": 0,
+      "odds": 5.2
+    },
+    "Match nul": {
+      "percentage": 0,
+      "odds": 2.3
+    },
+    "Auxerre": {
+      "percentage": 0,
+      "odds": 1.78
+    }
+  },
+  "Ga\u00ebtan Laborde face \u00e0 Auxerre": {
+    "Ga\u00ebtan Laborde": {
+      "percentage": 0,
+      "odds": 5.2
+    },
+    "Match nul": {
+      "percentage": 0,
+      "odds": 2.3
+    },
+    "Auxerre": {
+      "percentage": 0,
+      "odds": 1.78
+    }
+  },
+  "Evann Guessand face \u00e0 Auxerre": {
+    "Evann Guessand": {
+      "percentage": 0,
+      "odds": 5.2
+    },
+    "Match nul": {
+      "percentage": 0,
+      "odds": 2.3
+    },
+    "Auxerre": {
+      "percentage": 0,
+      "odds": 1.78
+    }
+  },
+  "Alexis Claude-Maurice face \u00e0 Auxerre": {
+    "Alexis Claude-Maurice": {
+      "percentage": 0,
+      "odds": 7.75
+    },
+    "Match nul": {
+      "percentage": 0,
+      "odds": 2.25
+    },
+    "Auxerre": {
+      "percentage": 0,
+      "odds": 1.66
+    }
+  },
+  "Gauthier Hein face \u00e0 Nice": {
+    "Gauthier Hein": {
+      "percentage": 0,
+      "odds": 17
+    },
+    "Match nul": {
+      "percentage": 0,
+      "odds": 3.8
+    },
+    "Nice": {
+      "percentage": 0,
+      "odds": 1.23
+    }
+  },
+  "Florian Aye face \u00e0 Nice": {
+    "Florian Aye": {
+      "percentage": 0,
+      "odds": 15
+    },
+    "Match nul": {
+      "percentage": 0,
+      "odds": 3.8
+    },
+    "Nice": {
+      "percentage": 0,
+      "odds": 1.24
+    }
+  },
+  "Terem Moffi - Ga\u00ebtan Laborde": {
+    "Terem Moffi": {
+      "percentage": 0,
+      "odds": 3.5
+    },
+    "Match nul ": {
+      "percentage": 0,
+      "odds": 1.64
+    },
+    "Ga\u00ebtan Laborde": {
+      "percentage": 0,
+      "odds": 3.5
+    }
+  },
+  "Terem Moffi - Gauthier Hein": {
+    "Terem Moffi": {
+      "percentage": 0,
+      "odds": 3.05
+    },
+    "Match nul ": {
+      "percentage": 0,
+      "odds": 1.47
+    },
+    "Gauthier Hein": {
+      "percentage": 0,
+      "odds": 6.25
+    }
+  },
+  "Ga\u00ebtan Laborde - Gauthier Hein": {
+    "Ga\u00ebtan Laborde": {
+      "percentage": 0,
+      "odds": 3.05
+    },
+    "Match nul ": {
+      "percentage": 0,
+      "odds": 1.47
+    },
+    "Gauthier Hein": {
+      "percentage": 0,
+      "odds": 6.25
+    }
+  },
+  "Florian Aye - Gauthier Hein": {
+    "Florian Aye": {
+      "percentage": 0,
+      "odds": 4.7
+    },
+    "Match nul ": {
+      "percentage": 0,
+      "odds": 1.3
+    },
+    "Gauthier Hein": {
+      "percentage": 0,
+      "odds": 5.4
+    }
+  },
+  "Terem Moffi - Florian Aye": {
+    "Terem Moffi": {
+      "percentage": 0,
+      "odds": 3.1
+    },
+    "Match nul ": {
+      "percentage": 0,
+      "odds": 1.5
+    },
+    "Florian Aye": {
+      "percentage": 0,
+      "odds": 5.5
+    }
+  },
+  "Ga\u00ebtan Laborde - Florian Aye": {
+    "Ga\u00ebtan Laborde": {
+      "percentage": 0,
+      "odds": 3.1
+    },
+    "Match nul ": {
+      "percentage": 0,
+      "odds": 1.5
+    },
+    "Florian Aye": {
+      "percentage": 0,
+      "odds": 5.5
+    }
+  },
+  "Buteur de 1' \u00e0 15'": {
+    "Terem Moffi": {
+      "percentage": 0,
+      "odds": 14
+    },
+    "Ga\u00ebtan Laborde": {
+      "percentage": 0,
+      "odds": 14
+    },
+    "Evann Guessand": {
+      "percentage": 0,
+      "odds": 14
+    },
+    "Alexis Claude-Maurice": {
+      "percentage": 0,
+      "odds": 21
+    },
+    "Florian Aye": {
+      "percentage": 0,
+      "odds": 24
+    },
+    "Ado Onaiwu": {
+      "percentage": 0,
+      "odds": 24
+    },
+    "Gauthier Hein": {
+      "percentage": 0,
+      "odds": 27
+    },
+    "Morgan Sanson": {
+      "percentage": 0,
+      "odds": 32
+    },
+    "Ousmane Camara": {
+      "percentage": 0,
+      "odds": 32
+    },
+    "Gaetan Perrin": {
+      "percentage": 0,
+      "odds": 32
+    },
+    "Ayoub Amraoui": {
+      "percentage": 0,
+      "odds": 34
+    },
+    "Youssouf Ndayishimiye": {
+      "percentage": 0,
+      "odds": 40
+    },
+    "Rayan Raveloson": {
+      "percentage": 0,
+      "odds": 40
+    },
+    "Pablo Rosario": {
+      "percentage": 0,
+      "odds": 50
+    },
+    "Dante ": {
+      "percentage": 0,
+      "odds": 50
+    },
+    "Jean-Clair Todibo": {
+      "percentage": 0,
+      "odds": 50
+    },
+    "Romain Perraud": {
+      "percentage": 0,
+      "odds": 55
+    },
+    "Melvin Bard": {
+      "percentage": 0,
+      "odds": 55
+    },
+    "Jubal ": {
+      "percentage": 0,
+      "odds": 60
+    },
+    "Jordan Lotomba": {
+      "percentage": 0,
+      "odds": 60
+    },
+    "Theo Pellenard": {
+      "percentage": 0,
+      "odds": 85
+    },
+    "Paul Joly": {
+      "percentage": 0,
+      "odds": 85
+    },
+    "Colin Dagba": {
+      "percentage": 0,
+      "odds": 85
+    },
+    "Assane Diousse": {
+      "percentage": 0,
+      "odds": 85
+    }
+  },
+  "Buteur de 16' \u00e0 30'": {
+    "Terem Moffi": {
+      "percentage": 0,
+      "odds": 12
+    },
+    "Ga\u00ebtan Laborde": {
+      "percentage": 0,
+      "odds": 12
+    },
+    "Evann Guessand": {
+      "percentage": 0,
+      "odds": 12
+    },
+    "Alexis Claude-Maurice": {
+      "percentage": 0,
+      "odds": 19
+    },
+    "Florian Aye": {
+      "percentage": 0,
+      "odds": 21
+    },
+    "Ado Onaiwu": {
+      "percentage": 0,
+      "odds": 21
+    },
+    "Gauthier Hein": {
+      "percentage": 0,
+      "odds": 24
+    },
+    "Morgan Sanson": {
+      "percentage": 0,
+      "odds": 29
+    },
+    "Ousmane Camara": {
+      "percentage": 0,
+      "odds": 29
+    },
+    "Gaetan Perrin": {
+      "percentage": 0,
+      "odds": 29
+    },
+    "Ayoub Amraoui": {
+      "percentage": 0,
+      "odds": 30
+    },
+    "Youssouf Ndayishimiye": {
+      "percentage": 0,
+      "odds": 36
+    },
+    "Rayan Raveloson": {
+      "percentage": 0,
+      "odds": 36
+    },
+    "Pablo Rosario": {
+      "percentage": 0,
+      "odds": 48
+    },
+    "Dante ": {
+      "percentage": 0,
+      "odds": 48
+    },
+    "Jean-Clair Todibo": {
+      "percentage": 0,
+      "odds": 48
+    },
+    "Romain Perraud": {
+      "percentage": 0,
+      "odds": 50
+    },
+    "Melvin Bard": {
+      "percentage": 0,
+      "odds": 50
+    },
+    "Jubal ": {
+      "percentage": 0,
+      "odds": 55
+    },
+    "Jordan Lotomba": {
+      "percentage": 0,
+      "odds": 60
+    },
+    "Theo Pellenard": {
+      "percentage": 0,
+      "odds": 80
+    },
+    "Paul Joly": {
+      "percentage": 0,
+      "odds": 80
+    },
+    "Colin Dagba": {
+      "percentage": 0,
+      "odds": 80
+    },
+    "Assane Diousse": {
+      "percentage": 0,
+      "odds": 80
+    }
+  },
+  "Buteur de 31' \u00e0 45'": {
+    "Terem Moffi": {
+      "percentage": 0,
+      "odds": 10.5
+    },
+    "Ga\u00ebtan Laborde": {
+      "percentage": 0,
+      "odds": 10.5
+    },
+    "Evann Guessand": {
+      "percentage": 0,
+      "odds": 10.5
+    },
+    "Alexis Claude-Maurice": {
+      "percentage": 0,
+      "odds": 16
+    },
+    "Florian Aye": {
+      "percentage": 0,
+      "odds": 18
+    },
+    "Ado Onaiwu": {
+      "percentage": 0,
+      "odds": 18
+    },
+    "Gauthier Hein": {
+      "percentage": 0,
+      "odds": 21
+    },
+    "Morgan Sanson": {
+      "percentage": 0,
+      "odds": 26
+    },
+    "Ousmane Camara": {
+      "percentage": 0,
+      "odds": 26
+    },
+    "Gaetan Perrin": {
+      "percentage": 0,
+      "odds": 26
+    },
+    "Ayoub Amraoui": {
+      "percentage": 0,
+      "odds": 27
+    },
+    "Youssouf Ndayishimiye": {
+      "percentage": 0,
+      "odds": 32
+    },
+    "Rayan Raveloson": {
+      "percentage": 0,
+      "odds": 32
+    },
+    "Pablo Rosario": {
+      "percentage": 0,
+      "odds": 42
+    },
+    "Dante ": {
+      "percentage": 0,
+      "odds": 42
+    },
+    "Jean-Clair Todibo": {
+      "percentage": 0,
+      "odds": 42
+    },
+    "Romain Perraud": {
+      "percentage": 0,
+      "odds": 50
+    },
+    "Melvin Bard": {
+      "percentage": 0,
+      "odds": 50
+    },
+    "Jubal ": {
+      "percentage": 0,
+      "odds": 50
+    },
+    "Jordan Lotomba": {
+      "percentage": 0,
+      "odds": 55
+    },
+    "Theo Pellenard": {
+      "percentage": 0,
+      "odds": 70
+    },
+    "Paul Joly": {
+      "percentage": 0,
+      "odds": 70
+    },
+    "Colin Dagba": {
+      "percentage": 0,
+      "odds": 70
+    },
+    "Assane Diousse": {
+      "percentage": 0,
+      "odds": 70
+    }
+  },
+  "Buteur de 46' \u00e0 60'": {
+    "Terem Moffi": {
+      "percentage": 0,
+      "odds": 11
+    },
+    "Ga\u00ebtan Laborde": {
+      "percentage": 0,
+      "odds": 11
+    },
+    "Evann Guessand": {
+      "percentage": 0,
+      "odds": 11
+    },
+    "Alexis Claude-Maurice": {
+      "percentage": 0,
+      "odds": 17
+    },
+    "Florian Aye": {
+      "percentage": 0,
+      "odds": 19
+    },
+    "Ado Onaiwu": {
+      "percentage": 0,
+      "odds": 19
+    },
+    "Gauthier Hein": {
+      "percentage": 0,
+      "odds": 21
+    },
+    "Morgan Sanson": {
+      "percentage": 0,
+      "odds": 26
+    },
+    "Ousmane Camara": {
+      "percentage": 0,
+      "odds": 26
+    },
+    "Gaetan Perrin": {
+      "percentage": 0,
+      "odds": 26
+    },
+    "Ayoub Amraoui": {
+      "percentage": 0,
+      "odds": 28
+    },
+    "Youssouf Ndayishimiye": {
+      "percentage": 0,
+      "odds": 32
+    },
+    "Rayan Raveloson": {
+      "percentage": 0,
+      "odds": 34
+    },
+    "Pablo Rosario": {
+      "percentage": 0,
+      "odds": 44
+    },
+    "Dante ": {
+      "percentage": 0,
+      "odds": 44
+    },
+    "Jean-Clair Todibo": {
+      "percentage": 0,
+      "odds": 44
+    },
+    "Romain Perraud": {
+      "percentage": 0,
+      "odds": 50
+    },
+    "Melvin Bard": {
+      "percentage": 0,
+      "odds": 50
+    },
+    "Jubal ": {
+      "percentage": 0,
+      "odds": 55
+    },
+    "Jordan Lotomba": {
+      "percentage": 0,
+      "odds": 55
+    },
+    "Theo Pellenard": {
+      "percentage": 0,
+      "odds": 70
+    },
+    "Paul Joly": {
+      "percentage": 0,
+      "odds": 70
+    },
+    "Colin Dagba": {
+      "percentage": 0,
+      "odds": 70
+    },
+    "Assane Diousse": {
+      "percentage": 0,
+      "odds": 70
+    }
+  },
+  "Buteur de 61' \u00e0 75'": {
+    "Terem Moffi": {
+      "percentage": 0,
+      "odds": 10
+    },
+    "Ga\u00ebtan Laborde": {
+      "percentage": 0,
+      "odds": 10
+    },
+    "Evann Guessand": {
+      "percentage": 0,
+      "odds": 10
+    },
+    "Alexis Claude-Maurice": {
+      "percentage": 0,
+      "odds": 16
+    },
+    "Florian Aye": {
+      "percentage": 0,
+      "odds": 18
+    },
+    "Ado Onaiwu": {
+      "percentage": 0,
+      "odds": 18
+    },
+    "Gauthier Hein": {
+      "percentage": 0,
+      "odds": 20
+    },
+    "Morgan Sanson": {
+      "percentage": 0,
+      "odds": 25
+    },
+    "Ousmane Camara": {
+      "percentage": 0,
+      "odds": 25
+    },
+    "Gaetan Perrin": {
+      "percentage": 0,
+      "odds": 25
+    },
+    "Ayoub Amraoui": {
+      "percentage": 0,
+      "odds": 26
+    },
+    "Youssouf Ndayishimiye": {
+      "percentage": 0,
+      "odds": 30
+    },
+    "Rayan Raveloson": {
+      "percentage": 0,
+      "odds": 32
+    },
+    "Pablo Rosario": {
+      "percentage": 0,
+      "odds": 42
+    },
+    "Dante ": {
+      "percentage": 0,
+      "odds": 42
+    },
+    "Jean-Clair Todibo": {
+      "percentage": 0,
+      "odds": 42
+    },
+    "Romain Perraud": {
+      "percentage": 0,
+      "odds": 48
+    },
+    "Melvin Bard": {
+      "percentage": 0,
+      "odds": 48
+    },
+    "Jubal ": {
+      "percentage": 0,
+      "odds": 50
+    },
+    "Jordan Lotomba": {
+      "percentage": 0,
+      "odds": 55
+    },
+    "Theo Pellenard": {
+      "percentage": 0,
+      "odds": 70
+    },
+    "Paul Joly": {
+      "percentage": 0,
+      "odds": 70
+    },
+    "Colin Dagba": {
+      "percentage": 0,
+      "odds": 70
+    },
+    "Assane Diousse": {
+      "percentage": 0,
+      "odds": 70
+    }
+  },
+  "Buteur de 76' \u00e0 90'": {
+    "Terem Moffi": {
+      "percentage": 0,
+      "odds": 8
+    },
+    "Ga\u00ebtan Laborde": {
+      "percentage": 0,
+      "odds": 8
+    },
+    "Evann Guessand": {
+      "percentage": 0,
+      "odds": 8
+    },
+    "Alexis Claude-Maurice": {
+      "percentage": 0,
+      "odds": 12.5
+    },
+    "Florian Aye": {
+      "percentage": 0,
+      "odds": 14
+    },
+    "Ado Onaiwu": {
+      "percentage": 0,
+      "odds": 14
+    },
+    "Gauthier Hein": {
+      "percentage": 0,
+      "odds": 16
+    },
+    "Morgan Sanson": {
+      "percentage": 0,
+      "odds": 19
+    },
+    "Ousmane Camara": {
+      "percentage": 0,
+      "odds": 19
+    },
+    "Gaetan Perrin": {
+      "percentage": 0,
+      "odds": 19
+    },
+    "Ayoub Amraoui": {
+      "percentage": 0,
+      "odds": 20
+    },
+    "Youssouf Ndayishimiye": {
+      "percentage": 0,
+      "odds": 24
+    },
+    "Rayan Raveloson": {
+      "percentage": 0,
+      "odds": 25
+    },
+    "Pablo Rosario": {
+      "percentage": 0,
+      "odds": 34
+    },
+    "Dante ": {
+      "percentage": 0,
+      "odds": 34
+    },
+    "Jean-Clair Todibo": {
+      "percentage": 0,
+      "odds": 34
+    },
+    "Romain Perraud": {
+      "percentage": 0,
+      "odds": 40
+    },
+    "Melvin Bard": {
+      "percentage": 0,
+      "odds": 40
+    },
+    "Jubal ": {
+      "percentage": 0,
+      "odds": 44
+    },
+    "Jordan Lotomba": {
+      "percentage": 0,
+      "odds": 48
+    },
+    "Theo Pellenard": {
+      "percentage": 0,
+      "odds": 60
+    },
+    "Paul Joly": {
+      "percentage": 0,
+      "odds": 60
+    },
+    "Colin Dagba": {
+      "percentage": 0,
+      "odds": 60
+    },
+    "Assane Diousse": {
+      "percentage": 0,
+      "odds": 60
+    }
+  },
+  "Buteur de 1' \u00e0 10'": {
+    "Terem Moffi": {
+      "percentage": 0,
+      "odds": 21
+    },
+    "Ga\u00ebtan Laborde": {
+      "percentage": 0,
+      "odds": 21
+    },
+    "Evann Guessand": {
+      "percentage": 0,
+      "odds": 21
+    },
+    "Alexis Claude-Maurice": {
+      "percentage": 0,
+      "odds": 30
+    },
+    "Florian Aye": {
+      "percentage": 0,
+      "odds": 34
+    },
+    "Ado Onaiwu": {
+      "percentage": 0,
+      "odds": 34
+    },
+    "Gauthier Hein": {
+      "percentage": 0,
+      "odds": 38
+    },
+    "Morgan Sanson": {
+      "percentage": 0,
+      "odds": 46
+    },
+    "Ousmane Camara": {
+      "percentage": 0,
+      "odds": 46
+    },
+    "Gaetan Perrin": {
+      "percentage": 0,
+      "odds": 46
+    },
+    "Ayoub Amraoui": {
+      "percentage": 0,
+      "odds": 48
+    },
+    "Youssouf Ndayishimiye": {
+      "percentage": 0,
+      "odds": 50
+    },
+    "Rayan Raveloson": {
+      "percentage": 0,
+      "odds": 55
+    },
+    "Pablo Rosario": {
+      "percentage": 0,
+      "odds": 60
+    },
+    "Dante ": {
+      "percentage": 0,
+      "odds": 60
+    },
+    "Jean-Clair Todibo": {
+      "percentage": 0,
+      "odds": 60
+    },
+    "Romain Perraud": {
+      "percentage": 0,
+      "odds": 65
+    },
+    "Melvin Bard": {
+      "percentage": 0,
+      "odds": 65
+    },
+    "Jubal ": {
+      "percentage": 0,
+      "odds": 75
+    },
+    "Jordan Lotomba": {
+      "percentage": 0,
+      "odds": 85
+    },
+    "Theo Pellenard": {
+      "percentage": 0,
+      "odds": 120
+    },
+    "Paul Joly": {
+      "percentage": 0,
+      "odds": 120
+    },
+    "Colin Dagba": {
+      "percentage": 0,
+      "odds": 120
+    },
+    "Assane Diousse": {
+      "percentage": 0,
+      "odds": 120
+    }
+  },
+  "Buteur de 11' \u00e0 20'": {
+    "Terem Moffi": {
+      "percentage": 0,
+      "odds": 18
+    },
+    "Ga\u00ebtan Laborde": {
+      "percentage": 0,
+      "odds": 18
+    },
+    "Evann Guessand": {
+      "percentage": 0,
+      "odds": 18
+    },
+    "Alexis Claude-Maurice": {
+      "percentage": 0,
+      "odds": 27
+    },
+    "Florian Aye": {
+      "percentage": 0,
+      "odds": 30
+    },
+    "Ado Onaiwu": {
+      "percentage": 0,
+      "odds": 30
+    },
+    "Gauthier Hein": {
+      "percentage": 0,
+      "odds": 34
+    },
+    "Morgan Sanson": {
+      "percentage": 0,
+      "odds": 40
+    },
+    "Ousmane Camara": {
+      "percentage": 0,
+      "odds": 40
+    },
+    "Gaetan Perrin": {
+      "percentage": 0,
+      "odds": 40
+    },
+    "Ayoub Amraoui": {
+      "percentage": 0,
+      "odds": 42
+    },
+    "Youssouf Ndayishimiye": {
+      "percentage": 0,
+      "odds": 48
+    },
+    "Rayan Raveloson": {
+      "percentage": 0,
+      "odds": 50
+    },
+    "Pablo Rosario": {
+      "percentage": 0,
+      "odds": 60
+    },
+    "Dante ": {
+      "percentage": 0,
+      "odds": 60
+    },
+    "Jean-Clair Todibo": {
+      "percentage": 0,
+      "odds": 60
+    },
+    "Romain Perraud": {
+      "percentage": 0,
+      "odds": 65
+    },
+    "Melvin Bard": {
+      "percentage": 0,
+      "odds": 65
+    },
+    "Jubal ": {
+      "percentage": 0,
+      "odds": 65
+    },
+    "Jordan Lotomba": {
+      "percentage": 0,
+      "odds": 75
+    },
+    "Theo Pellenard": {
+      "percentage": 0,
+      "odds": 100
+    },
+    "Paul Joly": {
+      "percentage": 0,
+      "odds": 100
+    },
+    "Colin Dagba": {
+      "percentage": 0,
+      "odds": 100
+    },
+    "Assane Diousse": {
+      "percentage": 0,
+      "odds": 100
+    }
+  },
+  "Buteur de 21' \u00e0 30'": {
+    "Terem Moffi": {
+      "percentage": 0,
+      "odds": 17
+    },
+    "Ga\u00ebtan Laborde": {
+      "percentage": 0,
+      "odds": 17
+    },
+    "Evann Guessand": {
+      "percentage": 0,
+      "odds": 17
+    },
+    "Alexis Claude-Maurice": {
+      "percentage": 0,
+      "odds": 27
+    },
+    "Florian Aye": {
+      "percentage": 0,
+      "odds": 30
+    },
+    "Ado Onaiwu": {
+      "percentage": 0,
+      "odds": 30
+    },
+    "Gauthier Hein": {
+      "percentage": 0,
+      "odds": 32
+    },
+    "Morgan Sanson": {
+      "percentage": 0,
+      "odds": 40
+    },
+    "Ousmane Camara": {
+      "percentage": 0,
+      "odds": 40
+    },
+    "Gaetan Perrin": {
+      "percentage": 0,
+      "odds": 40
+    },
+    "Ayoub Amraoui": {
+      "percentage": 0,
+      "odds": 42
+    },
+    "Youssouf Ndayishimiye": {
+      "percentage": 0,
+      "odds": 48
+    },
+    "Rayan Raveloson": {
+      "percentage": 0,
+      "odds": 48
+    },
+    "Pablo Rosario": {
+      "percentage": 0,
+      "odds": 55
+    },
+    "Dante ": {
+      "percentage": 0,
+      "odds": 55
+    },
+    "Jean-Clair Todibo": {
+      "percentage": 0,
+      "odds": 55
+    },
+    "Romain Perraud": {
+      "percentage": 0,
+      "odds": 60
+    },
+    "Melvin Bard": {
+      "percentage": 0,
+      "odds": 60
+    },
+    "Jubal ": {
+      "percentage": 0,
+      "odds": 65
+    },
+    "Jordan Lotomba": {
+      "percentage": 0,
+      "odds": 70
+    },
+    "Theo Pellenard": {
+      "percentage": 0,
+      "odds": 100
+    },
+    "Paul Joly": {
+      "percentage": 0,
+      "odds": 100
+    },
+    "Colin Dagba": {
+      "percentage": 0,
+      "odds": 100
+    },
+    "Assane Diousse": {
+      "percentage": 0,
+      "odds": 100
+    }
+  },
+  "Buteur de 31' \u00e0 40'": {
+    "Terem Moffi": {
+      "percentage": 0,
+      "odds": 17
+    },
+    "Ga\u00ebtan Laborde": {
+      "percentage": 0,
+      "odds": 17
+    },
+    "Evann Guessand": {
+      "percentage": 0,
+      "odds": 17
+    },
+    "Alexis Claude-Maurice": {
+      "percentage": 0,
+      "odds": 26
+    },
+    "Florian Aye": {
+      "percentage": 0,
+      "odds": 29
+    },
+    "Ado Onaiwu": {
+      "percentage": 0,
+      "odds": 29
+    },
+    "Gauthier Hein": {
+      "percentage": 0,
+      "odds": 32
+    },
+    "Morgan Sanson": {
+      "percentage": 0,
+      "odds": 38
+    },
+    "Ousmane Camara": {
+      "percentage": 0,
+      "odds": 38
+    },
+    "Gaetan Perrin": {
+      "percentage": 0,
+      "odds": 38
+    },
+    "Ayoub Amraoui": {
+      "percentage": 0,
+      "odds": 40
+    },
+    "Youssouf Ndayishimiye": {
+      "percentage": 0,
+      "odds": 46
+    },
+    "Rayan Raveloson": {
+      "percentage": 0,
+      "odds": 48
+    },
+    "Pablo Rosario": {
+      "percentage": 0,
+      "odds": 55
+    },
+    "Dante ": {
+      "percentage": 0,
+      "odds": 55
+    },
+    "Jean-Clair Todibo": {
+      "percentage": 0,
+      "odds": 55
+    },
+    "Romain Perraud": {
+      "percentage": 0,
+      "odds": 60
+    },
+    "Melvin Bard": {
+      "percentage": 0,
+      "odds": 60
+    },
+    "Jubal ": {
+      "percentage": 0,
+      "odds": 65
+    },
+    "Jordan Lotomba": {
+      "percentage": 0,
+      "odds": 70
+    },
+    "Theo Pellenard": {
+      "percentage": 0,
+      "odds": 100
+    },
+    "Paul Joly": {
+      "percentage": 0,
+      "odds": 100
+    },
+    "Colin Dagba": {
+      "percentage": 0,
+      "odds": 100
+    },
+    "Assane Diousse": {
+      "percentage": 0,
+      "odds": 100
+    }
+  },
+  "Buteur de 41' \u00e0 50'": {
+    "Terem Moffi": {
+      "percentage": 0,
+      "odds": 15
+    },
+    "Ga\u00ebtan Laborde": {
+      "percentage": 0,
+      "odds": 15
+    },
+    "Evann Guessand": {
+      "percentage": 0,
+      "odds": 15
+    },
+    "Alexis Claude-Maurice": {
+      "percentage": 0,
+      "odds": 23
+    },
+    "Florian Aye": {
+      "percentage": 0,
+      "odds": 25
+    },
+    "Ado Onaiwu": {
+      "percentage": 0,
+      "odds": 25
+    },
+    "Gauthier Hein": {
+      "percentage": 0,
+      "odds": 29
+    },
+    "Morgan Sanson": {
+      "percentage": 0,
+      "odds": 34
+    },
+    "Ousmane Camara": {
+      "percentage": 0,
+      "odds": 34
+    },
+    "Gaetan Perrin": {
+      "percentage": 0,
+      "odds": 34
+    },
+    "Ayoub Amraoui": {
+      "percentage": 0,
+      "odds": 36
+    },
+    "Youssouf Ndayishimiye": {
+      "percentage": 0,
+      "odds": 42
+    },
+    "Rayan Raveloson": {
+      "percentage": 0,
+      "odds": 44
+    },
+    "Pablo Rosario": {
+      "percentage": 0,
+      "odds": 50
+    },
+    "Dante ": {
+      "percentage": 0,
+      "odds": 50
+    },
+    "Jean-Clair Todibo": {
+      "percentage": 0,
+      "odds": 50
+    },
+    "Romain Perraud": {
+      "percentage": 0,
+      "odds": 60
+    },
+    "Melvin Bard": {
+      "percentage": 0,
+      "odds": 60
+    },
+    "Jubal ": {
+      "percentage": 0,
+      "odds": 60
+    },
+    "Jordan Lotomba": {
+      "percentage": 0,
+      "odds": 65
+    },
+    "Theo Pellenard": {
+      "percentage": 0,
+      "odds": 95
+    },
+    "Paul Joly": {
+      "percentage": 0,
+      "odds": 95
+    },
+    "Colin Dagba": {
+      "percentage": 0,
+      "odds": 95
+    },
+    "Assane Diousse": {
+      "percentage": 0,
+      "odds": 95
+    }
+  },
+  "Buteur de 51' \u00e0 60'": {
+    "Terem Moffi": {
+      "percentage": 0,
+      "odds": 15
+    },
+    "Ga\u00ebtan Laborde": {
+      "percentage": 0,
+      "odds": 15
+    },
+    "Evann Guessand": {
+      "percentage": 0,
+      "odds": 15
+    },
+    "Alexis Claude-Maurice": {
+      "percentage": 0,
+      "odds": 23
+    },
+    "Florian Aye": {
+      "percentage": 0,
+      "odds": 26
+    },
+    "Ado Onaiwu": {
+      "percentage": 0,
+      "odds": 26
+    },
+    "Gauthier Hein": {
+      "percentage": 0,
+      "odds": 29
+    },
+    "Morgan Sanson": {
+      "percentage": 0,
+      "odds": 34
+    },
+    "Ousmane Camara": {
+      "percentage": 0,
+      "odds": 34
+    },
+    "Gaetan Perrin": {
+      "percentage": 0,
+      "odds": 34
+    },
+    "Ayoub Amraoui": {
+      "percentage": 0,
+      "odds": 36
+    },
+    "Youssouf Ndayishimiye": {
+      "percentage": 0,
+      "odds": 42
+    },
+    "Rayan Raveloson": {
+      "percentage": 0,
+      "odds": 44
+    },
+    "Pablo Rosario": {
+      "percentage": 0,
+      "odds": 50
+    },
+    "Dante ": {
+      "percentage": 0,
+      "odds": 50
+    },
+    "Jean-Clair Todibo": {
+      "percentage": 0,
+      "odds": 50
+    },
+    "Romain Perraud": {
+      "percentage": 0,
+      "odds": 60
+    },
+    "Melvin Bard": {
+      "percentage": 0,
+      "odds": 60
+    },
+    "Jubal ": {
+      "percentage": 0,
+      "odds": 60
+    },
+    "Jordan Lotomba": {
+      "percentage": 0,
+      "odds": 65
+    },
+    "Theo Pellenard": {
+      "percentage": 0,
+      "odds": 95
+    },
+    "Paul Joly": {
+      "percentage": 0,
+      "odds": 95
+    },
+    "Colin Dagba": {
+      "percentage": 0,
+      "odds": 95
+    },
+    "Assane Diousse": {
+      "percentage": 0,
+      "odds": 95
+    }
+  },
+  "Buteur de 61' \u00e0 70'": {
+    "Terem Moffi": {
+      "percentage": 0,
+      "odds": 15
+    },
+    "Ga\u00ebtan Laborde": {
+      "percentage": 0,
+      "odds": 15
+    },
+    "Evann Guessand": {
+      "percentage": 0,
+      "odds": 15
+    },
+    "Alexis Claude-Maurice": {
+      "percentage": 0,
+      "odds": 23
+    },
+    "Florian Aye": {
+      "percentage": 0,
+      "odds": 25
+    },
+    "Ado Onaiwu": {
+      "percentage": 0,
+      "odds": 25
+    },
+    "Gauthier Hein": {
+      "percentage": 0,
+      "odds": 29
+    },
+    "Morgan Sanson": {
+      "percentage": 0,
+      "odds": 34
+    },
+    "Ousmane Camara": {
+      "percentage": 0,
+      "odds": 34
+    },
+    "Gaetan Perrin": {
+      "percentage": 0,
+      "odds": 34
+    },
+    "Ayoub Amraoui": {
+      "percentage": 0,
+      "odds": 36
+    },
+    "Youssouf Ndayishimiye": {
+      "percentage": 0,
+      "odds": 42
+    },
+    "Rayan Raveloson": {
+      "percentage": 0,
+      "odds": 44
+    },
+    "Pablo Rosario": {
+      "percentage": 0,
+      "odds": 50
+    },
+    "Dante ": {
+      "percentage": 0,
+      "odds": 50
+    },
+    "Jean-Clair Todibo": {
+      "percentage": 0,
+      "odds": 50
+    },
+    "Romain Perraud": {
+      "percentage": 0,
+      "odds": 60
+    },
+    "Melvin Bard": {
+      "percentage": 0,
+      "odds": 60
+    },
+    "Jubal ": {
+      "percentage": 0,
+      "odds": 60
+    },
+    "Jordan Lotomba": {
+      "percentage": 0,
+      "odds": 65
+    },
+    "Theo Pellenard": {
+      "percentage": 0,
+      "odds": 90
+    },
+    "Paul Joly": {
+      "percentage": 0,
+      "odds": 90
+    },
+    "Colin Dagba": {
+      "percentage": 0,
+      "odds": 90
+    },
+    "Assane Diousse": {
+      "percentage": 0,
+      "odds": 90
+    }
+  },
+  "Buteur de 71' \u00e0 80'": {
+    "Terem Moffi": {
+      "percentage": 0,
+      "odds": 15
+    },
+    "Ga\u00ebtan Laborde": {
+      "percentage": 0,
+      "odds": 15
+    },
+    "Evann Guessand": {
+      "percentage": 0,
+      "odds": 15
+    },
+    "Alexis Claude-Maurice": {
+      "percentage": 0,
+      "odds": 23
+    },
+    "Florian Aye": {
+      "percentage": 0,
+      "odds": 25
+    },
+    "Ado Onaiwu": {
+      "percentage": 0,
+      "odds": 25
+    },
+    "Gauthier Hein": {
+      "percentage": 0,
+      "odds": 29
+    },
+    "Morgan Sanson": {
+      "percentage": 0,
+      "odds": 34
+    },
+    "Ousmane Camara": {
+      "percentage": 0,
+      "odds": 34
+    },
+    "Gaetan Perrin": {
+      "percentage": 0,
+      "odds": 34
+    },
+    "Ayoub Amraoui": {
+      "percentage": 0,
+      "odds": 36
+    },
+    "Youssouf Ndayishimiye": {
+      "percentage": 0,
+      "odds": 42
+    },
+    "Rayan Raveloson": {
+      "percentage": 0,
+      "odds": 44
+    },
+    "Pablo Rosario": {
+      "percentage": 0,
+      "odds": 50
+    },
+    "Dante ": {
+      "percentage": 0,
+      "odds": 50
+    },
+    "Jean-Clair Todibo": {
+      "percentage": 0,
+      "odds": 50
+    },
+    "Romain Perraud": {
+      "percentage": 0,
+      "odds": 60
+    },
+    "Melvin Bard": {
+      "percentage": 0,
+      "odds": 60
+    },
+    "Jubal ": {
+      "percentage": 0,
+      "odds": 60
+    },
+    "Jordan Lotomba": {
+      "percentage": 0,
+      "odds": 65
+    },
+    "Theo Pellenard": {
+      "percentage": 0,
+      "odds": 95
+    },
+    "Paul Joly": {
+      "percentage": 0,
+      "odds": 95
+    },
+    "Colin Dagba": {
+      "percentage": 0,
+      "odds": 95
+    },
+    "Assane Diousse": {
+      "percentage": 0,
+      "odds": 95
+    }
+  },
+  "Buteur de 81' \u00e0 90'": {
+    "Terem Moffi": {
+      "percentage": 0,
+      "odds": 10.5
+    },
+    "Ga\u00ebtan Laborde": {
+      "percentage": 0,
+      "odds": 10.5
+    },
+    "Evann Guessand": {
+      "percentage": 0,
+      "odds": 10.5
+    },
+    "Alexis Claude-Maurice": {
+      "percentage": 0,
+      "odds": 16
+    },
+    "Florian Aye": {
+      "percentage": 0,
+      "odds": 18
+    },
+    "Ado Onaiwu": {
+      "percentage": 0,
+      "odds": 18
+    },
+    "Gauthier Hein": {
+      "percentage": 0,
+      "odds": 20
+    },
+    "Morgan Sanson": {
+      "percentage": 0,
+      "odds": 25
+    },
+    "Ousmane Camara": {
+      "percentage": 0,
+      "odds": 25
+    },
+    "Gaetan Perrin": {
+      "percentage": 0,
+      "odds": 25
+    },
+    "Ayoub Amraoui": {
+      "percentage": 0,
+      "odds": 27
+    },
+    "Youssouf Ndayishimiye": {
+      "percentage": 0,
+      "odds": 30
+    },
+    "Rayan Raveloson": {
+      "percentage": 0,
+      "odds": 32
+    },
+    "Pablo Rosario": {
+      "percentage": 0,
+      "odds": 42
+    },
+    "Dante ": {
+      "percentage": 0,
+      "odds": 42
+    },
+    "Jean-Clair Todibo": {
+      "percentage": 0,
+      "odds": 42
+    },
+    "Romain Perraud": {
+      "percentage": 0,
+      "odds": 48
+    },
+    "Melvin Bard": {
+      "percentage": 0,
+      "odds": 48
+    },
+    "Jubal ": {
+      "percentage": 0,
+      "odds": 50
+    },
+    "Jordan Lotomba": {
+      "percentage": 0,
+      "odds": 55
+    },
+    "Theo Pellenard": {
+      "percentage": 0,
+      "odds": 70
+    },
+    "Paul Joly": {
+      "percentage": 0,
+      "odds": 70
+    },
+    "Colin Dagba": {
+      "percentage": 0,
+      "odds": 70
+    },
+    "Assane Diousse": {
+      "percentage": 0,
+      "odds": 70
+    }
+  },
+  "Rempla\u00e7ant buteur": {
+    "Non": {
+      "percentage": 99,
+      "odds": 1.35
+    },
+    "Oui": {
+      "percentage": 1,
+      "odds": 2.5
+    }
+  },
+  "\u00c9quipe qui marque le 1er but": {
+    "Nice": {
+      "percentage": 91,
+      "odds": 1.52
+    },
+    "Aucune": {
+      "percentage": 0,
+      "odds": 9
+    },
+    "Auxerre": {
+      "percentage": 9,
+      "odds": 2.5
+    }
+  },
+  "\u00c9quipe qui marque le dernier but": {
+    "Nice": {
+      "percentage": 73,
+      "odds": 1.52
+    },
+    "Aucune": {
+      "percentage": 0,
+      "odds": 9
+    },
+    "Auxerre": {
+      "percentage": 27,
+      "odds": 2.5
+    }
+  },
+  "Mi-temps - R\u00e9sultat": {
+    "Nice": {
+      "percentage": 5,
+      "odds": 2.2
+    },
+    "Match nul": {
+      "percentage": 8,
+      "odds": 2
+    },
+    "Auxerre": {
+      "percentage": 87,
+      "odds": 4.2
+    }
+  },
+  "Mi-temps - Score exact": {
+    "0 - 0": {
+      "percentage": 14,
+      "odds": 2.6
+    },
+    "1 - 1": {
+      "percentage": 26,
+      "odds": 7.5
+    },
+    "2 - 2": {
+      "percentage": 3,
+      "odds": 55
+    },
+    "1 - 0": {
+      "percentage": 8,
+      "odds": 3.55
+    },
+    "2 - 0": {
+      "percentage": 8,
+      "odds": 8
+    },
+    "2 - 1": {
+      "percentage": 4,
+      "odds": 18
+    },
+    "0 - 1": {
+      "percentage": 1,
+      "odds": 5.7
+    },
+    "0 - 2": {
+      "percentage": 17,
+      "odds": 23
+    },
+    "1 - 2": {
+      "percentage": 0,
+      "odds": 30
+    },
+    "Autre": {
+      "percentage": 19,
+      "odds": 14
+    }
+  },
+  "Mi-temps - Nombre de buts": {
+    "Plus de 3": {
+      "percentage": 100,
+      "odds": 20
+    },
+    "Moins de 3": {
+      "percentage": 0,
+      "odds": 1.01
+    }
+  },
+  "Mi-temps - \u00c9cart de buts (handicap)": {
+    "Nice 0": {
+      "percentage": 0,
+      "odds": 1.35
+    },
+    "Auxerre 0": {
+      "percentage": 0,
+      "odds": 2.55
+    }
+  },
+  "Mi-temps - Quel joueur inscrira 2 buts ou plus ?": {
+    "Terem Moffi": {
+      "percentage": 0,
+      "odds": 42
+    },
+    "Ga\u00ebtan Laborde": {
+      "percentage": 0,
+      "odds": 42
+    },
+    "Evann Guessand": {
+      "percentage": 0,
+      "odds": 42
+    },
+    "Alexis Claude-Maurice": {
+      "percentage": 0,
+      "odds": 65
+    },
+    "Florian Aye": {
+      "percentage": 0,
+      "odds": 80
+    },
+    "Ado Onaiwu": {
+      "percentage": 0,
+      "odds": 80
+    },
+    "Gauthier Hein": {
+      "percentage": 100,
+      "odds": 95
+    },
+    "Ousmane Camara": {
+      "percentage": 0,
+      "odds": 130
+    },
+    "Gaetan Perrin": {
+      "percentage": 0,
+      "odds": 130
+    },
+    "Morgan Sanson": {
+      "percentage": 0,
+      "odds": 130
+    },
+    "Ayoub Amraoui": {
+      "percentage": 0,
+      "odds": 140
+    },
+    "Youssouf Ndayishimiye": {
+      "percentage": 0,
+      "odds": 180
+    },
+    "Rayan Raveloson": {
+      "percentage": 0,
+      "odds": 190
+    },
+    "Pablo Rosario": {
+      "percentage": 0,
+      "odds": 350
+    },
+    "Dante ": {
+      "percentage": 0,
+      "odds": 350
+    },
+    "Jean-Clair Todibo": {
+      "percentage": 0,
+      "odds": 350
+    },
+    "Romain Perraud": {
+      "percentage": 0,
+      "odds": 450
+    },
+    "Melvin Bard": {
+      "percentage": 0,
+      "odds": 450
+    },
+    "Jubal ": {
+      "percentage": 0,
+      "odds": 450
+    },
+    "Jordan Lotomba": {
+      "percentage": 0,
+      "odds": 500
+    },
+    "Theo Pellenard": {
+      "percentage": 0,
+      "odds": 1300
+    },
+    "Paul Joly": {
+      "percentage": 0,
+      "odds": 1300
+    },
+    "Colin Dagba": {
+      "percentage": 0,
+      "odds": 1300
+    },
+    "Assane Diousse": {
+      "percentage": 0,
+      "odds": 1300
+    }
+  },
+  "Mi-temps - Quel joueur inscrira 3 buts ou plus ?": {
+    "Terem Moffi": {
+      "percentage": 0,
+      "odds": 275
+    },
+    "Ga\u00ebtan Laborde": {
+      "percentage": 0,
+      "odds": 275
+    },
+    "Evann Guessand": {
+      "percentage": 0,
+      "odds": 275
+    },
+    "Alexis Claude-Maurice": {
+      "percentage": 0,
+      "odds": 500
+    },
+    "Florian Aye": {
+      "percentage": 0,
+      "odds": 800
+    },
+    "Ado Onaiwu": {
+      "percentage": 0,
+      "odds": 800
+    },
+    "Gauthier Hein": {
+      "percentage": 0,
+      "odds": 1100
+    },
+    "Morgan Sanson": {
+      "percentage": 0,
+      "odds": 2000
+    },
+    "Ousmane Camara": {
+      "percentage": 0,
+      "odds": 2000
+    },
+    "Gaetan Perrin": {
+      "percentage": 0,
+      "odds": 2000
+    },
+    "Ayoub Amraoui": {
+      "percentage": 0,
+      "odds": 2300
+    },
+    "Youssouf Ndayishimiye": {
+      "percentage": 0,
+      "odds": 3500
+    },
+    "Rayan Raveloson": {
+      "percentage": 0,
+      "odds": 3800
+    },
+    "Pablo Rosario": {
+      "percentage": 0,
+      "odds": 5000
+    },
+    "Dante ": {
+      "percentage": 0,
+      "odds": 5000
+    },
+    "Jean-Clair Todibo": {
+      "percentage": 0,
+      "odds": 5000
+    },
+    "Romain Perraud": {
+      "percentage": 0,
+      "odds": 5000
+    },
+    "Melvin Bard": {
+      "percentage": 0,
+      "odds": 5000
+    },
+    "Jubal ": {
+      "percentage": 0,
+      "odds": 5000
+    },
+    "Jordan Lotomba": {
+      "percentage": 0,
+      "odds": 5000
+    },
+    "Theo Pellenard": {
+      "percentage": 0,
+      "odds": 5000
+    },
+    "Paul Joly": {
+      "percentage": 0,
+      "odds": 5000
+    },
+    "Colin Dagba": {
+      "percentage": 0,
+      "odds": 5000
+    },
+    "Assane Diousse": {
+      "percentage": 0,
+      "odds": 5000
+    }
+  },
+  "Mi-temps - Quel joueur inscrira 4 buts ou plus ?": {
+    "Terem Moffi": {
+      "percentage": 0,
+      "odds": 2600
+    },
+    "Ga\u00ebtan Laborde": {
+      "percentage": 0,
+      "odds": 2600
+    },
+    "Evann Guessand": {
+      "percentage": 0,
+      "odds": 2600
+    },
+    "Alexis Claude-Maurice": {
+      "percentage": 0,
+      "odds": 5000
+    },
+    "Florian Aye": {
+      "percentage": 0,
+      "odds": 5000
+    },
+    "Ado Onaiwu": {
+      "percentage": 0,
+      "odds": 5000
+    },
+    "Gauthier Hein": {
+      "percentage": 0,
+      "odds": 5000
+    },
+    "Morgan Sanson": {
+      "percentage": 0,
+      "odds": 5000
+    },
+    "Ousmane Camara": {
+      "percentage": 0,
+      "odds": 5000
+    },
+    "Gaetan Perrin": {
+      "percentage": 0,
+      "odds": 5000
+    },
+    "Ayoub Amraoui": {
+      "percentage": 0,
+      "odds": 5000
+    },
+    "Youssouf Ndayishimiye": {
+      "percentage": 0,
+      "odds": 5000
+    },
+    "Rayan Raveloson": {
+      "percentage": 0,
+      "odds": 5000
+    },
+    "Pablo Rosario": {
+      "percentage": 0,
+      "odds": 5000
+    },
+    "Dante ": {
+      "percentage": 0,
+      "odds": 5000
+    },
+    "Jean-Clair Todibo": {
+      "percentage": 0,
+      "odds": 5000
+    },
+    "Romain Perraud": {
+      "percentage": 0,
+      "odds": 5000
+    },
+    "Melvin Bard": {
+      "percentage": 0,
+      "odds": 5000
+    },
+    "Jubal ": {
+      "percentage": 0,
+      "odds": 5000
+    },
+    "Jordan Lotomba": {
+      "percentage": 0,
+      "odds": 5000
+    },
+    "Theo Pellenard": {
+      "percentage": 0,
+      "odds": 5000
+    },
+    "Paul Joly": {
+      "percentage": 0,
+      "odds": 5000
+    },
+    "Colin Dagba": {
+      "percentage": 0,
+      "odds": 5000
+    },
+    "Assane Diousse": {
+      "percentage": 0,
+      "odds": 5000
+    }
+  },
+  "2de mi-temps - Quel joueur inscrira 2 buts ou plus ?": {
+    "Terem Moffi": {
+      "percentage": 0,
+      "odds": 30
+    },
+    "Ga\u00ebtan Laborde": {
+      "percentage": 0,
+      "odds": 30
+    },
+    "Evann Guessand": {
+      "percentage": 0,
+      "odds": 30
+    },
+    "Alexis Claude-Maurice": {
+      "percentage": 0,
+      "odds": 55
+    },
+    "Florian Aye": {
+      "percentage": 0,
+      "odds": 60
+    },
+    "Ado Onaiwu": {
+      "percentage": 0,
+      "odds": 60
+    },
+    "Gauthier Hein": {
+      "percentage": 0,
+      "odds": 65
+    },
+    "Ousmane Camara": {
+      "percentage": 0,
+      "odds": 90
+    },
+    "Gaetan Perrin": {
+      "percentage": 0,
+      "odds": 90
+    },
+    "Morgan Sanson": {
+      "percentage": 0,
+      "odds": 90
+    },
+    "Ayoub Amraoui": {
+      "percentage": 0,
+      "odds": 100
+    },
+    "Youssouf Ndayishimiye": {
+      "percentage": 0,
+      "odds": 130
+    },
+    "Rayan Raveloson": {
+      "percentage": 0,
+      "odds": 130
+    },
+    "Pablo Rosario": {
+      "percentage": 0,
+      "odds": 225
+    },
+    "Dante ": {
+      "percentage": 0,
+      "odds": 225
+    },
+    "Jean-Clair Todibo": {
+      "percentage": 0,
+      "odds": 225
+    },
+    "Romain Perraud": {
+      "percentage": 0,
+      "odds": 300
+    },
+    "Melvin Bard": {
+      "percentage": 0,
+      "odds": 300
+    },
+    "Jubal ": {
+      "percentage": 0,
+      "odds": 400
+    },
+    "Jordan Lotomba": {
+      "percentage": 0,
+      "odds": 450
+    },
+    "Theo Pellenard": {
+      "percentage": 0,
+      "odds": 800
+    },
+    "Paul Joly": {
+      "percentage": 0,
+      "odds": 800
+    },
+    "Colin Dagba": {
+      "percentage": 0,
+      "odds": 800
+    },
+    "Assane Diousse": {
+      "percentage": 0,
+      "odds": 800
+    }
+  },
+  "2de mi-temps - Quel joueur inscrira 3 buts ou plus ?": {
+    "Terem Moffi": {
+      "percentage": 0,
+      "odds": 150
+    },
+    "Ga\u00ebtan Laborde": {
+      "percentage": 0,
+      "odds": 150
+    },
+    "Evann Guessand": {
+      "percentage": 0,
+      "odds": 150
+    },
+    "Alexis Claude-Maurice": {
+      "percentage": 0,
+      "odds": 450
+    },
+    "Florian Aye": {
+      "percentage": 0,
+      "odds": 450
+    },
+    "Ado Onaiwu": {
+      "percentage": 0,
+      "odds": 450
+    },
+    "Gauthier Hein": {
+      "percentage": 0,
+      "odds": 500
+    },
+    "Ousmane Camara": {
+      "percentage": 0,
+      "odds": 1100
+    },
+    "Gaetan Perrin": {
+      "percentage": 0,
+      "odds": 1100
+    },
+    "Morgan Sanson": {
+      "percentage": 0,
+      "odds": 1100
+    },
+    "Ayoub Amraoui": {
+      "percentage": 0,
+      "odds": 1200
+    },
+    "Youssouf Ndayishimiye": {
+      "percentage": 0,
+      "odds": 2000
+    },
+    "Rayan Raveloson": {
+      "percentage": 0,
+      "odds": 2200
+    },
+    "Pablo Rosario": {
+      "percentage": 0,
+      "odds": 4300
+    },
+    "Dante ": {
+      "percentage": 0,
+      "odds": 4300
+    },
+    "Jean-Clair Todibo": {
+      "percentage": 0,
+      "odds": 4300
+    },
+    "Romain Perraud": {
+      "percentage": 0,
+      "odds": 5000
+    },
+    "Melvin Bard": {
+      "percentage": 0,
+      "odds": 5000
+    },
+    "Jubal ": {
+      "percentage": 0,
+      "odds": 5000
+    },
+    "Jordan Lotomba": {
+      "percentage": 0,
+      "odds": 5000
+    },
+    "Theo Pellenard": {
+      "percentage": 0,
+      "odds": 5000
+    },
+    "Paul Joly": {
+      "percentage": 0,
+      "odds": 5000
+    },
+    "Colin Dagba": {
+      "percentage": 0,
+      "odds": 5000
+    },
+    "Assane Diousse": {
+      "percentage": 0,
+      "odds": 5000
+    }
+  },
+  "2de mi-temps - Quel joueur inscrira 4 buts ou plus ?": {
+    "Terem Moffi": {
+      "percentage": 0,
+      "odds": 1200
+    },
+    "Ga\u00ebtan Laborde": {
+      "percentage": 0,
+      "odds": 1200
+    },
+    "Evann Guessand": {
+      "percentage": 0,
+      "odds": 1200
+    },
+    "Alexis Claude-Maurice": {
+      "percentage": 0,
+      "odds": 4400
+    },
+    "Florian Aye": {
+      "percentage": 0,
+      "odds": 5000
+    },
+    "Ado Onaiwu": {
+      "percentage": 0,
+      "odds": 5000
+    },
+    "Gauthier Hein": {
+      "percentage": 0,
+      "odds": 5000
+    },
+    "Ousmane Camara": {
+      "percentage": 0,
+      "odds": 5000
+    },
+    "Gaetan Perrin": {
+      "percentage": 0,
+      "odds": 5000
+    },
+    "Morgan Sanson": {
+      "percentage": 0,
+      "odds": 5000
+    },
+    "Ayoub Amraoui": {
+      "percentage": 0,
+      "odds": 5000
+    },
+    "Youssouf Ndayishimiye": {
+      "percentage": 0,
+      "odds": 5000
+    },
+    "Rayan Raveloson": {
+      "percentage": 0,
+      "odds": 5000
+    },
+    "Pablo Rosario": {
+      "percentage": 0,
+      "odds": 5000
+    },
+    "Dante ": {
+      "percentage": 0,
+      "odds": 5000
+    },
+    "Jean-Clair Todibo": {
+      "percentage": 0,
+      "odds": 5000
+    },
+    "Romain Perraud": {
+      "percentage": 0,
+      "odds": 5000
+    },
+    "Melvin Bard": {
+      "percentage": 0,
+      "odds": 5000
+    },
+    "Jubal ": {
+      "percentage": 0,
+      "odds": 5000
+    },
+    "Jordan Lotomba": {
+      "percentage": 0,
+      "odds": 5000
+    },
+    "Theo Pellenard": {
+      "percentage": 0,
+      "odds": 5000
+    },
+    "Paul Joly": {
+      "percentage": 0,
+      "odds": 5000
+    },
+    "Colin Dagba": {
+      "percentage": 0,
+      "odds": 5000
+    },
+    "Assane Diousse": {
+      "percentage": 0,
+      "odds": 5000
+    }
+  },
+  "Minute du 1er but (10 min)": {
+    "1-10": {
+      "percentage": 0,
+      "odds": 4.2
+    },
+    "11-20": {
+      "percentage": 0,
+      "odds": 4.4
+    },
+    "21-30": {
+      "percentage": 0,
+      "odds": 5.3
+    },
+    "31-40": {
+      "percentage": 0,
+      "odds": 6.5
+    },
+    "41-50": {
+      "percentage": 0,
+      "odds": 7.25
+    },
+    "51-60": {
+      "percentage": 0,
+      "odds": 9
+    },
+    "61-70": {
+      "percentage": 0,
+      "odds": 12
+    },
+    "71-80": {
+      "percentage": 0,
+      "odds": 16
+    },
+    "81-90": {
+      "percentage": 0,
+      "odds": 15
+    },
+    "Aucun": {
+      "percentage": 0,
+      "odds": 9
+    }
+  },
+  "Minute du 1er but (15 min)": {
+    "1-15": {
+      "percentage": 0,
+      "odds": 3
+    },
+    "16-30": {
+      "percentage": 0,
+      "odds": 3.6
+    },
+    "31-45": {
+      "percentage": 0,
+      "odds": 4.4
+    },
+    "46-60": {
+      "percentage": 0,
+      "odds": 6.5
+    },
+    "61-75": {
+      "percentage": 0,
+      "odds": 9
+    },
+    "76-90": {
+      "percentage": 0,
+      "odds": 11
+    },
+    "Aucun": {
+      "percentage": 0,
+      "odds": 9
+    }
+  },
+  "Nombre exact de buts": {
+    "0": {
+      "percentage": 0,
+      "odds": 9
+    },
+    "1": {
+      "percentage": 0,
+      "odds": 4.1
+    },
+    "2": {
+      "percentage": 0,
+      "odds": 3.3
+    },
+    "3": {
+      "percentage": 0,
+      "odds": 3.75
+    },
+    "4": {
+      "percentage": 0,
+      "odds": 5.2
+    },
+    "5": {
+      "percentage": 0,
+      "odds": 9
+    },
+    "6": {
+      "percentage": 0,
+      "odds": 19
+    },
+    "7": {
+      "percentage": 0,
+      "odds": 44
+    },
+    "8": {
+      "percentage": 0,
+      "odds": 75
+    },
+    "9 ou plus": {
+      "percentage": 100,
+      "odds": 100
+    }
+  },
+  "Nombre de buts (intervalle)": {
+    "0-1": {
+      "percentage": 0,
+      "odds": 3.15
+    },
+    "2-3": {
+      "percentage": 26,
+      "odds": 1.86
+    },
+    "4-6": {
+      "percentage": 1,
+      "odds": 3.3
+    },
+    "7 et plus": {
+      "percentage": 73,
+      "odds": 32
+    }
+  },
+  "Nombre de buts de Nice": {
+    "Plus de 4,5": {
+      "percentage": 0,
+      "odds": 23
+    },
+    "Moins de 4,5": {
+      "percentage": 100,
+      "odds": 1.01
+    }
+  },
+  "Nombre de buts de Auxerre": {
+    "Plus de 4,5": {
+      "percentage": 0,
+      "odds": 95
+    },
+    "Moins de 4,5": {
+      "percentage": 0,
+      "odds": 1
+    }
+  },
+  "Nombre exact de buts de Nice": {
+    "0": {
+      "percentage": 0,
+      "odds": 4.1
+    },
+    "1": {
+      "percentage": 0,
+      "odds": 2.65
+    },
+    "2": {
+      "percentage": 0,
+      "odds": 3.15
+    },
+    "3 ou plus": {
+      "percentage": 100,
+      "odds": 3.55
+    }
+  },
+  "Nombre exact de buts de Auxerre": {
+    "0": {
+      "percentage": 0,
+      "odds": 2.2
+    },
+    "1": {
+      "percentage": 0,
+      "odds": 2.3
+    },
+    "2": {
+      "percentage": 0,
+      "odds": 4.4
+    },
+    "3 ou plus": {
+      "percentage": 0,
+      "odds": 9.5
+    }
+  },
+  "Nombre de buts de Nice (intervalle)": {
+    "1-2": {
+      "percentage": 0,
+      "odds": 1.54
+    },
+    "1-3": {
+      "percentage": 93,
+      "odds": 1.27
+    },
+    "2-3": {
+      "percentage": 7,
+      "odds": 2.1
+    },
+    "4 et plus": {
+      "percentage": 0,
+      "odds": 8
+    },
+    "0": {
+      "percentage": 0,
+      "odds": 4.1
+    }
+  },
+  "Nombre de buts de Auxerre (intervalle)": {
+    "1-2": {
+      "percentage": 0,
+      "odds": 1.62
+    },
+    "1-3": {
+      "percentage": 100,
+      "odds": 1.49
+    },
+    "2-3": {
+      "percentage": 0,
+      "odds": 3.55
+    },
+    "4 et plus": {
+      "percentage": 0,
+      "odds": 34
+    },
+    "0": {
+      "percentage": 0,
+      "odds": 2.2
+    }
+  },
+  "Mi-temps/Fin de match": {
+    "Nice/Nice": {
+      "percentage": 4,
+      "odds": 2.6
+    },
+    "Match nul/Nice": {
+      "percentage": 14,
+      "odds": 4.2
+    },
+    "Match nul/Match nul": {
+      "percentage": 0,
+      "odds": 4.9
+    },
+    "Auxerre/Auxerre": {
+      "percentage": 0,
+      "odds": 6.5
+    },
+    "Match nul/Auxerre": {
+      "percentage": 4,
+      "odds": 8
+    },
+    "Nice/Match nul": {
+      "percentage": 24,
+      "odds": 13
+    },
+    "Auxerre/Match nul": {
+      "percentage": 4,
+      "odds": 14
+    },
+    "Auxerre/Nice": {
+      "percentage": 45,
+      "odds": 21
+    },
+    "Nice/Auxerre": {
+      "percentage": 5,
+      "odds": 36
+    }
+  },
+  "Marge de victoire": {
+    "Nice gagne d'au moins 3 buts d'\u00e9cart": {
+      "percentage": 0,
+      "odds": 5.9
+    },
+    "Nice gagne par exactement 2 buts d'\u00e9cart": {
+      "percentage": 0,
+      "odds": 4.6
+    },
+    "Nice gagne par exactement 1 but d'\u00e9cart": {
+      "percentage": 100,
+      "odds": 3.4
+    },
+    "Match nul": {
+      "percentage": 0,
+      "odds": 3.3
+    },
+    "Auxerre gagne par exactement 1 but d'\u00e9cart": {
+      "percentage": 0,
+      "odds": 5.4
+    },
+    "Auxerre gagne par exactement 2 buts d'\u00e9cart": {
+      "percentage": 0,
+      "odds": 12
+    },
+    "Auxerre gagne d'au moins 3 buts d'\u00e9cart": {
+      "percentage": 0,
+      "odds": 30
+    }
+  },
+  "R\u00e9sultat et nombre de buts": {
+    "Nice et moins de 4,5": {
+      "percentage": 100,
+      "odds": 1.94
+    },
+    "Match nul et moins de 4,5": {
+      "percentage": 0,
+      "odds": 3.4
+    },
+    "Auxerre et moins de 4,5": {
+      "percentage": 0,
+      "odds": 4.2
+    },
+    "Nice et plus de 4,5": {
+      "percentage": 0,
+      "odds": 8
+    },
+    "Auxerre et plus de 4,5": {
+      "percentage": 0,
+      "odds": 23
+    },
+    "Match nul et plus de 4,5": {
+      "percentage": 0,
+      "odds": 50
+    }
+  },
+  "R\u00e9sultat et les deux \u00e9quipes marquent": {
+    "Nice et non": {
+      "percentage": 0,
+      "odds": 2.7
+    },
+    "Nice et oui": {
+      "percentage": 99,
+      "odds": 3.6
+    },
+    "Match nul et oui": {
+      "percentage": 0,
+      "odds": 4.4
+    },
+    "Auxerre et non": {
+      "percentage": 0,
+      "odds": 6.25
+    },
+    "Auxerre et oui": {
+      "percentage": 1,
+      "odds": 7.25
+    },
+    "Match nul et non": {
+      "percentage": 0,
+      "odds": 9
+    }
+  },
+  "\u00c9quipe qui marque le 1er but et r\u00e9sultat": {
+    "Nice marque et Nice gagne": {
+      "percentage": 0,
+      "odds": 1.86
+    },
+    "Auxerre marque et Auxerre gagne": {
+      "percentage": 0,
+      "odds": 4.3
+    },
+    "Nice marque et match nul": {
+      "percentage": 44,
+      "odds": 8
+    },
+    "Auxerre marque et match nul": {
+      "percentage": 0,
+      "odds": 8
+    },
+    "Aucun but": {
+      "percentage": 0,
+      "odds": 9
+    },
+    "Auxerre marque et Nice gagne": {
+      "percentage": 31,
+      "odds": 9.5
+    },
+    "Nice marque et Auxerre gagne": {
+      "percentage": 25,
+      "odds": 20
+    }
+  },
+  "Double chance et nombre de buts": {
+    "Nice/match nul et moins de 4,5": {
+      "percentage": 100,
+      "odds": 1.32
+    },
+    "Nice/Auxerre et moins de 4,5": {
+      "percentage": 0,
+      "odds": 1.42
+    },
+    "Auxerre/match nul et moins de 4,5": {
+      "percentage": 0,
+      "odds": 2
+    },
+    "Nice/Auxerre et plus de 4,5": {
+      "percentage": 0,
+      "odds": 6.25
+    },
+    "Nice/match nul et plus de 4,5": {
+      "percentage": 0,
+      "odds": 7.25
+    },
+    "Auxerre/match nul et plus de 4,5": {
+      "percentage": 0,
+      "odds": 17
+    }
+  },
+  "Double chance et les deux \u00e9quipes marquent": {
+    "Nice/Auxerre et non": {
+      "percentage": 0,
+      "odds": 2
+    },
+    "Nice/match nul et oui": {
+      "percentage": 75,
+      "odds": 2.1
+    },
+    "Nice/match nul et non": {
+      "percentage": 0,
+      "odds": 2.2
+    },
+    "Nice/Auxerre et oui": {
+      "percentage": 19,
+      "odds": 2.6
+    },
+    "Auxerre/match nul et oui": {
+      "percentage": 6,
+      "odds": 3
+    },
+    "Auxerre/match nul et non": {
+      "percentage": 0,
+      "odds": 4.1
+    }
+  },
+  "Quelle \u00e9quipe va marquer ?": {
+    "Aucune": {
+      "percentage": 0,
+      "odds": 9
+    },
+    "Seulement Nice": {
+      "percentage": 0,
+      "odds": 2.7
+    },
+    "Seulement Auxerre": {
+      "percentage": 0,
+      "odds": 6.25
+    },
+    "Les deux \u00e9quipes": {
+      "percentage": 0,
+      "odds": 1.74
+    }
+  },
+  "Nice garde sa cage inviol\u00e9e": {
+    "Oui": {
+      "percentage": 100,
+      "odds": 2.2
+    },
+    "Non": {
+      "percentage": 0,
+      "odds": 1.46
+    }
+  },
+  "Auxerre garde sa cage inviol\u00e9e": {
+    "Oui": {
+      "percentage": 0,
+      "odds": 4.1
+    },
+    "Non": {
+      "percentage": 100,
+      "odds": 1.15
+    }
+  },
+  "Nice gagne sans conc\u00e9der de but": {
+    "Oui": {
+      "percentage": 100,
+      "odds": 2.7
+    },
+    "Non": {
+      "percentage": 0,
+      "odds": 1.32
+    }
+  },
+  "Auxerre gagne sans conc\u00e9der de but": {
+    "Oui": {
+      "percentage": 0,
+      "odds": 6.25
+    },
+    "Non": {
+      "percentage": 0,
+      "odds": 1.07
+    }
+  },
+  "Nice gagne une des mi-temps": {
+    "Oui": {
+      "percentage": 100,
+      "odds": 1.38
+    },
+    "Non": {
+      "percentage": 0,
+      "odds": 2.45
+    }
+  },
+  "Auxerre gagne une des mi-temps": {
+    "Oui": {
+      "percentage": 0,
+      "odds": 2.35
+    },
+    "Non": {
+      "percentage": 100,
+      "odds": 1.41
+    }
+  },
+  "Nice gagne les deux mi-temps": {
+    "Oui": {
+      "percentage": 0,
+      "odds": 4.6
+    },
+    "Non": {
+      "percentage": 100,
+      "odds": 1.12
+    }
+  },
+  "Nice marque dans les deux mi-temps": {
+    "Oui": {
+      "percentage": 55,
+      "odds": 2.7
+    },
+    "Non": {
+      "percentage": 45,
+      "odds": 1.32
+    }
+  },
+  "Auxerre marque dans les deux mi-temps": {
+    "Oui": {
+      "percentage": 97,
+      "odds": 5.3
+    },
+    "Non": {
+      "percentage": 3,
+      "odds": 1.09
+    }
+  },
+  "Mi-temps - Double chance": {
+    "Nice ou match nul": {
+      "percentage": 64,
+      "odds": 1.15
+    },
+    "Nice ou Auxerre": {
+      "percentage": 1,
+      "odds": 1.56
+    },
+    "Auxerre ou match nul": {
+      "percentage": 35,
+      "odds": 1.46
+    }
+  },
+  "Mi-temps - Les 2 \u00e9quipes marquent": {
+    "Oui": {
+      "percentage": 45,
+      "odds": 4.4
+    },
+    "Non": {
+      "percentage": 55,
+      "odds": 1.13
+    }
+  },
+  "Mi-temps - Nombre de buts de Nice": {
+    "Plus de 2,5": {
+      "percentage": 0,
+      "odds": 17
+    },
+    "Moins de 2,5": {
+      "percentage": 100,
+      "odds": 1.01
+    }
+  },
+  "Mi-temps - Nombre de buts de Auxerre": {
+    "Plus de 2,5": {
+      "percentage": 0,
+      "odds": 50
+    },
+    "Moins de 2,5": {
+      "percentage": 0,
+      "odds": 1
+    }
+  },
+  "Mi-temps - Nombre exact de buts": {
+    "0": {
+      "percentage": 0,
+      "odds": 2.6
+    },
+    "1": {
+      "percentage": 0,
+      "odds": 2.35
+    },
+    "2": {
+      "percentage": 100,
+      "odds": 3.85
+    },
+    "3 ou plus": {
+      "percentage": 0,
+      "odds": 6.75
+    }
+  },
+  "Mi-temps - Nombre de buts (intervalle)": {
+    "0": {
+      "percentage": 0,
+      "odds": 2.6
+    },
+    "1-2": {
+      "percentage": 0,
+      "odds": 1.56
+    },
+    "1-3": {
+      "percentage": 0,
+      "odds": 1.4
+    },
+    "2-3": {
+      "percentage": 0,
+      "odds": 2.9
+    },
+    "4 et plus": {
+      "percentage": 100,
+      "odds": 21
+    }
+  },
+  "Mi-temps - Vainqueur (rembours\u00e9 si match nul)": {
+    "Nice": {
+      "percentage": 100,
+      "odds": 1.35
+    },
+    "Auxerre": {
+      "percentage": 0,
+      "odds": 2.55
+    }
+  },
+  "Mi-temps - Nice gardera t-il sa cage inviol\u00e9e ?": {
+    "Oui": {
+      "percentage": 0,
+      "odds": 1.37
+    },
+    "Non": {
+      "percentage": 0,
+      "odds": 2.5
+    }
+  },
+  "Mi-temps - Auxerre gardera t-il sa cage inviol\u00e9e ?": {
+    "Oui": {
+      "percentage": 0,
+      "odds": 1.78
+    },
+    "Non": {
+      "percentage": 0,
+      "odds": 1.7
+    }
+  },
+  "Mi-temps - R\u00e9sultat et nombre de buts": {
+    "Match nul et moins de 1,5": {
+      "percentage": 0,
+      "odds": 2.6
+    },
+    "Nice et moins de 1,5": {
+      "percentage": 0,
+      "odds": 3.55
+    },
+    "Nice et plus de 1,5": {
+      "percentage": 0,
+      "odds": 4.9
+    },
+    "Auxerre et moins de 1,5": {
+      "percentage": 0,
+      "odds": 5.7
+    },
+    "Match nul et plus de 1,5": {
+      "percentage": 0,
+      "odds": 7
+    },
+    "Auxerre et plus de 1,5": {
+      "percentage": 0,
+      "odds": 11.5
+    }
+  },
+  "Mi-temps  - Double chance et les deux \u00e9quipes marquent": {
+    "Nice/match nul et non": {
+      "percentage": 100,
+      "odds": 1.37
+    },
+    "Nice/Auxerre et non": {
+      "percentage": 0,
+      "odds": 1.74
+    },
+    "Auxerre/match nul et non": {
+      "percentage": 0,
+      "odds": 1.78
+    },
+    "Nice/match nul et oui": {
+      "percentage": 0,
+      "odds": 5
+    },
+    "Auxerre/match nul et oui": {
+      "percentage": 0,
+      "odds": 5.8
+    },
+    "Nice/Auxerre et oui": {
+      "percentage": 0,
+      "odds": 9.5
+    }
+  },
+  "Mi-temps avec le plus de buts": {
+    "1re mi-temps": {
+      "percentage": 3,
+      "odds": 2.95
+    },
+    "\u00c9galit\u00e9": {
+      "percentage": 0,
+      "odds": 3.15
+    },
+    "2de mi-temps": {
+      "percentage": 97,
+      "odds": 1.9
+    }
+  }
+}

@@ -1,0 +1,1138 @@
+{
+  "R\u00e9sultat": {
+    "Luton Town": {
+      "percentage": 5,
+      "odds": 4.3
+    },
+    "Match nul": {
+      "percentage": 1,
+      "odds": 3.75
+    },
+    "Brighton": {
+      "percentage": 94,
+      "odds": 1.54
+    }
+  },
+  "Double chance": {
+    "Luton Town ou match nul": {
+      "percentage": 0,
+      "odds": 2.15
+    },
+    "Luton Town ou Brighton": {
+      "percentage": 3,
+      "odds": 1.18
+    },
+    "Brighton ou match nul": {
+      "percentage": 97,
+      "odds": 1.14
+    }
+  },
+  "Score exact": {
+    "0 - 0": {
+      "percentage": 0,
+      "odds": 13.5
+    },
+    "1 - 0": {
+      "percentage": 0,
+      "odds": 13.5
+    },
+    "2 - 0": {
+      "percentage": 0,
+      "odds": 24
+    },
+    "3 - 0": {
+      "percentage": 0,
+      "odds": 50
+    },
+    "4 - 0": {
+      "percentage": 0,
+      "odds": 110
+    },
+    "5 - 0": {
+      "percentage": 0,
+      "odds": 350
+    },
+    "0 - 1": {
+      "percentage": 0,
+      "odds": 7.75
+    },
+    "1 - 1": {
+      "percentage": 0,
+      "odds": 7
+    },
+    "2 - 1": {
+      "percentage": 0,
+      "odds": 13
+    },
+    "3 - 1": {
+      "percentage": 0,
+      "odds": 32
+    },
+    "4 - 1": {
+      "percentage": 0,
+      "odds": 65
+    },
+    "5 - 1": {
+      "percentage": 0,
+      "odds": 190
+    },
+    "0 - 2": {
+      "percentage": 0,
+      "odds": 7.75
+    },
+    "1 - 2": {
+      "percentage": 0,
+      "odds": 7.25
+    },
+    "2 - 2": {
+      "percentage": 0,
+      "odds": 12
+    },
+    "3 - 2": {
+      "percentage": 0,
+      "odds": 32
+    },
+    "4 - 2": {
+      "percentage": 0,
+      "odds": 65
+    },
+    "5 - 2": {
+      "percentage": 0,
+      "odds": 190
+    },
+    "0 - 3": {
+      "percentage": 0,
+      "odds": 10.5
+    },
+    "1 - 3": {
+      "percentage": 0,
+      "odds": 10
+    },
+    "2 - 3": {
+      "percentage": 0,
+      "odds": 18
+    },
+    "3 - 3": {
+      "percentage": 0,
+      "odds": 42
+    },
+    "4 - 3": {
+      "percentage": 0,
+      "odds": 90
+    },
+    "5 - 3": {
+      "percentage": 0,
+      "odds": 275
+    },
+    "0 - 4": {
+      "percentage": 0,
+      "odds": 20
+    },
+    "1 - 4": {
+      "percentage": 0,
+      "odds": 19
+    },
+    "2 - 4": {
+      "percentage": 0,
+      "odds": 32
+    },
+    "3 - 4": {
+      "percentage": 0,
+      "odds": 60
+    },
+    "4 - 4": {
+      "percentage": 0,
+      "odds": 130
+    },
+    "5 - 4": {
+      "percentage": 0,
+      "odds": 450
+    },
+    "0 - 5": {
+      "percentage": 0,
+      "odds": 42
+    },
+    "1 - 5": {
+      "percentage": 0,
+      "odds": 40
+    },
+    "2 - 5": {
+      "percentage": 0,
+      "odds": 60
+    },
+    "3 - 5": {
+      "percentage": 0,
+      "odds": 100
+    },
+    "4 - 5": {
+      "percentage": 0,
+      "odds": 275
+    },
+    "Autre": {
+      "percentage": 0,
+      "odds": 32
+    }
+  },
+  "Score exact multichance": {
+    "1-0 ou 2-0 ou 3-0": {
+      "percentage": 0,
+      "odds": 8.5
+    },
+    "0-1 ou 0-2 ou 0-3": {
+      "percentage": 0,
+      "odds": 3.35
+    },
+    "4-0 ou 5-0 ou 6-0": {
+      "percentage": 0,
+      "odds": 95
+    },
+    "0-4 ou 0-5 ou 0-6": {
+      "percentage": 0,
+      "odds": 13.5
+    },
+    "2-1 ou 3-1 ou 4-1": {
+      "percentage": 0,
+      "odds": 9
+    },
+    "1-2 ou 1-3 ou 1-4": {
+      "percentage": 0,
+      "odds": 4
+    },
+    "3-2 ou 4-2 ou 4-3 ou 5-1": {
+      "percentage": 0,
+      "odds": 23
+    },
+    "2-3 ou 2-4 ou 3-4 ou 1-5": {
+      "percentage": 0,
+      "odds": 9.5
+    },
+    "Autre victoire \u00e0 domicile": {
+      "percentage": 0,
+      "odds": 100
+    },
+    "Autre victoire \u00e0 l'ext\u00e9rieur": {
+      "percentage": 0,
+      "odds": 26
+    },
+    "Match nul": {
+      "percentage": 0,
+      "odds": 3.7
+    }
+  },
+  "Les 2 \u00e9quipes marquent": {
+    "Oui": {
+      "percentage": 100,
+      "odds": 1.6
+    },
+    "Non": {
+      "percentage": 0,
+      "odds": 2.05
+    }
+  },
+  "\u00c9cart de buts|Luton Town gagne par au moins 2 buts d'\u00e9cart": {
+    "Oui": {
+      "percentage": 0,
+      "odds": 9.5
+    },
+    "Non": {
+      "percentage": 100,
+      "odds": 1.04
+    }
+  },
+  "\u00c9cart de buts|Brighton gagne par au moins 2 buts d'\u00e9cart": {
+    "Non": {
+      "percentage": 95,
+      "odds": 1.42
+    },
+    "Oui": {
+      "percentage": 5,
+      "odds": 2.35
+    }
+  },
+  "\u00c9cart de buts|Brighton gagne par au moins 3 buts d'\u00e9cart": {
+    "Non": {
+      "percentage": 100,
+      "odds": 1.15
+    },
+    "Oui": {
+      "percentage": 0,
+      "odds": 4.4
+    }
+  },
+  "\u00c9cart de buts|Brighton gagne par au moins 4 buts d'\u00e9cart": {
+    "Non": {
+      "percentage": 100,
+      "odds": 1.05
+    },
+    "Oui": {
+      "percentage": 0,
+      "odds": 8
+    }
+  },
+  "\u00c9cart de buts (handicap)": {
+    "Luton Town +3.5": {
+      "percentage": 0,
+      "odds": 1.05
+    },
+    "Brighton -3.5": {
+      "percentage": 0,
+      "odds": 8
+    }
+  },
+  "Nombre de buts": {
+    "Plus de 5": {
+      "percentage": 0,
+      "odds": 7.25
+    },
+    "Moins de 5": {
+      "percentage": 0,
+      "odds": 1.09
+    }
+  },
+  "Vainqueur (rembours\u00e9 si match nul)": {
+    "Luton Town": {
+      "percentage": 0,
+      "odds": 3.35
+    },
+    "Brighton": {
+      "percentage": 100,
+      "odds": 1.24
+    }
+  },
+  "\u00c9quipe qui marque le 1er but": {
+    "Luton Town": {
+      "percentage": 0,
+      "odds": 2.6
+    },
+    "Aucune": {
+      "percentage": 0,
+      "odds": 13.5
+    },
+    "Brighton": {
+      "percentage": 0,
+      "odds": 1.45
+    }
+  },
+  "\u00c9quipe qui marque le dernier but": {
+    "Luton Town": {
+      "percentage": 0,
+      "odds": 2.6
+    },
+    "Aucune": {
+      "percentage": 0,
+      "odds": 13.5
+    },
+    "Brighton": {
+      "percentage": 0,
+      "odds": 1.45
+    }
+  },
+  "Mi-temps - R\u00e9sultat": {
+    "Luton Town": {
+      "percentage": 0,
+      "odds": 4.3
+    },
+    "Match nul": {
+      "percentage": 0,
+      "odds": 2.25
+    },
+    "Brighton": {
+      "percentage": 0,
+      "odds": 2
+    }
+  },
+  "Mi-temps - Score exact": {
+    "0 - 0": {
+      "percentage": 0,
+      "odds": 3.15
+    },
+    "1 - 1": {
+      "percentage": 0,
+      "odds": 6.75
+    },
+    "2 - 2": {
+      "percentage": 0,
+      "odds": 48
+    },
+    "1 - 0": {
+      "percentage": 0,
+      "odds": 6.25
+    },
+    "2 - 0": {
+      "percentage": 0,
+      "odds": 23
+    },
+    "2 - 1": {
+      "percentage": 0,
+      "odds": 25
+    },
+    "0 - 1": {
+      "percentage": 0,
+      "odds": 3.6
+    },
+    "0 - 2": {
+      "percentage": 0,
+      "odds": 7
+    },
+    "1 - 2": {
+      "percentage": 0,
+      "odds": 14
+    },
+    "Autre": {
+      "percentage": 0,
+      "odds": 9.5
+    }
+  },
+  "Mi-temps - Nombre de buts": {
+    "Plus de 3": {
+      "percentage": 0,
+      "odds": 12.5
+    },
+    "Moins de 3": {
+      "percentage": 0,
+      "odds": 1.03
+    }
+  },
+  "Mi-temps - \u00c9cart de buts (handicap)": {
+    "Luton Town +1": {
+      "percentage": 0,
+      "odds": 1.2
+    },
+    "Brighton -1": {
+      "percentage": 0,
+      "odds": 3.75
+    }
+  },
+  "Minute du 1er but (10 min)": {
+    "1-10": {
+      "percentage": 0,
+      "odds": 3.75
+    },
+    "11-20": {
+      "percentage": 0,
+      "odds": 4.1
+    },
+    "21-30": {
+      "percentage": 0,
+      "odds": 5.1
+    },
+    "31-40": {
+      "percentage": 0,
+      "odds": 6.25
+    },
+    "41-50": {
+      "percentage": 0,
+      "odds": 7.5
+    },
+    "51-60": {
+      "percentage": 0,
+      "odds": 10
+    },
+    "61-70": {
+      "percentage": 0,
+      "odds": 14
+    },
+    "71-80": {
+      "percentage": 0,
+      "odds": 19
+    },
+    "81-90": {
+      "percentage": 0,
+      "odds": 20
+    },
+    "Aucun": {
+      "percentage": 0,
+      "odds": 13.5
+    }
+  },
+  "Minute du 1er but (15 min)": {
+    "1-15": {
+      "percentage": 0,
+      "odds": 2.65
+    },
+    "16-30": {
+      "percentage": 0,
+      "odds": 3.4
+    },
+    "31-45": {
+      "percentage": 0,
+      "odds": 4.4
+    },
+    "46-60": {
+      "percentage": 0,
+      "odds": 7
+    },
+    "61-75": {
+      "percentage": 0,
+      "odds": 10
+    },
+    "76-90": {
+      "percentage": 0,
+      "odds": 14
+    },
+    "Aucun": {
+      "percentage": 0,
+      "odds": 13.5
+    }
+  },
+  "Nombre exact de buts": {
+    "0": {
+      "percentage": 0,
+      "odds": 13.5
+    },
+    "1": {
+      "percentage": 0,
+      "odds": 5.4
+    },
+    "2": {
+      "percentage": 0,
+      "odds": 3.7
+    },
+    "3": {
+      "percentage": 0,
+      "odds": 3.7
+    },
+    "4": {
+      "percentage": 0,
+      "odds": 4.5
+    },
+    "5": {
+      "percentage": 0,
+      "odds": 7
+    },
+    "6": {
+      "percentage": 0,
+      "odds": 12
+    },
+    "7": {
+      "percentage": 0,
+      "odds": 26
+    },
+    "8": {
+      "percentage": 0,
+      "odds": 50
+    },
+    "9 ou plus": {
+      "percentage": 0,
+      "odds": 70
+    }
+  },
+  "Nombre de buts (intervalle)": {
+    "0-1": {
+      "percentage": 0,
+      "odds": 4.2
+    },
+    "2-3": {
+      "percentage": 0,
+      "odds": 1.98
+    },
+    "4-6": {
+      "percentage": 0,
+      "odds": 2.55
+    },
+    "7 et plus": {
+      "percentage": 0,
+      "odds": 17
+    }
+  },
+  "Nombre de buts de Luton Town": {
+    "Plus de 3,5": {
+      "percentage": 0,
+      "odds": 26
+    },
+    "Moins de 3,5": {
+      "percentage": 100,
+      "odds": 1.01
+    }
+  },
+  "Nombre de buts de Brighton": {
+    "Plus de 4,5": {
+      "percentage": 0,
+      "odds": 12.5
+    },
+    "Moins de 4,5": {
+      "percentage": 0,
+      "odds": 1.03
+    }
+  },
+  "Nombre exact de buts de Luton Town": {
+    "0": {
+      "percentage": 0,
+      "odds": 2.45
+    },
+    "1": {
+      "percentage": 0,
+      "odds": 2.3
+    },
+    "2": {
+      "percentage": 0,
+      "odds": 4.1
+    },
+    "3 ou plus": {
+      "percentage": 0,
+      "odds": 7.75
+    }
+  },
+  "Nombre exact de buts de Brighton": {
+    "0": {
+      "percentage": 0,
+      "odds": 5.6
+    },
+    "1": {
+      "percentage": 0,
+      "odds": 3.1
+    },
+    "2": {
+      "percentage": 0,
+      "odds": 3.1
+    },
+    "3 ou plus": {
+      "percentage": 0,
+      "odds": 2.6
+    }
+  },
+  "Nombre de buts de Luton Town (intervalle)": {
+    "1-2": {
+      "percentage": 0,
+      "odds": 1.58
+    },
+    "1-3": {
+      "percentage": 0,
+      "odds": 1.44
+    },
+    "2-3": {
+      "percentage": 0,
+      "odds": 3.2
+    },
+    "4 et plus": {
+      "percentage": 0,
+      "odds": 27
+    },
+    "0": {
+      "percentage": 0,
+      "odds": 2.45
+    }
+  },
+  "Nombre de buts de Brighton (intervalle)": {
+    "1-2": {
+      "percentage": 0,
+      "odds": 1.64
+    },
+    "1-3": {
+      "percentage": 0,
+      "odds": 1.28
+    },
+    "2-3": {
+      "percentage": 0,
+      "odds": 1.94
+    },
+    "4 et plus": {
+      "percentage": 0,
+      "odds": 5.2
+    },
+    "0": {
+      "percentage": 0,
+      "odds": 5.6
+    }
+  },
+  "Mi-temps/Fin de match": {
+    "Brighton/Brighton": {
+      "percentage": 0,
+      "odds": 2.3
+    },
+    "Match nul/Brighton": {
+      "percentage": 0,
+      "odds": 4.3
+    },
+    "Match nul/Match nul": {
+      "percentage": 0,
+      "odds": 6
+    },
+    "Luton Town/Luton Town": {
+      "percentage": 0,
+      "odds": 7
+    },
+    "Match nul/Luton Town": {
+      "percentage": 0,
+      "odds": 9.5
+    },
+    "Brighton/Match nul": {
+      "percentage": 0,
+      "odds": 13.5
+    },
+    "Luton Town/Match nul": {
+      "percentage": 0,
+      "odds": 14
+    },
+    "Luton Town/Brighton": {
+      "percentage": 0,
+      "odds": 19
+    },
+    "Brighton/Luton Town": {
+      "percentage": 0,
+      "odds": 36
+    }
+  },
+  "Marge de victoire": {
+    "Luton Town gagne d'au moins 3 buts d'\u00e9cart": {
+      "percentage": 0,
+      "odds": 30
+    },
+    "Luton Town gagne par exactement 2 buts d'\u00e9cart": {
+      "percentage": 0,
+      "odds": 13.5
+    },
+    "Luton Town gagne par exactement 1 but d'\u00e9cart": {
+      "percentage": 0,
+      "odds": 6
+    },
+    "Match nul": {
+      "percentage": 0,
+      "odds": 3.7
+    },
+    "Brighton gagne par exactement 1 but d'\u00e9cart": {
+      "percentage": 0,
+      "odds": 3.55
+    },
+    "Brighton gagne par exactement 2 buts d'\u00e9cart": {
+      "percentage": 0,
+      "odds": 4.3
+    },
+    "Brighton gagne d'au moins 3 buts d'\u00e9cart": {
+      "percentage": 0,
+      "odds": 4.4
+    }
+  },
+  "R\u00e9sultat et nombre de buts": {
+    "Brighton et moins de 4,5": {
+      "percentage": 0,
+      "odds": 1.96
+    },
+    "Match nul et moins de 4,5": {
+      "percentage": 0,
+      "odds": 3.9
+    },
+    "Luton Town et moins de 4,5": {
+      "percentage": 0,
+      "odds": 4.9
+    },
+    "Brighton et plus de 4,5": {
+      "percentage": 0,
+      "odds": 5.2
+    },
+    "Luton Town et plus de 4,5": {
+      "percentage": 0,
+      "odds": 18
+    },
+    "Match nul et plus de 4,5": {
+      "percentage": 0,
+      "odds": 38
+    }
+  },
+  "R\u00e9sultat et les deux \u00e9quipes marquent": {
+    "Brighton et non": {
+      "percentage": 0,
+      "odds": 2.85
+    },
+    "Brighton et oui": {
+      "percentage": 0,
+      "odds": 2.9
+    },
+    "Match nul et oui": {
+      "percentage": 0,
+      "odds": 4.5
+    },
+    "Luton Town et oui": {
+      "percentage": 0,
+      "odds": 7
+    },
+    "Luton Town et non": {
+      "percentage": 0,
+      "odds": 8
+    },
+    "Match nul et non": {
+      "percentage": 0,
+      "odds": 13.5
+    }
+  },
+  "\u00c9quipe qui marque le 1er but et r\u00e9sultat": {
+    "Brighton marque et Brighton gagne": {
+      "percentage": 0,
+      "odds": 1.74
+    },
+    "Luton Town marque et Luton Town gagne": {
+      "percentage": 0,
+      "odds": 4.9
+    },
+    "Luton Town marque et Brighton gagne": {
+      "percentage": 0,
+      "odds": 8
+    },
+    "Luton Town marque et match nul": {
+      "percentage": 0,
+      "odds": 8
+    },
+    "Brighton marque et match nul": {
+      "percentage": 0,
+      "odds": 8
+    },
+    "Aucun but": {
+      "percentage": 0,
+      "odds": 13.5
+    },
+    "Brighton marque et Luton Town gagne": {
+      "percentage": 0,
+      "odds": 19
+    }
+  },
+  "Double chance et nombre de buts": {
+    "Brighton/match nul et moins de 4,5": {
+      "percentage": 0,
+      "odds": 1.4
+    },
+    "Luton Town/Brighton et moins de 4,5": {
+      "percentage": 0,
+      "odds": 1.5
+    },
+    "Luton Town/match nul et moins de 4,5": {
+      "percentage": 0,
+      "odds": 2.35
+    },
+    "Luton Town/Brighton et plus de 4,5": {
+      "percentage": 0,
+      "odds": 4.3
+    },
+    "Brighton/match nul et plus de 4,5": {
+      "percentage": 0,
+      "odds": 4.7
+    },
+    "Luton Town/match nul et plus de 4,5": {
+      "percentage": 0,
+      "odds": 13
+    }
+  },
+  "Double chance et les deux \u00e9quipes marquent": {
+    "Brighton/match nul et oui": {
+      "percentage": 0,
+      "odds": 1.88
+    },
+    "Luton Town/Brighton et oui": {
+      "percentage": 0,
+      "odds": 2.15
+    },
+    "Luton Town/Brighton et non": {
+      "percentage": 0,
+      "odds": 2.25
+    },
+    "Brighton/match nul et non": {
+      "percentage": 0,
+      "odds": 2.45
+    },
+    "Luton Town/match nul et oui": {
+      "percentage": 0,
+      "odds": 3.05
+    },
+    "Luton Town/match nul et non": {
+      "percentage": 0,
+      "odds": 5.6
+    }
+  },
+  "Quelle \u00e9quipe va marquer ?": {
+    "Aucune": {
+      "percentage": 0,
+      "odds": 13.5
+    },
+    "Seulement Luton Town": {
+      "percentage": 0,
+      "odds": 8
+    },
+    "Seulement Brighton": {
+      "percentage": 0,
+      "odds": 2.85
+    },
+    "Les deux \u00e9quipes": {
+      "percentage": 0,
+      "odds": 1.58
+    }
+  },
+  "Luton Town garde sa cage inviol\u00e9e": {
+    "Oui": {
+      "percentage": 0,
+      "odds": 5.6
+    },
+    "Non": {
+      "percentage": 0,
+      "odds": 1.1
+    }
+  },
+  "Brighton garde sa cage inviol\u00e9e": {
+    "Oui": {
+      "percentage": 0,
+      "odds": 2.45
+    },
+    "Non": {
+      "percentage": 0,
+      "odds": 1.39
+    }
+  },
+  "Luton Town gagne sans conc\u00e9der de but": {
+    "Oui": {
+      "percentage": 0,
+      "odds": 8
+    },
+    "Non": {
+      "percentage": 0,
+      "odds": 1.05
+    }
+  },
+  "Brighton gagne sans conc\u00e9der de but": {
+    "Oui": {
+      "percentage": 0,
+      "odds": 2.85
+    },
+    "Non": {
+      "percentage": 0,
+      "odds": 1.31
+    }
+  },
+  "Luton Town gagne une des mi-temps": {
+    "Oui": {
+      "percentage": 0,
+      "odds": 2.45
+    },
+    "Non": {
+      "percentage": 0,
+      "odds": 1.39
+    }
+  },
+  "Brighton gagne une des mi-temps": {
+    "Oui": {
+      "percentage": 0,
+      "odds": 1.3
+    },
+    "Non": {
+      "percentage": 0,
+      "odds": 2.9
+    }
+  },
+  "Luton Town gagne les deux mi-temps": {
+    "Oui": {
+      "percentage": 0,
+      "odds": 18
+    },
+    "Non": {
+      "percentage": 0,
+      "odds": 1.02
+    }
+  },
+  "Brighton gagne les deux mi-temps": {
+    "Oui": {
+      "percentage": 0,
+      "odds": 3.8
+    },
+    "Non": {
+      "percentage": 0,
+      "odds": 1.19
+    }
+  },
+  "Luton Town marque dans les deux mi-temps": {
+    "Oui": {
+      "percentage": 0,
+      "odds": 4.6
+    },
+    "Non": {
+      "percentage": 0,
+      "odds": 1.13
+    }
+  },
+  "Brighton marque dans les deux mi-temps": {
+    "Oui": {
+      "percentage": 0,
+      "odds": 2.15
+    },
+    "Non": {
+      "percentage": 0,
+      "odds": 1.5
+    }
+  },
+  "Mi-temps - Double chance": {
+    "Luton Town ou match nul": {
+      "percentage": 0,
+      "odds": 1.58
+    },
+    "Luton Town ou Brighton": {
+      "percentage": 0,
+      "odds": 1.46
+    },
+    "Brighton ou match nul": {
+      "percentage": 0,
+      "odds": 1.15
+    }
+  },
+  "Mi-temps - Les 2 \u00e9quipes marquent": {
+    "Oui": {
+      "percentage": 0,
+      "odds": 3.75
+    },
+    "Non": {
+      "percentage": 0,
+      "odds": 1.2
+    }
+  },
+  "Mi-temps - Nombre de buts de Luton Town": {
+    "Plus de 2,5": {
+      "percentage": 0,
+      "odds": 42
+    },
+    "Moins de 2,5": {
+      "percentage": 0,
+      "odds": 1
+    }
+  },
+  "Mi-temps - Nombre de buts de Brighton": {
+    "Plus de 2,5": {
+      "percentage": 0,
+      "odds": 11
+    },
+    "Moins de 2,5": {
+      "percentage": 0,
+      "odds": 1.03
+    }
+  },
+  "Mi-temps - Nombre exact de buts": {
+    "0": {
+      "percentage": 0,
+      "odds": 3.15
+    },
+    "1": {
+      "percentage": 0,
+      "odds": 2.45
+    },
+    "2": {
+      "percentage": 0,
+      "odds": 3.5
+    },
+    "3 ou plus": {
+      "percentage": 0,
+      "odds": 5
+    }
+  },
+  "Mi-temps - Nombre de buts (intervalle)": {
+    "0": {
+      "percentage": 0,
+      "odds": 3.15
+    },
+    "1-2": {
+      "percentage": 0,
+      "odds": 1.54
+    },
+    "1-3": {
+      "percentage": 0,
+      "odds": 1.33
+    },
+    "2-3": {
+      "percentage": 0,
+      "odds": 2.5
+    },
+    "4 et plus": {
+      "percentage": 0,
+      "odds": 14
+    }
+  },
+  "Mi-temps - Vainqueur (rembours\u00e9 si match nul)": {
+    "Luton Town": {
+      "percentage": 0,
+      "odds": 2.85
+    },
+    "Brighton": {
+      "percentage": 0,
+      "odds": 1.31
+    }
+  },
+  "Mi-temps - Luton Town gardera t-il sa cage inviol\u00e9e ?": {
+    "Oui": {
+      "percentage": 0,
+      "odds": 2.05
+    },
+    "Non": {
+      "percentage": 0,
+      "odds": 1.54
+    }
+  },
+  "Mi-temps - Brighton gardera t-il sa cage inviol\u00e9e ?": {
+    "Oui": {
+      "percentage": 0,
+      "odds": 1.44
+    },
+    "Non": {
+      "percentage": 0,
+      "odds": 2.3
+    }
+  },
+  "Mi-temps - R\u00e9sultat et nombre de buts": {
+    "Match nul et moins de 1,5": {
+      "percentage": 0,
+      "odds": 3.15
+    },
+    "Brighton et moins de 1,5": {
+      "percentage": 0,
+      "odds": 3.6
+    },
+    "Brighton et plus de 1,5": {
+      "percentage": 0,
+      "odds": 3.9
+    },
+    "Luton Town et moins de 1,5": {
+      "percentage": 0,
+      "odds": 6.25
+    },
+    "Match nul et plus de 1,5": {
+      "percentage": 0,
+      "odds": 6.25
+    },
+    "Luton Town et plus de 1,5": {
+      "percentage": 0,
+      "odds": 10.5
+    }
+  },
+  "Mi-temps  - Double chance et les deux \u00e9quipes marquent": {
+    "Brighton/match nul et non": {
+      "percentage": 0,
+      "odds": 1.44
+    },
+    "Luton Town/Brighton et non": {
+      "percentage": 0,
+      "odds": 1.7
+    },
+    "Luton Town/match nul et non": {
+      "percentage": 0,
+      "odds": 2.05
+    },
+    "Brighton/match nul et oui": {
+      "percentage": 0,
+      "odds": 4.2
+    },
+    "Luton Town/match nul et oui": {
+      "percentage": 0,
+      "odds": 5.1
+    },
+    "Luton Town/Brighton et oui": {
+      "percentage": 0,
+      "odds": 7.25
+    }
+  },
+  "Mi-temps avec le plus de buts": {
+    "1re mi-temps": {
+      "percentage": 0,
+      "odds": 2.9
+    },
+    "\u00c9galit\u00e9": {
+      "percentage": 0,
+      "odds": 3.45
+    },
+    "2de mi-temps": {
+      "percentage": 0,
+      "odds": 1.86
+    }
+  }
+}

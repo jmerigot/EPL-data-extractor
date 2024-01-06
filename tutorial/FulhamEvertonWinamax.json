@@ -1,0 +1,1128 @@
+{
+  "R\u00e9sultat": {
+    "Fulham": {
+      "percentage": 35,
+      "odds": 2.3
+    },
+    "Match nul": {
+      "percentage": 56,
+      "odds": 3.05
+    },
+    "Everton": {
+      "percentage": 9,
+      "odds": 2.55
+    }
+  },
+  "Double chance": {
+    "Fulham ou match nul": {
+      "percentage": 93,
+      "odds": 1.39
+    },
+    "Fulham ou Everton": {
+      "percentage": 3,
+      "odds": 1.28
+    },
+    "Everton ou match nul": {
+      "percentage": 4,
+      "odds": 1.47
+    }
+  },
+  "Score exact": {
+    "0 - 0": {
+      "percentage": 0,
+      "odds": 9
+    },
+    "1 - 0": {
+      "percentage": 0,
+      "odds": 7.5
+    },
+    "2 - 0": {
+      "percentage": 0,
+      "odds": 10.5
+    },
+    "3 - 0": {
+      "percentage": 0,
+      "odds": 21
+    },
+    "4 - 0": {
+      "percentage": 0,
+      "odds": 50
+    },
+    "5 - 0": {
+      "percentage": 0,
+      "odds": 100
+    },
+    "0 - 1": {
+      "percentage": 0,
+      "odds": 8
+    },
+    "1 - 1": {
+      "percentage": 0,
+      "odds": 5.6
+    },
+    "2 - 1": {
+      "percentage": 0,
+      "odds": 8.5
+    },
+    "3 - 1": {
+      "percentage": 0,
+      "odds": 17
+    },
+    "4 - 1": {
+      "percentage": 0,
+      "odds": 42
+    },
+    "5 - 1": {
+      "percentage": 0,
+      "odds": 85
+    },
+    "0 - 2": {
+      "percentage": 0,
+      "odds": 11.5
+    },
+    "1 - 2": {
+      "percentage": 0,
+      "odds": 9
+    },
+    "2 - 2": {
+      "percentage": 0,
+      "odds": 11.5
+    },
+    "3 - 2": {
+      "percentage": 0,
+      "odds": 26
+    },
+    "4 - 2": {
+      "percentage": 0,
+      "odds": 55
+    },
+    "5 - 2": {
+      "percentage": 0,
+      "odds": 110
+    },
+    "0 - 3": {
+      "percentage": 0,
+      "odds": 25
+    },
+    "1 - 3": {
+      "percentage": 0,
+      "odds": 19
+    },
+    "2 - 3": {
+      "percentage": 0,
+      "odds": 27
+    },
+    "3 - 3": {
+      "percentage": 0,
+      "odds": 46
+    },
+    "4 - 3": {
+      "percentage": 0,
+      "odds": 85
+    },
+    "5 - 3": {
+      "percentage": 0,
+      "odds": 200
+    },
+    "0 - 4": {
+      "percentage": 0,
+      "odds": 55
+    },
+    "1 - 4": {
+      "percentage": 0,
+      "odds": 48
+    },
+    "2 - 4": {
+      "percentage": 0,
+      "odds": 55
+    },
+    "3 - 4": {
+      "percentage": 0,
+      "odds": 90
+    },
+    "4 - 4": {
+      "percentage": 0,
+      "odds": 170
+    },
+    "5 - 4": {
+      "percentage": 0,
+      "odds": 450
+    },
+    "0 - 5": {
+      "percentage": 0,
+      "odds": 120
+    },
+    "1 - 5": {
+      "percentage": 0,
+      "odds": 100
+    },
+    "2 - 5": {
+      "percentage": 0,
+      "odds": 130
+    },
+    "3 - 5": {
+      "percentage": 0,
+      "odds": 225
+    },
+    "4 - 5": {
+      "percentage": 0,
+      "odds": 450
+    },
+    "Autre": {
+      "percentage": 0,
+      "odds": 65
+    }
+  },
+  "Score exact multichance": {
+    "1-0 ou 2-0 ou 3-0": {
+      "percentage": 0,
+      "odds": 4.2
+    },
+    "0-1 ou 0-2 ou 0-3": {
+      "percentage": 0,
+      "odds": 4.6
+    },
+    "4-0 ou 5-0 ou 6-0": {
+      "percentage": 0,
+      "odds": 40
+    },
+    "0-4 ou 0-5 ou 0-6": {
+      "percentage": 0,
+      "odds": 48
+    },
+    "2-1 ou 3-1 ou 4-1": {
+      "percentage": 0,
+      "odds": 5.7
+    },
+    "1-2 ou 1-3 ou 1-4": {
+      "percentage": 0,
+      "odds": 6
+    },
+    "3-2 ou 4-2 ou 4-3 ou 5-1": {
+      "percentage": 0,
+      "odds": 16
+    },
+    "2-3 ou 2-4 ou 3-4 ou 1-5": {
+      "percentage": 0,
+      "odds": 18
+    },
+    "Autre victoire \u00e0 domicile": {
+      "percentage": 0,
+      "odds": 60
+    },
+    "Autre victoire \u00e0 l'ext\u00e9rieur": {
+      "percentage": 0,
+      "odds": 70
+    },
+    "Match nul": {
+      "percentage": 0,
+      "odds": 3
+    }
+  },
+  "Les 2 \u00e9quipes marquent": {
+    "Oui": {
+      "percentage": 100,
+      "odds": 1.68
+    },
+    "Non": {
+      "percentage": 0,
+      "odds": 1.96
+    }
+  },
+  "\u00c9cart de buts|Fulham gagne par au moins 3 buts d'\u00e9cart": {
+    "Oui": {
+      "percentage": 0,
+      "odds": 10.5
+    },
+    "Non": {
+      "percentage": 100,
+      "odds": 1.03
+    }
+  },
+  "\u00c9cart de buts|Fulham gagne par au moins 2 buts d'\u00e9cart": {
+    "Oui": {
+      "percentage": 0,
+      "odds": 4.4
+    },
+    "Non": {
+      "percentage": 0,
+      "odds": 1.15
+    }
+  },
+  "\u00c9cart de buts|Everton gagne par au moins 2 buts d'\u00e9cart": {
+    "Non": {
+      "percentage": 100,
+      "odds": 1.12
+    },
+    "Oui": {
+      "percentage": 0,
+      "odds": 5
+    }
+  },
+  "\u00c9cart de buts (handicap)": {
+    "Fulham +1.5": {
+      "percentage": 100,
+      "odds": 1.12
+    },
+    "Everton -1.5": {
+      "percentage": 0,
+      "odds": 5
+    }
+  },
+  "Nombre de buts": {
+    "Plus de 5": {
+      "percentage": 0,
+      "odds": 12
+    },
+    "Moins de 5": {
+      "percentage": 0,
+      "odds": 1.05
+    }
+  },
+  "Vainqueur (rembours\u00e9 si match nul)": {
+    "Fulham": {
+      "percentage": 100,
+      "odds": 1.72
+    },
+    "Everton": {
+      "percentage": 0,
+      "odds": 1.9
+    }
+  },
+  "\u00c9quipe qui marque le 1er but": {
+    "Fulham": {
+      "percentage": 0,
+      "odds": 1.84
+    },
+    "Aucune": {
+      "percentage": 0,
+      "odds": 9
+    },
+    "Everton": {
+      "percentage": 0,
+      "odds": 1.94
+    }
+  },
+  "\u00c9quipe qui marque le dernier but": {
+    "Fulham": {
+      "percentage": 0,
+      "odds": 1.84
+    },
+    "Aucune": {
+      "percentage": 0,
+      "odds": 9
+    },
+    "Everton": {
+      "percentage": 0,
+      "odds": 1.94
+    }
+  },
+  "Mi-temps - R\u00e9sultat": {
+    "Fulham": {
+      "percentage": 0,
+      "odds": 2.9
+    },
+    "Match nul": {
+      "percentage": 0,
+      "odds": 2
+    },
+    "Everton": {
+      "percentage": 0,
+      "odds": 3.1
+    }
+  },
+  "Mi-temps - Score exact": {
+    "0 - 0": {
+      "percentage": 0,
+      "odds": 2.6
+    },
+    "1 - 1": {
+      "percentage": 0,
+      "odds": 7
+    },
+    "2 - 2": {
+      "percentage": 0,
+      "odds": 50
+    },
+    "1 - 0": {
+      "percentage": 0,
+      "odds": 4.3
+    },
+    "2 - 0": {
+      "percentage": 0,
+      "odds": 12
+    },
+    "2 - 1": {
+      "percentage": 0,
+      "odds": 20
+    },
+    "0 - 1": {
+      "percentage": 0,
+      "odds": 4.5
+    },
+    "0 - 2": {
+      "percentage": 0,
+      "odds": 13.5
+    },
+    "1 - 2": {
+      "percentage": 0,
+      "odds": 22
+    },
+    "Autre": {
+      "percentage": 0,
+      "odds": 16
+    }
+  },
+  "Mi-temps - Nombre de buts": {
+    "Plus de 3": {
+      "percentage": 0,
+      "odds": 20
+    },
+    "Moins de 3": {
+      "percentage": 0,
+      "odds": 1.01
+    }
+  },
+  "Mi-temps - \u00c9cart de buts (handicap)": {
+    "Fulham +0.5": {
+      "percentage": 0,
+      "odds": 1.27
+    },
+    "Everton -0.5": {
+      "percentage": 0,
+      "odds": 3.1
+    }
+  },
+  "Minute du 1er but (10 min)": {
+    "1-10": {
+      "percentage": 0,
+      "odds": 4.2
+    },
+    "11-20": {
+      "percentage": 0,
+      "odds": 4.4
+    },
+    "21-30": {
+      "percentage": 0,
+      "odds": 5.4
+    },
+    "31-40": {
+      "percentage": 0,
+      "odds": 6.5
+    },
+    "41-50": {
+      "percentage": 0,
+      "odds": 7.25
+    },
+    "51-60": {
+      "percentage": 0,
+      "odds": 9
+    },
+    "61-70": {
+      "percentage": 0,
+      "odds": 12
+    },
+    "71-80": {
+      "percentage": 0,
+      "odds": 16
+    },
+    "81-90": {
+      "percentage": 0,
+      "odds": 16
+    },
+    "Aucun": {
+      "percentage": 0,
+      "odds": 9
+    }
+  },
+  "Minute du 1er but (15 min)": {
+    "1-15": {
+      "percentage": 0,
+      "odds": 3
+    },
+    "16-30": {
+      "percentage": 0,
+      "odds": 3.65
+    },
+    "31-45": {
+      "percentage": 0,
+      "odds": 4.4
+    },
+    "46-60": {
+      "percentage": 0,
+      "odds": 6.5
+    },
+    "61-75": {
+      "percentage": 0,
+      "odds": 9
+    },
+    "76-90": {
+      "percentage": 0,
+      "odds": 11
+    },
+    "Aucun": {
+      "percentage": 0,
+      "odds": 9
+    }
+  },
+  "Nombre exact de buts": {
+    "0": {
+      "percentage": 0,
+      "odds": 9
+    },
+    "1": {
+      "percentage": 0,
+      "odds": 4.3
+    },
+    "2": {
+      "percentage": 0,
+      "odds": 3.3
+    },
+    "3": {
+      "percentage": 0,
+      "odds": 3.8
+    },
+    "4": {
+      "percentage": 0,
+      "odds": 5.2
+    },
+    "5": {
+      "percentage": 0,
+      "odds": 9
+    },
+    "6": {
+      "percentage": 0,
+      "odds": 18
+    },
+    "7": {
+      "percentage": 0,
+      "odds": 42
+    },
+    "8": {
+      "percentage": 0,
+      "odds": 70
+    },
+    "9 ou plus": {
+      "percentage": 0,
+      "odds": 100
+    }
+  },
+  "Nombre de buts (intervalle)": {
+    "0-1": {
+      "percentage": 0,
+      "odds": 3.25
+    },
+    "2-3": {
+      "percentage": 0,
+      "odds": 1.88
+    },
+    "4-6": {
+      "percentage": 0,
+      "odds": 3.25
+    },
+    "7 et plus": {
+      "percentage": 0,
+      "odds": 32
+    }
+  },
+  "Nombre de buts de Fulham": {
+    "Plus de 4,5": {
+      "percentage": 0,
+      "odds": 42
+    },
+    "Moins de 4,5": {
+      "percentage": 0,
+      "odds": 1
+    }
+  },
+  "Nombre de buts de Everton": {
+    "Plus de 4,5": {
+      "percentage": 0,
+      "odds": 50
+    },
+    "Moins de 4,5": {
+      "percentage": 0,
+      "odds": 1
+    }
+  },
+  "Nombre exact de buts de Fulham": {
+    "0": {
+      "percentage": 0,
+      "odds": 3.25
+    },
+    "1": {
+      "percentage": 0,
+      "odds": 2.4
+    },
+    "2": {
+      "percentage": 0,
+      "odds": 3.5
+    },
+    "3 ou plus": {
+      "percentage": 0,
+      "odds": 4.9
+    }
+  },
+  "Nombre exact de buts de Everton": {
+    "0": {
+      "percentage": 0,
+      "odds": 3.05
+    },
+    "1": {
+      "percentage": 0,
+      "odds": 2.35
+    },
+    "2": {
+      "percentage": 0,
+      "odds": 3.6
+    },
+    "3 ou plus": {
+      "percentage": 0,
+      "odds": 5.5
+    }
+  },
+  "Nombre de buts de Fulham (intervalle)": {
+    "1-2": {
+      "percentage": 0,
+      "odds": 1.52
+    },
+    "1-3": {
+      "percentage": 0,
+      "odds": 1.32
+    },
+    "2-3": {
+      "percentage": 0,
+      "odds": 2.45
+    },
+    "4 et plus": {
+      "percentage": 0,
+      "odds": 13.5
+    },
+    "0": {
+      "percentage": 0,
+      "odds": 3.25
+    }
+  },
+  "Nombre de buts de Everton (intervalle)": {
+    "1-2": {
+      "percentage": 0,
+      "odds": 1.54
+    },
+    "1-3": {
+      "percentage": 0,
+      "odds": 1.34
+    },
+    "2-3": {
+      "percentage": 0,
+      "odds": 2.6
+    },
+    "4 et plus": {
+      "percentage": 0,
+      "odds": 16
+    },
+    "0": {
+      "percentage": 0,
+      "odds": 3.05
+    }
+  },
+  "Mi-temps/Fin de match": {
+    "Fulham/Fulham": {
+      "percentage": 0,
+      "odds": 3.8
+    },
+    "Everton/Everton": {
+      "percentage": 0,
+      "odds": 4.2
+    },
+    "Match nul/Match nul": {
+      "percentage": 0,
+      "odds": 4.6
+    },
+    "Match nul/Fulham": {
+      "percentage": 0,
+      "odds": 5.4
+    },
+    "Match nul/Everton": {
+      "percentage": 0,
+      "odds": 5.8
+    },
+    "Fulham/Match nul": {
+      "percentage": 0,
+      "odds": 11.5
+    },
+    "Everton/Match nul": {
+      "percentage": 0,
+      "odds": 11.5
+    },
+    "Everton/Fulham": {
+      "percentage": 0,
+      "odds": 24
+    },
+    "Fulham/Everton": {
+      "percentage": 0,
+      "odds": 26
+    }
+  },
+  "Marge de victoire": {
+    "Fulham gagne d'au moins 3 buts d'\u00e9cart": {
+      "percentage": 0,
+      "odds": 10.5
+    },
+    "Fulham gagne par exactement 2 buts d'\u00e9cart": {
+      "percentage": 0,
+      "odds": 6.5
+    },
+    "Fulham gagne par exactement 1 but d'\u00e9cart": {
+      "percentage": 0,
+      "odds": 3.95
+    },
+    "Match nul": {
+      "percentage": 0,
+      "odds": 3
+    },
+    "Everton gagne par exactement 1 but d'\u00e9cart": {
+      "percentage": 0,
+      "odds": 4.1
+    },
+    "Everton gagne par exactement 2 buts d'\u00e9cart": {
+      "percentage": 0,
+      "odds": 7.25
+    },
+    "Everton gagne d'au moins 3 buts d'\u00e9cart": {
+      "percentage": 0,
+      "odds": 13
+    }
+  },
+  "R\u00e9sultat et nombre de buts": {
+    "Fulham et moins de 4,5": {
+      "percentage": 0,
+      "odds": 2.65
+    },
+    "Everton et moins de 4,5": {
+      "percentage": 0,
+      "odds": 2.95
+    },
+    "Match nul et moins de 4,5": {
+      "percentage": 0,
+      "odds": 3.1
+    },
+    "Fulham et plus de 4,5": {
+      "percentage": 0,
+      "odds": 11
+    },
+    "Everton et plus de 4,5": {
+      "percentage": 0,
+      "odds": 12.5
+    },
+    "Match nul et plus de 4,5": {
+      "percentage": 0,
+      "odds": 42
+    }
+  },
+  "R\u00e9sultat et les deux \u00e9quipes marquent": {
+    "Match nul et oui": {
+      "percentage": 0,
+      "odds": 3.9
+    },
+    "Fulham et non": {
+      "percentage": 0,
+      "odds": 4
+    },
+    "Everton et non": {
+      "percentage": 0,
+      "odds": 4.4
+    },
+    "Fulham et oui": {
+      "percentage": 0,
+      "odds": 4.4
+    },
+    "Everton et oui": {
+      "percentage": 0,
+      "odds": 4.7
+    },
+    "Match nul et non": {
+      "percentage": 0,
+      "odds": 9
+    }
+  },
+  "\u00c9quipe qui marque le 1er but et r\u00e9sultat": {
+    "Fulham marque et Fulham gagne": {
+      "percentage": 0,
+      "odds": 2.6
+    },
+    "Everton marque et Everton gagne": {
+      "percentage": 0,
+      "odds": 2.9
+    },
+    "Fulham marque et match nul": {
+      "percentage": 0,
+      "odds": 7
+    },
+    "Everton marque et match nul": {
+      "percentage": 0,
+      "odds": 7
+    },
+    "Aucun but": {
+      "percentage": 0,
+      "odds": 9
+    },
+    "Everton marque et Fulham gagne": {
+      "percentage": 0,
+      "odds": 12
+    },
+    "Fulham marque et Everton gagne": {
+      "percentage": 0,
+      "odds": 13
+    }
+  },
+  "Double chance et nombre de buts": {
+    "Fulham/Everton et moins de 4,5": {
+      "percentage": 0,
+      "odds": 1.5
+    },
+    "Fulham/match nul et moins de 4,5": {
+      "percentage": 0,
+      "odds": 1.54
+    },
+    "Everton/match nul et moins de 4,5": {
+      "percentage": 0,
+      "odds": 1.6
+    },
+    "Fulham/Everton et plus de 4,5": {
+      "percentage": 0,
+      "odds": 6.25
+    },
+    "Fulham/match nul et plus de 4,5": {
+      "percentage": 0,
+      "odds": 9
+    },
+    "Everton/match nul et plus de 4,5": {
+      "percentage": 0,
+      "odds": 10
+    }
+  },
+  "Double chance et les deux \u00e9quipes marquent": {
+    "Fulham/match nul et oui": {
+      "percentage": 0,
+      "odds": 2.25
+    },
+    "Fulham/Everton et non": {
+      "percentage": 0,
+      "odds": 2.25
+    },
+    "Everton/match nul et oui": {
+      "percentage": 0,
+      "odds": 2.35
+    },
+    "Fulham/Everton et oui": {
+      "percentage": 0,
+      "odds": 2.5
+    },
+    "Fulham/match nul et non": {
+      "percentage": 0,
+      "odds": 3.05
+    },
+    "Everton/match nul et non": {
+      "percentage": 0,
+      "odds": 3.25
+    }
+  },
+  "Quelle \u00e9quipe va marquer ?": {
+    "Aucune": {
+      "percentage": 0,
+      "odds": 9
+    },
+    "Seulement Fulham": {
+      "percentage": 0,
+      "odds": 4
+    },
+    "Seulement Everton": {
+      "percentage": 0,
+      "odds": 4.4
+    },
+    "Les deux \u00e9quipes": {
+      "percentage": 0,
+      "odds": 1.64
+    }
+  },
+  "Fulham garde sa cage inviol\u00e9e": {
+    "Oui": {
+      "percentage": 0,
+      "odds": 3.05
+    },
+    "Non": {
+      "percentage": 0,
+      "odds": 1.28
+    }
+  },
+  "Everton garde sa cage inviol\u00e9e": {
+    "Oui": {
+      "percentage": 0,
+      "odds": 3.25
+    },
+    "Non": {
+      "percentage": 0,
+      "odds": 1.25
+    }
+  },
+  "Fulham gagne sans conc\u00e9der de but": {
+    "Oui": {
+      "percentage": 0,
+      "odds": 4
+    },
+    "Non": {
+      "percentage": 0,
+      "odds": 1.18
+    }
+  },
+  "Everton gagne sans conc\u00e9der de but": {
+    "Oui": {
+      "percentage": 0,
+      "odds": 4.4
+    },
+    "Non": {
+      "percentage": 0,
+      "odds": 1.15
+    }
+  },
+  "Fulham gagne une des mi-temps": {
+    "Oui": {
+      "percentage": 0,
+      "odds": 1.68
+    },
+    "Non": {
+      "percentage": 0,
+      "odds": 1.86
+    }
+  },
+  "Everton gagne une des mi-temps": {
+    "Oui": {
+      "percentage": 0,
+      "odds": 1.78
+    },
+    "Non": {
+      "percentage": 0,
+      "odds": 1.74
+    }
+  },
+  "Fulham gagne les deux mi-temps": {
+    "Oui": {
+      "percentage": 0,
+      "odds": 7.5
+    },
+    "Non": {
+      "percentage": 0,
+      "odds": 1.05
+    }
+  },
+  "Everton gagne les deux mi-temps": {
+    "Oui": {
+      "percentage": 0,
+      "odds": 8.5
+    },
+    "Non": {
+      "percentage": 0,
+      "odds": 1.04
+    }
+  },
+  "Fulham marque dans les deux mi-temps": {
+    "Oui": {
+      "percentage": 0,
+      "odds": 3.5
+    },
+    "Non": {
+      "percentage": 0,
+      "odds": 1.22
+    }
+  },
+  "Everton marque dans les deux mi-temps": {
+    "Oui": {
+      "percentage": 0,
+      "odds": 3.75
+    },
+    "Non": {
+      "percentage": 0,
+      "odds": 1.2
+    }
+  },
+  "Mi-temps - Double chance": {
+    "Fulham ou match nul": {
+      "percentage": 0,
+      "odds": 1.27
+    },
+    "Fulham ou Everton": {
+      "percentage": 0,
+      "odds": 1.58
+    },
+    "Everton ou match nul": {
+      "percentage": 0,
+      "odds": 1.3
+    }
+  },
+  "Mi-temps - Les 2 \u00e9quipes marquent": {
+    "Oui": {
+      "percentage": 0,
+      "odds": 4.2
+    },
+    "Non": {
+      "percentage": 0,
+      "odds": 1.16
+    }
+  },
+  "Mi-temps - Nombre de buts de Fulham": {
+    "Plus de 2,5": {
+      "percentage": 0,
+      "odds": 26
+    },
+    "Moins de 2,5": {
+      "percentage": 0,
+      "odds": 1.01
+    }
+  },
+  "Mi-temps - Nombre de buts de Everton": {
+    "Plus de 2,5": {
+      "percentage": 0,
+      "odds": 32
+    },
+    "Moins de 2,5": {
+      "percentage": 0,
+      "odds": 1.01
+    }
+  },
+  "Mi-temps - Nombre exact de buts": {
+    "0": {
+      "percentage": 0,
+      "odds": 2.6
+    },
+    "1": {
+      "percentage": 0,
+      "odds": 2.4
+    },
+    "2": {
+      "percentage": 0,
+      "odds": 3.9
+    },
+    "3 ou plus": {
+      "percentage": 0,
+      "odds": 6.5
+    }
+  },
+  "Mi-temps - Nombre de buts (intervalle)": {
+    "0": {
+      "percentage": 0,
+      "odds": 2.6
+    },
+    "1-2": {
+      "percentage": 0,
+      "odds": 1.58
+    },
+    "1-3": {
+      "percentage": 0,
+      "odds": 1.41
+    },
+    "2-3": {
+      "percentage": 0,
+      "odds": 2.9
+    },
+    "4 et plus": {
+      "percentage": 0,
+      "odds": 21
+    }
+  },
+  "Mi-temps - Vainqueur (rembours\u00e9 si match nul)": {
+    "Fulham": {
+      "percentage": 0,
+      "odds": 1.7
+    },
+    "Everton": {
+      "percentage": 0,
+      "odds": 1.82
+    }
+  },
+  "Mi-temps - Fulham gardera t-il sa cage inviol\u00e9e ?": {
+    "Oui": {
+      "percentage": 0,
+      "odds": 1.56
+    },
+    "Non": {
+      "percentage": 0,
+      "odds": 2.05
+    }
+  },
+  "Mi-temps - Everton gardera t-il sa cage inviol\u00e9e ?": {
+    "Oui": {
+      "percentage": 0,
+      "odds": 1.6
+    },
+    "Non": {
+      "percentage": 0,
+      "odds": 1.98
+    }
+  },
+  "Mi-temps - R\u00e9sultat et nombre de buts": {
+    "Match nul et moins de 1,5": {
+      "percentage": 0,
+      "odds": 2.6
+    },
+    "Fulham et moins de 1,5": {
+      "percentage": 0,
+      "odds": 4.3
+    },
+    "Everton et moins de 1,5": {
+      "percentage": 0,
+      "odds": 4.5
+    },
+    "Match nul et plus de 1,5": {
+      "percentage": 0,
+      "odds": 6.5
+    },
+    "Fulham et plus de 1,5": {
+      "percentage": 0,
+      "odds": 6.75
+    },
+    "Everton et plus de 1,5": {
+      "percentage": 0,
+      "odds": 7.5
+    }
+  },
+  "Mi-temps  - Double chance et les deux \u00e9quipes marquent": {
+    "Fulham/match nul et non": {
+      "percentage": 0,
+      "odds": 1.56
+    },
+    "Everton/match nul et non": {
+      "percentage": 0,
+      "odds": 1.6
+    },
+    "Fulham/Everton et non": {
+      "percentage": 0,
+      "odds": 1.82
+    },
+    "Fulham/match nul et oui": {
+      "percentage": 0,
+      "odds": 5
+    },
+    "Everton/match nul et oui": {
+      "percentage": 0,
+      "odds": 5.1
+    },
+    "Fulham/Everton et oui": {
+      "percentage": 0,
+      "odds": 9
+    }
+  },
+  "Mi-temps avec le plus de buts": {
+    "1re mi-temps": {
+      "percentage": 0,
+      "odds": 3
+    },
+    "\u00c9galit\u00e9": {
+      "percentage": 0,
+      "odds": 3.15
+    },
+    "2de mi-temps": {
+      "percentage": 0,
+      "odds": 1.92
+    }
+  }
+}

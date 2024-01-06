@@ -1,0 +1,1138 @@
+{
+  "R\u00e9sultat": {
+    "Liverpool": {
+      "percentage": 95,
+      "odds": 1.46
+    },
+    "Match nul": {
+      "percentage": 1,
+      "odds": 4
+    },
+    "Chelsea": {
+      "percentage": 4,
+      "odds": 4.7
+    }
+  },
+  "Double chance": {
+    "Liverpool ou match nul": {
+      "percentage": 98,
+      "odds": 1.12
+    },
+    "Liverpool ou Chelsea": {
+      "percentage": 0,
+      "odds": 1.16
+    },
+    "Chelsea ou match nul": {
+      "percentage": 2,
+      "odds": 2.35
+    }
+  },
+  "Score exact": {
+    "0 - 0": {
+      "percentage": 0,
+      "odds": 15
+    },
+    "1 - 0": {
+      "percentage": 0,
+      "odds": 8
+    },
+    "2 - 0": {
+      "percentage": 0,
+      "odds": 7.5
+    },
+    "3 - 0": {
+      "percentage": 0,
+      "odds": 10
+    },
+    "4 - 0": {
+      "percentage": 0,
+      "odds": 17
+    },
+    "5 - 0": {
+      "percentage": 0,
+      "odds": 36
+    },
+    "0 - 1": {
+      "percentage": 0,
+      "odds": 15
+    },
+    "1 - 1": {
+      "percentage": 0,
+      "odds": 7.5
+    },
+    "2 - 1": {
+      "percentage": 100,
+      "odds": 7.25
+    },
+    "3 - 1": {
+      "percentage": 0,
+      "odds": 9.5
+    },
+    "4 - 1": {
+      "percentage": 0,
+      "odds": 17
+    },
+    "5 - 1": {
+      "percentage": 0,
+      "odds": 34
+    },
+    "0 - 2": {
+      "percentage": 0,
+      "odds": 28
+    },
+    "1 - 2": {
+      "percentage": 0,
+      "odds": 14
+    },
+    "2 - 2": {
+      "percentage": 0,
+      "odds": 12.5
+    },
+    "3 - 2": {
+      "percentage": 0,
+      "odds": 17
+    },
+    "4 - 2": {
+      "percentage": 0,
+      "odds": 30
+    },
+    "5 - 2": {
+      "percentage": 0,
+      "odds": 50
+    },
+    "0 - 3": {
+      "percentage": 0,
+      "odds": 55
+    },
+    "1 - 3": {
+      "percentage": 0,
+      "odds": 34
+    },
+    "2 - 3": {
+      "percentage": 0,
+      "odds": 32
+    },
+    "3 - 3": {
+      "percentage": 0,
+      "odds": 40
+    },
+    "4 - 3": {
+      "percentage": 0,
+      "odds": 60
+    },
+    "5 - 3": {
+      "percentage": 0,
+      "odds": 95
+    },
+    "0 - 4": {
+      "percentage": 0,
+      "odds": 120
+    },
+    "1 - 4": {
+      "percentage": 0,
+      "odds": 70
+    },
+    "2 - 4": {
+      "percentage": 0,
+      "odds": 70
+    },
+    "3 - 4": {
+      "percentage": 0,
+      "odds": 85
+    },
+    "4 - 4": {
+      "percentage": 0,
+      "odds": 130
+    },
+    "5 - 4": {
+      "percentage": 0,
+      "odds": 250
+    },
+    "0 - 5": {
+      "percentage": 0,
+      "odds": 400
+    },
+    "1 - 5": {
+      "percentage": 0,
+      "odds": 200
+    },
+    "2 - 5": {
+      "percentage": 0,
+      "odds": 200
+    },
+    "3 - 5": {
+      "percentage": 0,
+      "odds": 275
+    },
+    "4 - 5": {
+      "percentage": 0,
+      "odds": 450
+    },
+    "Autre": {
+      "percentage": 0,
+      "odds": 26
+    }
+  },
+  "Score exact multichance": {
+    "1-0 ou 2-0 ou 3-0": {
+      "percentage": 0,
+      "odds": 3.35
+    },
+    "0-1 ou 0-2 ou 0-3": {
+      "percentage": 0,
+      "odds": 9.5
+    },
+    "4-0 ou 5-0 ou 6-0": {
+      "percentage": 0,
+      "odds": 11.5
+    },
+    "0-4 ou 0-5 ou 0-6": {
+      "percentage": 0,
+      "odds": 100
+    },
+    "2-1 ou 3-1 ou 4-1": {
+      "percentage": 0,
+      "odds": 3.9
+    },
+    "1-2 ou 1-3 ou 1-4": {
+      "percentage": 0,
+      "odds": 10
+    },
+    "3-2 ou 4-2 ou 4-3 ou 5-1": {
+      "percentage": 0,
+      "odds": 8.5
+    },
+    "2-3 ou 2-4 ou 3-4 ou 1-5": {
+      "percentage": 0,
+      "odds": 23
+    },
+    "Autre victoire \u00e0 domicile": {
+      "percentage": 0,
+      "odds": 21
+    },
+    "Autre victoire \u00e0 l'ext\u00e9rieur": {
+      "percentage": 0,
+      "odds": 100
+    },
+    "Match nul": {
+      "percentage": 0,
+      "odds": 3.95
+    }
+  },
+  "Les 2 \u00e9quipes marquent": {
+    "Oui": {
+      "percentage": 100,
+      "odds": 1.6
+    },
+    "Non": {
+      "percentage": 0,
+      "odds": 2.05
+    }
+  },
+  "\u00c9cart de buts|Liverpool gagne par au moins 4 buts d'\u00e9cart": {
+    "Oui": {
+      "percentage": 0,
+      "odds": 7.75
+    },
+    "Non": {
+      "percentage": 100,
+      "odds": 1.05
+    }
+  },
+  "\u00c9cart de buts|Liverpool gagne par au moins 3 buts d'\u00e9cart": {
+    "Oui": {
+      "percentage": 0,
+      "odds": 3.9
+    },
+    "Non": {
+      "percentage": 100,
+      "odds": 1.18
+    }
+  },
+  "\u00c9cart de buts|Liverpool gagne par au moins 2 buts d'\u00e9cart": {
+    "Oui": {
+      "percentage": 0,
+      "odds": 2.15
+    },
+    "Non": {
+      "percentage": 0,
+      "odds": 1.49
+    }
+  },
+  "\u00c9cart de buts|Chelsea gagne par au moins 2 buts d'\u00e9cart": {
+    "Non": {
+      "percentage": 100,
+      "odds": 1.04
+    },
+    "Oui": {
+      "percentage": 0,
+      "odds": 9.5
+    }
+  },
+  "\u00c9cart de buts (handicap)": {
+    "Liverpool +1.5": {
+      "percentage": 0,
+      "odds": 1.04
+    },
+    "Chelsea -1.5": {
+      "percentage": 0,
+      "odds": 9.5
+    }
+  },
+  "Nombre de buts": {
+    "Plus de 5": {
+      "percentage": 0,
+      "odds": 6.25
+    },
+    "Moins de 5": {
+      "percentage": 0,
+      "odds": 1.11
+    }
+  },
+  "Vainqueur (rembours\u00e9 si match nul)": {
+    "Liverpool": {
+      "percentage": 100,
+      "odds": 1.2
+    },
+    "Chelsea": {
+      "percentage": 0,
+      "odds": 3.7
+    }
+  },
+  "\u00c9quipe qui marque le 1er but": {
+    "Liverpool": {
+      "percentage": 0,
+      "odds": 1.41
+    },
+    "Aucune": {
+      "percentage": 0,
+      "odds": 15
+    },
+    "Chelsea": {
+      "percentage": 0,
+      "odds": 2.7
+    }
+  },
+  "\u00c9quipe qui marque le dernier but": {
+    "Liverpool": {
+      "percentage": 0,
+      "odds": 1.41
+    },
+    "Aucune": {
+      "percentage": 0,
+      "odds": 15
+    },
+    "Chelsea": {
+      "percentage": 0,
+      "odds": 2.7
+    }
+  },
+  "Mi-temps - R\u00e9sultat": {
+    "Liverpool": {
+      "percentage": 0,
+      "odds": 1.9
+    },
+    "Match nul": {
+      "percentage": 0,
+      "odds": 2.35
+    },
+    "Chelsea": {
+      "percentage": 0,
+      "odds": 4.5
+    }
+  },
+  "Mi-temps - Score exact": {
+    "0 - 0": {
+      "percentage": 0,
+      "odds": 3.35
+    },
+    "1 - 1": {
+      "percentage": 0,
+      "odds": 6.75
+    },
+    "2 - 2": {
+      "percentage": 0,
+      "odds": 46
+    },
+    "1 - 0": {
+      "percentage": 0,
+      "odds": 3.55
+    },
+    "2 - 0": {
+      "percentage": 0,
+      "odds": 6.75
+    },
+    "2 - 1": {
+      "percentage": 0,
+      "odds": 13
+    },
+    "0 - 1": {
+      "percentage": 0,
+      "odds": 6.5
+    },
+    "0 - 2": {
+      "percentage": 0,
+      "odds": 24
+    },
+    "1 - 2": {
+      "percentage": 0,
+      "odds": 26
+    },
+    "Autre": {
+      "percentage": 0,
+      "odds": 8.5
+    }
+  },
+  "Mi-temps - Nombre de buts": {
+    "Plus de 3": {
+      "percentage": 0,
+      "odds": 11
+    },
+    "Moins de 3": {
+      "percentage": 0,
+      "odds": 1.03
+    }
+  },
+  "Mi-temps - \u00c9cart de buts (handicap)": {
+    "Liverpool 0": {
+      "percentage": 0,
+      "odds": 1.27
+    },
+    "Chelsea 0": {
+      "percentage": 0,
+      "odds": 3.1
+    }
+  },
+  "Minute du 1er but (10 min)": {
+    "1-10": {
+      "percentage": 0,
+      "odds": 3.65
+    },
+    "11-20": {
+      "percentage": 0,
+      "odds": 4
+    },
+    "21-30": {
+      "percentage": 0,
+      "odds": 5
+    },
+    "31-40": {
+      "percentage": 0,
+      "odds": 6.25
+    },
+    "41-50": {
+      "percentage": 0,
+      "odds": 7.5
+    },
+    "51-60": {
+      "percentage": 0,
+      "odds": 10
+    },
+    "61-70": {
+      "percentage": 0,
+      "odds": 14.5
+    },
+    "71-80": {
+      "percentage": 0,
+      "odds": 20
+    },
+    "81-90": {
+      "percentage": 0,
+      "odds": 21
+    },
+    "Aucun": {
+      "percentage": 0,
+      "odds": 15
+    }
+  },
+  "Minute du 1er but (15 min)": {
+    "1-15": {
+      "percentage": 0,
+      "odds": 2.55
+    },
+    "16-30": {
+      "percentage": 0,
+      "odds": 3.4
+    },
+    "31-45": {
+      "percentage": 0,
+      "odds": 4.4
+    },
+    "46-60": {
+      "percentage": 0,
+      "odds": 7.25
+    },
+    "61-75": {
+      "percentage": 0,
+      "odds": 10.5
+    },
+    "76-90": {
+      "percentage": 0,
+      "odds": 15
+    },
+    "Aucun": {
+      "percentage": 0,
+      "odds": 15
+    }
+  },
+  "Nombre exact de buts": {
+    "0": {
+      "percentage": 0,
+      "odds": 15
+    },
+    "1": {
+      "percentage": 0,
+      "odds": 5.8
+    },
+    "2": {
+      "percentage": 0,
+      "odds": 3.85
+    },
+    "3": {
+      "percentage": 0,
+      "odds": 3.7
+    },
+    "4": {
+      "percentage": 0,
+      "odds": 4.4
+    },
+    "5": {
+      "percentage": 0,
+      "odds": 6.5
+    },
+    "6": {
+      "percentage": 0,
+      "odds": 11
+    },
+    "7": {
+      "percentage": 0,
+      "odds": 23
+    },
+    "8": {
+      "percentage": 0,
+      "odds": 46
+    },
+    "9 ou plus": {
+      "percentage": 0,
+      "odds": 60
+    }
+  },
+  "Nombre de buts (intervalle)": {
+    "0-1": {
+      "percentage": 0,
+      "odds": 4.5
+    },
+    "2-3": {
+      "percentage": 0,
+      "odds": 2
+    },
+    "4-6": {
+      "percentage": 0,
+      "odds": 2.4
+    },
+    "7 et plus": {
+      "percentage": 0,
+      "odds": 14.5
+    }
+  },
+  "Nombre de buts de Liverpool": {
+    "Plus de 4,5": {
+      "percentage": 0,
+      "odds": 10
+    },
+    "Moins de 4,5": {
+      "percentage": 0,
+      "odds": 1.04
+    }
+  },
+  "Nombre de buts de Chelsea": {
+    "Plus de 3,5": {
+      "percentage": 0,
+      "odds": 29
+    },
+    "Moins de 3,5": {
+      "percentage": 0,
+      "odds": 1.01
+    }
+  },
+  "Nombre exact de buts de Liverpool": {
+    "0": {
+      "percentage": 0,
+      "odds": 6.25
+    },
+    "1": {
+      "percentage": 0,
+      "odds": 3.35
+    },
+    "2": {
+      "percentage": 0,
+      "odds": 3.1
+    },
+    "3 ou plus": {
+      "percentage": 0,
+      "odds": 2.35
+    }
+  },
+  "Nombre exact de buts de Chelsea": {
+    "0": {
+      "percentage": 0,
+      "odds": 2.4
+    },
+    "1": {
+      "percentage": 0,
+      "odds": 2.3
+    },
+    "2": {
+      "percentage": 0,
+      "odds": 4.1
+    },
+    "3 ou plus": {
+      "percentage": 0,
+      "odds": 8
+    }
+  },
+  "Nombre de buts de Liverpool (intervalle)": {
+    "1-2": {
+      "percentage": 0,
+      "odds": 1.7
+    },
+    "1-3": {
+      "percentage": 0,
+      "odds": 1.3
+    },
+    "2-3": {
+      "percentage": 0,
+      "odds": 1.9
+    },
+    "4 et plus": {
+      "percentage": 0,
+      "odds": 4.5
+    },
+    "0": {
+      "percentage": 0,
+      "odds": 6.25
+    }
+  },
+  "Nombre de buts de Chelsea (intervalle)": {
+    "1-2": {
+      "percentage": 0,
+      "odds": 1.6
+    },
+    "1-3": {
+      "percentage": 0,
+      "odds": 1.45
+    },
+    "2-3": {
+      "percentage": 0,
+      "odds": 3.25
+    },
+    "4 et plus": {
+      "percentage": 0,
+      "odds": 28
+    },
+    "0": {
+      "percentage": 0,
+      "odds": 2.4
+    }
+  },
+  "Mi-temps/Fin de match": {
+    "Liverpool/Liverpool": {
+      "percentage": 0,
+      "odds": 2.15
+    },
+    "Match nul/Liverpool": {
+      "percentage": 0,
+      "odds": 4.2
+    },
+    "Match nul/Match nul": {
+      "percentage": 0,
+      "odds": 6.5
+    },
+    "Chelsea/Chelsea": {
+      "percentage": 0,
+      "odds": 7.75
+    },
+    "Match nul/Chelsea": {
+      "percentage": 0,
+      "odds": 10
+    },
+    "Liverpool/Match nul": {
+      "percentage": 0,
+      "odds": 14.5
+    },
+    "Chelsea/Match nul": {
+      "percentage": 0,
+      "odds": 14.5
+    },
+    "Chelsea/Liverpool": {
+      "percentage": 0,
+      "odds": 18
+    },
+    "Liverpool/Chelsea": {
+      "percentage": 0,
+      "odds": 38
+    }
+  },
+  "Marge de victoire": {
+    "Liverpool gagne d'au moins 3 buts d'\u00e9cart": {
+      "percentage": 0,
+      "odds": 3.9
+    },
+    "Liverpool gagne par exactement 2 buts d'\u00e9cart": {
+      "percentage": 0,
+      "odds": 4.2
+    },
+    "Liverpool gagne par exactement 1 but d'\u00e9cart": {
+      "percentage": 0,
+      "odds": 3.6
+    },
+    "Match nul": {
+      "percentage": 0,
+      "odds": 3.95
+    },
+    "Chelsea gagne par exactement 1 but d'\u00e9cart": {
+      "percentage": 0,
+      "odds": 6.5
+    },
+    "Chelsea gagne par exactement 2 buts d'\u00e9cart": {
+      "percentage": 0,
+      "odds": 15
+    },
+    "Chelsea gagne d'au moins 3 buts d'\u00e9cart": {
+      "percentage": 0,
+      "odds": 34
+    }
+  },
+  "R\u00e9sultat et nombre de buts": {
+    "Liverpool et moins de 4,5": {
+      "percentage": 0,
+      "odds": 1.92
+    },
+    "Match nul et moins de 4,5": {
+      "percentage": 0,
+      "odds": 4.2
+    },
+    "Liverpool et plus de 4,5": {
+      "percentage": 0,
+      "odds": 4.6
+    },
+    "Chelsea et moins de 4,5": {
+      "percentage": 0,
+      "odds": 5.5
+    },
+    "Chelsea et plus de 4,5": {
+      "percentage": 0,
+      "odds": 19
+    },
+    "Match nul et plus de 4,5": {
+      "percentage": 0,
+      "odds": 36
+    }
+  },
+  "R\u00e9sultat et les deux \u00e9quipes marquent": {
+    "Liverpool et oui": {
+      "percentage": 0,
+      "odds": 2.7
+    },
+    "Liverpool et non": {
+      "percentage": 0,
+      "odds": 2.75
+    },
+    "Match nul et oui": {
+      "percentage": 0,
+      "odds": 4.7
+    },
+    "Chelsea et oui": {
+      "percentage": 0,
+      "odds": 7.25
+    },
+    "Chelsea et non": {
+      "percentage": 0,
+      "odds": 9
+    },
+    "Match nul et non": {
+      "percentage": 0,
+      "odds": 15
+    }
+  },
+  "\u00c9quipe qui marque le 1er but et r\u00e9sultat": {
+    "Liverpool marque et Liverpool gagne": {
+      "percentage": 0,
+      "odds": 1.66
+    },
+    "Chelsea marque et Chelsea gagne": {
+      "percentage": 0,
+      "odds": 5.4
+    },
+    "Chelsea marque et Liverpool gagne": {
+      "percentage": 0,
+      "odds": 7.75
+    },
+    "Liverpool marque et match nul": {
+      "percentage": 0,
+      "odds": 8.5
+    },
+    "Chelsea marque et match nul": {
+      "percentage": 0,
+      "odds": 8.5
+    },
+    "Aucun but": {
+      "percentage": 0,
+      "odds": 15
+    },
+    "Liverpool marque et Chelsea gagne": {
+      "percentage": 0,
+      "odds": 20
+    }
+  },
+  "Double chance et nombre de buts": {
+    "Liverpool/match nul et moins de 4,5": {
+      "percentage": 0,
+      "odds": 1.41
+    },
+    "Liverpool/Chelsea et moins de 4,5": {
+      "percentage": 0,
+      "odds": 1.52
+    },
+    "Chelsea/match nul et moins de 4,5": {
+      "percentage": 0,
+      "odds": 2.6
+    },
+    "Liverpool/Chelsea et plus de 4,5": {
+      "percentage": 0,
+      "odds": 3.95
+    },
+    "Liverpool/match nul et plus de 4,5": {
+      "percentage": 0,
+      "odds": 4.3
+    },
+    "Chelsea/match nul et plus de 4,5": {
+      "percentage": 0,
+      "odds": 13.5
+    }
+  },
+  "Double chance et les deux \u00e9quipes marquent": {
+    "Liverpool/match nul et oui": {
+      "percentage": 0,
+      "odds": 1.84
+    },
+    "Liverpool/Chelsea et oui": {
+      "percentage": 0,
+      "odds": 2.1
+    },
+    "Liverpool/Chelsea et non": {
+      "percentage": 0,
+      "odds": 2.25
+    },
+    "Liverpool/match nul et non": {
+      "percentage": 0,
+      "odds": 2.4
+    },
+    "Chelsea/match nul et oui": {
+      "percentage": 0,
+      "odds": 3.2
+    },
+    "Chelsea/match nul et non": {
+      "percentage": 0,
+      "odds": 6.25
+    }
+  },
+  "Quelle \u00e9quipe va marquer ?": {
+    "Aucune": {
+      "percentage": 0,
+      "odds": 15
+    },
+    "Seulement Liverpool": {
+      "percentage": 0,
+      "odds": 2.75
+    },
+    "Seulement Chelsea": {
+      "percentage": 0,
+      "odds": 9
+    },
+    "Les deux \u00e9quipes": {
+      "percentage": 0,
+      "odds": 1.56
+    }
+  },
+  "Liverpool garde sa cage inviol\u00e9e": {
+    "Oui": {
+      "percentage": 0,
+      "odds": 2.4
+    },
+    "Non": {
+      "percentage": 0,
+      "odds": 1.4
+    }
+  },
+  "Chelsea garde sa cage inviol\u00e9e": {
+    "Oui": {
+      "percentage": 0,
+      "odds": 6.25
+    },
+    "Non": {
+      "percentage": 0,
+      "odds": 1.08
+    }
+  },
+  "Liverpool gagne sans conc\u00e9der de but": {
+    "Oui": {
+      "percentage": 0,
+      "odds": 2.75
+    },
+    "Non": {
+      "percentage": 0,
+      "odds": 1.33
+    }
+  },
+  "Chelsea gagne sans conc\u00e9der de but": {
+    "Oui": {
+      "percentage": 0,
+      "odds": 9
+    },
+    "Non": {
+      "percentage": 0,
+      "odds": 1.04
+    }
+  },
+  "Liverpool gagne une des mi-temps": {
+    "Oui": {
+      "percentage": 0,
+      "odds": 1.26
+    },
+    "Non": {
+      "percentage": 0,
+      "odds": 3.2
+    }
+  },
+  "Chelsea gagne une des mi-temps": {
+    "Oui": {
+      "percentage": 0,
+      "odds": 2.6
+    },
+    "Non": {
+      "percentage": 0,
+      "odds": 1.35
+    }
+  },
+  "Liverpool gagne les deux mi-temps": {
+    "Oui": {
+      "percentage": 0,
+      "odds": 3.45
+    },
+    "Non": {
+      "percentage": 0,
+      "odds": 1.23
+    }
+  },
+  "Chelsea gagne les deux mi-temps": {
+    "Oui": {
+      "percentage": 0,
+      "odds": 20
+    },
+    "Non": {
+      "percentage": 0,
+      "odds": 1.01
+    }
+  },
+  "Liverpool marque dans les deux mi-temps": {
+    "Oui": {
+      "percentage": 0,
+      "odds": 2
+    },
+    "Non": {
+      "percentage": 0,
+      "odds": 1.58
+    }
+  },
+  "Chelsea marque dans les deux mi-temps": {
+    "Oui": {
+      "percentage": 0,
+      "odds": 4.7
+    },
+    "Non": {
+      "percentage": 0,
+      "odds": 1.13
+    }
+  },
+  "Mi-temps - Double chance": {
+    "Liverpool ou match nul": {
+      "percentage": 100,
+      "odds": 1.14
+    },
+    "Liverpool ou Chelsea": {
+      "percentage": 0,
+      "odds": 1.44
+    },
+    "Chelsea ou match nul": {
+      "percentage": 0,
+      "odds": 1.64
+    }
+  },
+  "Mi-temps - Les 2 \u00e9quipes marquent": {
+    "Oui": {
+      "percentage": 0,
+      "odds": 3.65
+    },
+    "Non": {
+      "percentage": 0,
+      "odds": 1.2
+    }
+  },
+  "Mi-temps - Nombre de buts de Liverpool": {
+    "Plus de 2,5": {
+      "percentage": 0,
+      "odds": 9.5
+    },
+    "Moins de 2,5": {
+      "percentage": 0,
+      "odds": 1.04
+    }
+  },
+  "Mi-temps - Nombre de buts de Chelsea": {
+    "Plus de 2,5": {
+      "percentage": 0,
+      "odds": 50
+    },
+    "Moins de 2,5": {
+      "percentage": 0,
+      "odds": 1
+    }
+  },
+  "Mi-temps - Nombre exact de buts": {
+    "0": {
+      "percentage": 0,
+      "odds": 3.35
+    },
+    "1": {
+      "percentage": 0,
+      "odds": 2.45
+    },
+    "2": {
+      "percentage": 0,
+      "odds": 3.45
+    },
+    "3 ou plus": {
+      "percentage": 0,
+      "odds": 4.6
+    }
+  },
+  "Mi-temps - Nombre de buts (intervalle)": {
+    "0": {
+      "percentage": 0,
+      "odds": 3.35
+    },
+    "1-2": {
+      "percentage": 0,
+      "odds": 1.54
+    },
+    "1-3": {
+      "percentage": 0,
+      "odds": 1.32
+    },
+    "2-3": {
+      "percentage": 0,
+      "odds": 2.4
+    },
+    "4 et plus": {
+      "percentage": 0,
+      "odds": 12.5
+    }
+  },
+  "Mi-temps - Vainqueur (rembours\u00e9 si match nul)": {
+    "Liverpool": {
+      "percentage": 100,
+      "odds": 1.27
+    },
+    "Chelsea": {
+      "percentage": 0,
+      "odds": 3.1
+    }
+  },
+  "Mi-temps - Liverpool gardera t-il sa cage inviol\u00e9e ?": {
+    "Oui": {
+      "percentage": 0,
+      "odds": 1.43
+    },
+    "Non": {
+      "percentage": 0,
+      "odds": 2.35
+    }
+  },
+  "Mi-temps - Chelsea gardera t-il sa cage inviol\u00e9e ?": {
+    "Oui": {
+      "percentage": 0,
+      "odds": 2.2
+    },
+    "Non": {
+      "percentage": 0,
+      "odds": 1.49
+    }
+  },
+  "Mi-temps - R\u00e9sultat et nombre de buts": {
+    "Match nul et moins de 1,5": {
+      "percentage": 0,
+      "odds": 3.35
+    },
+    "Liverpool et moins de 1,5": {
+      "percentage": 0,
+      "odds": 3.55
+    },
+    "Liverpool et plus de 1,5": {
+      "percentage": 0,
+      "odds": 3.6
+    },
+    "Match nul et plus de 1,5": {
+      "percentage": 0,
+      "odds": 6.25
+    },
+    "Chelsea et moins de 1,5": {
+      "percentage": 0,
+      "odds": 6.5
+    },
+    "Chelsea et plus de 1,5": {
+      "percentage": 0,
+      "odds": 11
+    }
+  },
+  "Mi-temps  - Double chance et les deux \u00e9quipes marquent": {
+    "Liverpool/match nul et non": {
+      "percentage": 0,
+      "odds": 1.43
+    },
+    "Liverpool/Chelsea et non": {
+      "percentage": 0,
+      "odds": 1.68
+    },
+    "Chelsea/match nul et non": {
+      "percentage": 0,
+      "odds": 2.2
+    },
+    "Liverpool/match nul et oui": {
+      "percentage": 0,
+      "odds": 4.1
+    },
+    "Chelsea/match nul et oui": {
+      "percentage": 0,
+      "odds": 5.1
+    },
+    "Liverpool/Chelsea et oui": {
+      "percentage": 0,
+      "odds": 7
+    }
+  },
+  "Mi-temps avec le plus de buts": {
+    "1re mi-temps": {
+      "percentage": 0,
+      "odds": 2.9
+    },
+    "\u00c9galit\u00e9": {
+      "percentage": 0,
+      "odds": 3.55
+    },
+    "2de mi-temps": {
+      "percentage": 100,
+      "odds": 1.84
+    }
+  }
+}

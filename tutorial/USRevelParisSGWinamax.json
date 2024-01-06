@@ -1,0 +1,36 @@
+{
+  "R\u00e9sultat": {
+    "US Revel": {
+      "percentage": 15,
+      "odds": 100
+    },
+    "Match nul": {
+      "percentage": 4,
+      "odds": 25
+    },
+    "PSG": {
+      "percentage": 81,
+      "odds": 1.01
+    }
+  },
+  "Qualification": {
+    "US Revel": {
+      "percentage": 100,
+      "odds": 25
+    },
+    "PSG": {
+      "percentage": 0,
+      "odds": 1
+    }
+  },
+  "Nombre de buts": {
+    "Plus de 2,5": {
+      "percentage": 98,
+      "odds": 1.04
+    },
+    "Moins de 2,5": {
+      "percentage": 2,
+      "odds": 8
+    }
+  }
+}

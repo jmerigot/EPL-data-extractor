@@ -1,0 +1,1128 @@
+{
+  "R\u00e9sultat": {
+    "West Ham": {
+      "percentage": 98,
+      "odds": 1.92
+    },
+    "Match nul": {
+      "percentage": 0,
+      "odds": 3.45
+    },
+    "Bournemouth": {
+      "percentage": 2,
+      "odds": 2.95
+    }
+  },
+  "Double chance": {
+    "West Ham ou match nul": {
+      "percentage": 78,
+      "odds": 1.3
+    },
+    "West Ham ou Bournemouth": {
+      "percentage": 2,
+      "odds": 1.22
+    },
+    "Bournemouth ou match nul": {
+      "percentage": 20,
+      "odds": 1.68
+    }
+  },
+  "Score exact": {
+    "0 - 0": {
+      "percentage": 0,
+      "odds": 13
+    },
+    "1 - 0": {
+      "percentage": 0,
+      "odds": 8.5
+    },
+    "2 - 0": {
+      "percentage": 0,
+      "odds": 9.5
+    },
+    "3 - 0": {
+      "percentage": 0,
+      "odds": 16
+    },
+    "4 - 0": {
+      "percentage": 0,
+      "odds": 34
+    },
+    "5 - 0": {
+      "percentage": 0,
+      "odds": 60
+    },
+    "0 - 1": {
+      "percentage": 0,
+      "odds": 10.5
+    },
+    "1 - 1": {
+      "percentage": 0,
+      "odds": 6.5
+    },
+    "2 - 1": {
+      "percentage": 0,
+      "odds": 7.75
+    },
+    "3 - 1": {
+      "percentage": 0,
+      "odds": 12.5
+    },
+    "4 - 1": {
+      "percentage": 0,
+      "odds": 27
+    },
+    "5 - 1": {
+      "percentage": 0,
+      "odds": 55
+    },
+    "0 - 2": {
+      "percentage": 0,
+      "odds": 15
+    },
+    "1 - 2": {
+      "percentage": 0,
+      "odds": 9.5
+    },
+    "2 - 2": {
+      "percentage": 0,
+      "odds": 10.5
+    },
+    "3 - 2": {
+      "percentage": 0,
+      "odds": 18
+    },
+    "4 - 2": {
+      "percentage": 0,
+      "odds": 38
+    },
+    "5 - 2": {
+      "percentage": 0,
+      "odds": 65
+    },
+    "0 - 3": {
+      "percentage": 0,
+      "odds": 32
+    },
+    "1 - 3": {
+      "percentage": 0,
+      "odds": 20
+    },
+    "2 - 3": {
+      "percentage": 0,
+      "odds": 24
+    },
+    "3 - 3": {
+      "percentage": 0,
+      "odds": 36
+    },
+    "4 - 3": {
+      "percentage": 0,
+      "odds": 60
+    },
+    "5 - 3": {
+      "percentage": 0,
+      "odds": 110
+    },
+    "0 - 4": {
+      "percentage": 0,
+      "odds": 60
+    },
+    "1 - 4": {
+      "percentage": 0,
+      "odds": 48
+    },
+    "2 - 4": {
+      "percentage": 0,
+      "odds": 50
+    },
+    "3 - 4": {
+      "percentage": 0,
+      "odds": 65
+    },
+    "4 - 4": {
+      "percentage": 0,
+      "odds": 110
+    },
+    "5 - 4": {
+      "percentage": 0,
+      "odds": 250
+    },
+    "0 - 5": {
+      "percentage": 0,
+      "odds": 150
+    },
+    "1 - 5": {
+      "percentage": 0,
+      "odds": 100
+    },
+    "2 - 5": {
+      "percentage": 0,
+      "odds": 110
+    },
+    "3 - 5": {
+      "percentage": 0,
+      "odds": 170
+    },
+    "4 - 5": {
+      "percentage": 0,
+      "odds": 300
+    },
+    "Autre": {
+      "percentage": 0,
+      "odds": 48
+    }
+  },
+  "Score exact multichance": {
+    "1-0 ou 2-0 ou 3-0": {
+      "percentage": 0,
+      "odds": 4.1
+    },
+    "0-1 ou 0-2 ou 0-3": {
+      "percentage": 0,
+      "odds": 6
+    },
+    "4-0 ou 5-0 ou 6-0": {
+      "percentage": 0,
+      "odds": 25
+    },
+    "0-4 ou 0-5 ou 0-6": {
+      "percentage": 0,
+      "odds": 55
+    },
+    "2-1 ou 3-1 ou 4-1": {
+      "percentage": 0,
+      "odds": 4.6
+    },
+    "1-2 ou 1-3 ou 1-4": {
+      "percentage": 0,
+      "odds": 6.5
+    },
+    "3-2 ou 4-2 ou 4-3 ou 5-1": {
+      "percentage": 0,
+      "odds": 10.5
+    },
+    "2-3 ou 2-4 ou 3-4 ou 1-5": {
+      "percentage": 0,
+      "odds": 15
+    },
+    "Autre victoire \u00e0 domicile": {
+      "percentage": 0,
+      "odds": 38
+    },
+    "Autre victoire \u00e0 l'ext\u00e9rieur": {
+      "percentage": 0,
+      "odds": 60
+    },
+    "Match nul": {
+      "percentage": 0,
+      "odds": 3.4
+    }
+  },
+  "Les 2 \u00e9quipes marquent": {
+    "Oui": {
+      "percentage": 100,
+      "odds": 1.54
+    },
+    "Non": {
+      "percentage": 0,
+      "odds": 2.2
+    }
+  },
+  "\u00c9cart de buts|West Ham gagne par au moins 3 buts d'\u00e9cart": {
+    "Oui": {
+      "percentage": 0,
+      "odds": 6.75
+    },
+    "Non": {
+      "percentage": 100,
+      "odds": 1.07
+    }
+  },
+  "\u00c9cart de buts|West Ham gagne par au moins 2 buts d'\u00e9cart": {
+    "Oui": {
+      "percentage": 0,
+      "odds": 3.35
+    },
+    "Non": {
+      "percentage": 0,
+      "odds": 1.24
+    }
+  },
+  "\u00c9cart de buts|Bournemouth gagne par au moins 2 buts d'\u00e9cart": {
+    "Non": {
+      "percentage": 100,
+      "odds": 1.09
+    },
+    "Oui": {
+      "percentage": 0,
+      "odds": 5.9
+    }
+  },
+  "\u00c9cart de buts (handicap)": {
+    "West Ham +1.5": {
+      "percentage": 0,
+      "odds": 1.09
+    },
+    "Bournemouth -1.5": {
+      "percentage": 0,
+      "odds": 5.9
+    }
+  },
+  "Nombre de buts": {
+    "Plus de 5": {
+      "percentage": 0,
+      "odds": 7.75
+    },
+    "Moins de 5": {
+      "percentage": 0,
+      "odds": 1.08
+    }
+  },
+  "Vainqueur (rembours\u00e9 si match nul)": {
+    "West Ham": {
+      "percentage": 100,
+      "odds": 1.5
+    },
+    "Bournemouth": {
+      "percentage": 0,
+      "odds": 2.25
+    }
+  },
+  "\u00c9quipe qui marque le 1er but": {
+    "West Ham": {
+      "percentage": 0,
+      "odds": 1.66
+    },
+    "Aucune": {
+      "percentage": 0,
+      "odds": 13
+    },
+    "Bournemouth": {
+      "percentage": 0,
+      "odds": 2.1
+    }
+  },
+  "\u00c9quipe qui marque le dernier but": {
+    "West Ham": {
+      "percentage": 0,
+      "odds": 1.66
+    },
+    "Aucune": {
+      "percentage": 0,
+      "odds": 13
+    },
+    "Bournemouth": {
+      "percentage": 0,
+      "odds": 2.1
+    }
+  },
+  "Mi-temps - R\u00e9sultat": {
+    "West Ham": {
+      "percentage": 0,
+      "odds": 2.4
+    },
+    "Match nul": {
+      "percentage": 0,
+      "odds": 2.15
+    },
+    "Bournemouth": {
+      "percentage": 0,
+      "odds": 3.4
+    }
+  },
+  "Mi-temps - Score exact": {
+    "0 - 0": {
+      "percentage": 0,
+      "odds": 3.05
+    },
+    "1 - 1": {
+      "percentage": 0,
+      "odds": 6.5
+    },
+    "2 - 2": {
+      "percentage": 0,
+      "odds": 44
+    },
+    "1 - 0": {
+      "percentage": 0,
+      "odds": 4
+    },
+    "2 - 0": {
+      "percentage": 0,
+      "odds": 9
+    },
+    "2 - 1": {
+      "percentage": 0,
+      "odds": 15
+    },
+    "0 - 1": {
+      "percentage": 0,
+      "odds": 5
+    },
+    "0 - 2": {
+      "percentage": 0,
+      "odds": 15
+    },
+    "1 - 2": {
+      "percentage": 0,
+      "odds": 20
+    },
+    "Autre": {
+      "percentage": 0,
+      "odds": 11.5
+    }
+  },
+  "Mi-temps - Nombre de buts": {
+    "Plus de 3": {
+      "percentage": 0,
+      "odds": 13.5
+    },
+    "Moins de 3": {
+      "percentage": 0,
+      "odds": 1.02
+    }
+  },
+  "Mi-temps - \u00c9cart de buts (handicap)": {
+    "West Ham +0.5": {
+      "percentage": 0,
+      "odds": 1.24
+    },
+    "Bournemouth -0.5": {
+      "percentage": 0,
+      "odds": 3.4
+    }
+  },
+  "Minute du 1er but (10 min)": {
+    "1-10": {
+      "percentage": 0,
+      "odds": 3.85
+    },
+    "11-20": {
+      "percentage": 0,
+      "odds": 4.1
+    },
+    "21-30": {
+      "percentage": 0,
+      "odds": 5.1
+    },
+    "31-40": {
+      "percentage": 0,
+      "odds": 6.25
+    },
+    "41-50": {
+      "percentage": 0,
+      "odds": 7.25
+    },
+    "51-60": {
+      "percentage": 0,
+      "odds": 9.5
+    },
+    "61-70": {
+      "percentage": 0,
+      "odds": 13.5
+    },
+    "71-80": {
+      "percentage": 0,
+      "odds": 18
+    },
+    "81-90": {
+      "percentage": 0,
+      "odds": 19
+    },
+    "Aucun": {
+      "percentage": 0,
+      "odds": 13
+    }
+  },
+  "Minute du 1er but (15 min)": {
+    "1-15": {
+      "percentage": 0,
+      "odds": 2.7
+    },
+    "16-30": {
+      "percentage": 0,
+      "odds": 3.45
+    },
+    "31-45": {
+      "percentage": 0,
+      "odds": 4.4
+    },
+    "46-60": {
+      "percentage": 0,
+      "odds": 7
+    },
+    "61-75": {
+      "percentage": 0,
+      "odds": 10
+    },
+    "76-90": {
+      "percentage": 0,
+      "odds": 13.5
+    },
+    "Aucun": {
+      "percentage": 0,
+      "odds": 13
+    }
+  },
+  "Nombre exact de buts": {
+    "0": {
+      "percentage": 0,
+      "odds": 13
+    },
+    "1": {
+      "percentage": 0,
+      "odds": 5.2
+    },
+    "2": {
+      "percentage": 0,
+      "odds": 3.65
+    },
+    "3": {
+      "percentage": 0,
+      "odds": 3.7
+    },
+    "4": {
+      "percentage": 0,
+      "odds": 4.5
+    },
+    "5": {
+      "percentage": 0,
+      "odds": 7.25
+    },
+    "6": {
+      "percentage": 0,
+      "odds": 13
+    },
+    "7": {
+      "percentage": 0,
+      "odds": 28
+    },
+    "8": {
+      "percentage": 0,
+      "odds": 55
+    },
+    "9 ou plus": {
+      "percentage": 0,
+      "odds": 80
+    }
+  },
+  "Nombre de buts (intervalle)": {
+    "0-1": {
+      "percentage": 0,
+      "odds": 4
+    },
+    "2-3": {
+      "percentage": 0,
+      "odds": 1.96
+    },
+    "4-6": {
+      "percentage": 0,
+      "odds": 2.65
+    },
+    "7 et plus": {
+      "percentage": 0,
+      "odds": 19
+    }
+  },
+  "Nombre de buts de West Ham": {
+    "Plus de 4,5": {
+      "percentage": 0,
+      "odds": 21
+    },
+    "Moins de 4,5": {
+      "percentage": 0,
+      "odds": 1.01
+    }
+  },
+  "Nombre de buts de Bournemouth": {
+    "Plus de 4,5": {
+      "percentage": 0,
+      "odds": 50
+    },
+    "Moins de 4,5": {
+      "percentage": 0,
+      "odds": 1
+    }
+  },
+  "Nombre exact de buts de West Ham": {
+    "0": {
+      "percentage": 0,
+      "odds": 4.3
+    },
+    "1": {
+      "percentage": 0,
+      "odds": 2.7
+    },
+    "2": {
+      "percentage": 0,
+      "odds": 3.15
+    },
+    "3 ou plus": {
+      "percentage": 0,
+      "odds": 3.45
+    }
+  },
+  "Nombre exact de buts de Bournemouth": {
+    "0": {
+      "percentage": 0,
+      "odds": 3.1
+    },
+    "1": {
+      "percentage": 0,
+      "odds": 2.4
+    },
+    "2": {
+      "percentage": 0,
+      "odds": 3.55
+    },
+    "3 ou plus": {
+      "percentage": 0,
+      "odds": 5.3
+    }
+  },
+  "Nombre de buts de West Ham (intervalle)": {
+    "1-2": {
+      "percentage": 0,
+      "odds": 1.56
+    },
+    "1-3": {
+      "percentage": 0,
+      "odds": 1.28
+    },
+    "2-3": {
+      "percentage": 0,
+      "odds": 2.1
+    },
+    "4 et plus": {
+      "percentage": 0,
+      "odds": 7.75
+    },
+    "0": {
+      "percentage": 0,
+      "odds": 4.3
+    }
+  },
+  "Nombre de buts de Bournemouth (intervalle)": {
+    "1-2": {
+      "percentage": 0,
+      "odds": 1.54
+    },
+    "1-3": {
+      "percentage": 0,
+      "odds": 1.34
+    },
+    "2-3": {
+      "percentage": 0,
+      "odds": 2.55
+    },
+    "4 et plus": {
+      "percentage": 0,
+      "odds": 15
+    },
+    "0": {
+      "percentage": 0,
+      "odds": 3.1
+    }
+  },
+  "Mi-temps/Fin de match": {
+    "West Ham/West Ham": {
+      "percentage": 0,
+      "odds": 3.05
+    },
+    "Bournemouth/Bournemouth": {
+      "percentage": 0,
+      "odds": 4.8
+    },
+    "Match nul/West Ham": {
+      "percentage": 0,
+      "odds": 4.9
+    },
+    "Match nul/Match nul": {
+      "percentage": 0,
+      "odds": 5.5
+    },
+    "Match nul/Bournemouth": {
+      "percentage": 0,
+      "odds": 6.75
+    },
+    "West Ham/Match nul": {
+      "percentage": 0,
+      "odds": 12
+    },
+    "Bournemouth/Match nul": {
+      "percentage": 0,
+      "odds": 12.5
+    },
+    "Bournemouth/West Ham": {
+      "percentage": 0,
+      "odds": 20
+    },
+    "West Ham/Bournemouth": {
+      "percentage": 0,
+      "odds": 26
+    }
+  },
+  "Marge de victoire": {
+    "West Ham gagne d'au moins 3 buts d'\u00e9cart": {
+      "percentage": 0,
+      "odds": 6.75
+    },
+    "West Ham gagne par exactement 2 buts d'\u00e9cart": {
+      "percentage": 0,
+      "odds": 5.4
+    },
+    "West Ham gagne par exactement 1 but d'\u00e9cart": {
+      "percentage": 0,
+      "odds": 3.75
+    },
+    "Match nul": {
+      "percentage": 0,
+      "odds": 3.4
+    },
+    "Bournemouth gagne par exactement 1 but d'\u00e9cart": {
+      "percentage": 0,
+      "odds": 4.6
+    },
+    "Bournemouth gagne par exactement 2 buts d'\u00e9cart": {
+      "percentage": 0,
+      "odds": 8.5
+    },
+    "Bournemouth gagne d'au moins 3 buts d'\u00e9cart": {
+      "percentage": 0,
+      "odds": 15
+    }
+  },
+  "R\u00e9sultat et nombre de buts": {
+    "West Ham et moins de 4,5": {
+      "percentage": 0,
+      "odds": 2.4
+    },
+    "Bournemouth et moins de 4,5": {
+      "percentage": 0,
+      "odds": 3.55
+    },
+    "Match nul et moins de 4,5": {
+      "percentage": 0,
+      "odds": 3.6
+    },
+    "West Ham et plus de 4,5": {
+      "percentage": 0,
+      "odds": 6.75
+    },
+    "Bournemouth et plus de 4,5": {
+      "percentage": 0,
+      "odds": 11
+    },
+    "Match nul et plus de 4,5": {
+      "percentage": 0,
+      "odds": 32
+    }
+  },
+  "R\u00e9sultat et les deux \u00e9quipes marquent": {
+    "West Ham et oui": {
+      "percentage": 0,
+      "odds": 3.4
+    },
+    "West Ham et non": {
+      "percentage": 0,
+      "odds": 3.75
+    },
+    "Match nul et oui": {
+      "percentage": 0,
+      "odds": 4.1
+    },
+    "Bournemouth et oui": {
+      "percentage": 0,
+      "odds": 4.8
+    },
+    "Bournemouth et non": {
+      "percentage": 0,
+      "odds": 5.7
+    },
+    "Match nul et non": {
+      "percentage": 0,
+      "odds": 13
+    }
+  },
+  "\u00c9quipe qui marque le 1er but et r\u00e9sultat": {
+    "West Ham marque et West Ham gagne": {
+      "percentage": 0,
+      "odds": 2.2
+    },
+    "Bournemouth marque et Bournemouth gagne": {
+      "percentage": 0,
+      "odds": 3.45
+    },
+    "West Ham marque et match nul": {
+      "percentage": 0,
+      "odds": 7.25
+    },
+    "Bournemouth marque et match nul": {
+      "percentage": 0,
+      "odds": 7.25
+    },
+    "Bournemouth marque et West Ham gagne": {
+      "percentage": 0,
+      "odds": 9
+    },
+    "West Ham marque et Bournemouth gagne": {
+      "percentage": 0,
+      "odds": 13
+    },
+    "Aucun but": {
+      "percentage": 0,
+      "odds": 13
+    }
+  },
+  "Double chance et nombre de buts": {
+    "West Ham/Bournemouth et moins de 4,5": {
+      "percentage": 0,
+      "odds": 1.52
+    },
+    "West Ham/match nul et moins de 4,5": {
+      "percentage": 0,
+      "odds": 1.54
+    },
+    "Bournemouth/match nul et moins de 4,5": {
+      "percentage": 0,
+      "odds": 1.9
+    },
+    "West Ham/Bournemouth et plus de 4,5": {
+      "percentage": 0,
+      "odds": 4.6
+    },
+    "West Ham/match nul et plus de 4,5": {
+      "percentage": 0,
+      "odds": 6
+    },
+    "Bournemouth/match nul et plus de 4,5": {
+      "percentage": 0,
+      "odds": 8.5
+    }
+  },
+  "Double chance et les deux \u00e9quipes marquent": {
+    "West Ham/match nul et oui": {
+      "percentage": 0,
+      "odds": 1.98
+    },
+    "West Ham/Bournemouth et oui": {
+      "percentage": 0,
+      "odds": 2.15
+    },
+    "Bournemouth/match nul et oui": {
+      "percentage": 0,
+      "odds": 2.4
+    },
+    "West Ham/Bournemouth et non": {
+      "percentage": 0,
+      "odds": 2.45
+    },
+    "West Ham/match nul et non": {
+      "percentage": 0,
+      "odds": 3.1
+    },
+    "Bournemouth/match nul et non": {
+      "percentage": 0,
+      "odds": 4.3
+    }
+  },
+  "Quelle \u00e9quipe va marquer ?": {
+    "Aucune": {
+      "percentage": 0,
+      "odds": 13
+    },
+    "Seulement West Ham": {
+      "percentage": 0,
+      "odds": 3.75
+    },
+    "Seulement Bournemouth": {
+      "percentage": 0,
+      "odds": 5.7
+    },
+    "Les deux \u00e9quipes": {
+      "percentage": 0,
+      "odds": 1.5
+    }
+  },
+  "West Ham garde sa cage inviol\u00e9e": {
+    "Oui": {
+      "percentage": 0,
+      "odds": 3.1
+    },
+    "Non": {
+      "percentage": 0,
+      "odds": 1.27
+    }
+  },
+  "Bournemouth garde sa cage inviol\u00e9e": {
+    "Oui": {
+      "percentage": 0,
+      "odds": 4.3
+    },
+    "Non": {
+      "percentage": 0,
+      "odds": 1.15
+    }
+  },
+  "West Ham gagne sans conc\u00e9der de but": {
+    "Oui": {
+      "percentage": 0,
+      "odds": 3.75
+    },
+    "Non": {
+      "percentage": 0,
+      "odds": 1.2
+    }
+  },
+  "Bournemouth gagne sans conc\u00e9der de but": {
+    "Oui": {
+      "percentage": 0,
+      "odds": 5.7
+    },
+    "Non": {
+      "percentage": 0,
+      "odds": 1.09
+    }
+  },
+  "West Ham gagne une des mi-temps": {
+    "Oui": {
+      "percentage": 0,
+      "odds": 1.48
+    },
+    "Non": {
+      "percentage": 0,
+      "odds": 2.2
+    }
+  },
+  "Bournemouth gagne une des mi-temps": {
+    "Oui": {
+      "percentage": 0,
+      "odds": 1.92
+    },
+    "Non": {
+      "percentage": 0,
+      "odds": 1.62
+    }
+  },
+  "West Ham gagne les deux mi-temps": {
+    "Oui": {
+      "percentage": 0,
+      "odds": 5.5
+    },
+    "Non": {
+      "percentage": 0,
+      "odds": 1.1
+    }
+  },
+  "Bournemouth gagne les deux mi-temps": {
+    "Oui": {
+      "percentage": 0,
+      "odds": 10
+    },
+    "Non": {
+      "percentage": 0,
+      "odds": 1.04
+    }
+  },
+  "West Ham marque dans les deux mi-temps": {
+    "Oui": {
+      "percentage": 0,
+      "odds": 2.65
+    },
+    "Non": {
+      "percentage": 0,
+      "odds": 1.35
+    }
+  },
+  "Bournemouth marque dans les deux mi-temps": {
+    "Oui": {
+      "percentage": 0,
+      "odds": 3.65
+    },
+    "Non": {
+      "percentage": 0,
+      "odds": 1.21
+    }
+  },
+  "Mi-temps - Double chance": {
+    "West Ham ou match nul": {
+      "percentage": 0,
+      "odds": 1.24
+    },
+    "West Ham ou Bournemouth": {
+      "percentage": 0,
+      "odds": 1.5
+    },
+    "Bournemouth ou match nul": {
+      "percentage": 0,
+      "odds": 1.4
+    }
+  },
+  "Mi-temps - Les 2 \u00e9quipes marquent": {
+    "Oui": {
+      "percentage": 0,
+      "odds": 3.65
+    },
+    "Non": {
+      "percentage": 0,
+      "odds": 1.21
+    }
+  },
+  "Mi-temps - Nombre de buts de West Ham": {
+    "Plus de 2,5": {
+      "percentage": 0,
+      "odds": 16
+    },
+    "Moins de 2,5": {
+      "percentage": 0,
+      "odds": 1.02
+    }
+  },
+  "Mi-temps - Nombre de buts de Bournemouth": {
+    "Plus de 2,5": {
+      "percentage": 0,
+      "odds": 29
+    },
+    "Moins de 2,5": {
+      "percentage": 0,
+      "odds": 1.01
+    }
+  },
+  "Mi-temps - Nombre exact de buts": {
+    "0": {
+      "percentage": 0,
+      "odds": 3.05
+    },
+    "1": {
+      "percentage": 0,
+      "odds": 2.45
+    },
+    "2": {
+      "percentage": 0,
+      "odds": 3.6
+    },
+    "3 ou plus": {
+      "percentage": 0,
+      "odds": 5.2
+    }
+  },
+  "Mi-temps - Nombre de buts (intervalle)": {
+    "0": {
+      "percentage": 0,
+      "odds": 3.05
+    },
+    "1-2": {
+      "percentage": 0,
+      "odds": 1.54
+    },
+    "1-3": {
+      "percentage": 100,
+      "odds": 1.35
+    },
+    "2-3": {
+      "percentage": 0,
+      "odds": 2.55
+    },
+    "4 et plus": {
+      "percentage": 0,
+      "odds": 15
+    }
+  },
+  "Mi-temps - Vainqueur (rembours\u00e9 si match nul)": {
+    "West Ham": {
+      "percentage": 0,
+      "odds": 1.52
+    },
+    "Bournemouth": {
+      "percentage": 0,
+      "odds": 2.1
+    }
+  },
+  "Mi-temps - West Ham gardera t-il sa cage inviol\u00e9e ?": {
+    "Oui": {
+      "percentage": 0,
+      "odds": 1.58
+    },
+    "Non": {
+      "percentage": 0,
+      "odds": 2
+    }
+  },
+  "Mi-temps - Bournemouth gardera t-il sa cage inviol\u00e9e ?": {
+    "Oui": {
+      "percentage": 0,
+      "odds": 1.82
+    },
+    "Non": {
+      "percentage": 0,
+      "odds": 1.7
+    }
+  },
+  "Mi-temps - R\u00e9sultat et nombre de buts": {
+    "Match nul et moins de 1,5": {
+      "percentage": 0,
+      "odds": 3.05
+    },
+    "West Ham et moins de 1,5": {
+      "percentage": 0,
+      "odds": 4
+    },
+    "West Ham et plus de 1,5": {
+      "percentage": 0,
+      "odds": 4.9
+    },
+    "Bournemouth et moins de 1,5": {
+      "percentage": 0,
+      "odds": 5
+    },
+    "Match nul et plus de 1,5": {
+      "percentage": 0,
+      "odds": 6
+    },
+    "Bournemouth et plus de 1,5": {
+      "percentage": 0,
+      "odds": 7.5
+    }
+  },
+  "Mi-temps  - Double chance et les deux \u00e9quipes marquent": {
+    "West Ham/match nul et non": {
+      "percentage": 0,
+      "odds": 1.58
+    },
+    "West Ham/Bournemouth et non": {
+      "percentage": 0,
+      "odds": 1.76
+    },
+    "Bournemouth/match nul et non": {
+      "percentage": 0,
+      "odds": 1.82
+    },
+    "West Ham/match nul et oui": {
+      "percentage": 0,
+      "odds": 4.3
+    },
+    "Bournemouth/match nul et oui": {
+      "percentage": 0,
+      "odds": 4.6
+    },
+    "West Ham/Bournemouth et oui": {
+      "percentage": 0,
+      "odds": 7.25
+    }
+  },
+  "Mi-temps avec le plus de buts": {
+    "1re mi-temps": {
+      "percentage": 0,
+      "odds": 2.95
+    },
+    "\u00c9galit\u00e9": {
+      "percentage": 0,
+      "odds": 3.45
+    },
+    "2de mi-temps": {
+      "percentage": 0,
+      "odds": 1.84
+    }
+  }
+}

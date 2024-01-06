@@ -1,0 +1,1138 @@
+{
+  "R\u00e9sultat": {
+    "Everton": {
+      "percentage": 5,
+      "odds": 2.75
+    },
+    "Match nul": {
+      "percentage": 37,
+      "odds": 3.5
+    },
+    "Aston Villa": {
+      "percentage": 58,
+      "odds": 2.45
+    }
+  },
+  "Double chance": {
+    "Everton ou match nul": {
+      "percentage": 1,
+      "odds": 1.5
+    },
+    "Everton ou Aston Villa": {
+      "percentage": 4,
+      "odds": 1.26
+    },
+    "Aston Villa ou match nul": {
+      "percentage": 95,
+      "odds": 1.39
+    }
+  },
+  "Score exact": {
+    "0 - 0": {
+      "percentage": 0,
+      "odds": 11.5
+    },
+    "1 - 0": {
+      "percentage": 0,
+      "odds": 9.5
+    },
+    "2 - 0": {
+      "percentage": 0,
+      "odds": 13
+    },
+    "3 - 0": {
+      "percentage": 0,
+      "odds": 25
+    },
+    "4 - 0": {
+      "percentage": 0,
+      "odds": 50
+    },
+    "5 - 0": {
+      "percentage": 0,
+      "odds": 110
+    },
+    "0 - 1": {
+      "percentage": 0,
+      "odds": 9
+    },
+    "1 - 1": {
+      "percentage": 3,
+      "odds": 6
+    },
+    "2 - 1": {
+      "percentage": 1,
+      "odds": 8.5
+    },
+    "3 - 1": {
+      "percentage": 0,
+      "odds": 17
+    },
+    "4 - 1": {
+      "percentage": 0,
+      "odds": 42
+    },
+    "5 - 1": {
+      "percentage": 0,
+      "odds": 80
+    },
+    "0 - 2": {
+      "percentage": 5,
+      "odds": 11
+    },
+    "1 - 2": {
+      "percentage": 26,
+      "odds": 8
+    },
+    "2 - 2": {
+      "percentage": 38,
+      "odds": 10
+    },
+    "3 - 2": {
+      "percentage": 0,
+      "odds": 22
+    },
+    "4 - 2": {
+      "percentage": 0,
+      "odds": 48
+    },
+    "5 - 2": {
+      "percentage": 0,
+      "odds": 100
+    },
+    "0 - 3": {
+      "percentage": 26,
+      "odds": 21
+    },
+    "1 - 3": {
+      "percentage": 1,
+      "odds": 15
+    },
+    "2 - 3": {
+      "percentage": 0,
+      "odds": 21
+    },
+    "3 - 3": {
+      "percentage": 0,
+      "odds": 34
+    },
+    "4 - 3": {
+      "percentage": 0,
+      "odds": 65
+    },
+    "5 - 3": {
+      "percentage": 0,
+      "odds": 150
+    },
+    "0 - 4": {
+      "percentage": 0,
+      "odds": 46
+    },
+    "1 - 4": {
+      "percentage": 0,
+      "odds": 34
+    },
+    "2 - 4": {
+      "percentage": 0,
+      "odds": 44
+    },
+    "3 - 4": {
+      "percentage": 0,
+      "odds": 65
+    },
+    "4 - 4": {
+      "percentage": 0,
+      "odds": 110
+    },
+    "5 - 4": {
+      "percentage": 0,
+      "odds": 300
+    },
+    "0 - 5": {
+      "percentage": 0,
+      "odds": 85
+    },
+    "1 - 5": {
+      "percentage": 0,
+      "odds": 65
+    },
+    "2 - 5": {
+      "percentage": 0,
+      "odds": 85
+    },
+    "3 - 5": {
+      "percentage": 0,
+      "odds": 140
+    },
+    "4 - 5": {
+      "percentage": 0,
+      "odds": 300
+    },
+    "Autre": {
+      "percentage": 0,
+      "odds": 55
+    }
+  },
+  "Score exact multichance": {
+    "1-0 ou 2-0 ou 3-0": {
+      "percentage": 0,
+      "odds": 5.2
+    },
+    "0-1 ou 0-2 ou 0-3": {
+      "percentage": 0,
+      "odds": 4.6
+    },
+    "4-0 ou 5-0 ou 6-0": {
+      "percentage": 0,
+      "odds": 44
+    },
+    "0-4 ou 0-5 ou 0-6": {
+      "percentage": 0,
+      "odds": 36
+    },
+    "2-1 ou 3-1 ou 4-1": {
+      "percentage": 0,
+      "odds": 5.8
+    },
+    "1-2 ou 1-3 ou 1-4": {
+      "percentage": 100,
+      "odds": 5.3
+    },
+    "3-2 ou 4-2 ou 4-3 ou 5-1": {
+      "percentage": 0,
+      "odds": 14
+    },
+    "2-3 ou 2-4 ou 3-4 ou 1-5": {
+      "percentage": 0,
+      "odds": 12.5
+    },
+    "Autre victoire \u00e0 domicile": {
+      "percentage": 0,
+      "odds": 55
+    },
+    "Autre victoire \u00e0 l'ext\u00e9rieur": {
+      "percentage": 0,
+      "odds": 50
+    },
+    "Match nul": {
+      "percentage": 0,
+      "odds": 3.1
+    }
+  },
+  "Les 2 \u00e9quipes marquent": {
+    "Oui": {
+      "percentage": 98,
+      "odds": 1.54
+    },
+    "Non": {
+      "percentage": 2,
+      "odds": 2.2
+    }
+  },
+  "\u00c9cart de buts|Everton gagne par au moins 3 buts d'\u00e9cart": {
+    "Oui": {
+      "percentage": 0,
+      "odds": 10
+    },
+    "Non": {
+      "percentage": 100,
+      "odds": 1.04
+    }
+  },
+  "\u00c9cart de buts|Everton gagne par au moins 2 buts d'\u00e9cart": {
+    "Oui": {
+      "percentage": 0,
+      "odds": 4.7
+    },
+    "Non": {
+      "percentage": 100,
+      "odds": 1.13
+    }
+  },
+  "\u00c9cart de buts|Aston Villa gagne par au moins 2 buts d'\u00e9cart": {
+    "Non": {
+      "percentage": 9,
+      "odds": 1.17
+    },
+    "Oui": {
+      "percentage": 91,
+      "odds": 4.1
+    }
+  },
+  "\u00c9cart de buts|Aston Villa gagne par au moins 3 buts d'\u00e9cart": {
+    "Non": {
+      "percentage": 100,
+      "odds": 1.04
+    },
+    "Oui": {
+      "percentage": 0,
+      "odds": 9
+    }
+  },
+  "\u00c9cart de buts (handicap)": {
+    "Everton +2.5": {
+      "percentage": 0,
+      "odds": 1.04
+    },
+    "Aston Villa -2.5": {
+      "percentage": 0,
+      "odds": 9
+    }
+  },
+  "Nombre de buts": {
+    "Plus de 5": {
+      "percentage": 0,
+      "odds": 8
+    },
+    "Moins de 5": {
+      "percentage": 100,
+      "odds": 1.08
+    }
+  },
+  "Vainqueur (rembours\u00e9 si match nul)": {
+    "Everton": {
+      "percentage": 3,
+      "odds": 1.92
+    },
+    "Aston Villa": {
+      "percentage": 97,
+      "odds": 1.7
+    }
+  },
+  "\u00c9quipe qui marque le 1er but": {
+    "Everton": {
+      "percentage": 0,
+      "odds": 1.92
+    },
+    "Aucune": {
+      "percentage": 0,
+      "odds": 11.5
+    },
+    "Aston Villa": {
+      "percentage": 100,
+      "odds": 1.8
+    }
+  },
+  "\u00c9quipe qui marque le dernier but": {
+    "Everton": {
+      "percentage": 0,
+      "odds": 1.92
+    },
+    "Aucune": {
+      "percentage": 0,
+      "odds": 11.5
+    },
+    "Aston Villa": {
+      "percentage": 0,
+      "odds": 1.8
+    }
+  },
+  "Mi-temps - R\u00e9sultat": {
+    "Everton": {
+      "percentage": 2,
+      "odds": 3
+    },
+    "Match nul": {
+      "percentage": 98,
+      "odds": 2.1
+    },
+    "Aston Villa": {
+      "percentage": 0,
+      "odds": 2.75
+    }
+  },
+  "Mi-temps - Score exact": {
+    "0 - 0": {
+      "percentage": 49,
+      "odds": 2.95
+    },
+    "1 - 1": {
+      "percentage": 0,
+      "odds": 6.5
+    },
+    "2 - 2": {
+      "percentage": 0,
+      "odds": 44
+    },
+    "1 - 0": {
+      "percentage": 0,
+      "odds": 4.6
+    },
+    "2 - 0": {
+      "percentage": 0,
+      "odds": 12.5
+    },
+    "2 - 1": {
+      "percentage": 0,
+      "odds": 18
+    },
+    "0 - 1": {
+      "percentage": 51,
+      "odds": 4.3
+    },
+    "0 - 2": {
+      "percentage": 0,
+      "odds": 11
+    },
+    "1 - 2": {
+      "percentage": 0,
+      "odds": 17
+    },
+    "Autre": {
+      "percentage": 0,
+      "odds": 12
+    }
+  },
+  "Mi-temps - Nombre de buts": {
+    "Plus de 3": {
+      "percentage": 0,
+      "odds": 14
+    },
+    "Moins de 3": {
+      "percentage": 0,
+      "odds": 1.02
+    }
+  },
+  "Mi-temps - \u00c9cart de buts (handicap)": {
+    "Everton +0.5": {
+      "percentage": 0,
+      "odds": 1.33
+    },
+    "Aston Villa -0.5": {
+      "percentage": 0,
+      "odds": 2.75
+    }
+  },
+  "Minute du 1er but (10 min)": {
+    "1-10": {
+      "percentage": 0,
+      "odds": 3.9
+    },
+    "11-20": {
+      "percentage": 0,
+      "odds": 4.2
+    },
+    "21-30": {
+      "percentage": 0,
+      "odds": 5.1
+    },
+    "31-40": {
+      "percentage": 0,
+      "odds": 6.5
+    },
+    "41-50": {
+      "percentage": 0,
+      "odds": 7.25
+    },
+    "51-60": {
+      "percentage": 0,
+      "odds": 9.5
+    },
+    "61-70": {
+      "percentage": 0,
+      "odds": 13
+    },
+    "71-80": {
+      "percentage": 0,
+      "odds": 18
+    },
+    "81-90": {
+      "percentage": 0,
+      "odds": 18
+    },
+    "Aucun": {
+      "percentage": 0,
+      "odds": 11.5
+    }
+  },
+  "Minute du 1er but (15 min)": {
+    "1-15": {
+      "percentage": 100,
+      "odds": 2.75
+    },
+    "16-30": {
+      "percentage": 0,
+      "odds": 3.5
+    },
+    "31-45": {
+      "percentage": 0,
+      "odds": 4.4
+    },
+    "46-60": {
+      "percentage": 0,
+      "odds": 6.75
+    },
+    "61-75": {
+      "percentage": 0,
+      "odds": 9.5
+    },
+    "76-90": {
+      "percentage": 0,
+      "odds": 13
+    },
+    "Aucun": {
+      "percentage": 0,
+      "odds": 11.5
+    }
+  },
+  "Nombre exact de buts": {
+    "0": {
+      "percentage": 0,
+      "odds": 11.5
+    },
+    "1": {
+      "percentage": 0,
+      "odds": 5.1
+    },
+    "2": {
+      "percentage": 0,
+      "odds": 3.5
+    },
+    "3": {
+      "percentage": 0,
+      "odds": 3.75
+    },
+    "4": {
+      "percentage": 0,
+      "odds": 4.6
+    },
+    "5": {
+      "percentage": 0,
+      "odds": 7.5
+    },
+    "6": {
+      "percentage": 0,
+      "odds": 13.5
+    },
+    "7": {
+      "percentage": 0,
+      "odds": 30
+    },
+    "8": {
+      "percentage": 0,
+      "odds": 55
+    },
+    "9 ou plus": {
+      "percentage": 0,
+      "odds": 90
+    }
+  },
+  "Nombre de buts (intervalle)": {
+    "0-1": {
+      "percentage": 0,
+      "odds": 3.9
+    },
+    "2-3": {
+      "percentage": 0,
+      "odds": 1.94
+    },
+    "4-6": {
+      "percentage": 0,
+      "odds": 2.7
+    },
+    "7 et plus": {
+      "percentage": 0,
+      "odds": 21
+    }
+  },
+  "Nombre de buts de Everton": {
+    "Plus de 4,5": {
+      "percentage": 0,
+      "odds": 40
+    },
+    "Moins de 4,5": {
+      "percentage": 0,
+      "odds": 1
+    }
+  },
+  "Nombre de buts de Aston Villa": {
+    "Plus de 4,5": {
+      "percentage": 0,
+      "odds": 32
+    },
+    "Moins de 4,5": {
+      "percentage": 0,
+      "odds": 1.01
+    }
+  },
+  "Nombre exact de buts de Everton": {
+    "0": {
+      "percentage": 0,
+      "odds": 3.45
+    },
+    "1": {
+      "percentage": 0,
+      "odds": 2.45
+    },
+    "2": {
+      "percentage": 0,
+      "odds": 3.4
+    },
+    "3 ou plus": {
+      "percentage": 0,
+      "odds": 4.6
+    }
+  },
+  "Nombre exact de buts de Aston Villa": {
+    "0": {
+      "percentage": 0,
+      "odds": 3.75
+    },
+    "1": {
+      "percentage": 0,
+      "odds": 2.55
+    },
+    "2": {
+      "percentage": 0,
+      "odds": 3.3
+    },
+    "3 ou plus": {
+      "percentage": 0,
+      "odds": 4.1
+    }
+  },
+  "Nombre de buts de Everton (intervalle)": {
+    "1-2": {
+      "percentage": 0,
+      "odds": 1.52
+    },
+    "1-3": {
+      "percentage": 0,
+      "odds": 1.31
+    },
+    "2-3": {
+      "percentage": 0,
+      "odds": 2.4
+    },
+    "4 et plus": {
+      "percentage": 0,
+      "odds": 12
+    },
+    "0": {
+      "percentage": 0,
+      "odds": 3.45
+    }
+  },
+  "Nombre de buts de Aston Villa (intervalle)": {
+    "1-2": {
+      "percentage": 0,
+      "odds": 1.52
+    },
+    "1-3": {
+      "percentage": 100,
+      "odds": 1.29
+    },
+    "2-3": {
+      "percentage": 0,
+      "odds": 2.25
+    },
+    "4 et plus": {
+      "percentage": 0,
+      "odds": 10
+    },
+    "0": {
+      "percentage": 0,
+      "odds": 3.75
+    }
+  },
+  "Mi-temps/Fin de match": {
+    "Aston Villa/Aston Villa": {
+      "percentage": 100,
+      "odds": 3.65
+    },
+    "Everton/Everton": {
+      "percentage": 0,
+      "odds": 4.1
+    },
+    "Match nul/Match nul": {
+      "percentage": 0,
+      "odds": 5
+    },
+    "Match nul/Aston Villa": {
+      "percentage": 0,
+      "odds": 5.5
+    },
+    "Match nul/Everton": {
+      "percentage": 0,
+      "odds": 6
+    },
+    "Aston Villa/Match nul": {
+      "percentage": 0,
+      "odds": 11
+    },
+    "Everton/Match nul": {
+      "percentage": 0,
+      "odds": 11.5
+    },
+    "Everton/Aston Villa": {
+      "percentage": 0,
+      "odds": 22
+    },
+    "Aston Villa/Everton": {
+      "percentage": 0,
+      "odds": 24
+    }
+  },
+  "Marge de victoire": {
+    "Everton gagne d'au moins 3 buts d'\u00e9cart": {
+      "percentage": 0,
+      "odds": 11.5
+    },
+    "Everton gagne par exactement 2 buts d'\u00e9cart": {
+      "percentage": 0,
+      "odds": 7.25
+    },
+    "Everton gagne par exactement 1 but d'\u00e9cart": {
+      "percentage": 0,
+      "odds": 4.3
+    },
+    "Match nul": {
+      "percentage": 0,
+      "odds": 3.1
+    },
+    "Aston Villa gagne par exactement 1 but d'\u00e9cart": {
+      "percentage": 0,
+      "odds": 4
+    },
+    "Aston Villa gagne par exactement 2 buts d'\u00e9cart": {
+      "percentage": 100,
+      "odds": 6.25
+    },
+    "Aston Villa gagne d'au moins 3 buts d'\u00e9cart": {
+      "percentage": 0,
+      "odds": 9
+    }
+  },
+  "R\u00e9sultat et nombre de buts": {
+    "Aston Villa et moins de 4,5": {
+      "percentage": 0,
+      "odds": 2.75
+    },
+    "Everton et moins de 4,5": {
+      "percentage": 0,
+      "odds": 3.1
+    },
+    "Match nul et moins de 4,5": {
+      "percentage": 0,
+      "odds": 3.35
+    },
+    "Aston Villa et plus de 4,5": {
+      "percentage": 0,
+      "odds": 8.5
+    },
+    "Everton et plus de 4,5": {
+      "percentage": 0,
+      "odds": 9.5
+    },
+    "Match nul et plus de 4,5": {
+      "percentage": 0,
+      "odds": 32
+    }
+  },
+  "R\u00e9sultat et les deux \u00e9quipes marquent": {
+    "Match nul et oui": {
+      "percentage": 0,
+      "odds": 3.85
+    },
+    "Aston Villa et oui": {
+      "percentage": 0,
+      "odds": 3.9
+    },
+    "Aston Villa et non": {
+      "percentage": 100,
+      "odds": 4.3
+    },
+    "Everton et oui": {
+      "percentage": 0,
+      "odds": 4.3
+    },
+    "Everton et non": {
+      "percentage": 0,
+      "odds": 4.8
+    },
+    "Match nul et non": {
+      "percentage": 0,
+      "odds": 11.5
+    }
+  },
+  "\u00c9quipe qui marque le 1er but et r\u00e9sultat": {
+    "Aston Villa marque et Aston Villa gagne": {
+      "percentage": 0,
+      "odds": 2.6
+    },
+    "Everton marque et Everton gagne": {
+      "percentage": 0,
+      "odds": 2.95
+    },
+    "Everton marque et match nul": {
+      "percentage": 0,
+      "odds": 6.75
+    },
+    "Aston Villa marque et match nul": {
+      "percentage": 0,
+      "odds": 6.75
+    },
+    "Everton marque et Aston Villa gagne": {
+      "percentage": 0,
+      "odds": 10.5
+    },
+    "Aston Villa marque et Everton gagne": {
+      "percentage": 0,
+      "odds": 11.5
+    },
+    "Aucun but": {
+      "percentage": 0,
+      "odds": 11.5
+    }
+  },
+  "Double chance et nombre de buts": {
+    "Everton/Aston Villa et moins de 4,5": {
+      "percentage": 100,
+      "odds": 1.56
+    },
+    "Aston Villa/match nul et moins de 4,5": {
+      "percentage": 0,
+      "odds": 1.6
+    },
+    "Everton/match nul et moins de 4,5": {
+      "percentage": 0,
+      "odds": 1.7
+    },
+    "Everton/Aston Villa et plus de 4,5": {
+      "percentage": 0,
+      "odds": 4.9
+    },
+    "Aston Villa/match nul et plus de 4,5": {
+      "percentage": 0,
+      "odds": 7
+    },
+    "Everton/match nul et plus de 4,5": {
+      "percentage": 0,
+      "odds": 8
+    }
+  },
+  "Double chance et les deux \u00e9quipes marquent": {
+    "Aston Villa/match nul et oui": {
+      "percentage": 0,
+      "odds": 2.05
+    },
+    "Everton/match nul et oui": {
+      "percentage": 0,
+      "odds": 2.2
+    },
+    "Everton/Aston Villa et oui": {
+      "percentage": 100,
+      "odds": 2.2
+    },
+    "Everton/Aston Villa et non": {
+      "percentage": 0,
+      "odds": 2.5
+    },
+    "Aston Villa/match nul et non": {
+      "percentage": 0,
+      "odds": 3.45
+    },
+    "Everton/match nul et non": {
+      "percentage": 0,
+      "odds": 3.75
+    }
+  },
+  "Quelle \u00e9quipe va marquer ?": {
+    "Aucune": {
+      "percentage": 0,
+      "odds": 11.5
+    },
+    "Seulement Everton": {
+      "percentage": 0,
+      "odds": 4.8
+    },
+    "Seulement Aston Villa": {
+      "percentage": 0,
+      "odds": 4.3
+    },
+    "Les deux \u00e9quipes": {
+      "percentage": 0,
+      "odds": 1.5
+    }
+  },
+  "Everton garde sa cage inviol\u00e9e": {
+    "Oui": {
+      "percentage": 0,
+      "odds": 3.75
+    },
+    "Non": {
+      "percentage": 0,
+      "odds": 1.2
+    }
+  },
+  "Aston Villa garde sa cage inviol\u00e9e": {
+    "Oui": {
+      "percentage": 0,
+      "odds": 3.45
+    },
+    "Non": {
+      "percentage": 0,
+      "odds": 1.23
+    }
+  },
+  "Everton gagne sans conc\u00e9der de but": {
+    "Oui": {
+      "percentage": 0,
+      "odds": 4.8
+    },
+    "Non": {
+      "percentage": 0,
+      "odds": 1.13
+    }
+  },
+  "Aston Villa gagne sans conc\u00e9der de but": {
+    "Oui": {
+      "percentage": 0,
+      "odds": 4.3
+    },
+    "Non": {
+      "percentage": 100,
+      "odds": 1.15
+    }
+  },
+  "Everton gagne une des mi-temps": {
+    "Oui": {
+      "percentage": 100,
+      "odds": 1.74
+    },
+    "Non": {
+      "percentage": 0,
+      "odds": 1.78
+    }
+  },
+  "Aston Villa gagne une des mi-temps": {
+    "Oui": {
+      "percentage": 0,
+      "odds": 1.62
+    },
+    "Non": {
+      "percentage": 0,
+      "odds": 1.94
+    }
+  },
+  "Everton gagne les deux mi-temps": {
+    "Oui": {
+      "percentage": 0,
+      "odds": 8
+    },
+    "Non": {
+      "percentage": 0,
+      "odds": 1.05
+    }
+  },
+  "Aston Villa gagne les deux mi-temps": {
+    "Oui": {
+      "percentage": 0,
+      "odds": 7
+    },
+    "Non": {
+      "percentage": 0,
+      "odds": 1.07
+    }
+  },
+  "Everton marque dans les deux mi-temps": {
+    "Oui": {
+      "percentage": 99,
+      "odds": 3.35
+    },
+    "Non": {
+      "percentage": 1,
+      "odds": 1.24
+    }
+  },
+  "Aston Villa marque dans les deux mi-temps": {
+    "Oui": {
+      "percentage": 100,
+      "odds": 3.05
+    },
+    "Non": {
+      "percentage": 0,
+      "odds": 1.28
+    }
+  },
+  "Mi-temps - Double chance": {
+    "Everton ou match nul": {
+      "percentage": 0,
+      "odds": 1.33
+    },
+    "Everton ou Aston Villa": {
+      "percentage": 9,
+      "odds": 1.52
+    },
+    "Aston Villa ou match nul": {
+      "percentage": 91,
+      "odds": 1.29
+    }
+  },
+  "Mi-temps - Les 2 \u00e9quipes marquent": {
+    "Oui": {
+      "percentage": 0,
+      "odds": 3.7
+    },
+    "Non": {
+      "percentage": 0,
+      "odds": 1.2
+    }
+  },
+  "Mi-temps - Nombre de buts de Everton": {
+    "Plus de 2,5": {
+      "percentage": 0,
+      "odds": 25
+    },
+    "Moins de 2,5": {
+      "percentage": 0,
+      "odds": 1.01
+    }
+  },
+  "Mi-temps - Nombre de buts de Aston Villa": {
+    "Plus de 2,5": {
+      "percentage": 0,
+      "odds": 21
+    },
+    "Moins de 2,5": {
+      "percentage": 0,
+      "odds": 1.01
+    }
+  },
+  "Mi-temps - Nombre exact de buts": {
+    "0": {
+      "percentage": 0,
+      "odds": 2.95
+    },
+    "1": {
+      "percentage": 0,
+      "odds": 2.45
+    },
+    "2": {
+      "percentage": 0,
+      "odds": 3.65
+    },
+    "3 ou plus": {
+      "percentage": 0,
+      "odds": 5.4
+    }
+  },
+  "Mi-temps - Nombre de buts (intervalle)": {
+    "0": {
+      "percentage": 0,
+      "odds": 2.95
+    },
+    "1-2": {
+      "percentage": 0,
+      "odds": 1.56
+    },
+    "1-3": {
+      "percentage": 0,
+      "odds": 1.36
+    },
+    "2-3": {
+      "percentage": 0,
+      "odds": 2.6
+    },
+    "4 et plus": {
+      "percentage": 0,
+      "odds": 15
+    }
+  },
+  "Mi-temps - Vainqueur (rembours\u00e9 si match nul)": {
+    "Everton": {
+      "percentage": 0,
+      "odds": 1.84
+    },
+    "Aston Villa": {
+      "percentage": 0,
+      "odds": 1.68
+    }
+  },
+  "Mi-temps - Everton gardera t-il sa cage inviol\u00e9e ?": {
+    "Oui": {
+      "percentage": 0,
+      "odds": 1.7
+    },
+    "Non": {
+      "percentage": 0,
+      "odds": 1.82
+    }
+  },
+  "Mi-temps - Aston Villa gardera t-il sa cage inviol\u00e9e ?": {
+    "Oui": {
+      "percentage": 0,
+      "odds": 1.64
+    },
+    "Non": {
+      "percentage": 0,
+      "odds": 1.92
+    }
+  },
+  "Mi-temps - R\u00e9sultat et nombre de buts": {
+    "Match nul et moins de 1,5": {
+      "percentage": 0,
+      "odds": 2.95
+    },
+    "Aston Villa et moins de 1,5": {
+      "percentage": 0,
+      "odds": 4.3
+    },
+    "Everton et moins de 1,5": {
+      "percentage": 0,
+      "odds": 4.6
+    },
+    "Aston Villa et plus de 1,5": {
+      "percentage": 0,
+      "odds": 5.9
+    },
+    "Match nul et plus de 1,5": {
+      "percentage": 0,
+      "odds": 6
+    },
+    "Everton et plus de 1,5": {
+      "percentage": 0,
+      "odds": 6.5
+    }
+  },
+  "Mi-temps  - Double chance et les deux \u00e9quipes marquent": {
+    "Aston Villa/match nul et non": {
+      "percentage": 0,
+      "odds": 1.64
+    },
+    "Everton/match nul et non": {
+      "percentage": 0,
+      "odds": 1.7
+    },
+    "Everton/Aston Villa et non": {
+      "percentage": 0,
+      "odds": 1.78
+    },
+    "Aston Villa/match nul et oui": {
+      "percentage": 0,
+      "odds": 4.4
+    },
+    "Everton/match nul et oui": {
+      "percentage": 0,
+      "odds": 4.5
+    },
+    "Everton/Aston Villa et oui": {
+      "percentage": 0,
+      "odds": 7.25
+    }
+  },
+  "Mi-temps avec le plus de buts": {
+    "1re mi-temps": {
+      "percentage": 0,
+      "odds": 2.95
+    },
+    "\u00c9galit\u00e9": {
+      "percentage": 0,
+      "odds": 3.35
+    },
+    "2de mi-temps": {
+      "percentage": 0,
+      "odds": 1.88
+    }
+  }
+}

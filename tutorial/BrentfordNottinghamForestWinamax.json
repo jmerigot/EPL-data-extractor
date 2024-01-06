@@ -1,0 +1,1128 @@
+{
+  "R\u00e9sultat": {
+    "Brentford": {
+      "percentage": 4,
+      "odds": 1.88
+    },
+    "Match nul": {
+      "percentage": 93,
+      "odds": 3.2
+    },
+    "Nottingham Forest": {
+      "percentage": 3,
+      "odds": 3.3
+    }
+  },
+  "Double chance": {
+    "Brentford ou match nul": {
+      "percentage": 30,
+      "odds": 1.24
+    },
+    "Brentford ou Nottingham Forest": {
+      "percentage": 17,
+      "odds": 1.26
+    },
+    "Nottingham Forest ou match nul": {
+      "percentage": 53,
+      "odds": 1.72
+    }
+  },
+  "Score exact": {
+    "0 - 0": {
+      "percentage": 86,
+      "odds": 9.5
+    },
+    "1 - 0": {
+      "percentage": 4,
+      "odds": 7
+    },
+    "2 - 0": {
+      "percentage": 0,
+      "odds": 8.5
+    },
+    "3 - 0": {
+      "percentage": 0,
+      "odds": 15
+    },
+    "4 - 0": {
+      "percentage": 0,
+      "odds": 32
+    },
+    "5 - 0": {
+      "percentage": 0,
+      "odds": 60
+    },
+    "0 - 1": {
+      "percentage": 0,
+      "odds": 9.5
+    },
+    "1 - 1": {
+      "percentage": 0,
+      "odds": 5.9
+    },
+    "2 - 1": {
+      "percentage": 4,
+      "odds": 7.75
+    },
+    "3 - 1": {
+      "percentage": 0,
+      "odds": 13.5
+    },
+    "4 - 1": {
+      "percentage": 0,
+      "odds": 30
+    },
+    "5 - 1": {
+      "percentage": 0,
+      "odds": 60
+    },
+    "0 - 2": {
+      "percentage": 0,
+      "odds": 16
+    },
+    "1 - 2": {
+      "percentage": 0,
+      "odds": 10.5
+    },
+    "2 - 2": {
+      "percentage": 0,
+      "odds": 11.5
+    },
+    "3 - 2": {
+      "percentage": 6,
+      "odds": 22
+    },
+    "4 - 2": {
+      "percentage": 0,
+      "odds": 46
+    },
+    "5 - 2": {
+      "percentage": 0,
+      "odds": 85
+    },
+    "0 - 3": {
+      "percentage": 0,
+      "odds": 38
+    },
+    "1 - 3": {
+      "percentage": 0,
+      "odds": 25
+    },
+    "2 - 3": {
+      "percentage": 0,
+      "odds": 30
+    },
+    "3 - 3": {
+      "percentage": 0,
+      "odds": 46
+    },
+    "4 - 3": {
+      "percentage": 0,
+      "odds": 75
+    },
+    "5 - 3": {
+      "percentage": 0,
+      "odds": 160
+    },
+    "0 - 4": {
+      "percentage": 0,
+      "odds": 75
+    },
+    "1 - 4": {
+      "percentage": 0,
+      "odds": 60
+    },
+    "2 - 4": {
+      "percentage": 0,
+      "odds": 65
+    },
+    "3 - 4": {
+      "percentage": 0,
+      "odds": 95
+    },
+    "4 - 4": {
+      "percentage": 0,
+      "odds": 160
+    },
+    "5 - 4": {
+      "percentage": 0,
+      "odds": 450
+    },
+    "0 - 5": {
+      "percentage": 0,
+      "odds": 200
+    },
+    "1 - 5": {
+      "percentage": 0,
+      "odds": 150
+    },
+    "2 - 5": {
+      "percentage": 0,
+      "odds": 170
+    },
+    "3 - 5": {
+      "percentage": 0,
+      "odds": 275
+    },
+    "4 - 5": {
+      "percentage": 0,
+      "odds": 450
+    },
+    "Autre": {
+      "percentage": 0,
+      "odds": 60
+    }
+  },
+  "Score exact multichance": {
+    "1-0 ou 2-0 ou 3-0": {
+      "percentage": 0,
+      "odds": 3.6
+    },
+    "0-1 ou 0-2 ou 0-3": {
+      "percentage": 0,
+      "odds": 5.9
+    },
+    "4-0 ou 5-0 ou 6-0": {
+      "percentage": 0,
+      "odds": 25
+    },
+    "0-4 ou 0-5 ou 0-6": {
+      "percentage": 0,
+      "odds": 65
+    },
+    "2-1 ou 3-1 ou 4-1": {
+      "percentage": 100,
+      "odds": 4.7
+    },
+    "1-2 ou 1-3 ou 1-4": {
+      "percentage": 0,
+      "odds": 7.5
+    },
+    "3-2 ou 4-2 ou 4-3 ou 5-1": {
+      "percentage": 0,
+      "odds": 13.5
+    },
+    "2-3 ou 2-4 ou 3-4 ou 1-5": {
+      "percentage": 0,
+      "odds": 21
+    },
+    "Autre victoire \u00e0 domicile": {
+      "percentage": 0,
+      "odds": 50
+    },
+    "Autre victoire \u00e0 l'ext\u00e9rieur": {
+      "percentage": 0,
+      "odds": 95
+    },
+    "Match nul": {
+      "percentage": 0,
+      "odds": 3.15
+    }
+  },
+  "Les 2 \u00e9quipes marquent": {
+    "Oui": {
+      "percentage": 100,
+      "odds": 1.68
+    },
+    "Non": {
+      "percentage": 0,
+      "odds": 1.96
+    }
+  },
+  "\u00c9cart de buts|Brentford gagne par au moins 3 buts d'\u00e9cart": {
+    "Oui": {
+      "percentage": 0,
+      "odds": 7
+    },
+    "Non": {
+      "percentage": 100,
+      "odds": 1.07
+    }
+  },
+  "\u00c9cart de buts|Brentford gagne par au moins 2 buts d'\u00e9cart": {
+    "Oui": {
+      "percentage": 0,
+      "odds": 3.35
+    },
+    "Non": {
+      "percentage": 0,
+      "odds": 1.24
+    }
+  },
+  "\u00c9cart de buts|Nottingham Forest gagne par au moins 2 buts d'\u00e9cart": {
+    "Non": {
+      "percentage": 100,
+      "odds": 1.07
+    },
+    "Oui": {
+      "percentage": 0,
+      "odds": 7
+    }
+  },
+  "\u00c9cart de buts (handicap)": {
+    "Brentford +1.5": {
+      "percentage": 100,
+      "odds": 1.07
+    },
+    "Nottingham Forest -1.5": {
+      "percentage": 0,
+      "odds": 7
+    }
+  },
+  "Nombre de buts": {
+    "Plus de 5": {
+      "percentage": 0,
+      "odds": 10.5
+    },
+    "Moins de 5": {
+      "percentage": 0,
+      "odds": 1.05
+    }
+  },
+  "Vainqueur (rembours\u00e9 si match nul)": {
+    "Brentford": {
+      "percentage": 100,
+      "odds": 1.43
+    },
+    "Nottingham Forest": {
+      "percentage": 0,
+      "odds": 2.45
+    }
+  },
+  "\u00c9quipe qui marque le 1er but": {
+    "Brentford": {
+      "percentage": 0,
+      "odds": 1.64
+    },
+    "Aucune": {
+      "percentage": 0,
+      "odds": 9.5
+    },
+    "Nottingham Forest": {
+      "percentage": 0,
+      "odds": 2.25
+    }
+  },
+  "\u00c9quipe qui marque le dernier but": {
+    "Brentford": {
+      "percentage": 0,
+      "odds": 1.64
+    },
+    "Aucune": {
+      "percentage": 0,
+      "odds": 9.5
+    },
+    "Nottingham Forest": {
+      "percentage": 0,
+      "odds": 2.25
+    }
+  },
+  "Mi-temps - R\u00e9sultat": {
+    "Brentford": {
+      "percentage": 0,
+      "odds": 2.4
+    },
+    "Match nul": {
+      "percentage": 0,
+      "odds": 2.05
+    },
+    "Nottingham Forest": {
+      "percentage": 100,
+      "odds": 3.7
+    }
+  },
+  "Mi-temps - Score exact": {
+    "0 - 0": {
+      "percentage": 0,
+      "odds": 2.7
+    },
+    "1 - 1": {
+      "percentage": 0,
+      "odds": 7
+    },
+    "2 - 2": {
+      "percentage": 0,
+      "odds": 50
+    },
+    "1 - 0": {
+      "percentage": 0,
+      "odds": 3.85
+    },
+    "2 - 0": {
+      "percentage": 0,
+      "odds": 9
+    },
+    "2 - 1": {
+      "percentage": 0,
+      "odds": 18
+    },
+    "0 - 1": {
+      "percentage": 0,
+      "odds": 5.2
+    },
+    "0 - 2": {
+      "percentage": 0,
+      "odds": 18
+    },
+    "1 - 2": {
+      "percentage": 0,
+      "odds": 24
+    },
+    "Autre": {
+      "percentage": 0,
+      "odds": 14
+    }
+  },
+  "Mi-temps - Nombre de buts": {
+    "Plus de 3": {
+      "percentage": 0,
+      "odds": 17
+    },
+    "Moins de 3": {
+      "percentage": 0,
+      "odds": 1.02
+    }
+  },
+  "Mi-temps - \u00c9cart de buts (handicap)": {
+    "Brentford +0.5": {
+      "percentage": 0,
+      "odds": 1.2
+    },
+    "Nottingham Forest -0.5": {
+      "percentage": 0,
+      "odds": 3.7
+    }
+  },
+  "Minute du 1er but (10 min)": {
+    "1-10": {
+      "percentage": 0,
+      "odds": 4.1
+    },
+    "11-20": {
+      "percentage": 0,
+      "odds": 4.4
+    },
+    "21-30": {
+      "percentage": 0,
+      "odds": 5.3
+    },
+    "31-40": {
+      "percentage": 0,
+      "odds": 6.5
+    },
+    "41-50": {
+      "percentage": 0,
+      "odds": 7.25
+    },
+    "51-60": {
+      "percentage": 0,
+      "odds": 9.5
+    },
+    "61-70": {
+      "percentage": 0,
+      "odds": 12.5
+    },
+    "71-80": {
+      "percentage": 0,
+      "odds": 16
+    },
+    "81-90": {
+      "percentage": 0,
+      "odds": 16
+    },
+    "Aucun": {
+      "percentage": 0,
+      "odds": 9.5
+    }
+  },
+  "Minute du 1er but (15 min)": {
+    "1-15": {
+      "percentage": 0,
+      "odds": 2.95
+    },
+    "16-30": {
+      "percentage": 0,
+      "odds": 3.6
+    },
+    "31-45": {
+      "percentage": 0,
+      "odds": 4.4
+    },
+    "46-60": {
+      "percentage": 0,
+      "odds": 6.75
+    },
+    "61-75": {
+      "percentage": 0,
+      "odds": 9
+    },
+    "76-90": {
+      "percentage": 0,
+      "odds": 11.5
+    },
+    "Aucun": {
+      "percentage": 0,
+      "odds": 9.5
+    }
+  },
+  "Nombre exact de buts": {
+    "0": {
+      "percentage": 0,
+      "odds": 9.5
+    },
+    "1": {
+      "percentage": 0,
+      "odds": 4.5
+    },
+    "2": {
+      "percentage": 0,
+      "odds": 3.35
+    },
+    "3": {
+      "percentage": 0,
+      "odds": 3.75
+    },
+    "4": {
+      "percentage": 0,
+      "odds": 5
+    },
+    "5": {
+      "percentage": 0,
+      "odds": 8.5
+    },
+    "6": {
+      "percentage": 0,
+      "odds": 17
+    },
+    "7": {
+      "percentage": 0,
+      "odds": 38
+    },
+    "8": {
+      "percentage": 0,
+      "odds": 65
+    },
+    "9 ou plus": {
+      "percentage": 0,
+      "odds": 100
+    }
+  },
+  "Nombre de buts (intervalle)": {
+    "0-1": {
+      "percentage": 0,
+      "odds": 3.4
+    },
+    "2-3": {
+      "percentage": 0,
+      "odds": 1.88
+    },
+    "4-6": {
+      "percentage": 0,
+      "odds": 3.1
+    },
+    "7 et plus": {
+      "percentage": 0,
+      "odds": 28
+    }
+  },
+  "Nombre de buts de Brentford": {
+    "Plus de 4,5": {
+      "percentage": 0,
+      "odds": 26
+    },
+    "Moins de 4,5": {
+      "percentage": 0,
+      "odds": 1.01
+    }
+  },
+  "Nombre de buts de Nottingham Forest": {
+    "Plus de 3,5": {
+      "percentage": 0,
+      "odds": 23
+    },
+    "Moins de 3,5": {
+      "percentage": 0,
+      "odds": 1.01
+    }
+  },
+  "Nombre exact de buts de Brentford": {
+    "0": {
+      "percentage": 0,
+      "odds": 4
+    },
+    "1": {
+      "percentage": 0,
+      "odds": 2.6
+    },
+    "2": {
+      "percentage": 0,
+      "odds": 3.25
+    },
+    "3 ou plus": {
+      "percentage": 0,
+      "odds": 3.8
+    }
+  },
+  "Nombre exact de buts de Nottingham Forest": {
+    "0": {
+      "percentage": 0,
+      "odds": 2.6
+    },
+    "1": {
+      "percentage": 0,
+      "odds": 2.3
+    },
+    "2": {
+      "percentage": 0,
+      "odds": 3.9
+    },
+    "3 ou plus": {
+      "percentage": 0,
+      "odds": 7
+    }
+  },
+  "Nombre de buts de Brentford (intervalle)": {
+    "1-2": {
+      "percentage": 0,
+      "odds": 1.54
+    },
+    "1-3": {
+      "percentage": 0,
+      "odds": 1.28
+    },
+    "2-3": {
+      "percentage": 0,
+      "odds": 2.2
+    },
+    "4 et plus": {
+      "percentage": 0,
+      "odds": 8.5
+    },
+    "0": {
+      "percentage": 0,
+      "odds": 4
+    }
+  },
+  "Nombre de buts de Nottingham Forest (intervalle)": {
+    "1-2": {
+      "percentage": 0,
+      "odds": 1.56
+    },
+    "1-3": {
+      "percentage": 0,
+      "odds": 1.4
+    },
+    "2-3": {
+      "percentage": 0,
+      "odds": 3
+    },
+    "4 et plus": {
+      "percentage": 0,
+      "odds": 23
+    },
+    "0": {
+      "percentage": 0,
+      "odds": 2.6
+    }
+  },
+  "Mi-temps/Fin de match": {
+    "Brentford/Brentford": {
+      "percentage": 0,
+      "odds": 3
+    },
+    "Match nul/Brentford": {
+      "percentage": 0,
+      "odds": 4.6
+    },
+    "Match nul/Match nul": {
+      "percentage": 0,
+      "odds": 4.8
+    },
+    "Nottingham Forest/Nottingham Forest": {
+      "percentage": 0,
+      "odds": 5.4
+    },
+    "Match nul/Nottingham Forest": {
+      "percentage": 0,
+      "odds": 7
+    },
+    "Brentford/Match nul": {
+      "percentage": 0,
+      "odds": 12
+    },
+    "Nottingham Forest/Match nul": {
+      "percentage": 0,
+      "odds": 12.5
+    },
+    "Nottingham Forest/Brentford": {
+      "percentage": 0,
+      "odds": 21
+    },
+    "Brentford/Nottingham Forest": {
+      "percentage": 0,
+      "odds": 30
+    }
+  },
+  "Marge de victoire": {
+    "Brentford gagne d'au moins 3 buts d'\u00e9cart": {
+      "percentage": 0,
+      "odds": 7
+    },
+    "Brentford gagne par exactement 2 buts d'\u00e9cart": {
+      "percentage": 0,
+      "odds": 5.3
+    },
+    "Brentford gagne par exactement 1 but d'\u00e9cart": {
+      "percentage": 0,
+      "odds": 3.6
+    },
+    "Match nul": {
+      "percentage": 0,
+      "odds": 3.15
+    },
+    "Nottingham Forest gagne par exactement 1 but d'\u00e9cart": {
+      "percentage": 0,
+      "odds": 4.8
+    },
+    "Nottingham Forest gagne par exactement 2 buts d'\u00e9cart": {
+      "percentage": 0,
+      "odds": 9.5
+    },
+    "Nottingham Forest gagne d'au moins 3 buts d'\u00e9cart": {
+      "percentage": 0,
+      "odds": 20
+    }
+  },
+  "R\u00e9sultat et nombre de buts": {
+    "Brentford et moins de 4,5": {
+      "percentage": 0,
+      "odds": 2.2
+    },
+    "Match nul et moins de 4,5": {
+      "percentage": 0,
+      "odds": 3.3
+    },
+    "Nottingham Forest et moins de 4,5": {
+      "percentage": 0,
+      "odds": 3.7
+    },
+    "Brentford et plus de 4,5": {
+      "percentage": 0,
+      "odds": 8
+    },
+    "Nottingham Forest et plus de 4,5": {
+      "percentage": 0,
+      "odds": 16
+    },
+    "Match nul et plus de 4,5": {
+      "percentage": 0,
+      "odds": 42
+    }
+  },
+  "R\u00e9sultat et les deux \u00e9quipes marquent": {
+    "Brentford et non": {
+      "percentage": 0,
+      "odds": 3.3
+    },
+    "Brentford et oui": {
+      "percentage": 0,
+      "odds": 3.7
+    },
+    "Match nul et oui": {
+      "percentage": 0,
+      "odds": 4
+    },
+    "Nottingham Forest et non": {
+      "percentage": 0,
+      "odds": 5.7
+    },
+    "Nottingham Forest et oui": {
+      "percentage": 0,
+      "odds": 5.9
+    },
+    "Match nul et non": {
+      "percentage": 0,
+      "odds": 9.5
+    }
+  },
+  "\u00c9quipe qui marque le 1er but et r\u00e9sultat": {
+    "Brentford marque et Brentford gagne": {
+      "percentage": 0,
+      "odds": 2.1
+    },
+    "Nottingham Forest marque et Nottingham Forest gagne": {
+      "percentage": 0,
+      "odds": 3.75
+    },
+    "Brentford marque et match nul": {
+      "percentage": 0,
+      "odds": 7.25
+    },
+    "Nottingham Forest marque et match nul": {
+      "percentage": 0,
+      "odds": 7.25
+    },
+    "Aucun but": {
+      "percentage": 0,
+      "odds": 9.5
+    },
+    "Nottingham Forest marque et Brentford gagne": {
+      "percentage": 0,
+      "odds": 10
+    },
+    "Brentford marque et Nottingham Forest gagne": {
+      "percentage": 0,
+      "odds": 16
+    }
+  },
+  "Double chance et nombre de buts": {
+    "Brentford/match nul et moins de 4,5": {
+      "percentage": 0,
+      "odds": 1.42
+    },
+    "Brentford/Nottingham Forest et moins de 4,5": {
+      "percentage": 0,
+      "odds": 1.49
+    },
+    "Nottingham Forest/match nul et moins de 4,5": {
+      "percentage": 0,
+      "odds": 1.86
+    },
+    "Brentford/Nottingham Forest et plus de 4,5": {
+      "percentage": 0,
+      "odds": 5.9
+    },
+    "Brentford/match nul et plus de 4,5": {
+      "percentage": 0,
+      "odds": 7.25
+    },
+    "Nottingham Forest/match nul et plus de 4,5": {
+      "percentage": 0,
+      "odds": 12.5
+    }
+  },
+  "Double chance et les deux \u00e9quipes marquent": {
+    "Brentford/match nul et oui": {
+      "percentage": 0,
+      "odds": 2.05
+    },
+    "Brentford/Nottingham Forest et non": {
+      "percentage": 0,
+      "odds": 2.25
+    },
+    "Brentford/Nottingham Forest et oui": {
+      "percentage": 0,
+      "odds": 2.45
+    },
+    "Nottingham Forest/match nul et oui": {
+      "percentage": 0,
+      "odds": 2.6
+    },
+    "Brentford/match nul et non": {
+      "percentage": 0,
+      "odds": 2.6
+    },
+    "Nottingham Forest/match nul et non": {
+      "percentage": 0,
+      "odds": 4
+    }
+  },
+  "Quelle \u00e9quipe va marquer ?": {
+    "Aucune": {
+      "percentage": 0,
+      "odds": 9.5
+    },
+    "Seulement Brentford": {
+      "percentage": 0,
+      "odds": 3.3
+    },
+    "Seulement Nottingham Forest": {
+      "percentage": 0,
+      "odds": 5.7
+    },
+    "Les deux \u00e9quipes": {
+      "percentage": 0,
+      "odds": 1.64
+    }
+  },
+  "Brentford garde sa cage inviol\u00e9e": {
+    "Oui": {
+      "percentage": 0,
+      "odds": 2.6
+    },
+    "Non": {
+      "percentage": 0,
+      "odds": 1.35
+    }
+  },
+  "Nottingham Forest garde sa cage inviol\u00e9e": {
+    "Oui": {
+      "percentage": 0,
+      "odds": 4
+    },
+    "Non": {
+      "percentage": 0,
+      "odds": 1.18
+    }
+  },
+  "Brentford gagne sans conc\u00e9der de but": {
+    "Oui": {
+      "percentage": 0,
+      "odds": 3.3
+    },
+    "Non": {
+      "percentage": 100,
+      "odds": 1.25
+    }
+  },
+  "Nottingham Forest gagne sans conc\u00e9der de but": {
+    "Oui": {
+      "percentage": 0,
+      "odds": 5.7
+    },
+    "Non": {
+      "percentage": 0,
+      "odds": 1.09
+    }
+  },
+  "Brentford gagne une des mi-temps": {
+    "Oui": {
+      "percentage": 0,
+      "odds": 1.47
+    },
+    "Non": {
+      "percentage": 0,
+      "odds": 2.2
+    }
+  },
+  "Nottingham Forest gagne une des mi-temps": {
+    "Oui": {
+      "percentage": 0,
+      "odds": 2.05
+    },
+    "Non": {
+      "percentage": 0,
+      "odds": 1.54
+    }
+  },
+  "Brentford gagne les deux mi-temps": {
+    "Oui": {
+      "percentage": 0,
+      "odds": 5.4
+    },
+    "Non": {
+      "percentage": 0,
+      "odds": 1.1
+    }
+  },
+  "Nottingham Forest gagne les deux mi-temps": {
+    "Oui": {
+      "percentage": 0,
+      "odds": 12.5
+    },
+    "Non": {
+      "percentage": 0,
+      "odds": 1.03
+    }
+  },
+  "Brentford marque dans les deux mi-temps": {
+    "Oui": {
+      "percentage": 0,
+      "odds": 2.85
+    },
+    "Non": {
+      "percentage": 0,
+      "odds": 1.31
+    }
+  },
+  "Nottingham Forest marque dans les deux mi-temps": {
+    "Oui": {
+      "percentage": 0,
+      "odds": 4.3
+    },
+    "Non": {
+      "percentage": 0,
+      "odds": 1.15
+    }
+  },
+  "Mi-temps - Double chance": {
+    "Brentford ou match nul": {
+      "percentage": 0,
+      "odds": 1.2
+    },
+    "Brentford ou Nottingham Forest": {
+      "percentage": 0,
+      "odds": 1.56
+    },
+    "Nottingham Forest ou match nul": {
+      "percentage": 100,
+      "odds": 1.41
+    }
+  },
+  "Mi-temps - Les 2 \u00e9quipes marquent": {
+    "Oui": {
+      "percentage": 0,
+      "odds": 4.1
+    },
+    "Non": {
+      "percentage": 100,
+      "odds": 1.17
+    }
+  },
+  "Mi-temps - Nombre de buts de Brentford": {
+    "Plus de 2,5": {
+      "percentage": 0,
+      "odds": 19
+    },
+    "Moins de 2,5": {
+      "percentage": 0,
+      "odds": 1.02
+    }
+  },
+  "Mi-temps - Nombre de buts de Nottingham Forest": {
+    "Plus de 2,5": {
+      "percentage": 0,
+      "odds": 40
+    },
+    "Moins de 2,5": {
+      "percentage": 0,
+      "odds": 1
+    }
+  },
+  "Mi-temps - Nombre exact de buts": {
+    "0": {
+      "percentage": 0,
+      "odds": 2.7
+    },
+    "1": {
+      "percentage": 0,
+      "odds": 2.4
+    },
+    "2": {
+      "percentage": 0,
+      "odds": 3.8
+    },
+    "3 ou plus": {
+      "percentage": 0,
+      "odds": 6.25
+    }
+  },
+  "Mi-temps - Nombre de buts (intervalle)": {
+    "0": {
+      "percentage": 0,
+      "odds": 2.7
+    },
+    "1-2": {
+      "percentage": 0,
+      "odds": 1.56
+    },
+    "1-3": {
+      "percentage": 0,
+      "odds": 1.39
+    },
+    "2-3": {
+      "percentage": 0,
+      "odds": 2.8
+    },
+    "4 et plus": {
+      "percentage": 0,
+      "odds": 19
+    }
+  },
+  "Mi-temps - Vainqueur (rembours\u00e9 si match nul)": {
+    "Brentford": {
+      "percentage": 0,
+      "odds": 1.47
+    },
+    "Nottingham Forest": {
+      "percentage": 0,
+      "odds": 2.25
+    }
+  },
+  "Mi-temps - Brentford gardera t-il sa cage inviol\u00e9e ?": {
+    "Oui": {
+      "percentage": 0,
+      "odds": 1.47
+    },
+    "Non": {
+      "percentage": 0,
+      "odds": 2.25
+    }
+  },
+  "Mi-temps - Nottingham Forest gardera t-il sa cage inviol\u00e9e ?": {
+    "Oui": {
+      "percentage": 0,
+      "odds": 1.76
+    },
+    "Non": {
+      "percentage": 0,
+      "odds": 1.76
+    }
+  },
+  "Mi-temps - R\u00e9sultat et nombre de buts": {
+    "Match nul et moins de 1,5": {
+      "percentage": 0,
+      "odds": 2.7
+    },
+    "Brentford et moins de 1,5": {
+      "percentage": 0,
+      "odds": 3.85
+    },
+    "Nottingham Forest et moins de 1,5": {
+      "percentage": 0,
+      "odds": 5.2
+    },
+    "Brentford et plus de 1,5": {
+      "percentage": 0,
+      "odds": 5.3
+    },
+    "Match nul et plus de 1,5": {
+      "percentage": 0,
+      "odds": 6.5
+    },
+    "Nottingham Forest et plus de 1,5": {
+      "percentage": 0,
+      "odds": 9
+    }
+  },
+  "Mi-temps  - Double chance et les deux \u00e9quipes marquent": {
+    "Brentford/match nul et non": {
+      "percentage": 0,
+      "odds": 1.47
+    },
+    "Nottingham Forest/match nul et non": {
+      "percentage": 0,
+      "odds": 1.76
+    },
+    "Brentford/Nottingham Forest et non": {
+      "percentage": 0,
+      "odds": 1.78
+    },
+    "Brentford/match nul et oui": {
+      "percentage": 0,
+      "odds": 4.7
+    },
+    "Nottingham Forest/match nul et oui": {
+      "percentage": 0,
+      "odds": 5.2
+    },
+    "Brentford/Nottingham Forest et oui": {
+      "percentage": 0,
+      "odds": 8.5
+    }
+  },
+  "Mi-temps avec le plus de buts": {
+    "1re mi-temps": {
+      "percentage": 0,
+      "odds": 3
+    },
+    "\u00c9galit\u00e9": {
+      "percentage": 0,
+      "odds": 3.2
+    },
+    "2de mi-temps": {
+      "percentage": 0,
+      "odds": 1.92
+    }
+  }
+}

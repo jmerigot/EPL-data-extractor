@@ -1,0 +1,1128 @@
+{
+  "R\u00e9sultat": {
+    "Sheffield United": {
+      "percentage": 1,
+      "odds": 3.55
+    },
+    "Match nul": {
+      "percentage": 1,
+      "odds": 3.3
+    },
+    "West Ham": {
+      "percentage": 98,
+      "odds": 1.78
+    }
+  },
+  "Double chance": {
+    "Sheffield United ou match nul": {
+      "percentage": 0,
+      "odds": 1.82
+    },
+    "Sheffield United ou West Ham": {
+      "percentage": 5,
+      "odds": 1.24
+    },
+    "West Ham ou match nul": {
+      "percentage": 95,
+      "odds": 1.21
+    }
+  },
+  "Score exact": {
+    "0 - 0": {
+      "percentage": 0,
+      "odds": 10
+    },
+    "1 - 0": {
+      "percentage": 0,
+      "odds": 10
+    },
+    "2 - 0": {
+      "percentage": 0,
+      "odds": 18
+    },
+    "3 - 0": {
+      "percentage": 0,
+      "odds": 42
+    },
+    "4 - 0": {
+      "percentage": 0,
+      "odds": 85
+    },
+    "5 - 0": {
+      "percentage": 0,
+      "odds": 250
+    },
+    "0 - 1": {
+      "percentage": 0,
+      "odds": 7
+    },
+    "1 - 1": {
+      "percentage": 0,
+      "odds": 6
+    },
+    "2 - 1": {
+      "percentage": 0,
+      "odds": 11
+    },
+    "3 - 1": {
+      "percentage": 0,
+      "odds": 28
+    },
+    "4 - 1": {
+      "percentage": 0,
+      "odds": 60
+    },
+    "5 - 1": {
+      "percentage": 0,
+      "odds": 170
+    },
+    "0 - 2": {
+      "percentage": 0,
+      "odds": 8
+    },
+    "1 - 2": {
+      "percentage": 0,
+      "odds": 7.5
+    },
+    "2 - 2": {
+      "percentage": 0,
+      "odds": 12
+    },
+    "3 - 2": {
+      "percentage": 0,
+      "odds": 32
+    },
+    "4 - 2": {
+      "percentage": 0,
+      "odds": 65
+    },
+    "5 - 2": {
+      "percentage": 0,
+      "odds": 190
+    },
+    "0 - 3": {
+      "percentage": 0,
+      "odds": 13.5
+    },
+    "1 - 3": {
+      "percentage": 0,
+      "odds": 12.5
+    },
+    "2 - 3": {
+      "percentage": 0,
+      "odds": 22
+    },
+    "3 - 3": {
+      "percentage": 0,
+      "odds": 46
+    },
+    "4 - 3": {
+      "percentage": 0,
+      "odds": 100
+    },
+    "5 - 3": {
+      "percentage": 0,
+      "odds": 300
+    },
+    "0 - 4": {
+      "percentage": 0,
+      "odds": 29
+    },
+    "1 - 4": {
+      "percentage": 0,
+      "odds": 27
+    },
+    "2 - 4": {
+      "percentage": 0,
+      "odds": 44
+    },
+    "3 - 4": {
+      "percentage": 0,
+      "odds": 70
+    },
+    "4 - 4": {
+      "percentage": 0,
+      "odds": 160
+    },
+    "5 - 4": {
+      "percentage": 0,
+      "odds": 450
+    },
+    "0 - 5": {
+      "percentage": 0,
+      "odds": 60
+    },
+    "1 - 5": {
+      "percentage": 0,
+      "odds": 55
+    },
+    "2 - 5": {
+      "percentage": 0,
+      "odds": 75
+    },
+    "3 - 5": {
+      "percentage": 0,
+      "odds": 150
+    },
+    "4 - 5": {
+      "percentage": 0,
+      "odds": 450
+    },
+    "Autre": {
+      "percentage": 0,
+      "odds": 50
+    }
+  },
+  "Score exact multichance": {
+    "1-0 ou 2-0 ou 3-0": {
+      "percentage": 0,
+      "odds": 6.25
+    },
+    "0-1 ou 0-2 ou 0-3": {
+      "percentage": 0,
+      "odds": 3.45
+    },
+    "4-0 ou 5-0 ou 6-0": {
+      "percentage": 0,
+      "odds": 70
+    },
+    "0-4 ou 0-5 ou 0-6": {
+      "percentage": 0,
+      "odds": 21
+    },
+    "2-1 ou 3-1 ou 4-1": {
+      "percentage": 0,
+      "odds": 8
+    },
+    "1-2 ou 1-3 ou 1-4": {
+      "percentage": 0,
+      "odds": 4.5
+    },
+    "3-2 ou 4-2 ou 4-3 ou 5-1": {
+      "percentage": 0,
+      "odds": 23
+    },
+    "2-3 ou 2-4 ou 3-4 ou 1-5": {
+      "percentage": 0,
+      "odds": 12.5
+    },
+    "Autre victoire \u00e0 domicile": {
+      "percentage": 0,
+      "odds": 100
+    },
+    "Autre victoire \u00e0 l'ext\u00e9rieur": {
+      "percentage": 0,
+      "odds": 44
+    },
+    "Match nul": {
+      "percentage": 0,
+      "odds": 3.25
+    }
+  },
+  "Les 2 \u00e9quipes marquent": {
+    "Oui": {
+      "percentage": 99,
+      "odds": 1.68
+    },
+    "Non": {
+      "percentage": 1,
+      "odds": 1.96
+    }
+  },
+  "\u00c9cart de buts|Sheffield United gagne par au moins 2 buts d'\u00e9cart": {
+    "Oui": {
+      "percentage": 0,
+      "odds": 7.75
+    },
+    "Non": {
+      "percentage": 100,
+      "odds": 1.05
+    }
+  },
+  "\u00c9cart de buts|West Ham gagne par au moins 2 buts d'\u00e9cart": {
+    "Non": {
+      "percentage": 0,
+      "odds": 1.28
+    },
+    "Oui": {
+      "percentage": 0,
+      "odds": 3.05
+    }
+  },
+  "\u00c9cart de buts|West Ham gagne par au moins 3 buts d'\u00e9cart": {
+    "Non": {
+      "percentage": 100,
+      "odds": 1.08
+    },
+    "Oui": {
+      "percentage": 0,
+      "odds": 6.25
+    }
+  },
+  "\u00c9cart de buts (handicap)": {
+    "Sheffield United +2.5": {
+      "percentage": 100,
+      "odds": 1.08
+    },
+    "West Ham -2.5": {
+      "percentage": 0,
+      "odds": 6.25
+    }
+  },
+  "Nombre de buts": {
+    "Plus de 5": {
+      "percentage": 0,
+      "odds": 10
+    },
+    "Moins de 5": {
+      "percentage": 0,
+      "odds": 1.06
+    }
+  },
+  "Vainqueur (rembours\u00e9 si match nul)": {
+    "Sheffield United": {
+      "percentage": 0,
+      "odds": 2.65
+    },
+    "West Ham": {
+      "percentage": 100,
+      "odds": 1.37
+    }
+  },
+  "\u00c9quipe qui marque le 1er but": {
+    "Sheffield United": {
+      "percentage": 0,
+      "odds": 2.35
+    },
+    "Aucune": {
+      "percentage": 0,
+      "odds": 10
+    },
+    "West Ham": {
+      "percentage": 0,
+      "odds": 1.58
+    }
+  },
+  "\u00c9quipe qui marque le dernier but": {
+    "Sheffield United": {
+      "percentage": 0,
+      "odds": 2.35
+    },
+    "Aucune": {
+      "percentage": 0,
+      "odds": 10
+    },
+    "West Ham": {
+      "percentage": 0,
+      "odds": 1.58
+    }
+  },
+  "Mi-temps - R\u00e9sultat": {
+    "Sheffield United": {
+      "percentage": 0,
+      "odds": 3.9
+    },
+    "Match nul": {
+      "percentage": 0,
+      "odds": 2.05
+    },
+    "West Ham": {
+      "percentage": 0,
+      "odds": 2.3
+    }
+  },
+  "Mi-temps - Score exact": {
+    "0 - 0": {
+      "percentage": 0,
+      "odds": 2.75
+    },
+    "1 - 1": {
+      "percentage": 0,
+      "odds": 7
+    },
+    "2 - 2": {
+      "percentage": 0,
+      "odds": 50
+    },
+    "1 - 0": {
+      "percentage": 0,
+      "odds": 5.4
+    },
+    "2 - 0": {
+      "percentage": 0,
+      "odds": 19
+    },
+    "2 - 1": {
+      "percentage": 0,
+      "odds": 25
+    },
+    "0 - 1": {
+      "percentage": 0,
+      "odds": 3.75
+    },
+    "0 - 2": {
+      "percentage": 0,
+      "odds": 8.5
+    },
+    "1 - 2": {
+      "percentage": 0,
+      "odds": 17
+    },
+    "Autre": {
+      "percentage": 0,
+      "odds": 13
+    }
+  },
+  "Mi-temps - Nombre de buts": {
+    "Plus de 3": {
+      "percentage": 0,
+      "odds": 17
+    },
+    "Moins de 3": {
+      "percentage": 100,
+      "odds": 1.02
+    }
+  },
+  "Mi-temps - \u00c9cart de buts (handicap)": {
+    "Sheffield United +1": {
+      "percentage": 0,
+      "odds": 1.12
+    },
+    "West Ham -1": {
+      "percentage": 0,
+      "odds": 4.9
+    }
+  },
+  "Minute du 1er but (10 min)": {
+    "1-10": {
+      "percentage": 0,
+      "odds": 4.1
+    },
+    "11-20": {
+      "percentage": 0,
+      "odds": 4.3
+    },
+    "21-30": {
+      "percentage": 0,
+      "odds": 5.2
+    },
+    "31-40": {
+      "percentage": 0,
+      "odds": 6.5
+    },
+    "41-50": {
+      "percentage": 0,
+      "odds": 7.25
+    },
+    "51-60": {
+      "percentage": 0,
+      "odds": 9.5
+    },
+    "61-70": {
+      "percentage": 0,
+      "odds": 12.5
+    },
+    "71-80": {
+      "percentage": 0,
+      "odds": 17
+    },
+    "81-90": {
+      "percentage": 0,
+      "odds": 17
+    },
+    "Aucun": {
+      "percentage": 0,
+      "odds": 10
+    }
+  },
+  "Minute du 1er but (15 min)": {
+    "1-15": {
+      "percentage": 0,
+      "odds": 2.9
+    },
+    "16-30": {
+      "percentage": 0,
+      "odds": 3.55
+    },
+    "31-45": {
+      "percentage": 0,
+      "odds": 4.4
+    },
+    "46-60": {
+      "percentage": 0,
+      "odds": 6.75
+    },
+    "61-75": {
+      "percentage": 0,
+      "odds": 9
+    },
+    "76-90": {
+      "percentage": 0,
+      "odds": 12
+    },
+    "Aucun": {
+      "percentage": 0,
+      "odds": 10
+    }
+  },
+  "Nombre exact de buts": {
+    "0": {
+      "percentage": 0,
+      "odds": 10
+    },
+    "1": {
+      "percentage": 0,
+      "odds": 4.6
+    },
+    "2": {
+      "percentage": 0,
+      "odds": 3.4
+    },
+    "3": {
+      "percentage": 0,
+      "odds": 3.75
+    },
+    "4": {
+      "percentage": 0,
+      "odds": 4.9
+    },
+    "5": {
+      "percentage": 0,
+      "odds": 8
+    },
+    "6": {
+      "percentage": 0,
+      "odds": 16
+    },
+    "7": {
+      "percentage": 0,
+      "odds": 36
+    },
+    "8": {
+      "percentage": 0,
+      "odds": 65
+    },
+    "9 ou plus": {
+      "percentage": 0,
+      "odds": 100
+    }
+  },
+  "Nombre de buts (intervalle)": {
+    "0-1": {
+      "percentage": 0,
+      "odds": 3.5
+    },
+    "2-3": {
+      "percentage": 0,
+      "odds": 1.9
+    },
+    "4-6": {
+      "percentage": 0,
+      "odds": 3
+    },
+    "7 et plus": {
+      "percentage": 0,
+      "odds": 27
+    }
+  },
+  "Nombre de buts de Sheffield United": {
+    "Plus de 3,5": {
+      "percentage": 0,
+      "odds": 26
+    },
+    "Moins de 3,5": {
+      "percentage": 100,
+      "odds": 1.01
+    }
+  },
+  "Nombre de buts de West Ham": {
+    "Plus de 4,5": {
+      "percentage": 0,
+      "odds": 22
+    },
+    "Moins de 4,5": {
+      "percentage": 0,
+      "odds": 1.01
+    }
+  },
+  "Nombre exact de buts de Sheffield United": {
+    "0": {
+      "percentage": 0,
+      "odds": 2.5
+    },
+    "1": {
+      "percentage": 0,
+      "odds": 2.3
+    },
+    "2": {
+      "percentage": 0,
+      "odds": 4
+    },
+    "3 ou plus": {
+      "percentage": 0,
+      "odds": 7.5
+    }
+  },
+  "Nombre exact de buts de West Ham": {
+    "0": {
+      "percentage": 0,
+      "odds": 4.2
+    },
+    "1": {
+      "percentage": 0,
+      "odds": 2.7
+    },
+    "2": {
+      "percentage": 0,
+      "odds": 3.2
+    },
+    "3 ou plus": {
+      "percentage": 0,
+      "odds": 3.5
+    }
+  },
+  "Nombre de buts de Sheffield United (intervalle)": {
+    "1-2": {
+      "percentage": 0,
+      "odds": 1.58
+    },
+    "1-3": {
+      "percentage": 0,
+      "odds": 1.42
+    },
+    "2-3": {
+      "percentage": 0,
+      "odds": 3.1
+    },
+    "4 et plus": {
+      "percentage": 0,
+      "odds": 26
+    },
+    "0": {
+      "percentage": 0,
+      "odds": 2.5
+    }
+  },
+  "Nombre de buts de West Ham (intervalle)": {
+    "1-2": {
+      "percentage": 0,
+      "odds": 1.56
+    },
+    "1-3": {
+      "percentage": 0,
+      "odds": 1.28
+    },
+    "2-3": {
+      "percentage": 0,
+      "odds": 2.1
+    },
+    "4 et plus": {
+      "percentage": 0,
+      "odds": 7.75
+    },
+    "0": {
+      "percentage": 0,
+      "odds": 4.2
+    }
+  },
+  "Mi-temps/Fin de match": {
+    "West Ham/West Ham": {
+      "percentage": 0,
+      "odds": 2.8
+    },
+    "Match nul/West Ham": {
+      "percentage": 0,
+      "odds": 4.5
+    },
+    "Match nul/Match nul": {
+      "percentage": 0,
+      "odds": 5
+    },
+    "Sheffield United/Sheffield United": {
+      "percentage": 0,
+      "odds": 5.9
+    },
+    "Match nul/Sheffield United": {
+      "percentage": 0,
+      "odds": 7.75
+    },
+    "West Ham/Match nul": {
+      "percentage": 0,
+      "odds": 12.5
+    },
+    "Sheffield United/Match nul": {
+      "percentage": 0,
+      "odds": 13
+    },
+    "Sheffield United/West Ham": {
+      "percentage": 0,
+      "odds": 21
+    },
+    "West Ham/Sheffield United": {
+      "percentage": 0,
+      "odds": 32
+    }
+  },
+  "Marge de victoire": {
+    "Sheffield United gagne d'au moins 3 buts d'\u00e9cart": {
+      "percentage": 0,
+      "odds": 24
+    },
+    "Sheffield United gagne par exactement 2 buts d'\u00e9cart": {
+      "percentage": 0,
+      "odds": 10.5
+    },
+    "Sheffield United gagne par exactement 1 but d'\u00e9cart": {
+      "percentage": 0,
+      "odds": 5.1
+    },
+    "Match nul": {
+      "percentage": 0,
+      "odds": 3.25
+    },
+    "West Ham gagne par exactement 1 but d'\u00e9cart": {
+      "percentage": 0,
+      "odds": 3.55
+    },
+    "West Ham gagne par exactement 2 buts d'\u00e9cart": {
+      "percentage": 0,
+      "odds": 4.9
+    },
+    "West Ham gagne d'au moins 3 buts d'\u00e9cart": {
+      "percentage": 0,
+      "odds": 6.25
+    }
+  },
+  "R\u00e9sultat et nombre de buts": {
+    "West Ham et moins de 4,5": {
+      "percentage": 0,
+      "odds": 2.1
+    },
+    "Match nul et moins de 4,5": {
+      "percentage": 0,
+      "odds": 3.4
+    },
+    "Sheffield United et moins de 4,5": {
+      "percentage": 0,
+      "odds": 4
+    },
+    "West Ham et plus de 4,5": {
+      "percentage": 0,
+      "odds": 7.5
+    },
+    "Sheffield United et plus de 4,5": {
+      "percentage": 0,
+      "odds": 17
+    },
+    "Match nul et plus de 4,5": {
+      "percentage": 0,
+      "odds": 42
+    }
+  },
+  "R\u00e9sultat et les deux \u00e9quipes marquent": {
+    "West Ham et non": {
+      "percentage": 0,
+      "odds": 3.1
+    },
+    "West Ham et oui": {
+      "percentage": 0,
+      "odds": 3.5
+    },
+    "Match nul et oui": {
+      "percentage": 0,
+      "odds": 4.1
+    },
+    "Sheffield United et non": {
+      "percentage": 0,
+      "odds": 6.25
+    },
+    "Sheffield United et oui": {
+      "percentage": 0,
+      "odds": 6.25
+    },
+    "Match nul et non": {
+      "percentage": 0,
+      "odds": 10
+    }
+  },
+  "\u00c9quipe qui marque le 1er but et r\u00e9sultat": {
+    "West Ham marque et West Ham gagne": {
+      "percentage": 0,
+      "odds": 2
+    },
+    "Sheffield United marque et Sheffield United gagne": {
+      "percentage": 0,
+      "odds": 4
+    },
+    "Sheffield United marque et match nul": {
+      "percentage": 0,
+      "odds": 7.5
+    },
+    "West Ham marque et match nul": {
+      "percentage": 0,
+      "odds": 7.5
+    },
+    "Sheffield United marque et West Ham gagne": {
+      "percentage": 0,
+      "odds": 9.5
+    },
+    "Aucun but": {
+      "percentage": 0,
+      "odds": 10
+    },
+    "West Ham marque et Sheffield United gagne": {
+      "percentage": 0,
+      "odds": 17
+    }
+  },
+  "Double chance et nombre de buts": {
+    "West Ham/match nul et moins de 4,5": {
+      "percentage": 0,
+      "odds": 1.4
+    },
+    "Sheffield United/West Ham et moins de 4,5": {
+      "percentage": 0,
+      "odds": 1.49
+    },
+    "Sheffield United/match nul et moins de 4,5": {
+      "percentage": 0,
+      "odds": 1.96
+    },
+    "Sheffield United/West Ham et plus de 4,5": {
+      "percentage": 0,
+      "odds": 5.6
+    },
+    "West Ham/match nul et plus de 4,5": {
+      "percentage": 0,
+      "odds": 6.75
+    },
+    "Sheffield United/match nul et plus de 4,5": {
+      "percentage": 0,
+      "odds": 13
+    }
+  },
+  "Double chance et les deux \u00e9quipes marquent": {
+    "West Ham/match nul et oui": {
+      "percentage": 0,
+      "odds": 2.05
+    },
+    "Sheffield United/West Ham et non": {
+      "percentage": 0,
+      "odds": 2.2
+    },
+    "Sheffield United/West Ham et oui": {
+      "percentage": 0,
+      "odds": 2.4
+    },
+    "West Ham/match nul et non": {
+      "percentage": 0,
+      "odds": 2.5
+    },
+    "Sheffield United/match nul et oui": {
+      "percentage": 0,
+      "odds": 2.75
+    },
+    "Sheffield United/match nul et non": {
+      "percentage": 0,
+      "odds": 4.2
+    }
+  },
+  "Quelle \u00e9quipe va marquer ?": {
+    "Aucune": {
+      "percentage": 0,
+      "odds": 10
+    },
+    "Seulement Sheffield United": {
+      "percentage": 0,
+      "odds": 6.25
+    },
+    "Seulement West Ham": {
+      "percentage": 0,
+      "odds": 3.1
+    },
+    "Les deux \u00e9quipes": {
+      "percentage": 0,
+      "odds": 1.64
+    }
+  },
+  "Sheffield United garde sa cage inviol\u00e9e": {
+    "Oui": {
+      "percentage": 0,
+      "odds": 4.2
+    },
+    "Non": {
+      "percentage": 0,
+      "odds": 1.16
+    }
+  },
+  "West Ham garde sa cage inviol\u00e9e": {
+    "Oui": {
+      "percentage": 0,
+      "odds": 2.5
+    },
+    "Non": {
+      "percentage": 0,
+      "odds": 1.38
+    }
+  },
+  "Sheffield United gagne sans conc\u00e9der de but": {
+    "Oui": {
+      "percentage": 0,
+      "odds": 6.25
+    },
+    "Non": {
+      "percentage": 0,
+      "odds": 1.08
+    }
+  },
+  "West Ham gagne sans conc\u00e9der de but": {
+    "Oui": {
+      "percentage": 0,
+      "odds": 3.1
+    },
+    "Non": {
+      "percentage": 0,
+      "odds": 1.27
+    }
+  },
+  "Sheffield United gagne une des mi-temps": {
+    "Oui": {
+      "percentage": 0,
+      "odds": 2.2
+    },
+    "Non": {
+      "percentage": 0,
+      "odds": 1.49
+    }
+  },
+  "West Ham gagne une des mi-temps": {
+    "Oui": {
+      "percentage": 0,
+      "odds": 1.42
+    },
+    "Non": {
+      "percentage": 0,
+      "odds": 2.35
+    }
+  },
+  "Sheffield United gagne les deux mi-temps": {
+    "Oui": {
+      "percentage": 0,
+      "odds": 14.5
+    },
+    "Non": {
+      "percentage": 0,
+      "odds": 1.02
+    }
+  },
+  "West Ham gagne les deux mi-temps": {
+    "Oui": {
+      "percentage": 0,
+      "odds": 4.9
+    },
+    "Non": {
+      "percentage": 0,
+      "odds": 1.12
+    }
+  },
+  "Sheffield United marque dans les deux mi-temps": {
+    "Oui": {
+      "percentage": 0,
+      "odds": 4.5
+    },
+    "Non": {
+      "percentage": 0,
+      "odds": 1.14
+    }
+  },
+  "West Ham marque dans les deux mi-temps": {
+    "Oui": {
+      "percentage": 0,
+      "odds": 2.65
+    },
+    "Non": {
+      "percentage": 0,
+      "odds": 1.34
+    }
+  },
+  "Mi-temps - Double chance": {
+    "Sheffield United ou match nul": {
+      "percentage": 0,
+      "odds": 1.45
+    },
+    "Sheffield United ou West Ham": {
+      "percentage": 0,
+      "odds": 1.54
+    },
+    "West Ham ou match nul": {
+      "percentage": 0,
+      "odds": 1.19
+    }
+  },
+  "Mi-temps - Les 2 \u00e9quipes marquent": {
+    "Oui": {
+      "percentage": 0,
+      "odds": 4.1
+    },
+    "Non": {
+      "percentage": 100,
+      "odds": 1.17
+    }
+  },
+  "Mi-temps - Nombre de buts de Sheffield United": {
+    "Plus de 2,5": {
+      "percentage": 0,
+      "odds": 42
+    },
+    "Moins de 2,5": {
+      "percentage": 0,
+      "odds": 1
+    }
+  },
+  "Mi-temps - Nombre de buts de West Ham": {
+    "Plus de 2,5": {
+      "percentage": 0,
+      "odds": 17
+    },
+    "Moins de 2,5": {
+      "percentage": 0,
+      "odds": 1.02
+    }
+  },
+  "Mi-temps - Nombre exact de buts": {
+    "0": {
+      "percentage": 0,
+      "odds": 2.75
+    },
+    "1": {
+      "percentage": 0,
+      "odds": 2.4
+    },
+    "2": {
+      "percentage": 0,
+      "odds": 3.75
+    },
+    "3 ou plus": {
+      "percentage": 0,
+      "odds": 6
+    }
+  },
+  "Mi-temps - Nombre de buts (intervalle)": {
+    "0": {
+      "percentage": 0,
+      "odds": 2.75
+    },
+    "1-2": {
+      "percentage": 0,
+      "odds": 1.56
+    },
+    "1-3": {
+      "percentage": 0,
+      "odds": 1.38
+    },
+    "2-3": {
+      "percentage": 0,
+      "odds": 2.8
+    },
+    "4 et plus": {
+      "percentage": 0,
+      "odds": 18
+    }
+  },
+  "Mi-temps - Vainqueur (rembours\u00e9 si match nul)": {
+    "Sheffield United": {
+      "percentage": 0,
+      "odds": 2.4
+    },
+    "West Ham": {
+      "percentage": 0,
+      "odds": 1.42
+    }
+  },
+  "Mi-temps - Sheffield United gardera t-il sa cage inviol\u00e9e ?": {
+    "Oui": {
+      "percentage": 0,
+      "odds": 1.82
+    },
+    "Non": {
+      "percentage": 0,
+      "odds": 1.72
+    }
+  },
+  "Mi-temps - West Ham gardera t-il sa cage inviol\u00e9e ?": {
+    "Oui": {
+      "percentage": 0,
+      "odds": 1.45
+    },
+    "Non": {
+      "percentage": 0,
+      "odds": 2.3
+    }
+  },
+  "Mi-temps - R\u00e9sultat et nombre de buts": {
+    "Match nul et moins de 1,5": {
+      "percentage": 0,
+      "odds": 2.75
+    },
+    "West Ham et moins de 1,5": {
+      "percentage": 0,
+      "odds": 3.75
+    },
+    "West Ham et plus de 1,5": {
+      "percentage": 0,
+      "odds": 4.9
+    },
+    "Sheffield United et moins de 1,5": {
+      "percentage": 0,
+      "odds": 5.4
+    },
+    "Match nul et plus de 1,5": {
+      "percentage": 0,
+      "odds": 6.5
+    },
+    "Sheffield United et plus de 1,5": {
+      "percentage": 0,
+      "odds": 9.5
+    }
+  },
+  "Mi-temps  - Double chance et les deux \u00e9quipes marquent": {
+    "West Ham/match nul et non": {
+      "percentage": 0,
+      "odds": 1.45
+    },
+    "Sheffield United/West Ham et non": {
+      "percentage": 0,
+      "odds": 1.76
+    },
+    "Sheffield United/match nul et non": {
+      "percentage": 0,
+      "odds": 1.82
+    },
+    "West Ham/match nul et oui": {
+      "percentage": 0,
+      "odds": 4.7
+    },
+    "Sheffield United/match nul et oui": {
+      "percentage": 0,
+      "odds": 5.3
+    },
+    "Sheffield United/West Ham et oui": {
+      "percentage": 0,
+      "odds": 8.5
+    }
+  },
+  "Mi-temps avec le plus de buts": {
+    "1re mi-temps": {
+      "percentage": 0,
+      "odds": 2.95
+    },
+    "\u00c9galit\u00e9": {
+      "percentage": 0,
+      "odds": 3.25
+    },
+    "2de mi-temps": {
+      "percentage": 0,
+      "odds": 1.9
+    }
+  }
+}

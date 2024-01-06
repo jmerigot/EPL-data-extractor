@@ -1,0 +1,1128 @@
+{
+  "R\u00e9sultat": {
+    "Chelsea": {
+      "percentage": 50,
+      "odds": 1.6
+    },
+    "Match nul": {
+      "percentage": 46,
+      "odds": 4.2
+    },
+    "Fulham": {
+      "percentage": 4,
+      "odds": 5.3
+    }
+  },
+  "Double chance": {
+    "Chelsea ou match nul": {
+      "percentage": 89,
+      "odds": 1.12
+    },
+    "Chelsea ou Fulham": {
+      "percentage": 1,
+      "odds": 1.19
+    },
+    "Fulham ou match nul": {
+      "percentage": 10,
+      "odds": 2.25
+    }
+  },
+  "Score exact": {
+    "0 - 0": {
+      "percentage": 17,
+      "odds": 13.5
+    },
+    "1 - 0": {
+      "percentage": 10,
+      "odds": 7.75
+    },
+    "2 - 0": {
+      "percentage": 12,
+      "odds": 7.5
+    },
+    "3 - 0": {
+      "percentage": 1,
+      "odds": 10
+    },
+    "4 - 0": {
+      "percentage": 12,
+      "odds": 19
+    },
+    "5 - 0": {
+      "percentage": 0,
+      "odds": 40
+    },
+    "0 - 1": {
+      "percentage": 0,
+      "odds": 14
+    },
+    "1 - 1": {
+      "percentage": 1,
+      "odds": 7
+    },
+    "2 - 1": {
+      "percentage": 38,
+      "odds": 7.25
+    },
+    "3 - 1": {
+      "percentage": 8,
+      "odds": 10
+    },
+    "4 - 1": {
+      "percentage": 0,
+      "odds": 18
+    },
+    "5 - 1": {
+      "percentage": 0,
+      "odds": 38
+    },
+    "0 - 2": {
+      "percentage": 0,
+      "odds": 26
+    },
+    "1 - 2": {
+      "percentage": 1,
+      "odds": 13.5
+    },
+    "2 - 2": {
+      "percentage": 0,
+      "odds": 12
+    },
+    "3 - 2": {
+      "percentage": 0,
+      "odds": 19
+    },
+    "4 - 2": {
+      "percentage": 0,
+      "odds": 32
+    },
+    "5 - 2": {
+      "percentage": 0,
+      "odds": 60
+    },
+    "0 - 3": {
+      "percentage": 0,
+      "odds": 55
+    },
+    "1 - 3": {
+      "percentage": 0,
+      "odds": 34
+    },
+    "2 - 3": {
+      "percentage": 0,
+      "odds": 34
+    },
+    "3 - 3": {
+      "percentage": 0,
+      "odds": 42
+    },
+    "4 - 3": {
+      "percentage": 0,
+      "odds": 60
+    },
+    "5 - 3": {
+      "percentage": 0,
+      "odds": 110
+    },
+    "0 - 4": {
+      "percentage": 0,
+      "odds": 120
+    },
+    "1 - 4": {
+      "percentage": 0,
+      "odds": 75
+    },
+    "2 - 4": {
+      "percentage": 0,
+      "odds": 75
+    },
+    "3 - 4": {
+      "percentage": 0,
+      "odds": 95
+    },
+    "4 - 4": {
+      "percentage": 0,
+      "odds": 140
+    },
+    "5 - 4": {
+      "percentage": 0,
+      "odds": 300
+    },
+    "0 - 5": {
+      "percentage": 0,
+      "odds": 400
+    },
+    "1 - 5": {
+      "percentage": 0,
+      "odds": 225
+    },
+    "2 - 5": {
+      "percentage": 0,
+      "odds": 225
+    },
+    "3 - 5": {
+      "percentage": 0,
+      "odds": 300
+    },
+    "4 - 5": {
+      "percentage": 0,
+      "odds": 450
+    },
+    "Autre": {
+      "percentage": 0,
+      "odds": 30
+    }
+  },
+  "Score exact multichance": {
+    "1-0 ou 2-0 ou 3-0": {
+      "percentage": 0,
+      "odds": 3.25
+    },
+    "0-1 ou 0-2 ou 0-3": {
+      "percentage": 0,
+      "odds": 9
+    },
+    "4-0 ou 5-0 ou 6-0": {
+      "percentage": 0,
+      "odds": 12.5
+    },
+    "0-4 ou 0-5 ou 0-6": {
+      "percentage": 0,
+      "odds": 100
+    },
+    "2-1 ou 3-1 ou 4-1": {
+      "percentage": 26,
+      "odds": 4
+    },
+    "1-2 ou 1-3 ou 1-4": {
+      "percentage": 74,
+      "odds": 10
+    },
+    "3-2 ou 4-2 ou 4-3 ou 5-1": {
+      "percentage": 0,
+      "odds": 9.5
+    },
+    "2-3 ou 2-4 ou 3-4 ou 1-5": {
+      "percentage": 0,
+      "odds": 25
+    },
+    "Autre victoire \u00e0 domicile": {
+      "percentage": 0,
+      "odds": 26
+    },
+    "Autre victoire \u00e0 l'ext\u00e9rieur": {
+      "percentage": 0,
+      "odds": 100
+    },
+    "Match nul": {
+      "percentage": 0,
+      "odds": 3.7
+    }
+  },
+  "Les 2 \u00e9quipes marquent": {
+    "Oui": {
+      "percentage": 44,
+      "odds": 1.62
+    },
+    "Non": {
+      "percentage": 56,
+      "odds": 2
+    }
+  },
+  "\u00c9cart de buts|Chelsea gagne par au moins 4 buts d'\u00e9cart": {
+    "Oui": {
+      "percentage": 0,
+      "odds": 8.5
+    },
+    "Non": {
+      "percentage": 100,
+      "odds": 1.04
+    }
+  },
+  "\u00c9cart de buts|Chelsea gagne par au moins 3 buts d'\u00e9cart": {
+    "Oui": {
+      "percentage": 31,
+      "odds": 4.2
+    },
+    "Non": {
+      "percentage": 69,
+      "odds": 1.16
+    }
+  },
+  "\u00c9cart de buts|Chelsea gagne par au moins 2 buts d'\u00e9cart": {
+    "Oui": {
+      "percentage": 68,
+      "odds": 2.3
+    },
+    "Non": {
+      "percentage": 32,
+      "odds": 1.45
+    }
+  },
+  "\u00c9cart de buts (handicap)": {
+    "Chelsea -1.5": {
+      "percentage": 0,
+      "odds": 2.3
+    },
+    "Fulham +1.5": {
+      "percentage": 100,
+      "odds": 1.45
+    }
+  },
+  "Nombre de buts": {
+    "Plus de 5": {
+      "percentage": 0,
+      "odds": 7.25
+    },
+    "Moins de 5": {
+      "percentage": 0,
+      "odds": 1.09
+    }
+  },
+  "Vainqueur (rembours\u00e9 si match nul)": {
+    "Chelsea": {
+      "percentage": 100,
+      "odds": 1.21
+    },
+    "Fulham": {
+      "percentage": 0,
+      "odds": 3.55
+    }
+  },
+  "\u00c9quipe qui marque le 1er but": {
+    "Chelsea": {
+      "percentage": 0,
+      "odds": 1.43
+    },
+    "Aucune": {
+      "percentage": 0,
+      "odds": 13.5
+    },
+    "Fulham": {
+      "percentage": 0,
+      "odds": 2.65
+    }
+  },
+  "\u00c9quipe qui marque le dernier but": {
+    "Chelsea": {
+      "percentage": 0,
+      "odds": 1.43
+    },
+    "Aucune": {
+      "percentage": 0,
+      "odds": 13.5
+    },
+    "Fulham": {
+      "percentage": 0,
+      "odds": 2.65
+    }
+  },
+  "Mi-temps - R\u00e9sultat": {
+    "Chelsea": {
+      "percentage": 18,
+      "odds": 1.96
+    },
+    "Match nul": {
+      "percentage": 82,
+      "odds": 2.25
+    },
+    "Fulham": {
+      "percentage": 0,
+      "odds": 4.5
+    }
+  },
+  "Mi-temps - Score exact": {
+    "0 - 0": {
+      "percentage": 100,
+      "odds": 3.15
+    },
+    "1 - 1": {
+      "percentage": 0,
+      "odds": 7
+    },
+    "2 - 2": {
+      "percentage": 0,
+      "odds": 48
+    },
+    "1 - 0": {
+      "percentage": 0,
+      "odds": 3.55
+    },
+    "2 - 0": {
+      "percentage": 0,
+      "odds": 6.75
+    },
+    "2 - 1": {
+      "percentage": 0,
+      "odds": 14
+    },
+    "0 - 1": {
+      "percentage": 0,
+      "odds": 6.25
+    },
+    "0 - 2": {
+      "percentage": 0,
+      "odds": 24
+    },
+    "1 - 2": {
+      "percentage": 0,
+      "odds": 27
+    },
+    "Autre": {
+      "percentage": 0,
+      "odds": 9.5
+    }
+  },
+  "Mi-temps - Nombre de buts": {
+    "Plus de 3": {
+      "percentage": 0,
+      "odds": 12.5
+    },
+    "Moins de 3": {
+      "percentage": 0,
+      "odds": 1.03
+    }
+  },
+  "Mi-temps - \u00c9cart de buts (handicap)": {
+    "Chelsea 0": {
+      "percentage": 0,
+      "odds": 1.28
+    },
+    "Fulham 0": {
+      "percentage": 0,
+      "odds": 3
+    }
+  },
+  "Minute du 1er but (10 min)": {
+    "1-10": {
+      "percentage": 0,
+      "odds": 3.8
+    },
+    "11-20": {
+      "percentage": 0,
+      "odds": 4.1
+    },
+    "21-30": {
+      "percentage": 0,
+      "odds": 5.1
+    },
+    "31-40": {
+      "percentage": 0,
+      "odds": 6.25
+    },
+    "41-50": {
+      "percentage": 0,
+      "odds": 7.5
+    },
+    "51-60": {
+      "percentage": 0,
+      "odds": 10
+    },
+    "61-70": {
+      "percentage": 0,
+      "odds": 14
+    },
+    "71-80": {
+      "percentage": 0,
+      "odds": 19
+    },
+    "81-90": {
+      "percentage": 0,
+      "odds": 20
+    },
+    "Aucun": {
+      "percentage": 0,
+      "odds": 13.5
+    }
+  },
+  "Minute du 1er but (15 min)": {
+    "1-15": {
+      "percentage": 0,
+      "odds": 2.65
+    },
+    "16-30": {
+      "percentage": 0,
+      "odds": 3.45
+    },
+    "31-45": {
+      "percentage": 0,
+      "odds": 4.4
+    },
+    "46-60": {
+      "percentage": 0,
+      "odds": 7
+    },
+    "61-75": {
+      "percentage": 0,
+      "odds": 10
+    },
+    "76-90": {
+      "percentage": 0,
+      "odds": 14
+    },
+    "Aucun": {
+      "percentage": 0,
+      "odds": 13.5
+    }
+  },
+  "Nombre exact de buts": {
+    "0": {
+      "percentage": 0,
+      "odds": 13.5
+    },
+    "1": {
+      "percentage": 0,
+      "odds": 5.4
+    },
+    "2": {
+      "percentage": 0,
+      "odds": 3.65
+    },
+    "3": {
+      "percentage": 0,
+      "odds": 3.7
+    },
+    "4": {
+      "percentage": 0,
+      "odds": 4.5
+    },
+    "5": {
+      "percentage": 0,
+      "odds": 7
+    },
+    "6": {
+      "percentage": 0,
+      "odds": 12
+    },
+    "7": {
+      "percentage": 0,
+      "odds": 26
+    },
+    "8": {
+      "percentage": 0,
+      "odds": 50
+    },
+    "9 ou plus": {
+      "percentage": 0,
+      "odds": 70
+    }
+  },
+  "Nombre de buts (intervalle)": {
+    "0-1": {
+      "percentage": 0,
+      "odds": 4.2
+    },
+    "2-3": {
+      "percentage": 0,
+      "odds": 1.98
+    },
+    "4-6": {
+      "percentage": 0,
+      "odds": 2.55
+    },
+    "7 et plus": {
+      "percentage": 0,
+      "odds": 17
+    }
+  },
+  "Nombre de buts de Chelsea": {
+    "Plus de 4,5": {
+      "percentage": 0,
+      "odds": 11.5
+    },
+    "Moins de 4,5": {
+      "percentage": 0,
+      "odds": 1.03
+    }
+  },
+  "Nombre de buts de Fulham": {
+    "Plus de 4,5": {
+      "percentage": 0,
+      "odds": 80
+    },
+    "Moins de 4,5": {
+      "percentage": 0,
+      "odds": 1
+    }
+  },
+  "Nombre exact de buts de Chelsea": {
+    "0": {
+      "percentage": 0,
+      "odds": 5.8
+    },
+    "1": {
+      "percentage": 0,
+      "odds": 3.15
+    },
+    "2": {
+      "percentage": 0,
+      "odds": 3.1
+    },
+    "3 ou plus": {
+      "percentage": 0,
+      "odds": 2.55
+    }
+  },
+  "Nombre exact de buts de Fulham": {
+    "0": {
+      "percentage": 0,
+      "odds": 2.35
+    },
+    "1": {
+      "percentage": 0,
+      "odds": 2.3
+    },
+    "2": {
+      "percentage": 0,
+      "odds": 4.2
+    },
+    "3 ou plus": {
+      "percentage": 0,
+      "odds": 8.5
+    }
+  },
+  "Nombre de buts de Chelsea (intervalle)": {
+    "1-2": {
+      "percentage": 38,
+      "odds": 1.66
+    },
+    "1-3": {
+      "percentage": 62,
+      "odds": 1.29
+    },
+    "2-3": {
+      "percentage": 0,
+      "odds": 1.92
+    },
+    "4 et plus": {
+      "percentage": 0,
+      "odds": 5
+    },
+    "0": {
+      "percentage": 0,
+      "odds": 5.8
+    }
+  },
+  "Nombre de buts de Fulham (intervalle)": {
+    "1-2": {
+      "percentage": 100,
+      "odds": 1.6
+    },
+    "1-3": {
+      "percentage": 0,
+      "odds": 1.46
+    },
+    "2-3": {
+      "percentage": 0,
+      "odds": 3.35
+    },
+    "4 et plus": {
+      "percentage": 0,
+      "odds": 30
+    },
+    "0": {
+      "percentage": 0,
+      "odds": 2.35
+    }
+  },
+  "Mi-temps/Fin de match": {
+    "Chelsea/Chelsea": {
+      "percentage": 16,
+      "odds": 2.25
+    },
+    "Match nul/Chelsea": {
+      "percentage": 84,
+      "odds": 4.2
+    },
+    "Match nul/Match nul": {
+      "percentage": 0,
+      "odds": 5.9
+    },
+    "Fulham/Fulham": {
+      "percentage": 0,
+      "odds": 7.75
+    },
+    "Match nul/Fulham": {
+      "percentage": 0,
+      "odds": 10
+    },
+    "Chelsea/Match nul": {
+      "percentage": 0,
+      "odds": 13.5
+    },
+    "Fulham/Match nul": {
+      "percentage": 0,
+      "odds": 14
+    },
+    "Fulham/Chelsea": {
+      "percentage": 0,
+      "odds": 19
+    },
+    "Chelsea/Fulham": {
+      "percentage": 0,
+      "odds": 38
+    }
+  },
+  "Marge de victoire": {
+    "Chelsea gagne d'au moins 3 buts d'\u00e9cart": {
+      "percentage": 0,
+      "odds": 4.2
+    },
+    "Chelsea gagne par exactement 2 buts d'\u00e9cart": {
+      "percentage": 0,
+      "odds": 4.3
+    },
+    "Chelsea gagne par exactement 1 but d'\u00e9cart": {
+      "percentage": 61,
+      "odds": 3.55
+    },
+    "Match nul": {
+      "percentage": 0,
+      "odds": 3.7
+    },
+    "Fulham gagne par exactement 1 but d'\u00e9cart": {
+      "percentage": 39,
+      "odds": 6.5
+    },
+    "Fulham gagne par exactement 2 buts d'\u00e9cart": {
+      "percentage": 0,
+      "odds": 14.5
+    },
+    "Fulham gagne d'au moins 3 buts d'\u00e9cart": {
+      "percentage": 0,
+      "odds": 34
+    }
+  },
+  "R\u00e9sultat et nombre de buts": {
+    "Chelsea et moins de 4,5": {
+      "percentage": 100,
+      "odds": 1.92
+    },
+    "Match nul et moins de 4,5": {
+      "percentage": 0,
+      "odds": 3.9
+    },
+    "Chelsea et plus de 4,5": {
+      "percentage": 0,
+      "odds": 5.1
+    },
+    "Fulham et moins de 4,5": {
+      "percentage": 0,
+      "odds": 5.3
+    },
+    "Fulham et plus de 4,5": {
+      "percentage": 0,
+      "odds": 20
+    },
+    "Match nul et plus de 4,5": {
+      "percentage": 0,
+      "odds": 38
+    }
+  },
+  "R\u00e9sultat et les deux \u00e9quipes marquent": {
+    "Chelsea et non": {
+      "percentage": 0,
+      "odds": 2.7
+    },
+    "Chelsea et oui": {
+      "percentage": 100,
+      "odds": 2.9
+    },
+    "Match nul et oui": {
+      "percentage": 0,
+      "odds": 4.5
+    },
+    "Fulham et oui": {
+      "percentage": 0,
+      "odds": 7.5
+    },
+    "Fulham et non": {
+      "percentage": 0,
+      "odds": 8.5
+    },
+    "Match nul et non": {
+      "percentage": 0,
+      "odds": 13.5
+    }
+  },
+  "\u00c9quipe qui marque le 1er but et r\u00e9sultat": {
+    "Chelsea marque et Chelsea gagne": {
+      "percentage": 0,
+      "odds": 1.72
+    },
+    "Fulham marque et Fulham gagne": {
+      "percentage": 0,
+      "odds": 5.3
+    },
+    "Chelsea marque et match nul": {
+      "percentage": 0,
+      "odds": 8
+    },
+    "Fulham marque et match nul": {
+      "percentage": 0,
+      "odds": 8
+    },
+    "Fulham marque et Chelsea gagne": {
+      "percentage": 0,
+      "odds": 8
+    },
+    "Aucun but": {
+      "percentage": 0,
+      "odds": 13.5
+    },
+    "Chelsea marque et Fulham gagne": {
+      "percentage": 0,
+      "odds": 20
+    }
+  },
+  "Double chance et nombre de buts": {
+    "Chelsea/match nul et moins de 4,5": {
+      "percentage": 0,
+      "odds": 1.38
+    },
+    "Chelsea/Fulham et moins de 4,5": {
+      "percentage": 0,
+      "odds": 1.5
+    },
+    "Fulham/match nul et moins de 4,5": {
+      "percentage": 0,
+      "odds": 2.4
+    },
+    "Chelsea/Fulham et plus de 4,5": {
+      "percentage": 0,
+      "odds": 4.3
+    },
+    "Chelsea/match nul et plus de 4,5": {
+      "percentage": 0,
+      "odds": 4.7
+    },
+    "Fulham/match nul et plus de 4,5": {
+      "percentage": 0,
+      "odds": 14
+    }
+  },
+  "Double chance et les deux \u00e9quipes marquent": {
+    "Chelsea/match nul et oui": {
+      "percentage": 100,
+      "odds": 1.88
+    },
+    "Chelsea/Fulham et non": {
+      "percentage": 0,
+      "odds": 2.2
+    },
+    "Chelsea/Fulham et oui": {
+      "percentage": 0,
+      "odds": 2.2
+    },
+    "Chelsea/match nul et non": {
+      "percentage": 0,
+      "odds": 2.35
+    },
+    "Fulham/match nul et oui": {
+      "percentage": 0,
+      "odds": 3.15
+    },
+    "Fulham/match nul et non": {
+      "percentage": 0,
+      "odds": 5.8
+    }
+  },
+  "Quelle \u00e9quipe va marquer ?": {
+    "Aucune": {
+      "percentage": 0,
+      "odds": 13.5
+    },
+    "Seulement Chelsea": {
+      "percentage": 0,
+      "odds": 2.7
+    },
+    "Seulement Fulham": {
+      "percentage": 0,
+      "odds": 8.5
+    },
+    "Les deux \u00e9quipes": {
+      "percentage": 100,
+      "odds": 1.6
+    }
+  },
+  "Chelsea garde sa cage inviol\u00e9e": {
+    "Oui": {
+      "percentage": 0,
+      "odds": 2.35
+    },
+    "Non": {
+      "percentage": 100,
+      "odds": 1.42
+    }
+  },
+  "Fulham garde sa cage inviol\u00e9e": {
+    "Oui": {
+      "percentage": 0,
+      "odds": 5.8
+    },
+    "Non": {
+      "percentage": 0,
+      "odds": 1.09
+    }
+  },
+  "Chelsea gagne sans conc\u00e9der de but": {
+    "Oui": {
+      "percentage": 0,
+      "odds": 2.7
+    },
+    "Non": {
+      "percentage": 100,
+      "odds": 1.33
+    }
+  },
+  "Fulham gagne sans conc\u00e9der de but": {
+    "Oui": {
+      "percentage": 0,
+      "odds": 8.5
+    },
+    "Non": {
+      "percentage": 100,
+      "odds": 1.04
+    }
+  },
+  "Chelsea gagne une des mi-temps": {
+    "Oui": {
+      "percentage": 93,
+      "odds": 1.28
+    },
+    "Non": {
+      "percentage": 7,
+      "odds": 3.05
+    }
+  },
+  "Fulham gagne une des mi-temps": {
+    "Oui": {
+      "percentage": 0,
+      "odds": 2.55
+    },
+    "Non": {
+      "percentage": 0,
+      "odds": 1.36
+    }
+  },
+  "Chelsea gagne les deux mi-temps": {
+    "Oui": {
+      "percentage": 0,
+      "odds": 3.65
+    },
+    "Non": {
+      "percentage": 0,
+      "odds": 1.21
+    }
+  },
+  "Fulham gagne les deux mi-temps": {
+    "Oui": {
+      "percentage": 0,
+      "odds": 20
+    },
+    "Non": {
+      "percentage": 100,
+      "odds": 1.01
+    }
+  },
+  "Chelsea marque dans les deux mi-temps": {
+    "Oui": {
+      "percentage": 100,
+      "odds": 2.1
+    },
+    "Non": {
+      "percentage": 0,
+      "odds": 1.52
+    }
+  },
+  "Fulham marque dans les deux mi-temps": {
+    "Oui": {
+      "percentage": 99,
+      "odds": 4.9
+    },
+    "Non": {
+      "percentage": 1,
+      "odds": 1.12
+    }
+  },
+  "Mi-temps - Double chance": {
+    "Chelsea ou match nul": {
+      "percentage": 100,
+      "odds": 1.14
+    },
+    "Chelsea ou Fulham": {
+      "percentage": 0,
+      "odds": 1.46
+    },
+    "Fulham ou match nul": {
+      "percentage": 0,
+      "odds": 1.62
+    }
+  },
+  "Mi-temps - Les 2 \u00e9quipes marquent": {
+    "Oui": {
+      "percentage": 0,
+      "odds": 3.85
+    },
+    "Non": {
+      "percentage": 0,
+      "odds": 1.19
+    }
+  },
+  "Mi-temps - Nombre de buts de Chelsea": {
+    "Plus de 2,5": {
+      "percentage": 0,
+      "odds": 10.5
+    },
+    "Moins de 2,5": {
+      "percentage": 0,
+      "odds": 1.03
+    }
+  },
+  "Mi-temps - Nombre de buts de Fulham": {
+    "Plus de 2,5": {
+      "percentage": 0,
+      "odds": 48
+    },
+    "Moins de 2,5": {
+      "percentage": 0,
+      "odds": 1
+    }
+  },
+  "Mi-temps - Nombre exact de buts": {
+    "0": {
+      "percentage": 0,
+      "odds": 3.15
+    },
+    "1": {
+      "percentage": 0,
+      "odds": 2.45
+    },
+    "2": {
+      "percentage": 0,
+      "odds": 3.5
+    },
+    "3 ou plus": {
+      "percentage": 0,
+      "odds": 5
+    }
+  },
+  "Mi-temps - Nombre de buts (intervalle)": {
+    "0": {
+      "percentage": 0,
+      "odds": 3.15
+    },
+    "1-2": {
+      "percentage": 0,
+      "odds": 1.54
+    },
+    "1-3": {
+      "percentage": 100,
+      "odds": 1.33
+    },
+    "2-3": {
+      "percentage": 0,
+      "odds": 2.5
+    },
+    "4 et plus": {
+      "percentage": 0,
+      "odds": 14
+    }
+  },
+  "Mi-temps - Vainqueur (rembours\u00e9 si match nul)": {
+    "Chelsea": {
+      "percentage": 100,
+      "odds": 1.28
+    },
+    "Fulham": {
+      "percentage": 0,
+      "odds": 3
+    }
+  },
+  "Mi-temps - Chelsea gardera t-il sa cage inviol\u00e9e ?": {
+    "Oui": {
+      "percentage": 0,
+      "odds": 1.42
+    },
+    "Non": {
+      "percentage": 0,
+      "odds": 2.4
+    }
+  },
+  "Mi-temps - Fulham gardera t-il sa cage inviol\u00e9e ?": {
+    "Oui": {
+      "percentage": 0,
+      "odds": 2.1
+    },
+    "Non": {
+      "percentage": 0,
+      "odds": 1.52
+    }
+  },
+  "Mi-temps - R\u00e9sultat et nombre de buts": {
+    "Match nul et moins de 1,5": {
+      "percentage": 0,
+      "odds": 3.15
+    },
+    "Chelsea et moins de 1,5": {
+      "percentage": 0,
+      "odds": 3.55
+    },
+    "Chelsea et plus de 1,5": {
+      "percentage": 0,
+      "odds": 3.8
+    },
+    "Fulham et moins de 1,5": {
+      "percentage": 0,
+      "odds": 6.25
+    },
+    "Match nul et plus de 1,5": {
+      "percentage": 0,
+      "odds": 6.5
+    },
+    "Fulham et plus de 1,5": {
+      "percentage": 0,
+      "odds": 11.5
+    }
+  },
+  "Mi-temps  - Double chance et les deux \u00e9quipes marquent": {
+    "Chelsea/match nul et non": {
+      "percentage": 0,
+      "odds": 1.42
+    },
+    "Chelsea/Fulham et non": {
+      "percentage": 0,
+      "odds": 1.68
+    },
+    "Fulham/match nul et non": {
+      "percentage": 0,
+      "odds": 2.1
+    },
+    "Chelsea/match nul et oui": {
+      "percentage": 0,
+      "odds": 4.3
+    },
+    "Fulham/match nul et oui": {
+      "percentage": 0,
+      "odds": 5.3
+    },
+    "Chelsea/Fulham et oui": {
+      "percentage": 0,
+      "odds": 7.25
+    }
+  },
+  "Mi-temps avec le plus de buts": {
+    "1re mi-temps": {
+      "percentage": 0,
+      "odds": 2.9
+    },
+    "\u00c9galit\u00e9": {
+      "percentage": 0,
+      "odds": 3.4
+    },
+    "2de mi-temps": {
+      "percentage": 0,
+      "odds": 1.88
+    }
+  }
+}

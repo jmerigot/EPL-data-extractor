@@ -1,0 +1,1138 @@
+{
+  "R\u00e9sultat": {
+    "Newcastle": {
+      "percentage": 3,
+      "odds": 5.4
+    },
+    "Match nul": {
+      "percentage": 9,
+      "odds": 4.3
+    },
+    "Manchester City": {
+      "percentage": 88,
+      "odds": 1.56
+    }
+  },
+  "Double chance": {
+    "Newcastle ou match nul": {
+      "percentage": 2,
+      "odds": 2.3
+    },
+    "Newcastle ou Manchester City": {
+      "percentage": 1,
+      "odds": 1.17
+    },
+    "Manchester City ou match nul": {
+      "percentage": 97,
+      "odds": 1.11
+    }
+  },
+  "Score exact": {
+    "0 - 0": {
+      "percentage": 5,
+      "odds": 13.5
+    },
+    "1 - 0": {
+      "percentage": 14,
+      "odds": 14.5
+    },
+    "2 - 0": {
+      "percentage": 0,
+      "odds": 27
+    },
+    "3 - 0": {
+      "percentage": 0,
+      "odds": 55
+    },
+    "4 - 0": {
+      "percentage": 0,
+      "odds": 130
+    },
+    "5 - 0": {
+      "percentage": 0,
+      "odds": 450
+    },
+    "0 - 1": {
+      "percentage": 0,
+      "odds": 7.5
+    },
+    "1 - 1": {
+      "percentage": 0,
+      "odds": 7.25
+    },
+    "2 - 1": {
+      "percentage": 0,
+      "odds": 14
+    },
+    "3 - 1": {
+      "percentage": 0,
+      "odds": 36
+    },
+    "4 - 1": {
+      "percentage": 0,
+      "odds": 80
+    },
+    "5 - 1": {
+      "percentage": 0,
+      "odds": 250
+    },
+    "0 - 2": {
+      "percentage": 36,
+      "odds": 7.25
+    },
+    "1 - 2": {
+      "percentage": 26,
+      "odds": 7.25
+    },
+    "2 - 2": {
+      "percentage": 0,
+      "odds": 12.5
+    },
+    "3 - 2": {
+      "percentage": 9,
+      "odds": 34
+    },
+    "4 - 2": {
+      "percentage": 0,
+      "odds": 75
+    },
+    "5 - 2": {
+      "percentage": 0,
+      "odds": 225
+    },
+    "0 - 3": {
+      "percentage": 0,
+      "odds": 10
+    },
+    "1 - 3": {
+      "percentage": 9,
+      "odds": 10
+    },
+    "2 - 3": {
+      "percentage": 0,
+      "odds": 19
+    },
+    "3 - 3": {
+      "percentage": 0,
+      "odds": 44
+    },
+    "4 - 3": {
+      "percentage": 0,
+      "odds": 100
+    },
+    "5 - 3": {
+      "percentage": 0,
+      "odds": 300
+    },
+    "0 - 4": {
+      "percentage": 0,
+      "odds": 18
+    },
+    "1 - 4": {
+      "percentage": 0,
+      "odds": 18
+    },
+    "2 - 4": {
+      "percentage": 1,
+      "odds": 32
+    },
+    "3 - 4": {
+      "percentage": 0,
+      "odds": 60
+    },
+    "4 - 4": {
+      "percentage": 0,
+      "odds": 140
+    },
+    "5 - 4": {
+      "percentage": 0,
+      "odds": 450
+    },
+    "0 - 5": {
+      "percentage": 0,
+      "odds": 38
+    },
+    "1 - 5": {
+      "percentage": 0,
+      "odds": 38
+    },
+    "2 - 5": {
+      "percentage": 0,
+      "odds": 55
+    },
+    "3 - 5": {
+      "percentage": 0,
+      "odds": 100
+    },
+    "4 - 5": {
+      "percentage": 0,
+      "odds": 300
+    },
+    "Autre": {
+      "percentage": 0,
+      "odds": 30
+    }
+  },
+  "Score exact multichance": {
+    "1-0 ou 2-0 ou 3-0": {
+      "percentage": 0,
+      "odds": 9
+    },
+    "0-1 ou 0-2 ou 0-3": {
+      "percentage": 35,
+      "odds": 3.2
+    },
+    "4-0 ou 5-0 ou 6-0": {
+      "percentage": 0,
+      "odds": 100
+    },
+    "0-4 ou 0-5 ou 0-6": {
+      "percentage": 0,
+      "odds": 12
+    },
+    "2-1 ou 3-1 ou 4-1": {
+      "percentage": 0,
+      "odds": 10
+    },
+    "1-2 ou 1-3 ou 1-4": {
+      "percentage": 57,
+      "odds": 4
+    },
+    "3-2 ou 4-2 ou 4-3 ou 5-1": {
+      "percentage": 8,
+      "odds": 26
+    },
+    "2-3 ou 2-4 ou 3-4 ou 1-5": {
+      "percentage": 0,
+      "odds": 9.5
+    },
+    "Autre victoire \u00e0 domicile": {
+      "percentage": 0,
+      "odds": 100
+    },
+    "Autre victoire \u00e0 l'ext\u00e9rieur": {
+      "percentage": 0,
+      "odds": 25
+    },
+    "Match nul": {
+      "percentage": 0,
+      "odds": 3.8
+    }
+  },
+  "Les 2 \u00e9quipes marquent": {
+    "Oui": {
+      "percentage": 100,
+      "odds": 1.64
+    },
+    "Non": {
+      "percentage": 0,
+      "odds": 2
+    }
+  },
+  "\u00c9cart de buts|Newcastle gagne par au moins 2 buts d'\u00e9cart": {
+    "Oui": {
+      "percentage": 0,
+      "odds": 10
+    },
+    "Non": {
+      "percentage": 100,
+      "odds": 1.04
+    }
+  },
+  "\u00c9cart de buts|Manchester City gagne par au moins 2 buts d'\u00e9cart": {
+    "Non": {
+      "percentage": 5,
+      "odds": 1.47
+    },
+    "Oui": {
+      "percentage": 95,
+      "odds": 2.25
+    }
+  },
+  "\u00c9cart de buts|Manchester City gagne par au moins 3 buts d'\u00e9cart": {
+    "Non": {
+      "percentage": 100,
+      "odds": 1.17
+    },
+    "Oui": {
+      "percentage": 0,
+      "odds": 4
+    }
+  },
+  "\u00c9cart de buts|Manchester City gagne par au moins 4 buts d'\u00e9cart": {
+    "Non": {
+      "percentage": 100,
+      "odds": 1.05
+    },
+    "Oui": {
+      "percentage": 0,
+      "odds": 8.5
+    }
+  },
+  "\u00c9cart de buts (handicap)": {
+    "Newcastle +3.5": {
+      "percentage": 0,
+      "odds": 1.05
+    },
+    "Manchester City -3.5": {
+      "percentage": 0,
+      "odds": 8.5
+    }
+  },
+  "Nombre de buts": {
+    "Plus de 5": {
+      "percentage": 83,
+      "odds": 7.25
+    },
+    "Moins de 5": {
+      "percentage": 17,
+      "odds": 1.09
+    }
+  },
+  "Vainqueur (rembours\u00e9 si match nul)": {
+    "Newcastle": {
+      "percentage": 0,
+      "odds": 3.65
+    },
+    "Manchester City": {
+      "percentage": 100,
+      "odds": 1.2
+    }
+  },
+  "\u00c9quipe qui marque le 1er but": {
+    "Newcastle": {
+      "percentage": 100,
+      "odds": 2.7
+    },
+    "Aucune": {
+      "percentage": 0,
+      "odds": 13.5
+    },
+    "Manchester City": {
+      "percentage": 0,
+      "odds": 1.42
+    }
+  },
+  "\u00c9quipe qui marque le dernier but": {
+    "Newcastle": {
+      "percentage": 0,
+      "odds": 2.7
+    },
+    "Aucune": {
+      "percentage": 0,
+      "odds": 13.5
+    },
+    "Manchester City": {
+      "percentage": 0,
+      "odds": 1.42
+    }
+  },
+  "Mi-temps - R\u00e9sultat": {
+    "Newcastle": {
+      "percentage": 3,
+      "odds": 4.5
+    },
+    "Match nul": {
+      "percentage": 82,
+      "odds": 2.3
+    },
+    "Manchester City": {
+      "percentage": 15,
+      "odds": 1.92
+    }
+  },
+  "Mi-temps - Score exact": {
+    "0 - 0": {
+      "percentage": 2,
+      "odds": 3.2
+    },
+    "1 - 1": {
+      "percentage": 0,
+      "odds": 7
+    },
+    "2 - 2": {
+      "percentage": 0,
+      "odds": 48
+    },
+    "1 - 0": {
+      "percentage": 0,
+      "odds": 6.5
+    },
+    "2 - 0": {
+      "percentage": 0,
+      "odds": 25
+    },
+    "2 - 1": {
+      "percentage": 0,
+      "odds": 27
+    },
+    "0 - 1": {
+      "percentage": 0,
+      "odds": 3.5
+    },
+    "0 - 2": {
+      "percentage": 0,
+      "odds": 6.75
+    },
+    "1 - 2": {
+      "percentage": 98,
+      "odds": 14
+    },
+    "Autre": {
+      "percentage": 0,
+      "odds": 9
+    }
+  },
+  "Mi-temps - Nombre de buts": {
+    "Plus de 3": {
+      "percentage": 0,
+      "odds": 12.5
+    },
+    "Moins de 3": {
+      "percentage": 0,
+      "odds": 1.03
+    }
+  },
+  "Mi-temps - \u00c9cart de buts (handicap)": {
+    "Newcastle +1": {
+      "percentage": 0,
+      "odds": 1.22
+    },
+    "Manchester City -1": {
+      "percentage": 0,
+      "odds": 3.5
+    }
+  },
+  "Minute du 1er but (10 min)": {
+    "1-10": {
+      "percentage": 0,
+      "odds": 3.75
+    },
+    "11-20": {
+      "percentage": 0,
+      "odds": 4.1
+    },
+    "21-30": {
+      "percentage": 0,
+      "odds": 5
+    },
+    "31-40": {
+      "percentage": 0,
+      "odds": 6.25
+    },
+    "41-50": {
+      "percentage": 0,
+      "odds": 7.5
+    },
+    "51-60": {
+      "percentage": 0,
+      "odds": 10
+    },
+    "61-70": {
+      "percentage": 0,
+      "odds": 14
+    },
+    "71-80": {
+      "percentage": 0,
+      "odds": 19
+    },
+    "81-90": {
+      "percentage": 0,
+      "odds": 20
+    },
+    "Aucun": {
+      "percentage": 0,
+      "odds": 13.5
+    }
+  },
+  "Minute du 1er but (15 min)": {
+    "1-15": {
+      "percentage": 0,
+      "odds": 2.65
+    },
+    "16-30": {
+      "percentage": 0,
+      "odds": 3.4
+    },
+    "31-45": {
+      "percentage": 0,
+      "odds": 4.4
+    },
+    "46-60": {
+      "percentage": 0,
+      "odds": 7
+    },
+    "61-75": {
+      "percentage": 0,
+      "odds": 10
+    },
+    "76-90": {
+      "percentage": 0,
+      "odds": 14
+    },
+    "Aucun": {
+      "percentage": 0,
+      "odds": 13.5
+    }
+  },
+  "Nombre exact de buts": {
+    "0": {
+      "percentage": 0,
+      "odds": 13.5
+    },
+    "1": {
+      "percentage": 0,
+      "odds": 5.4
+    },
+    "2": {
+      "percentage": 0,
+      "odds": 3.7
+    },
+    "3": {
+      "percentage": 0,
+      "odds": 3.7
+    },
+    "4": {
+      "percentage": 0,
+      "odds": 4.5
+    },
+    "5": {
+      "percentage": 0,
+      "odds": 6.75
+    },
+    "6": {
+      "percentage": 0,
+      "odds": 12
+    },
+    "7": {
+      "percentage": 0,
+      "odds": 26
+    },
+    "8": {
+      "percentage": 0,
+      "odds": 50
+    },
+    "9 ou plus": {
+      "percentage": 0,
+      "odds": 70
+    }
+  },
+  "Nombre de buts (intervalle)": {
+    "0-1": {
+      "percentage": 0,
+      "odds": 4.2
+    },
+    "2-3": {
+      "percentage": 0,
+      "odds": 1.98
+    },
+    "4-6": {
+      "percentage": 0,
+      "odds": 2.55
+    },
+    "7 et plus": {
+      "percentage": 100,
+      "odds": 17
+    }
+  },
+  "Nombre de buts de Newcastle": {
+    "Plus de 4,5": {
+      "percentage": 0,
+      "odds": 80
+    },
+    "Moins de 4,5": {
+      "percentage": 0,
+      "odds": 1
+    }
+  },
+  "Nombre de buts de Manchester City": {
+    "Plus de 4,5": {
+      "percentage": 0,
+      "odds": 11
+    },
+    "Moins de 4,5": {
+      "percentage": 100,
+      "odds": 1.03
+    }
+  },
+  "Nombre exact de buts de Newcastle": {
+    "0": {
+      "percentage": 0,
+      "odds": 2.35
+    },
+    "1": {
+      "percentage": 0,
+      "odds": 2.3
+    },
+    "2": {
+      "percentage": 0,
+      "odds": 4.2
+    },
+    "3 ou plus": {
+      "percentage": 0,
+      "odds": 8.5
+    }
+  },
+  "Nombre exact de buts de Manchester City": {
+    "0": {
+      "percentage": 0,
+      "odds": 6
+    },
+    "1": {
+      "percentage": 0,
+      "odds": 3.2
+    },
+    "2": {
+      "percentage": 0,
+      "odds": 3.1
+    },
+    "3 ou plus": {
+      "percentage": 0,
+      "odds": 2.45
+    }
+  },
+  "Nombre de buts de Newcastle (intervalle)": {
+    "1-2": {
+      "percentage": 0,
+      "odds": 1.6
+    },
+    "1-3": {
+      "percentage": 0,
+      "odds": 1.47
+    },
+    "2-3": {
+      "percentage": 0,
+      "odds": 3.4
+    },
+    "4 et plus": {
+      "percentage": 0,
+      "odds": 30
+    },
+    "0": {
+      "percentage": 0,
+      "odds": 2.35
+    }
+  },
+  "Nombre de buts de Manchester City (intervalle)": {
+    "1-2": {
+      "percentage": 0,
+      "odds": 1.66
+    },
+    "1-3": {
+      "percentage": 0,
+      "odds": 1.29
+    },
+    "2-3": {
+      "percentage": 100,
+      "odds": 1.92
+    },
+    "4 et plus": {
+      "percentage": 0,
+      "odds": 4.9
+    },
+    "0": {
+      "percentage": 0,
+      "odds": 6
+    }
+  },
+  "Mi-temps/Fin de match": {
+    "Manchester City/Manchester City": {
+      "percentage": 10,
+      "odds": 2.2
+    },
+    "Match nul/Manchester City": {
+      "percentage": 0,
+      "odds": 4.2
+    },
+    "Match nul/Match nul": {
+      "percentage": 0,
+      "odds": 6
+    },
+    "Newcastle/Newcastle": {
+      "percentage": 0,
+      "odds": 7.75
+    },
+    "Match nul/Newcastle": {
+      "percentage": 0,
+      "odds": 10
+    },
+    "Manchester City/Match nul": {
+      "percentage": 0,
+      "odds": 14
+    },
+    "Newcastle/Match nul": {
+      "percentage": 0,
+      "odds": 14.5
+    },
+    "Newcastle/Manchester City": {
+      "percentage": 45,
+      "odds": 19
+    },
+    "Manchester City/Newcastle": {
+      "percentage": 45,
+      "odds": 40
+    }
+  },
+  "Marge de victoire": {
+    "Newcastle gagne d'au moins 3 buts d'\u00e9cart": {
+      "percentage": 0,
+      "odds": 36
+    },
+    "Newcastle gagne par exactement 2 buts d'\u00e9cart": {
+      "percentage": 0,
+      "odds": 15
+    },
+    "Newcastle gagne par exactement 1 but d'\u00e9cart": {
+      "percentage": 0,
+      "odds": 6.5
+    },
+    "Match nul": {
+      "percentage": 0,
+      "odds": 3.8
+    },
+    "Manchester City gagne par exactement 1 but d'\u00e9cart": {
+      "percentage": 0,
+      "odds": 3.55
+    },
+    "Manchester City gagne par exactement 2 buts d'\u00e9cart": {
+      "percentage": 0,
+      "odds": 4.2
+    },
+    "Manchester City gagne d'au moins 3 buts d'\u00e9cart": {
+      "percentage": 0,
+      "odds": 4
+    }
+  },
+  "R\u00e9sultat et nombre de buts": {
+    "Manchester City et moins de 4,5": {
+      "percentage": 0,
+      "odds": 1.9
+    },
+    "Match nul et moins de 4,5": {
+      "percentage": 0,
+      "odds": 4
+    },
+    "Manchester City et plus de 4,5": {
+      "percentage": 0,
+      "odds": 5
+    },
+    "Newcastle et moins de 4,5": {
+      "percentage": 0,
+      "odds": 5.4
+    },
+    "Newcastle et plus de 4,5": {
+      "percentage": 0,
+      "odds": 21
+    },
+    "Match nul et plus de 4,5": {
+      "percentage": 0,
+      "odds": 40
+    }
+  },
+  "R\u00e9sultat et les deux \u00e9quipes marquent": {
+    "Manchester City et non": {
+      "percentage": 0,
+      "odds": 2.65
+    },
+    "Manchester City et oui": {
+      "percentage": 100,
+      "odds": 2.85
+    },
+    "Match nul et oui": {
+      "percentage": 0,
+      "odds": 4.6
+    },
+    "Newcastle et oui": {
+      "percentage": 0,
+      "odds": 7.75
+    },
+    "Newcastle et non": {
+      "percentage": 0,
+      "odds": 9
+    },
+    "Match nul et non": {
+      "percentage": 0,
+      "odds": 13.5
+    }
+  },
+  "\u00c9quipe qui marque le 1er but et r\u00e9sultat": {
+    "Manchester City marque et Manchester City gagne": {
+      "percentage": 0,
+      "odds": 1.68
+    },
+    "Newcastle marque et Newcastle gagne": {
+      "percentage": 0,
+      "odds": 5.4
+    },
+    "Newcastle marque et Manchester City gagne": {
+      "percentage": 0,
+      "odds": 8
+    },
+    "Newcastle marque et match nul": {
+      "percentage": 0,
+      "odds": 8.5
+    },
+    "Manchester City marque et match nul": {
+      "percentage": 0,
+      "odds": 8.5
+    },
+    "Aucun but": {
+      "percentage": 0,
+      "odds": 13.5
+    },
+    "Manchester City marque et Newcastle gagne": {
+      "percentage": 0,
+      "odds": 21
+    }
+  },
+  "Double chance et nombre de buts": {
+    "Manchester City/match nul et moins de 4,5": {
+      "percentage": 100,
+      "odds": 1.38
+    },
+    "Newcastle/Manchester City et moins de 4,5": {
+      "percentage": 0,
+      "odds": 1.5
+    },
+    "Newcastle/match nul et moins de 4,5": {
+      "percentage": 0,
+      "odds": 2.5
+    },
+    "Newcastle/Manchester City et plus de 4,5": {
+      "percentage": 0,
+      "odds": 4.3
+    },
+    "Manchester City/match nul et plus de 4,5": {
+      "percentage": 0,
+      "odds": 4.6
+    },
+    "Newcastle/match nul et plus de 4,5": {
+      "percentage": 0,
+      "odds": 14.5
+    }
+  },
+  "Double chance et les deux \u00e9quipes marquent": {
+    "Manchester City/match nul et oui": {
+      "percentage": 43,
+      "odds": 1.88
+    },
+    "Newcastle/Manchester City et non": {
+      "percentage": 0,
+      "odds": 2.15
+    },
+    "Newcastle/Manchester City et oui": {
+      "percentage": 57,
+      "odds": 2.2
+    },
+    "Manchester City/match nul et non": {
+      "percentage": 0,
+      "odds": 2.35
+    },
+    "Newcastle/match nul et oui": {
+      "percentage": 0,
+      "odds": 3.25
+    },
+    "Newcastle/match nul et non": {
+      "percentage": 0,
+      "odds": 6
+    }
+  },
+  "Quelle \u00e9quipe va marquer ?": {
+    "Aucune": {
+      "percentage": 0,
+      "odds": 13.5
+    },
+    "Seulement Newcastle": {
+      "percentage": 0,
+      "odds": 9
+    },
+    "Seulement Manchester City": {
+      "percentage": 0,
+      "odds": 2.65
+    },
+    "Les deux \u00e9quipes": {
+      "percentage": 100,
+      "odds": 1.6
+    }
+  },
+  "Newcastle garde sa cage inviol\u00e9e": {
+    "Oui": {
+      "percentage": 0,
+      "odds": 6
+    },
+    "Non": {
+      "percentage": 0,
+      "odds": 1.09
+    }
+  },
+  "Manchester City garde sa cage inviol\u00e9e": {
+    "Oui": {
+      "percentage": 0,
+      "odds": 2.35
+    },
+    "Non": {
+      "percentage": 0,
+      "odds": 1.43
+    }
+  },
+  "Newcastle gagne sans conc\u00e9der de but": {
+    "Oui": {
+      "percentage": 0,
+      "odds": 9
+    },
+    "Non": {
+      "percentage": 0,
+      "odds": 1.04
+    }
+  },
+  "Manchester City gagne sans conc\u00e9der de but": {
+    "Oui": {
+      "percentage": 0,
+      "odds": 2.65
+    },
+    "Non": {
+      "percentage": 100,
+      "odds": 1.34
+    }
+  },
+  "Newcastle gagne une des mi-temps": {
+    "Oui": {
+      "percentage": 0,
+      "odds": 2.65
+    },
+    "Non": {
+      "percentage": 0,
+      "odds": 1.35
+    }
+  },
+  "Manchester City gagne une des mi-temps": {
+    "Oui": {
+      "percentage": 100,
+      "odds": 1.27
+    },
+    "Non": {
+      "percentage": 0,
+      "odds": 3.15
+    }
+  },
+  "Newcastle gagne les deux mi-temps": {
+    "Oui": {
+      "percentage": 0,
+      "odds": 21
+    },
+    "Non": {
+      "percentage": 0,
+      "odds": 1.01
+    }
+  },
+  "Manchester City gagne les deux mi-temps": {
+    "Oui": {
+      "percentage": 100,
+      "odds": 3.55
+    },
+    "Non": {
+      "percentage": 0,
+      "odds": 1.22
+    }
+  },
+  "Newcastle marque dans les deux mi-temps": {
+    "Oui": {
+      "percentage": 99,
+      "odds": 5
+    },
+    "Non": {
+      "percentage": 1,
+      "odds": 1.12
+    }
+  },
+  "Manchester City marque dans les deux mi-temps": {
+    "Oui": {
+      "percentage": 100,
+      "odds": 2.1
+    },
+    "Non": {
+      "percentage": 0,
+      "odds": 1.54
+    }
+  },
+  "Mi-temps - Double chance": {
+    "Newcastle ou match nul": {
+      "percentage": 0,
+      "odds": 1.64
+    },
+    "Newcastle ou Manchester City": {
+      "percentage": 100,
+      "odds": 1.45
+    },
+    "Manchester City ou match nul": {
+      "percentage": 0,
+      "odds": 1.14
+    }
+  },
+  "Mi-temps - Les 2 \u00e9quipes marquent": {
+    "Oui": {
+      "percentage": 0,
+      "odds": 3.85
+    },
+    "Non": {
+      "percentage": 100,
+      "odds": 1.19
+    }
+  },
+  "Mi-temps - Nombre de buts de Newcastle": {
+    "Plus de 2,5": {
+      "percentage": 0,
+      "odds": 48
+    },
+    "Moins de 2,5": {
+      "percentage": 0,
+      "odds": 1
+    }
+  },
+  "Mi-temps - Nombre de buts de Manchester City": {
+    "Plus de 2,5": {
+      "percentage": 0,
+      "odds": 10.5
+    },
+    "Moins de 2,5": {
+      "percentage": 100,
+      "odds": 1.03
+    }
+  },
+  "Mi-temps - Nombre exact de buts": {
+    "0": {
+      "percentage": 0,
+      "odds": 3.2
+    },
+    "1": {
+      "percentage": 0,
+      "odds": 2.45
+    },
+    "2": {
+      "percentage": 0,
+      "odds": 3.5
+    },
+    "3 ou plus": {
+      "percentage": 0,
+      "odds": 5
+    }
+  },
+  "Mi-temps - Nombre de buts (intervalle)": {
+    "0": {
+      "percentage": 0,
+      "odds": 3.2
+    },
+    "1-2": {
+      "percentage": 0,
+      "odds": 1.54
+    },
+    "1-3": {
+      "percentage": 100,
+      "odds": 1.33
+    },
+    "2-3": {
+      "percentage": 0,
+      "odds": 2.5
+    },
+    "4 et plus": {
+      "percentage": 0,
+      "odds": 13.5
+    }
+  },
+  "Mi-temps - Vainqueur (rembours\u00e9 si match nul)": {
+    "Newcastle": {
+      "percentage": 0,
+      "odds": 3.1
+    },
+    "Manchester City": {
+      "percentage": 100,
+      "odds": 1.27
+    }
+  },
+  "Mi-temps - Newcastle gardera t-il sa cage inviol\u00e9e ?": {
+    "Oui": {
+      "percentage": 0,
+      "odds": 2.15
+    },
+    "Non": {
+      "percentage": 0,
+      "odds": 1.5
+    }
+  },
+  "Mi-temps - Manchester City gardera t-il sa cage inviol\u00e9e ?": {
+    "Oui": {
+      "percentage": 100,
+      "odds": 1.41
+    },
+    "Non": {
+      "percentage": 0,
+      "odds": 2.4
+    }
+  },
+  "Mi-temps - R\u00e9sultat et nombre de buts": {
+    "Match nul et moins de 1,5": {
+      "percentage": 0,
+      "odds": 3.2
+    },
+    "Manchester City et moins de 1,5": {
+      "percentage": 0,
+      "odds": 3.5
+    },
+    "Manchester City et plus de 1,5": {
+      "percentage": 0,
+      "odds": 3.75
+    },
+    "Match nul et plus de 1,5": {
+      "percentage": 0,
+      "odds": 6.5
+    },
+    "Newcastle et moins de 1,5": {
+      "percentage": 0,
+      "odds": 6.5
+    },
+    "Newcastle et plus de 1,5": {
+      "percentage": 0,
+      "odds": 11.5
+    }
+  },
+  "Mi-temps  - Double chance et les deux \u00e9quipes marquent": {
+    "Manchester City/match nul et non": {
+      "percentage": 0,
+      "odds": 1.41
+    },
+    "Newcastle/Manchester City et non": {
+      "percentage": 0,
+      "odds": 1.68
+    },
+    "Newcastle/match nul et non": {
+      "percentage": 0,
+      "odds": 2.15
+    },
+    "Manchester City/match nul et oui": {
+      "percentage": 0,
+      "odds": 4.3
+    },
+    "Newcastle/match nul et oui": {
+      "percentage": 0,
+      "odds": 5.3
+    },
+    "Newcastle/Manchester City et oui": {
+      "percentage": 0,
+      "odds": 7.25
+    }
+  },
+  "Mi-temps avec le plus de buts": {
+    "1re mi-temps": {
+      "percentage": 0,
+      "odds": 2.9
+    },
+    "\u00c9galit\u00e9": {
+      "percentage": 0,
+      "odds": 3.45
+    },
+    "2de mi-temps": {
+      "percentage": 100,
+      "odds": 1.86
+    }
+  }
+}

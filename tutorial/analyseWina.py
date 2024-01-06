@@ -14,7 +14,7 @@ with open("outputWinamax.json", 'r') as json_file:
             try:
                 percent_distribution = data_dict["outcomes"][str(i)]["percentDistribution"]
             except KeyError:
-                percent_distribution = None
+                percent_distribution = 0
 
             interm_dict[data_dict["outcomes"][str(i)]["label"]] = [data_dict["odds"][str(i)],percent_distribution]
             timestamp = main_bet_to_title_dict[bets_keys_list[m]][1]
