@@ -1,0 +1,64 @@
+{
+  "R\u00e9sultat du match (temps r\u00e9glementaire)": {
+    "": "1,54"
+  },
+  "Double chance": {
+    "Newcastle ou Nul": "2,23",
+    "Newcastle ou Manchester City": "1,15",
+    "Nul ou Manchester City": "1,12"
+  },
+  "Nombre total de buts": {
+    "+ de 1,5": "1,15",
+    "- de 1,5": "4,40",
+    "+ de 2,5": "1,52",
+    "- de 2,5": "2,10",
+    "+ de 3,5": "2,30",
+    "- de 3,5": "1,45"
+  },
+  "But pour les 2 \u00e9quipes": {
+    "Oui": "1,58",
+    "Non": "1,93"
+  },
+  "Total de buts - Newcastle": {
+    "+ de 0,5": "1,45",
+    "- de 0,5": "2,38",
+    "+ de 1,5": "3,07",
+    "- de 1,5": "1,28",
+    "+ de 2,5": "9,80",
+    "- de 2,5": "1,04"
+  },
+  "Total de buts - Manchester City": {
+    "+ de 0,5": "1,09",
+    "- de 0,5": "6,50",
+    "+ de 1,5": "1,50",
+    "- de 1,5": "2,25",
+    "+ de 2,5": "2,52",
+    "- de 2,5": "1,41"
+  },
+  "\u00c9cart de buts": {
+    "Newcastle gagne de 4 buts ou +": "25",
+    "Newcastle gagne de 3 buts exactement": "7,65",
+    "Manchester City ne perd pas ou perd de 2 buts ou -": "1,01"
+  },
+  "Premi\u00e8re \u00e9quipe \u00e0 marquer": {
+    "Newcastle": "2,76",
+    "Pas de but dans le match": "17",
+    "Manchester City": "1,45"
+  },
+  "Score exact": {
+    "1 - 0": "17",
+    "0 - 0": "17",
+    "0 - 1": "8,60",
+    "2 - 0": "35",
+    "1 - 1": "8,00",
+    "0 - 2": "8,20",
+    "2 - 1": "17",
+    "2 - 2": "15",
+    "1 - 2": "8,20"
+  },
+  "1\u00e8re mi-temps - R\u00e9sultat": {
+    "Newcastle": "5,10",
+    "Nul": "2,39",
+    "Manchester City": "2,02"
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "R\u00e9sultat du match (temps r\u00e9glementaire)": {
+    "": "8,00"
+  },
+  "Double chance": {
+    "Arsenal ou Nul": "1,06",
+    "Arsenal ou Crystal Palace": "1,11",
+    "Nul ou Crystal Palace": "2,97"
+  },
+  "Nombre total de buts": {
+    "+ de 1,5": "1,19",
+    "- de 1,5": "3,70",
+    "+ de 2,5": "1,62",
+    "- de 2,5": "1,88",
+    "+ de 3,5": "2,50",
+    "- de 3,5": "1,32"
+  },
+  "But pour les 2 \u00e9quipes": {
+    "Oui": "1,98",
+    "Non": "1,56"
+  },
+  "Total de buts - Arsenal": {
+    "+ de 0,5": "1,07",
+    "- de 0,5": "7,10",
+    "+ de 1,5": "1,43",
+    "- de 1,5": "2,32",
+    "+ de 2,5": "2,35",
+    "- de 2,5": "1,44"
+  },
+  "Total de buts - Crystal Palace": {
+    "+ de 0,5": "1,80",
+    "- de 0,5": "1,74",
+    "+ de 1,5": "4,48",
+    "- de 1,5": "1,10"
+  },
+  "\u00c9cart de buts": {
+    "Arsenal gagne de 6 buts ou +": "16,25",
+    "Arsenal gagne de 5 buts exactement": "8,40",
+    "Crystal Palace ne perd pas ou perd de 4 buts ou -": "1,01"
+  },
+  "Premi\u00e8re \u00e9quipe \u00e0 marquer": {
+    "Arsenal": "1,29",
+    "Pas de but dans le match": "13,75",
+    "Crystal Palace": "3,58"
+  },
+  "Score exact": {
+    "1 - 0": "6,40",
+    "0 - 0": "14",
+    "0 - 1": "20",
+    "2 - 0": "5,80",
+    "1 - 1": "9,40",
+    "0 - 2": "60",
+    "2 - 1": "8,60",
+    "2 - 2": "25",
+    "1 - 2": "27"
+  },
+  "1\u00e8re mi-temps - R\u00e9sultat": {
+    "Arsenal": "1,77",
+    "Nul": "2,34",
+    "Crystal Palace": "7,30"
+  }
+}

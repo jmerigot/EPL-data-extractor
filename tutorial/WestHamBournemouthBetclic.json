@@ -1,0 +1,68 @@
+{
+  "R\u00e9sultat du match (temps r\u00e9glementaire)": {
+    "": "3,02"
+  },
+  "Double chance": {
+    "West Ham ou Nul": "1,29",
+    "West Ham ou Bournemouth": "1,19",
+    "Nul ou Bournemouth": "1,66"
+  },
+  "Nombre total de buts": {
+    "+ de 1,5": "1,15",
+    "- de 1,5": "4,20",
+    "+ de 2,5": "1,55",
+    "- de 2,5": "2,00",
+    "+ de 3,5": "2,30",
+    "- de 3,5": "1,40"
+  },
+  "But pour les 2 \u00e9quipes": {
+    "Oui": "1,50",
+    "Non": "2,09"
+  },
+  "Total de buts - West Ham": {
+    "+ de 0,5": "1,13",
+    "- de 0,5": "4,57",
+    "+ de 1,5": "1,72",
+    "- de 1,5": "1,76",
+    "+ de 2,5": "3,48",
+    "- de 2,5": "1,21",
+    "+ de 3,5": "5,20",
+    "- de 3,5": "1,04"
+  },
+  "Total de buts - Bournemouth": {
+    "+ de 0,5": "1,25",
+    "- de 0,5": "3,15",
+    "+ de 1,5": "2,20",
+    "- de 1,5": "1,44",
+    "+ de 2,5": "5,70",
+    "- de 2,5": "1,09",
+    "+ de 3,5": "6,20",
+    "- de 3,5": "1,01"
+  },
+  "\u00c9cart de buts": {
+    "West Ham gagne de 5 buts ou +": "18",
+    "West Ham gagne de 4 buts exactement": "8,20",
+    "Bournemouth ne perd pas ou perd de 3 buts ou -": "1,01"
+  },
+  "Premi\u00e8re \u00e9quipe \u00e0 marquer": {
+    "West Ham": "1,66",
+    "Pas de but dans le match": "16,25",
+    "Bournemouth": "2,08"
+  },
+  "Score exact": {
+    "1 - 0": "9,80",
+    "0 - 0": "16",
+    "0 - 1": "13",
+    "2 - 0": "11",
+    "1 - 1": "7,20",
+    "0 - 2": "19",
+    "2 - 1": "8,60",
+    "2 - 2": "13",
+    "1 - 2": "11"
+  },
+  "1\u00e8re mi-temps - R\u00e9sultat": {
+    "West Ham": "2,48",
+    "Nul": "2,19",
+    "Bournemouth": "3,45"
+  }
+}

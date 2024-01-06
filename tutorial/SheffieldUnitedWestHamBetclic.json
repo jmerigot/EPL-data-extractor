@@ -1,0 +1,66 @@
+{
+  "R\u00e9sultat du match (temps r\u00e9glementaire)": {
+    "": "1,84"
+  },
+  "Double chance": {
+    "Sheffield United ou Nul": "1,78",
+    "Sheffield United ou West Ham": "1,20",
+    "Nul ou West Ham": "1,20"
+  },
+  "Nombre total de buts": {
+    "+ de 0,5": "1,02",
+    "- de 0,5": "12",
+    "+ de 1,5": "1,20",
+    "- de 1,5": "3,50",
+    "+ de 2,5": "1,68",
+    "- de 2,5": "1,80"
+  },
+  "But pour les 2 \u00e9quipes": {
+    "Oui": "1,63",
+    "Non": "1,88"
+  },
+  "Total de buts - Sheffield United": {
+    "+ de 0,5": "1,38",
+    "- de 0,5": "2,54",
+    "+ de 1,5": "2,75",
+    "- de 1,5": "1,30",
+    "+ de 2,5": "8,45",
+    "- de 2,5": "1,05"
+  },
+  "Total de buts - West Ham": {
+    "+ de 0,5": "1,15",
+    "- de 0,5": "4,48",
+    "+ de 1,5": "1,77",
+    "- de 1,5": "1,77",
+    "+ de 2,5": "3,57",
+    "- de 2,5": "1,22",
+    "+ de 3,5": "5,75",
+    "- de 3,5": "1,05"
+  },
+  "\u00c9cart de buts": {
+    "Sheffield United gagne de 4 buts ou +": "23",
+    "Sheffield United gagne de 3 buts exactement": "7,70",
+    "West Ham ne perd pas ou perd de 2 buts ou -": "1,01"
+  },
+  "Premi\u00e8re \u00e9quipe \u00e0 marquer": {
+    "Sheffield United": "2,37",
+    "Pas de but dans le match": "12,25",
+    "West Ham": "1,60"
+  },
+  "Score exact": {
+    "1 - 0": "12",
+    "0 - 0": "12",
+    "0 - 1": "8,00",
+    "2 - 0": "22",
+    "1 - 1": "6,60",
+    "0 - 2": "9,20",
+    "2 - 1": "13",
+    "2 - 2": "14",
+    "1 - 2": "8,40"
+  },
+  "1\u00e8re mi-temps - R\u00e9sultat": {
+    "Sheffield United": "4,12",
+    "Nul": "2,15",
+    "West Ham": "2,37"
+  }
+}

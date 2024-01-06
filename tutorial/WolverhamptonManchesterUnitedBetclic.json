@@ -1,0 +1,68 @@
+{
+  "R\u00e9sultat du match (temps r\u00e9glementaire)": {
+    "": "2,39"
+  },
+  "Double chance": {
+    "Wolverhampton ou Nul": "1,44",
+    "Wolverhampton ou Manchester United": "1,22",
+    "Nul ou Manchester United": "1,41"
+  },
+  "Nombre total de buts": {
+    "+ de 1,5": "1,17",
+    "- de 1,5": "3,90",
+    "+ de 2,5": "1,60",
+    "- de 2,5": "1,90",
+    "+ de 3,5": "2,45",
+    "- de 3,5": "1,35"
+  },
+  "But pour les 2 \u00e9quipes": {
+    "Oui": "1,52",
+    "Non": "2,06"
+  },
+  "Total de buts - Wolverhampton": {
+    "+ de 0,5": "1,21",
+    "- de 0,5": "3,55",
+    "+ de 1,5": "2,02",
+    "- de 1,5": "1,53",
+    "+ de 2,5": "4,78",
+    "- de 2,5": "1,12",
+    "+ de 3,5": "5,95",
+    "- de 3,5": "1,02"
+  },
+  "Total de buts - Manchester United": {
+    "+ de 0,5": "1,20",
+    "- de 0,5": "3,65",
+    "+ de 1,5": "1,98",
+    "- de 1,5": "1,55",
+    "+ de 2,5": "4,58",
+    "- de 2,5": "1,13",
+    "+ de 3,5": "5,90",
+    "- de 3,5": "1,02"
+  },
+  "\u00c9cart de buts": {
+    "Wolverhampton gagne de 4 buts ou +": "16,50",
+    "Wolverhampton gagne de 3 buts exactement": "7,70",
+    "Manchester United ne perd pas ou perd de 2 buts ou -": "1,02"
+  },
+  "Premi\u00e8re \u00e9quipe \u00e0 marquer": {
+    "Wolverhampton": "1,88",
+    "Pas de but dans le match": "14,25",
+    "Manchester United": "1,84"
+  },
+  "Score exact": {
+    "1 - 0": "11",
+    "0 - 0": "14",
+    "0 - 1": "10",
+    "2 - 0": "14",
+    "1 - 1": "6,60",
+    "0 - 2": "14",
+    "2 - 1": "9,80",
+    "2 - 2": "12",
+    "1 - 2": "9,60"
+  },
+  "1\u00e8re mi-temps - R\u00e9sultat": {
+    "Wolverhampton": "2,98",
+    "Nul": "2,13",
+    "Manchester United": "2,89"
+  }
+}

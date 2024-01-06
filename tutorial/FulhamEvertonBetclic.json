@@ -1,0 +1,66 @@
+{
+  "R\u00e9sultat du match (temps r\u00e9glementaire)": {
+    "": "2,62"
+  },
+  "Double chance": {
+    "Fulham ou Nul": "1,37",
+    "Fulham ou Everton": "1,24",
+    "Nul ou Everton": "1,45"
+  },
+  "Nombre total de buts": {
+    "+ de 0,5": "1,03",
+    "- de 0,5": "11",
+    "+ de 1,5": "1,23",
+    "- de 1,5": "3,20",
+    "+ de 2,5": "1,78",
+    "- de 2,5": "1,70"
+  },
+  "But pour les 2 \u00e9quipes": {
+    "Oui": "1,64",
+    "Non": "1,88"
+  },
+  "Total de buts - Fulham": {
+    "+ de 0,5": "1,23",
+    "- de 0,5": "3,30",
+    "+ de 1,5": "2,13",
+    "- de 1,5": "1,47",
+    "+ de 2,5": "5,30",
+    "- de 2,5": "1,10",
+    "+ de 3,5": "6,10",
+    "- de 3,5": "1,01"
+  },
+  "Total de buts - Everton": {
+    "+ de 0,5": "1,26",
+    "- de 0,5": "3,07",
+    "+ de 1,5": "2,26",
+    "- de 1,5": "1,41",
+    "+ de 2,5": "6,00",
+    "- de 2,5": "1,08"
+  },
+  "\u00c9cart de buts": {
+    "Fulham gagne de 5 buts ou +": "22",
+    "Fulham gagne de 4 buts exactement": "7,90",
+    "Everton ne perd pas ou perd de 3 buts ou -": "1,01"
+  },
+  "Premi\u00e8re \u00e9quipe \u00e0 marquer": {
+    "Fulham": "1,85",
+    "Pas de but dans le match": "11",
+    "Everton": "1,95"
+  },
+  "Score exact": {
+    "1 - 0": "8,80",
+    "0 - 0": "11",
+    "0 - 1": "9,40",
+    "2 - 0": "12",
+    "1 - 1": "6,00",
+    "0 - 2": "14",
+    "2 - 1": "9,60",
+    "2 - 2": "13",
+    "1 - 2": "10"
+  },
+  "1\u00e8re mi-temps - R\u00e9sultat": {
+    "Fulham": "2,93",
+    "Nul": "2,03",
+    "Everton": "3,17"
+  }
+}

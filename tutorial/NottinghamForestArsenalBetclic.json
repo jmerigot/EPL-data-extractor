@@ -1,0 +1,64 @@
+{
+  "R\u00e9sultat du match (temps r\u00e9glementaire)": {
+    "": "1,41"
+  },
+  "Double chance": {
+    "Nottingham Forest ou Nul": "2,51",
+    "Nottingham Forest ou Arsenal": "1,13",
+    "Nul ou Arsenal": "1,08"
+  },
+  "Nombre total de buts": {
+    "+ de 1,5": "1,18",
+    "- de 1,5": "3,80",
+    "+ de 2,5": "1,60",
+    "- de 2,5": "1,90",
+    "+ de 3,5": "2,45",
+    "- de 3,5": "1,35"
+  },
+  "But pour les 2 \u00e9quipes": {
+    "Oui": "1,78",
+    "Non": "1,71"
+  },
+  "Total de buts - Nottingham Forest": {
+    "+ de 0,5": "1,58",
+    "- de 0,5": "1,97",
+    "+ de 1,5": "3,53",
+    "- de 1,5": "1,15",
+    "+ de 2,5": "15,50",
+    "- de 2,5": "1,01"
+  },
+  "Total de buts - Arsenal": {
+    "+ de 0,5": "1,08",
+    "- de 0,5": "6,45",
+    "+ de 1,5": "1,46",
+    "- de 1,5": "2,14",
+    "+ de 2,5": "2,53",
+    "- de 2,5": "1,37"
+  },
+  "\u00c9cart de buts": {
+    "Nottingham Forest gagne de 3 buts ou +": "80",
+    "Nottingham Forest gagne de 2 buts exactement": "24",
+    "Arsenal ne perd pas ou perd de 1 but exactement": "1,01"
+  },
+  "Premi\u00e8re \u00e9quipe \u00e0 marquer": {
+    "Nottingham Forest": "3,00",
+    "Pas de but dans le match": "14,25",
+    "Arsenal": "1,35"
+  },
+  "Score exact": {
+    "1 - 0": "17",
+    "0 - 0": "14",
+    "0 - 1": "7,00",
+    "2 - 0": "40",
+    "1 - 1": "8,40",
+    "0 - 2": "6,80",
+    "2 - 1": "21",
+    "2 - 2": "19",
+    "1 - 2": "8,20"
+  },
+  "1\u00e8re mi-temps - R\u00e9sultat": {
+    "Nottingham Forest": "5,80",
+    "Nul": "2,27",
+    "Arsenal": "1,87"
+  }
+}

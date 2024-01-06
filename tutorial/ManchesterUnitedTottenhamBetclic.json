@@ -1,0 +1,68 @@
+{
+  "R\u00e9sultat du match (temps r\u00e9glementaire)": {
+    "": "2,86"
+  },
+  "Double chance": {
+    "Manchester United ou Nul": "1,33",
+    "Manchester United ou Tottenham": "1,20",
+    "Nul ou Tottenham": "1,58"
+  },
+  "Nombre total de buts": {
+    "+ de 1,5": "1,10",
+    "- de 1,5": "5,50",
+    "+ de 2,5": "1,38",
+    "- de 2,5": "2,35",
+    "+ de 3,5": "1,95",
+    "- de 3,5": "1,58"
+  },
+  "But pour les 2 \u00e9quipes": {
+    "Oui": "1,36",
+    "Non": "2,42"
+  },
+  "Total de buts - Manchester United": {
+    "+ de 0,5": "1,12",
+    "- de 0,5": "5,20",
+    "+ de 1,5": "1,64",
+    "- de 1,5": "1,92",
+    "+ de 2,5": "3,10",
+    "- de 2,5": "1,27",
+    "+ de 3,5": "5,20",
+    "- de 3,5": "1,07"
+  },
+  "Total de buts - Tottenham": {
+    "+ de 0,5": "1,18",
+    "- de 0,5": "3,95",
+    "+ de 1,5": "1,92",
+    "- de 1,5": "1,64",
+    "+ de 2,5": "4,18",
+    "- de 2,5": "1,17",
+    "+ de 3,5": "6,30",
+    "- de 3,5": "1,03"
+  },
+  "\u00c9cart de buts": {
+    "Manchester United gagne de 5 buts ou +": "17",
+    "Manchester United gagne de 4 buts exactement": "8,35",
+    "Tottenham ne perd pas ou perd de 3 buts ou -": "1,01"
+  },
+  "Premi\u00e8re \u00e9quipe \u00e0 marquer": {
+    "Manchester United": "1,72",
+    "Pas de but dans le match": "21,50",
+    "Tottenham": "2,00"
+  },
+  "Score exact": {
+    "1 - 0": "13",
+    "0 - 0": "22",
+    "0 - 1": "16",
+    "2 - 0": "14",
+    "1 - 1": "7,60",
+    "0 - 2": "20",
+    "2 - 1": "9,40",
+    "2 - 2": "11",
+    "1 - 2": "11"
+  },
+  "1\u00e8re mi-temps - R\u00e9sultat": {
+    "Manchester United": "2,54",
+    "Nul": "2,37",
+    "Tottenham": "3,18"
+  }
+}

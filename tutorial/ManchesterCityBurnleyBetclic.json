@@ -1,0 +1,62 @@
+{
+  "R\u00e9sultat du match (temps r\u00e9glementaire)": {
+    "": "14,25"
+  },
+  "Double chance": {
+    "Manchester City ou Nul": "1,01",
+    "Manchester City ou Burnley": "1,03",
+    "Nul ou Burnley": "5,30"
+  },
+  "Nombre total de buts": {
+    "+ de 1,5": "1,07",
+    "- de 1,5": "6,50",
+    "+ de 2,5": "1,30",
+    "- de 2,5": "2,65",
+    "+ de 3,5": "1,78",
+    "- de 3,5": "1,70"
+  },
+  "But pour les 2 \u00e9quipes": {
+    "Oui": "2,00",
+    "Non": "1,54"
+  },
+  "Total de buts - Manchester City": {
+    "+ de 1,5": "1,15",
+    "- de 1,5": "3,57",
+    "+ de 2,5": "1,53",
+    "- de 2,5": "2,02",
+    "+ de 3,5": "2,29",
+    "- de 3,5": "1,40"
+  },
+  "Total de buts - Burnley": {
+    "+ de 0,5": "1,92",
+    "- de 0,5": "1,59",
+    "+ de 1,5": "4,72",
+    "- de 1,5": "1,07"
+  },
+  "\u00c9cart de buts": {
+    "Manchester City gagne de 7 buts ou +": "13,25",
+    "Manchester City gagne de 6 buts exactement": "8,80",
+    "Burnley ne perd pas ou perd de 5 buts ou -": "1,02"
+  },
+  "Premi\u00e8re \u00e9quipe \u00e0 marquer": {
+    "Manchester City": "1,14",
+    "Pas de but dans le match": "30",
+    "Burnley": "4,30"
+  },
+  "Score exact": {
+    "1 - 0": "9,60",
+    "0 - 0": "30",
+    "0 - 1": "50",
+    "2 - 0": "6,40",
+    "1 - 1": "17",
+    "0 - 2": "101",
+    "2 - 1": "11",
+    "2 - 2": "40",
+    "1 - 2": "50"
+  },
+  "1\u00e8re mi-temps - R\u00e9sultat": {
+    "Manchester City": "1,40",
+    "Nul": "2,91",
+    "Burnley": "10,50"
+  }
+}
