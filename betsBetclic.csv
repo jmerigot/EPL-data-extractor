@@ -1,0 +1,17 @@
+,team_home,team_away,datetime,odd_home_win,odd_draw,odd_away_win,bets_home_win_percentage,bets_draw_win_percentage,bets_away_win_percentage
+0,Chelsea,Fulham,13/01/2024,1.56,3.90,4.90,97,2,1
+1,Newcastle,Manchester City,13/01/2024,5.05,4.05,1.52,3,1,96
+2,Everton,Aston Villa,14/01/2024,2.66,3.35,2.35,19,6,75
+3,Burnley,Luton,15/01/2024,1.88,3.35,3.70,83,6,11
+4,Arsenal,Crystal Palace,20/01/2024,1.31,4.65,8.00,99,1,0
+5,Brentford,Nottingham Forest,20/01/2024,1.94,3.33,3.52,60,7,33
+6,Bournemouth,Liverpool,21/01/2024,4.33,3.93,1.58,1,0,99
+7,Brighton,Wolverhampton,22/01/2024,1.58,3.73,4.55,91,2,7
+8,Nottingham Forest,Arsenal,30/01/2024,5.90,4.10,1.41,1,0,99
+9,Fulham,Everton,30/01/2024,2.42,3.12,2.59,87,7,6
+10,Luton,Brighton,30/01/2024,4.47,3.88,1.57,2,0,98
+11,Aston Villa,Newcastle,30/01/2024,1.87,3.60,3.25,91,0,9
+12,Manchester City,Burnley,31/01/2024,1.11,7.90,14.25,100,0,0
+13,Tottenham,Brentford,31/01/2024,1.58,3.87,4.33,99,0,1
+14,Liverpool,Chelsea,31/01/2024,1.49,4.13,4.88,80,1,19
+15,West Ham,Bournemouth,01/02/2024,1.97,3.57,3.02,98,0,2
