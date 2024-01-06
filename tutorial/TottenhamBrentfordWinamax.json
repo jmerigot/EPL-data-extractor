@@ -1,0 +1,1128 @@
+{
+  "R\u00e9sultat": {
+    "Tottenham": {
+      "percentage": 100,
+      "odds": 1.56
+    },
+    "Match nul": {
+      "percentage": 0,
+      "odds": 3.75
+    },
+    "Brentford": {
+      "percentage": 0,
+      "odds": 4.2
+    }
+  },
+  "Double chance": {
+    "Tottenham ou match nul": {
+      "percentage": 97,
+      "odds": 1.15
+    },
+    "Tottenham ou Brentford": {
+      "percentage": 3,
+      "odds": 1.18
+    },
+    "Brentford ou match nul": {
+      "percentage": 0,
+      "odds": 2.15
+    }
+  },
+  "Score exact": {
+    "0 - 0": {
+      "percentage": 0,
+      "odds": 15
+    },
+    "1 - 0": {
+      "percentage": 0,
+      "odds": 8.5
+    },
+    "2 - 0": {
+      "percentage": 0,
+      "odds": 8
+    },
+    "3 - 0": {
+      "percentage": 0,
+      "odds": 11
+    },
+    "4 - 0": {
+      "percentage": 0,
+      "odds": 20
+    },
+    "5 - 0": {
+      "percentage": 0,
+      "odds": 42
+    },
+    "0 - 1": {
+      "percentage": 0,
+      "odds": 14.5
+    },
+    "1 - 1": {
+      "percentage": 0,
+      "odds": 7.25
+    },
+    "2 - 1": {
+      "percentage": 0,
+      "odds": 7.5
+    },
+    "3 - 1": {
+      "percentage": 0,
+      "odds": 10
+    },
+    "4 - 1": {
+      "percentage": 0,
+      "odds": 18
+    },
+    "5 - 1": {
+      "percentage": 0,
+      "odds": 38
+    },
+    "0 - 2": {
+      "percentage": 0,
+      "odds": 25
+    },
+    "1 - 2": {
+      "percentage": 0,
+      "odds": 12.5
+    },
+    "2 - 2": {
+      "percentage": 0,
+      "odds": 11
+    },
+    "3 - 2": {
+      "percentage": 0,
+      "odds": 17
+    },
+    "4 - 2": {
+      "percentage": 0,
+      "odds": 30
+    },
+    "5 - 2": {
+      "percentage": 0,
+      "odds": 55
+    },
+    "0 - 3": {
+      "percentage": 0,
+      "odds": 50
+    },
+    "1 - 3": {
+      "percentage": 0,
+      "odds": 30
+    },
+    "2 - 3": {
+      "percentage": 0,
+      "odds": 29
+    },
+    "3 - 3": {
+      "percentage": 0,
+      "odds": 36
+    },
+    "4 - 3": {
+      "percentage": 0,
+      "odds": 55
+    },
+    "5 - 3": {
+      "percentage": 0,
+      "odds": 90
+    },
+    "0 - 4": {
+      "percentage": 0,
+      "odds": 100
+    },
+    "1 - 4": {
+      "percentage": 0,
+      "odds": 60
+    },
+    "2 - 4": {
+      "percentage": 0,
+      "odds": 60
+    },
+    "3 - 4": {
+      "percentage": 0,
+      "odds": 75
+    },
+    "4 - 4": {
+      "percentage": 0,
+      "odds": 110
+    },
+    "5 - 4": {
+      "percentage": 0,
+      "odds": 200
+    },
+    "0 - 5": {
+      "percentage": 0,
+      "odds": 300
+    },
+    "1 - 5": {
+      "percentage": 0,
+      "odds": 170
+    },
+    "2 - 5": {
+      "percentage": 0,
+      "odds": 160
+    },
+    "3 - 5": {
+      "percentage": 0,
+      "odds": 200
+    },
+    "4 - 5": {
+      "percentage": 0,
+      "odds": 350
+    },
+    "Autre": {
+      "percentage": 0,
+      "odds": 29
+    }
+  },
+  "Score exact multichance": {
+    "1-0 ou 2-0 ou 3-0": {
+      "percentage": 0,
+      "odds": 3.6
+    },
+    "0-1 ou 0-2 ou 0-3": {
+      "percentage": 0,
+      "odds": 8.5
+    },
+    "4-0 ou 5-0 ou 6-0": {
+      "percentage": 0,
+      "odds": 13.5
+    },
+    "0-4 ou 0-5 ou 0-6": {
+      "percentage": 0,
+      "odds": 85
+    },
+    "2-1 ou 3-1 ou 4-1": {
+      "percentage": 0,
+      "odds": 4
+    },
+    "1-2 ou 1-3 ou 1-4": {
+      "percentage": 0,
+      "odds": 8.5
+    },
+    "3-2 ou 4-2 ou 4-3 ou 5-1": {
+      "percentage": 0,
+      "odds": 8.5
+    },
+    "2-3 ou 2-4 ou 3-4 ou 1-5": {
+      "percentage": 0,
+      "odds": 20
+    },
+    "Autre victoire \u00e0 domicile": {
+      "percentage": 0,
+      "odds": 23
+    },
+    "Autre victoire \u00e0 l'ext\u00e9rieur": {
+      "percentage": 0,
+      "odds": 80
+    },
+    "Match nul": {
+      "percentage": 0,
+      "odds": 3.7
+    }
+  },
+  "Les 2 \u00e9quipes marquent": {
+    "Oui": {
+      "percentage": 100,
+      "odds": 1.54
+    },
+    "Non": {
+      "percentage": 0,
+      "odds": 2.2
+    }
+  },
+  "\u00c9cart de buts|Tottenham gagne par au moins 3 buts d'\u00e9cart": {
+    "Oui": {
+      "percentage": 82,
+      "odds": 4.3
+    },
+    "Non": {
+      "percentage": 18,
+      "odds": 1.15
+    }
+  },
+  "\u00c9cart de buts|Tottenham gagne par au moins 2 buts d'\u00e9cart": {
+    "Oui": {
+      "percentage": 100,
+      "odds": 2.35
+    },
+    "Non": {
+      "percentage": 0,
+      "odds": 1.42
+    }
+  },
+  "\u00c9cart de buts|Brentford gagne par au moins 2 buts d'\u00e9cart": {
+    "Non": {
+      "percentage": 100,
+      "odds": 1.04
+    },
+    "Oui": {
+      "percentage": 0,
+      "odds": 9
+    }
+  },
+  "\u00c9cart de buts (handicap)": {
+    "Tottenham +1.5": {
+      "percentage": 0,
+      "odds": 1.04
+    },
+    "Brentford -1.5": {
+      "percentage": 0,
+      "odds": 9
+    }
+  },
+  "Nombre de buts": {
+    "Plus de 5": {
+      "percentage": 0,
+      "odds": 6.25
+    },
+    "Moins de 5": {
+      "percentage": 0,
+      "odds": 1.11
+    }
+  },
+  "Vainqueur (rembours\u00e9 si match nul)": {
+    "Tottenham": {
+      "percentage": 100,
+      "odds": 1.25
+    },
+    "Brentford": {
+      "percentage": 0,
+      "odds": 3.25
+    }
+  },
+  "\u00c9quipe qui marque le 1er but": {
+    "Tottenham": {
+      "percentage": 100,
+      "odds": 1.47
+    },
+    "Aucune": {
+      "percentage": 0,
+      "odds": 15
+    },
+    "Brentford": {
+      "percentage": 0,
+      "odds": 2.5
+    }
+  },
+  "\u00c9quipe qui marque le dernier but": {
+    "Tottenham": {
+      "percentage": 0,
+      "odds": 1.47
+    },
+    "Aucune": {
+      "percentage": 0,
+      "odds": 15
+    },
+    "Brentford": {
+      "percentage": 0,
+      "odds": 2.5
+    }
+  },
+  "Mi-temps - R\u00e9sultat": {
+    "Tottenham": {
+      "percentage": 0,
+      "odds": 2
+    },
+    "Match nul": {
+      "percentage": 0,
+      "odds": 2.3
+    },
+    "Brentford": {
+      "percentage": 0,
+      "odds": 4.1
+    }
+  },
+  "Mi-temps - Score exact": {
+    "0 - 0": {
+      "percentage": 0,
+      "odds": 3.35
+    },
+    "1 - 1": {
+      "percentage": 0,
+      "odds": 6.5
+    },
+    "2 - 2": {
+      "percentage": 0,
+      "odds": 42
+    },
+    "1 - 0": {
+      "percentage": 0,
+      "odds": 3.7
+    },
+    "2 - 0": {
+      "percentage": 0,
+      "odds": 7
+    },
+    "2 - 1": {
+      "percentage": 0,
+      "odds": 13
+    },
+    "0 - 1": {
+      "percentage": 0,
+      "odds": 6
+    },
+    "0 - 2": {
+      "percentage": 0,
+      "odds": 21
+    },
+    "1 - 2": {
+      "percentage": 0,
+      "odds": 23
+    },
+    "Autre": {
+      "percentage": 0,
+      "odds": 9
+    }
+  },
+  "Mi-temps - Nombre de buts": {
+    "Plus de 3": {
+      "percentage": 0,
+      "odds": 11
+    },
+    "Moins de 3": {
+      "percentage": 0,
+      "odds": 1.03
+    }
+  },
+  "Mi-temps - \u00c9cart de buts (handicap)": {
+    "Tottenham 0": {
+      "percentage": 0,
+      "odds": 1.32
+    },
+    "Brentford 0": {
+      "percentage": 0,
+      "odds": 2.75
+    }
+  },
+  "Minute du 1er but (10 min)": {
+    "1-10": {
+      "percentage": 0,
+      "odds": 3.65
+    },
+    "11-20": {
+      "percentage": 0,
+      "odds": 4
+    },
+    "21-30": {
+      "percentage": 0,
+      "odds": 5
+    },
+    "31-40": {
+      "percentage": 0,
+      "odds": 6.25
+    },
+    "41-50": {
+      "percentage": 0,
+      "odds": 7.5
+    },
+    "51-60": {
+      "percentage": 0,
+      "odds": 10.5
+    },
+    "61-70": {
+      "percentage": 0,
+      "odds": 14.5
+    },
+    "71-80": {
+      "percentage": 0,
+      "odds": 20
+    },
+    "81-90": {
+      "percentage": 0,
+      "odds": 21
+    },
+    "Aucun": {
+      "percentage": 0,
+      "odds": 15
+    }
+  },
+  "Minute du 1er but (15 min)": {
+    "1-15": {
+      "percentage": 0,
+      "odds": 2.55
+    },
+    "16-30": {
+      "percentage": 0,
+      "odds": 3.35
+    },
+    "31-45": {
+      "percentage": 0,
+      "odds": 4.4
+    },
+    "46-60": {
+      "percentage": 0,
+      "odds": 7.25
+    },
+    "61-75": {
+      "percentage": 0,
+      "odds": 10.5
+    },
+    "76-90": {
+      "percentage": 0,
+      "odds": 15
+    },
+    "Aucun": {
+      "percentage": 0,
+      "odds": 15
+    }
+  },
+  "Nombre exact de buts": {
+    "0": {
+      "percentage": 0,
+      "odds": 15
+    },
+    "1": {
+      "percentage": 0,
+      "odds": 5.9
+    },
+    "2": {
+      "percentage": 0,
+      "odds": 3.85
+    },
+    "3": {
+      "percentage": 0,
+      "odds": 3.75
+    },
+    "4": {
+      "percentage": 0,
+      "odds": 4.3
+    },
+    "5": {
+      "percentage": 0,
+      "odds": 6.5
+    },
+    "6": {
+      "percentage": 0,
+      "odds": 10.5
+    },
+    "7": {
+      "percentage": 0,
+      "odds": 22
+    },
+    "8": {
+      "percentage": 0,
+      "odds": 46
+    },
+    "9 ou plus": {
+      "percentage": 0,
+      "odds": 60
+    }
+  },
+  "Nombre de buts (intervalle)": {
+    "0-1": {
+      "percentage": 0,
+      "odds": 4.6
+    },
+    "2-3": {
+      "percentage": 0,
+      "odds": 2
+    },
+    "4-6": {
+      "percentage": 0,
+      "odds": 2.4
+    },
+    "7 et plus": {
+      "percentage": 0,
+      "odds": 14.5
+    }
+  },
+  "Nombre de buts de Tottenham": {
+    "Plus de 4,5": {
+      "percentage": 0,
+      "odds": 11
+    },
+    "Moins de 4,5": {
+      "percentage": 0,
+      "odds": 1.03
+    }
+  },
+  "Nombre de buts de Brentford": {
+    "Plus de 3,5": {
+      "percentage": 0,
+      "odds": 22
+    },
+    "Moins de 3,5": {
+      "percentage": 0,
+      "odds": 1.01
+    }
+  },
+  "Nombre exact de buts de Tottenham": {
+    "0": {
+      "percentage": 0,
+      "odds": 6
+    },
+    "1": {
+      "percentage": 0,
+      "odds": 3.2
+    },
+    "2": {
+      "percentage": 0,
+      "odds": 3.1
+    },
+    "3 ou plus": {
+      "percentage": 0,
+      "odds": 2.5
+    }
+  },
+  "Nombre exact de buts de Brentford": {
+    "0": {
+      "percentage": 0,
+      "odds": 2.65
+    },
+    "1": {
+      "percentage": 0,
+      "odds": 2.35
+    },
+    "2": {
+      "percentage": 0,
+      "odds": 3.9
+    },
+    "3 ou plus": {
+      "percentage": 0,
+      "odds": 6.75
+    }
+  },
+  "Nombre de buts de Tottenham (intervalle)": {
+    "1-2": {
+      "percentage": 0,
+      "odds": 1.66
+    },
+    "1-3": {
+      "percentage": 0,
+      "odds": 1.29
+    },
+    "2-3": {
+      "percentage": 0,
+      "odds": 1.92
+    },
+    "4 et plus": {
+      "percentage": 0,
+      "odds": 4.9
+    },
+    "0": {
+      "percentage": 0,
+      "odds": 6
+    }
+  },
+  "Nombre de buts de Brentford (intervalle)": {
+    "1-2": {
+      "percentage": 0,
+      "odds": 1.56
+    },
+    "1-3": {
+      "percentage": 0,
+      "odds": 1.4
+    },
+    "2-3": {
+      "percentage": 0,
+      "odds": 2.95
+    },
+    "4 et plus": {
+      "percentage": 0,
+      "odds": 22
+    },
+    "0": {
+      "percentage": 0,
+      "odds": 2.65
+    }
+  },
+  "Mi-temps/Fin de match": {
+    "Tottenham/Tottenham": {
+      "percentage": 0,
+      "odds": 2.3
+    },
+    "Match nul/Tottenham": {
+      "percentage": 0,
+      "odds": 4.4
+    },
+    "Match nul/Match nul": {
+      "percentage": 0,
+      "odds": 6
+    },
+    "Brentford/Brentford": {
+      "percentage": 0,
+      "odds": 6.75
+    },
+    "Match nul/Brentford": {
+      "percentage": 0,
+      "odds": 9
+    },
+    "Tottenham/Match nul": {
+      "percentage": 0,
+      "odds": 13
+    },
+    "Brentford/Match nul": {
+      "percentage": 0,
+      "odds": 13.5
+    },
+    "Brentford/Tottenham": {
+      "percentage": 0,
+      "odds": 18
+    },
+    "Tottenham/Brentford": {
+      "percentage": 0,
+      "odds": 34
+    }
+  },
+  "Marge de victoire": {
+    "Tottenham gagne d'au moins 3 buts d'\u00e9cart": {
+      "percentage": 0,
+      "odds": 4.3
+    },
+    "Tottenham gagne par exactement 2 buts d'\u00e9cart": {
+      "percentage": 0,
+      "odds": 4.4
+    },
+    "Tottenham gagne par exactement 1 but d'\u00e9cart": {
+      "percentage": 0,
+      "odds": 3.65
+    },
+    "Match nul": {
+      "percentage": 0,
+      "odds": 3.7
+    },
+    "Brentford gagne par exactement 1 but d'\u00e9cart": {
+      "percentage": 0,
+      "odds": 6
+    },
+    "Brentford gagne par exactement 2 buts d'\u00e9cart": {
+      "percentage": 0,
+      "odds": 12.5
+    },
+    "Brentford gagne d'au moins 3 buts d'\u00e9cart": {
+      "percentage": 0,
+      "odds": 28
+    }
+  },
+  "R\u00e9sultat et nombre de buts": {
+    "Tottenham et moins de 4,5": {
+      "percentage": 0,
+      "odds": 2.05
+    },
+    "Match nul et moins de 4,5": {
+      "percentage": 0,
+      "odds": 3.95
+    },
+    "Tottenham et plus de 4,5": {
+      "percentage": 0,
+      "odds": 4.8
+    },
+    "Brentford et moins de 4,5": {
+      "percentage": 0,
+      "odds": 4.9
+    },
+    "Brentford et plus de 4,5": {
+      "percentage": 0,
+      "odds": 15
+    },
+    "Match nul et plus de 4,5": {
+      "percentage": 0,
+      "odds": 32
+    }
+  },
+  "R\u00e9sultat et les deux \u00e9quipes marquent": {
+    "Tottenham et oui": {
+      "percentage": 0,
+      "odds": 2.75
+    },
+    "Tottenham et non": {
+      "percentage": 0,
+      "odds": 3.05
+    },
+    "Match nul et oui": {
+      "percentage": 0,
+      "odds": 4.4
+    },
+    "Brentford et oui": {
+      "percentage": 0,
+      "odds": 6.5
+    },
+    "Brentford et non": {
+      "percentage": 0,
+      "odds": 8.5
+    },
+    "Match nul et non": {
+      "percentage": 100,
+      "odds": 15
+    }
+  },
+  "\u00c9quipe qui marque le 1er but et r\u00e9sultat": {
+    "Tottenham marque et Tottenham gagne": {
+      "percentage": 0,
+      "odds": 1.78
+    },
+    "Brentford marque et Brentford gagne": {
+      "percentage": 0,
+      "odds": 4.8
+    },
+    "Brentford marque et Tottenham gagne": {
+      "percentage": 0,
+      "odds": 7.75
+    },
+    "Tottenham marque et match nul": {
+      "percentage": 0,
+      "odds": 8
+    },
+    "Brentford marque et match nul": {
+      "percentage": 0,
+      "odds": 8
+    },
+    "Aucun but": {
+      "percentage": 0,
+      "odds": 15
+    },
+    "Tottenham marque et Brentford gagne": {
+      "percentage": 0,
+      "odds": 17
+    }
+  },
+  "Double chance et nombre de buts": {
+    "Tottenham/match nul et moins de 4,5": {
+      "percentage": 0,
+      "odds": 1.45
+    },
+    "Tottenham/Brentford et moins de 4,5": {
+      "percentage": 0,
+      "odds": 1.56
+    },
+    "Brentford/match nul et moins de 4,5": {
+      "percentage": 0,
+      "odds": 2.4
+    },
+    "Tottenham/Brentford et plus de 4,5": {
+      "percentage": 0,
+      "odds": 3.95
+    },
+    "Tottenham/match nul et plus de 4,5": {
+      "percentage": 0,
+      "odds": 4.4
+    },
+    "Brentford/match nul et plus de 4,5": {
+      "percentage": 0,
+      "odds": 11
+    }
+  },
+  "Double chance et les deux \u00e9quipes marquent": {
+    "Tottenham/match nul et oui": {
+      "percentage": 0,
+      "odds": 1.82
+    },
+    "Tottenham/Brentford et oui": {
+      "percentage": 0,
+      "odds": 2.05
+    },
+    "Tottenham/Brentford et non": {
+      "percentage": 0,
+      "odds": 2.35
+    },
+    "Tottenham/match nul et non": {
+      "percentage": 0,
+      "odds": 2.65
+    },
+    "Brentford/match nul et oui": {
+      "percentage": 0,
+      "odds": 2.9
+    },
+    "Brentford/match nul et non": {
+      "percentage": 0,
+      "odds": 6
+    }
+  },
+  "Quelle \u00e9quipe va marquer ?": {
+    "Aucune": {
+      "percentage": 0,
+      "odds": 15
+    },
+    "Seulement Tottenham": {
+      "percentage": 0,
+      "odds": 3.05
+    },
+    "Seulement Brentford": {
+      "percentage": 0,
+      "odds": 8.5
+    },
+    "Les deux \u00e9quipes": {
+      "percentage": 0,
+      "odds": 1.5
+    }
+  },
+  "Tottenham garde sa cage inviol\u00e9e": {
+    "Oui": {
+      "percentage": 0,
+      "odds": 2.65
+    },
+    "Non": {
+      "percentage": 0,
+      "odds": 1.35
+    }
+  },
+  "Brentford garde sa cage inviol\u00e9e": {
+    "Oui": {
+      "percentage": 0,
+      "odds": 6
+    },
+    "Non": {
+      "percentage": 0,
+      "odds": 1.09
+    }
+  },
+  "Tottenham gagne sans conc\u00e9der de but": {
+    "Oui": {
+      "percentage": 0,
+      "odds": 3.05
+    },
+    "Non": {
+      "percentage": 0,
+      "odds": 1.28
+    }
+  },
+  "Brentford gagne sans conc\u00e9der de but": {
+    "Oui": {
+      "percentage": 0,
+      "odds": 8.5
+    },
+    "Non": {
+      "percentage": 0,
+      "odds": 1.05
+    }
+  },
+  "Tottenham gagne une des mi-temps": {
+    "Oui": {
+      "percentage": 100,
+      "odds": 1.3
+    },
+    "Non": {
+      "percentage": 0,
+      "odds": 2.9
+    }
+  },
+  "Brentford gagne une des mi-temps": {
+    "Oui": {
+      "percentage": 0,
+      "odds": 2.4
+    },
+    "Non": {
+      "percentage": 0,
+      "odds": 1.42
+    }
+  },
+  "Tottenham gagne les deux mi-temps": {
+    "Oui": {
+      "percentage": 0,
+      "odds": 3.8
+    },
+    "Non": {
+      "percentage": 0,
+      "odds": 1.19
+    }
+  },
+  "Brentford gagne les deux mi-temps": {
+    "Oui": {
+      "percentage": 0,
+      "odds": 17
+    },
+    "Non": {
+      "percentage": 100,
+      "odds": 1.02
+    }
+  },
+  "Tottenham marque dans les deux mi-temps": {
+    "Oui": {
+      "percentage": 0,
+      "odds": 2.1
+    },
+    "Non": {
+      "percentage": 0,
+      "odds": 1.52
+    }
+  },
+  "Brentford marque dans les deux mi-temps": {
+    "Oui": {
+      "percentage": 0,
+      "odds": 4.2
+    },
+    "Non": {
+      "percentage": 0,
+      "odds": 1.16
+    }
+  },
+  "Mi-temps - Double chance": {
+    "Tottenham ou match nul": {
+      "percentage": 100,
+      "odds": 1.16
+    },
+    "Tottenham ou Brentford": {
+      "percentage": 0,
+      "odds": 1.44
+    },
+    "Brentford ou match nul": {
+      "percentage": 0,
+      "odds": 1.58
+    }
+  },
+  "Mi-temps - Les 2 \u00e9quipes marquent": {
+    "Oui": {
+      "percentage": 0,
+      "odds": 3.55
+    },
+    "Non": {
+      "percentage": 0,
+      "odds": 1.22
+    }
+  },
+  "Mi-temps - Nombre de buts de Tottenham": {
+    "Plus de 2,5": {
+      "percentage": 0,
+      "odds": 10
+    },
+    "Moins de 2,5": {
+      "percentage": 0,
+      "odds": 1.03
+    }
+  },
+  "Mi-temps - Nombre de buts de Brentford": {
+    "Plus de 2,5": {
+      "percentage": 0,
+      "odds": 40
+    },
+    "Moins de 2,5": {
+      "percentage": 0,
+      "odds": 1
+    }
+  },
+  "Mi-temps - Nombre exact de buts": {
+    "0": {
+      "percentage": 0,
+      "odds": 3.35
+    },
+    "1": {
+      "percentage": 0,
+      "odds": 2.5
+    },
+    "2": {
+      "percentage": 0,
+      "odds": 3.45
+    },
+    "3 ou plus": {
+      "percentage": 0,
+      "odds": 4.6
+    }
+  },
+  "Mi-temps - Nombre de buts (intervalle)": {
+    "0": {
+      "percentage": 0,
+      "odds": 3.35
+    },
+    "1-2": {
+      "percentage": 0,
+      "odds": 1.54
+    },
+    "1-3": {
+      "percentage": 100,
+      "odds": 1.32
+    },
+    "2-3": {
+      "percentage": 0,
+      "odds": 2.4
+    },
+    "4 et plus": {
+      "percentage": 0,
+      "odds": 12
+    }
+  },
+  "Mi-temps - Vainqueur (rembours\u00e9 si match nul)": {
+    "Tottenham": {
+      "percentage": 0,
+      "odds": 1.32
+    },
+    "Brentford": {
+      "percentage": 0,
+      "odds": 2.75
+    }
+  },
+  "Mi-temps - Tottenham gardera t-il sa cage inviol\u00e9e ?": {
+    "Oui": {
+      "percentage": 0,
+      "odds": 1.48
+    },
+    "Non": {
+      "percentage": 0,
+      "odds": 2.2
+    }
+  },
+  "Mi-temps - Brentford gardera t-il sa cage inviol\u00e9e ?": {
+    "Oui": {
+      "percentage": 0,
+      "odds": 2.15
+    },
+    "Non": {
+      "percentage": 0,
+      "odds": 1.52
+    }
+  },
+  "Mi-temps - R\u00e9sultat et nombre de buts": {
+    "Match nul et moins de 1,5": {
+      "percentage": 0,
+      "odds": 3.35
+    },
+    "Tottenham et moins de 1,5": {
+      "percentage": 0,
+      "odds": 3.7
+    },
+    "Tottenham et plus de 1,5": {
+      "percentage": 0,
+      "odds": 3.8
+    },
+    "Match nul et plus de 1,5": {
+      "percentage": 0,
+      "odds": 6
+    },
+    "Brentford et moins de 1,5": {
+      "percentage": 0,
+      "odds": 6
+    },
+    "Brentford et plus de 1,5": {
+      "percentage": 0,
+      "odds": 9.5
+    }
+  },
+  "Mi-temps  - Double chance et les deux \u00e9quipes marquent": {
+    "Tottenham/match nul et non": {
+      "percentage": 0,
+      "odds": 1.48
+    },
+    "Tottenham/Brentford et non": {
+      "percentage": 0,
+      "odds": 1.7
+    },
+    "Brentford/match nul et non": {
+      "percentage": 0,
+      "odds": 2.15
+    },
+    "Tottenham/match nul et oui": {
+      "percentage": 0,
+      "odds": 4
+    },
+    "Brentford/match nul et oui": {
+      "percentage": 0,
+      "odds": 4.8
+    },
+    "Tottenham/Brentford et oui": {
+      "percentage": 0,
+      "odds": 6.75
+    }
+  },
+  "Mi-temps avec le plus de buts": {
+    "1re mi-temps": {
+      "percentage": 0,
+      "odds": 2.9
+    },
+    "\u00c9galit\u00e9": {
+      "percentage": 0,
+      "odds": 3.5
+    },
+    "2de mi-temps": {
+      "percentage": 100,
+      "odds": 1.84
+    }
+  }
+}

@@ -1,0 +1,1128 @@
+{
+  "R\u00e9sultat": {
+    "Crystal Palace": {
+      "percentage": 91,
+      "odds": 1.42
+    },
+    "Match nul": {
+      "percentage": 7,
+      "odds": 3.75
+    },
+    "Sheffield United": {
+      "percentage": 2,
+      "odds": 5.7
+    }
+  },
+  "Double chance": {
+    "Crystal Palace ou match nul": {
+      "percentage": 99,
+      "odds": 1.08
+    },
+    "Crystal Palace ou Sheffield United": {
+      "percentage": 1,
+      "odds": 1.18
+    },
+    "Sheffield United ou match nul": {
+      "percentage": 0,
+      "odds": 2.45
+    }
+  },
+  "Score exact": {
+    "0 - 0": {
+      "percentage": 0,
+      "odds": 9.5
+    },
+    "1 - 0": {
+      "percentage": 0,
+      "odds": 5.6
+    },
+    "2 - 0": {
+      "percentage": 0,
+      "odds": 5.9
+    },
+    "3 - 0": {
+      "percentage": 0,
+      "odds": 8.5
+    },
+    "4 - 0": {
+      "percentage": 0,
+      "odds": 17
+    },
+    "5 - 0": {
+      "percentage": 0,
+      "odds": 38
+    },
+    "0 - 1": {
+      "percentage": 0,
+      "odds": 12.5
+    },
+    "1 - 1": {
+      "percentage": 0,
+      "odds": 7
+    },
+    "2 - 1": {
+      "percentage": 0,
+      "odds": 7.5
+    },
+    "3 - 1": {
+      "percentage": 0,
+      "odds": 11
+    },
+    "4 - 1": {
+      "percentage": 0,
+      "odds": 22
+    },
+    "5 - 1": {
+      "percentage": 0,
+      "odds": 48
+    },
+    "0 - 2": {
+      "percentage": 0,
+      "odds": 30
+    },
+    "1 - 2": {
+      "percentage": 0,
+      "odds": 17
+    },
+    "2 - 2": {
+      "percentage": 0,
+      "odds": 17
+    },
+    "3 - 2": {
+      "percentage": 0,
+      "odds": 27
+    },
+    "4 - 2": {
+      "percentage": 0,
+      "odds": 48
+    },
+    "5 - 2": {
+      "percentage": 0,
+      "odds": 75
+    },
+    "0 - 3": {
+      "percentage": 0,
+      "odds": 65
+    },
+    "1 - 3": {
+      "percentage": 0,
+      "odds": 50
+    },
+    "2 - 3": {
+      "percentage": 0,
+      "odds": 50
+    },
+    "3 - 3": {
+      "percentage": 0,
+      "odds": 60
+    },
+    "4 - 3": {
+      "percentage": 0,
+      "odds": 100
+    },
+    "5 - 3": {
+      "percentage": 0,
+      "odds": 190
+    },
+    "0 - 4": {
+      "percentage": 0,
+      "odds": 200
+    },
+    "1 - 4": {
+      "percentage": 0,
+      "odds": 130
+    },
+    "2 - 4": {
+      "percentage": 0,
+      "odds": 140
+    },
+    "3 - 4": {
+      "percentage": 0,
+      "odds": 190
+    },
+    "4 - 4": {
+      "percentage": 0,
+      "odds": 350
+    },
+    "5 - 4": {
+      "percentage": 0,
+      "odds": 500
+    },
+    "0 - 5": {
+      "percentage": 0,
+      "odds": 500
+    },
+    "1 - 5": {
+      "percentage": 0,
+      "odds": 450
+    },
+    "2 - 5": {
+      "percentage": 0,
+      "odds": 450
+    },
+    "3 - 5": {
+      "percentage": 0,
+      "odds": 500
+    },
+    "4 - 5": {
+      "percentage": 0,
+      "odds": 500
+    },
+    "Autre": {
+      "percentage": 0,
+      "odds": 40
+    }
+  },
+  "Score exact multichance": {
+    "1-0 ou 2-0 ou 3-0": {
+      "percentage": 0,
+      "odds": 2.5
+    },
+    "0-1 ou 0-2 ou 0-3": {
+      "percentage": 0,
+      "odds": 9
+    },
+    "4-0 ou 5-0 ou 6-0": {
+      "percentage": 0,
+      "odds": 11.5
+    },
+    "0-4 ou 0-5 ou 0-6": {
+      "percentage": 0,
+      "odds": 100
+    },
+    "2-1 ou 3-1 ou 4-1": {
+      "percentage": 0,
+      "odds": 4.3
+    },
+    "1-2 ou 1-3 ou 1-4": {
+      "percentage": 0,
+      "odds": 13.5
+    },
+    "3-2 ou 4-2 ou 4-3 ou 5-1": {
+      "percentage": 0,
+      "odds": 14
+    },
+    "2-3 ou 2-4 ou 3-4 ou 1-5": {
+      "percentage": 0,
+      "odds": 44
+    },
+    "Autre victoire \u00e0 domicile": {
+      "percentage": 0,
+      "odds": 40
+    },
+    "Autre victoire \u00e0 l'ext\u00e9rieur": {
+      "percentage": 0,
+      "odds": 100
+    },
+    "Match nul": {
+      "percentage": 0,
+      "odds": 3.75
+    }
+  },
+  "Les 2 \u00e9quipes marquent": {
+    "Oui": {
+      "percentage": 100,
+      "odds": 2
+    },
+    "Non": {
+      "percentage": 0,
+      "odds": 1.66
+    }
+  },
+  "\u00c9cart de buts|Crystal Palace gagne par au moins 4 buts d'\u00e9cart": {
+    "Oui": {
+      "percentage": 0,
+      "odds": 9
+    },
+    "Non": {
+      "percentage": 100,
+      "odds": 1.04
+    }
+  },
+  "\u00c9cart de buts|Crystal Palace gagne par au moins 3 buts d'\u00e9cart": {
+    "Oui": {
+      "percentage": 0,
+      "odds": 4.2
+    },
+    "Non": {
+      "percentage": 0,
+      "odds": 1.16
+    }
+  },
+  "\u00c9cart de buts|Crystal Palace gagne par au moins 2 buts d'\u00e9cart": {
+    "Oui": {
+      "percentage": 0,
+      "odds": 2.2
+    },
+    "Non": {
+      "percentage": 0,
+      "odds": 1.48
+    }
+  },
+  "\u00c9cart de buts (handicap)": {
+    "Crystal Palace -1.5": {
+      "percentage": 0,
+      "odds": 2.2
+    },
+    "Sheffield United +1.5": {
+      "percentage": 0,
+      "odds": 1.48
+    }
+  },
+  "Nombre de buts": {
+    "Plus de 5": {
+      "percentage": 0,
+      "odds": 12
+    },
+    "Moins de 5": {
+      "percentage": 0,
+      "odds": 1.05
+    }
+  },
+  "Vainqueur (rembours\u00e9 si match nul)": {
+    "Crystal Palace": {
+      "percentage": 100,
+      "odds": 1.15
+    },
+    "Sheffield United": {
+      "percentage": 0,
+      "odds": 4.2
+    }
+  },
+  "\u00c9quipe qui marque le 1er but": {
+    "Crystal Palace": {
+      "percentage": 0,
+      "odds": 1.37
+    },
+    "Aucune": {
+      "percentage": 0,
+      "odds": 9.5
+    },
+    "Sheffield United": {
+      "percentage": 0,
+      "odds": 3.2
+    }
+  },
+  "\u00c9quipe qui marque le dernier but": {
+    "Crystal Palace": {
+      "percentage": 0,
+      "odds": 1.37
+    },
+    "Aucune": {
+      "percentage": 0,
+      "odds": 9.5
+    },
+    "Sheffield United": {
+      "percentage": 0,
+      "odds": 3.2
+    }
+  },
+  "Mi-temps - R\u00e9sultat": {
+    "Crystal Palace": {
+      "percentage": 0,
+      "odds": 1.92
+    },
+    "Match nul": {
+      "percentage": 0,
+      "odds": 2.1
+    },
+    "Sheffield United": {
+      "percentage": 0,
+      "odds": 5.5
+    }
+  },
+  "Mi-temps - Score exact": {
+    "0 - 0": {
+      "percentage": 0,
+      "odds": 2.65
+    },
+    "1 - 1": {
+      "percentage": 0,
+      "odds": 8
+    },
+    "2 - 2": {
+      "percentage": 0,
+      "odds": 60
+    },
+    "1 - 0": {
+      "percentage": 0,
+      "odds": 3.2
+    },
+    "2 - 0": {
+      "percentage": 0,
+      "odds": 6.75
+    },
+    "2 - 1": {
+      "percentage": 0,
+      "odds": 18
+    },
+    "0 - 1": {
+      "percentage": 0,
+      "odds": 7
+    },
+    "0 - 2": {
+      "percentage": 0,
+      "odds": 34
+    },
+    "1 - 2": {
+      "percentage": 0,
+      "odds": 40
+    },
+    "Autre": {
+      "percentage": 0,
+      "odds": 12
+    }
+  },
+  "Mi-temps - Nombre de buts": {
+    "Plus de 3": {
+      "percentage": 0,
+      "odds": 20
+    },
+    "Moins de 3": {
+      "percentage": 0,
+      "odds": 1.01
+    }
+  },
+  "Mi-temps - \u00c9cart de buts (handicap)": {
+    "Crystal Palace 0": {
+      "percentage": 0,
+      "odds": 1.22
+    },
+    "Sheffield United 0": {
+      "percentage": 0,
+      "odds": 3.55
+    }
+  },
+  "Minute du 1er but (10 min)": {
+    "1-10": {
+      "percentage": 0,
+      "odds": 4.2
+    },
+    "11-20": {
+      "percentage": 0,
+      "odds": 4.4
+    },
+    "21-30": {
+      "percentage": 0,
+      "odds": 5.3
+    },
+    "31-40": {
+      "percentage": 0,
+      "odds": 6.5
+    },
+    "41-50": {
+      "percentage": 0,
+      "odds": 7.25
+    },
+    "51-60": {
+      "percentage": 0,
+      "odds": 9.5
+    },
+    "61-70": {
+      "percentage": 0,
+      "odds": 12
+    },
+    "71-80": {
+      "percentage": 0,
+      "odds": 16
+    },
+    "81-90": {
+      "percentage": 0,
+      "odds": 16
+    },
+    "Aucun": {
+      "percentage": 0,
+      "odds": 9.5
+    }
+  },
+  "Minute du 1er but (15 min)": {
+    "1-15": {
+      "percentage": 0,
+      "odds": 3
+    },
+    "16-30": {
+      "percentage": 0,
+      "odds": 3.6
+    },
+    "31-45": {
+      "percentage": 0,
+      "odds": 4.4
+    },
+    "46-60": {
+      "percentage": 0,
+      "odds": 6.75
+    },
+    "61-75": {
+      "percentage": 0,
+      "odds": 9
+    },
+    "76-90": {
+      "percentage": 0,
+      "odds": 11
+    },
+    "Aucun": {
+      "percentage": 0,
+      "odds": 9.5
+    }
+  },
+  "Nombre exact de buts": {
+    "0": {
+      "percentage": 0,
+      "odds": 9.5
+    },
+    "1": {
+      "percentage": 0,
+      "odds": 4.2
+    },
+    "2": {
+      "percentage": 0,
+      "odds": 3.35
+    },
+    "3": {
+      "percentage": 0,
+      "odds": 3.75
+    },
+    "4": {
+      "percentage": 0,
+      "odds": 5.2
+    },
+    "5": {
+      "percentage": 0,
+      "odds": 9
+    },
+    "6": {
+      "percentage": 0,
+      "odds": 19
+    },
+    "7": {
+      "percentage": 0,
+      "odds": 42
+    },
+    "8": {
+      "percentage": 0,
+      "odds": 75
+    },
+    "9 ou plus": {
+      "percentage": 0,
+      "odds": 100
+    }
+  },
+  "Nombre de buts (intervalle)": {
+    "0-1": {
+      "percentage": 0,
+      "odds": 3.2
+    },
+    "2-3": {
+      "percentage": 0,
+      "odds": 1.88
+    },
+    "4-6": {
+      "percentage": 0,
+      "odds": 3.3
+    },
+    "7 et plus": {
+      "percentage": 0,
+      "odds": 32
+    }
+  },
+  "Nombre de buts de Crystal Palace": {
+    "Plus de 4,5": {
+      "percentage": 0,
+      "odds": 15
+    },
+    "Moins de 4,5": {
+      "percentage": 0,
+      "odds": 1.02
+    }
+  },
+  "Nombre de buts de Sheffield United": {
+    "Plus de 2,5": {
+      "percentage": 0,
+      "odds": 16
+    },
+    "Moins de 2,5": {
+      "percentage": 0,
+      "odds": 1.02
+    }
+  },
+  "Nombre exact de buts de Crystal Palace": {
+    "0": {
+      "percentage": 0,
+      "odds": 5
+    },
+    "1": {
+      "percentage": 0,
+      "odds": 2.95
+    },
+    "2": {
+      "percentage": 0,
+      "odds": 3.1
+    },
+    "3 ou plus": {
+      "percentage": 0,
+      "odds": 2.85
+    }
+  },
+  "Nombre exact de buts de Sheffield United": {
+    "0": {
+      "percentage": 0,
+      "odds": 1.86
+    },
+    "1": {
+      "percentage": 0,
+      "odds": 2.4
+    },
+    "2": {
+      "percentage": 0,
+      "odds": 5.7
+    },
+    "3 ou plus": {
+      "percentage": 0,
+      "odds": 16
+    }
+  },
+  "Nombre de buts de Crystal Palace (intervalle)": {
+    "1-2": {
+      "percentage": 0,
+      "odds": 1.6
+    },
+    "1-3": {
+      "percentage": 0,
+      "odds": 1.28
+    },
+    "2-3": {
+      "percentage": 0,
+      "odds": 1.98
+    },
+    "4 et plus": {
+      "percentage": 0,
+      "odds": 6
+    },
+    "0": {
+      "percentage": 0,
+      "odds": 5
+    }
+  },
+  "Nombre de buts de Sheffield United (intervalle)": {
+    "1-2": {
+      "percentage": 0,
+      "odds": 1.8
+    },
+    "1-3": {
+      "percentage": 0,
+      "odds": 1.7
+    },
+    "2-3": {
+      "percentage": 0,
+      "odds": 4.6
+    },
+    "4 et plus": {
+      "percentage": 0,
+      "odds": 60
+    },
+    "0": {
+      "percentage": 0,
+      "odds": 1.86
+    }
+  },
+  "Mi-temps/Fin de match": {
+    "Crystal Palace/Crystal Palace": {
+      "percentage": 0,
+      "odds": 2.15
+    },
+    "Match nul/Crystal Palace": {
+      "percentage": 0,
+      "odds": 3.85
+    },
+    "Match nul/Match nul": {
+      "percentage": 0,
+      "odds": 5.4
+    },
+    "Sheffield United/Sheffield United": {
+      "percentage": 0,
+      "odds": 9.5
+    },
+    "Match nul/Sheffield United": {
+      "percentage": 0,
+      "odds": 11
+    },
+    "Crystal Palace/Match nul": {
+      "percentage": 0,
+      "odds": 16
+    },
+    "Sheffield United/Match nul": {
+      "percentage": 0,
+      "odds": 17
+    },
+    "Sheffield United/Crystal Palace": {
+      "percentage": 0,
+      "odds": 22
+    },
+    "Crystal Palace/Sheffield United": {
+      "percentage": 0,
+      "odds": 50
+    }
+  },
+  "Marge de victoire": {
+    "Crystal Palace gagne d'au moins 3 buts d'\u00e9cart": {
+      "percentage": 0,
+      "odds": 4.2
+    },
+    "Crystal Palace gagne par exactement 2 buts d'\u00e9cart": {
+      "percentage": 0,
+      "odds": 4
+    },
+    "Crystal Palace gagne par exactement 1 but d'\u00e9cart": {
+      "percentage": 0,
+      "odds": 3.3
+    },
+    "Match nul": {
+      "percentage": 0,
+      "odds": 3.75
+    },
+    "Sheffield United gagne par exactement 1 but d'\u00e9cart": {
+      "percentage": 0,
+      "odds": 7.25
+    },
+    "Sheffield United gagne par exactement 2 buts d'\u00e9cart": {
+      "percentage": 0,
+      "odds": 20
+    },
+    "Sheffield United gagne d'au moins 3 buts d'\u00e9cart": {
+      "percentage": 0,
+      "odds": 55
+    }
+  },
+  "R\u00e9sultat et nombre de buts": {
+    "Crystal Palace et moins de 4,5": {
+      "percentage": 0,
+      "odds": 1.66
+    },
+    "Match nul et moins de 4,5": {
+      "percentage": 0,
+      "odds": 3.85
+    },
+    "Sheffield United et moins de 4,5": {
+      "percentage": 0,
+      "odds": 6
+    },
+    "Crystal Palace et plus de 4,5": {
+      "percentage": 0,
+      "odds": 6.75
+    },
+    "Sheffield United et plus de 4,5": {
+      "percentage": 0,
+      "odds": 38
+    },
+    "Match nul et plus de 4,5": {
+      "percentage": 0,
+      "odds": 60
+    }
+  },
+  "R\u00e9sultat et les deux \u00e9quipes marquent": {
+    "Crystal Palace et non": {
+      "percentage": 0,
+      "odds": 2.15
+    },
+    "Crystal Palace et oui": {
+      "percentage": 0,
+      "odds": 3.45
+    },
+    "Match nul et oui": {
+      "percentage": 0,
+      "odds": 5.2
+    },
+    "Sheffield United et non": {
+      "percentage": 0,
+      "odds": 8.5
+    },
+    "Match nul et non": {
+      "percentage": 0,
+      "odds": 9.5
+    },
+    "Sheffield United et oui": {
+      "percentage": 0,
+      "odds": 11
+    }
+  },
+  "\u00c9quipe qui marque le 1er but et r\u00e9sultat": {
+    "Crystal Palace marque et Crystal Palace gagne": {
+      "percentage": 0,
+      "odds": 1.56
+    },
+    "Sheffield United marque et Sheffield United gagne": {
+      "percentage": 0,
+      "odds": 6.25
+    },
+    "Crystal Palace marque et match nul": {
+      "percentage": 0,
+      "odds": 9.5
+    },
+    "Sheffield United marque et match nul": {
+      "percentage": 0,
+      "odds": 9.5
+    },
+    "Aucun but": {
+      "percentage": 0,
+      "odds": 9.5
+    },
+    "Sheffield United marque et Crystal Palace gagne": {
+      "percentage": 0,
+      "odds": 9.5
+    },
+    "Crystal Palace marque et Sheffield United gagne": {
+      "percentage": 0,
+      "odds": 30
+    }
+  },
+  "Double chance et nombre de buts": {
+    "Crystal Palace/match nul et moins de 4,5": {
+      "percentage": 0,
+      "odds": 1.25
+    },
+    "Crystal Palace/Sheffield United et moins de 4,5": {
+      "percentage": 0,
+      "odds": 1.38
+    },
+    "Sheffield United/match nul et moins de 4,5": {
+      "percentage": 0,
+      "odds": 2.5
+    },
+    "Crystal Palace/Sheffield United et plus de 4,5": {
+      "percentage": 0,
+      "odds": 6
+    },
+    "Crystal Palace/match nul et plus de 4,5": {
+      "percentage": 0,
+      "odds": 6.5
+    },
+    "Sheffield United/match nul et plus de 4,5": {
+      "percentage": 0,
+      "odds": 29
+    }
+  },
+  "Double chance et les deux \u00e9quipes marquent": {
+    "Crystal Palace/Sheffield United et non": {
+      "percentage": 0,
+      "odds": 1.84
+    },
+    "Crystal Palace/match nul et non": {
+      "percentage": 0,
+      "odds": 1.86
+    },
+    "Crystal Palace/match nul et oui": {
+      "percentage": 0,
+      "odds": 2.2
+    },
+    "Crystal Palace/Sheffield United et oui": {
+      "percentage": 0,
+      "odds": 2.8
+    },
+    "Sheffield United/match nul et oui": {
+      "percentage": 0,
+      "odds": 3.9
+    },
+    "Sheffield United/match nul et non": {
+      "percentage": 0,
+      "odds": 5
+    }
+  },
+  "Quelle \u00e9quipe va marquer ?": {
+    "Aucune": {
+      "percentage": 0,
+      "odds": 9.5
+    },
+    "Seulement Crystal Palace": {
+      "percentage": 0,
+      "odds": 2.15
+    },
+    "Seulement Sheffield United": {
+      "percentage": 0,
+      "odds": 8.5
+    },
+    "Les deux \u00e9quipes": {
+      "percentage": 0,
+      "odds": 1.94
+    }
+  },
+  "Crystal Palace garde sa cage inviol\u00e9e": {
+    "Oui": {
+      "percentage": 0,
+      "odds": 1.86
+    },
+    "Non": {
+      "percentage": 0,
+      "odds": 1.68
+    }
+  },
+  "Sheffield United garde sa cage inviol\u00e9e": {
+    "Oui": {
+      "percentage": 0,
+      "odds": 5
+    },
+    "Non": {
+      "percentage": 0,
+      "odds": 1.12
+    }
+  },
+  "Crystal Palace gagne sans conc\u00e9der de but": {
+    "Oui": {
+      "percentage": 0,
+      "odds": 2.15
+    },
+    "Non": {
+      "percentage": 0,
+      "odds": 1.5
+    }
+  },
+  "Sheffield United gagne sans conc\u00e9der de but": {
+    "Oui": {
+      "percentage": 0,
+      "odds": 8.5
+    },
+    "Non": {
+      "percentage": 0,
+      "odds": 1.04
+    }
+  },
+  "Crystal Palace gagne une des mi-temps": {
+    "Oui": {
+      "percentage": 0,
+      "odds": 1.26
+    },
+    "Non": {
+      "percentage": 0,
+      "odds": 3.2
+    }
+  },
+  "Sheffield United gagne une des mi-temps": {
+    "Oui": {
+      "percentage": 0,
+      "odds": 3.15
+    },
+    "Non": {
+      "percentage": 0,
+      "odds": 1.27
+    }
+  },
+  "Crystal Palace gagne les deux mi-temps": {
+    "Oui": {
+      "percentage": 0,
+      "odds": 3.5
+    },
+    "Non": {
+      "percentage": 0,
+      "odds": 1.22
+    }
+  },
+  "Sheffield United gagne les deux mi-temps": {
+    "Oui": {
+      "percentage": 0,
+      "odds": 30
+    },
+    "Non": {
+      "percentage": 0,
+      "odds": 1.01
+    }
+  },
+  "Crystal Palace marque dans les deux mi-temps": {
+    "Oui": {
+      "percentage": 0,
+      "odds": 2.3
+    },
+    "Non": {
+      "percentage": 0,
+      "odds": 1.44
+    }
+  },
+  "Sheffield United marque dans les deux mi-temps": {
+    "Oui": {
+      "percentage": 0,
+      "odds": 7.5
+    },
+    "Non": {
+      "percentage": 0,
+      "odds": 1.06
+    }
+  },
+  "Mi-temps - Double chance": {
+    "Crystal Palace ou match nul": {
+      "percentage": 0,
+      "odds": 1.1
+    },
+    "Crystal Palace ou Sheffield United": {
+      "percentage": 0,
+      "odds": 1.52
+    },
+    "Sheffield United ou match nul": {
+      "percentage": 0,
+      "odds": 1.64
+    }
+  },
+  "Mi-temps - Les 2 \u00e9quipes marquent": {
+    "Oui": {
+      "percentage": 0,
+      "odds": 4.9
+    },
+    "Non": {
+      "percentage": 0,
+      "odds": 1.12
+    }
+  },
+  "Mi-temps - Nombre de buts de Crystal Palace": {
+    "Plus de 2,5": {
+      "percentage": 0,
+      "odds": 13
+    },
+    "Moins de 2,5": {
+      "percentage": 0,
+      "odds": 1.03
+    }
+  },
+  "Mi-temps - Nombre de buts de Sheffield United": {
+    "Plus de 1,5": {
+      "percentage": 0,
+      "odds": 15
+    },
+    "Moins de 1,5": {
+      "percentage": 0,
+      "odds": 1.02
+    }
+  },
+  "Mi-temps - Nombre exact de buts": {
+    "0": {
+      "percentage": 0,
+      "odds": 2.65
+    },
+    "1": {
+      "percentage": 0,
+      "odds": 2.35
+    },
+    "2": {
+      "percentage": 0,
+      "odds": 3.85
+    },
+    "3 ou plus": {
+      "percentage": 0,
+      "odds": 6.5
+    }
+  },
+  "Mi-temps - Nombre de buts (intervalle)": {
+    "0": {
+      "percentage": 0,
+      "odds": 2.65
+    },
+    "1-2": {
+      "percentage": 0,
+      "odds": 1.56
+    },
+    "1-3": {
+      "percentage": 0,
+      "odds": 1.39
+    },
+    "2-3": {
+      "percentage": 0,
+      "odds": 2.9
+    },
+    "4 et plus": {
+      "percentage": 0,
+      "odds": 21
+    }
+  },
+  "Mi-temps - Vainqueur (rembours\u00e9 si match nul)": {
+    "Crystal Palace": {
+      "percentage": 100,
+      "odds": 1.22
+    },
+    "Sheffield United": {
+      "percentage": 0,
+      "odds": 3.55
+    }
+  },
+  "Mi-temps - Crystal Palace gardera t-il sa cage inviol\u00e9e ?": {
+    "Oui": {
+      "percentage": 0,
+      "odds": 1.28
+    },
+    "Non": {
+      "percentage": 0,
+      "odds": 3
+    }
+  },
+  "Mi-temps - Sheffield United gardera t-il sa cage inviol\u00e9e ?": {
+    "Oui": {
+      "percentage": 0,
+      "odds": 2
+    },
+    "Non": {
+      "percentage": 0,
+      "odds": 1.58
+    }
+  },
+  "Mi-temps - R\u00e9sultat et nombre de buts": {
+    "Match nul et moins de 1,5": {
+      "percentage": 0,
+      "odds": 2.65
+    },
+    "Crystal Palace et moins de 1,5": {
+      "percentage": 0,
+      "odds": 3.2
+    },
+    "Crystal Palace et plus de 1,5": {
+      "percentage": 0,
+      "odds": 4.1
+    },
+    "Sheffield United et moins de 1,5": {
+      "percentage": 0,
+      "odds": 7
+    },
+    "Match nul et plus de 1,5": {
+      "percentage": 0,
+      "odds": 7.75
+    },
+    "Sheffield United et plus de 1,5": {
+      "percentage": 0,
+      "odds": 18
+    }
+  },
+  "Mi-temps  - Double chance et les deux \u00e9quipes marquent": {
+    "Crystal Palace/match nul et non": {
+      "percentage": 0,
+      "odds": 1.28
+    },
+    "Crystal Palace/Sheffield United et non": {
+      "percentage": 0,
+      "odds": 1.68
+    },
+    "Sheffield United/match nul et non": {
+      "percentage": 0,
+      "odds": 2
+    },
+    "Crystal Palace/match nul et oui": {
+      "percentage": 0,
+      "odds": 5.4
+    },
+    "Sheffield United/match nul et oui": {
+      "percentage": 0,
+      "odds": 6.75
+    },
+    "Crystal Palace/Sheffield United et oui": {
+      "percentage": 0,
+      "odds": 10
+    }
+  },
+  "Mi-temps avec le plus de buts": {
+    "1re mi-temps": {
+      "percentage": 0,
+      "odds": 2.95
+    },
+    "\u00c9galit\u00e9": {
+      "percentage": 0,
+      "odds": 3.2
+    },
+    "2de mi-temps": {
+      "percentage": 0,
+      "odds": 1.94
+    }
+  }
+}

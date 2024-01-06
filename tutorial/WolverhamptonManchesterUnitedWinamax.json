@@ -1,0 +1,1138 @@
+{
+  "R\u00e9sultat": {
+    "Wolverhampton": {
+      "percentage": 13,
+      "odds": 2.4
+    },
+    "Match nul": {
+      "percentage": 2,
+      "odds": 3.25
+    },
+    "Manchester United": {
+      "percentage": 85,
+      "odds": 2.35
+    }
+  },
+  "Double chance": {
+    "Wolverhampton ou match nul": {
+      "percentage": 23,
+      "odds": 1.47
+    },
+    "Wolverhampton ou Manchester United": {
+      "percentage": 15,
+      "odds": 1.25
+    },
+    "Manchester United ou match nul": {
+      "percentage": 62,
+      "odds": 1.43
+    }
+  },
+  "Score exact": {
+    "0 - 0": {
+      "percentage": 0,
+      "odds": 11.5
+    },
+    "1 - 0": {
+      "percentage": 0,
+      "odds": 9
+    },
+    "2 - 0": {
+      "percentage": 0,
+      "odds": 12
+    },
+    "3 - 0": {
+      "percentage": 0,
+      "odds": 23
+    },
+    "4 - 0": {
+      "percentage": 0,
+      "odds": 50
+    },
+    "5 - 0": {
+      "percentage": 0,
+      "odds": 100
+    },
+    "0 - 1": {
+      "percentage": 0,
+      "odds": 8.5
+    },
+    "1 - 1": {
+      "percentage": 0,
+      "odds": 6
+    },
+    "2 - 1": {
+      "percentage": 0,
+      "odds": 8.5
+    },
+    "3 - 1": {
+      "percentage": 0,
+      "odds": 16
+    },
+    "4 - 1": {
+      "percentage": 0,
+      "odds": 40
+    },
+    "5 - 1": {
+      "percentage": 0,
+      "odds": 75
+    },
+    "0 - 2": {
+      "percentage": 0,
+      "odds": 11.5
+    },
+    "1 - 2": {
+      "percentage": 0,
+      "odds": 8.5
+    },
+    "2 - 2": {
+      "percentage": 0,
+      "odds": 10.5
+    },
+    "3 - 2": {
+      "percentage": 0,
+      "odds": 22
+    },
+    "4 - 2": {
+      "percentage": 0,
+      "odds": 48
+    },
+    "5 - 2": {
+      "percentage": 0,
+      "odds": 95
+    },
+    "0 - 3": {
+      "percentage": 0,
+      "odds": 22
+    },
+    "1 - 3": {
+      "percentage": 0,
+      "odds": 16
+    },
+    "2 - 3": {
+      "percentage": 0,
+      "odds": 21
+    },
+    "3 - 3": {
+      "percentage": 0,
+      "odds": 36
+    },
+    "4 - 3": {
+      "percentage": 0,
+      "odds": 65
+    },
+    "5 - 3": {
+      "percentage": 0,
+      "odds": 150
+    },
+    "0 - 4": {
+      "percentage": 0,
+      "odds": 48
+    },
+    "1 - 4": {
+      "percentage": 0,
+      "odds": 38
+    },
+    "2 - 4": {
+      "percentage": 0,
+      "odds": 48
+    },
+    "3 - 4": {
+      "percentage": 0,
+      "odds": 65
+    },
+    "4 - 4": {
+      "percentage": 0,
+      "odds": 120
+    },
+    "5 - 4": {
+      "percentage": 0,
+      "odds": 350
+    },
+    "0 - 5": {
+      "percentage": 0,
+      "odds": 95
+    },
+    "1 - 5": {
+      "percentage": 0,
+      "odds": 70
+    },
+    "2 - 5": {
+      "percentage": 0,
+      "odds": 90
+    },
+    "3 - 5": {
+      "percentage": 0,
+      "odds": 150
+    },
+    "4 - 5": {
+      "percentage": 0,
+      "odds": 300
+    },
+    "Autre": {
+      "percentage": 0,
+      "odds": 55
+    }
+  },
+  "Score exact multichance": {
+    "1-0 ou 2-0 ou 3-0": {
+      "percentage": 0,
+      "odds": 4.8
+    },
+    "0-1 ou 0-2 ou 0-3": {
+      "percentage": 0,
+      "odds": 4.7
+    },
+    "4-0 ou 5-0 ou 6-0": {
+      "percentage": 0,
+      "odds": 42
+    },
+    "0-4 ou 0-5 ou 0-6": {
+      "percentage": 0,
+      "odds": 38
+    },
+    "2-1 ou 3-1 ou 4-1": {
+      "percentage": 0,
+      "odds": 5.6
+    },
+    "1-2 ou 1-3 ou 1-4": {
+      "percentage": 0,
+      "odds": 5.4
+    },
+    "3-2 ou 4-2 ou 4-3 ou 5-1": {
+      "percentage": 0,
+      "odds": 13.5
+    },
+    "2-3 ou 2-4 ou 3-4 ou 1-5": {
+      "percentage": 0,
+      "odds": 13.5
+    },
+    "Autre victoire \u00e0 domicile": {
+      "percentage": 0,
+      "odds": 55
+    },
+    "Autre victoire \u00e0 l'ext\u00e9rieur": {
+      "percentage": 0,
+      "odds": 55
+    },
+    "Match nul": {
+      "percentage": 0,
+      "odds": 3.2
+    }
+  },
+  "Les 2 \u00e9quipes marquent": {
+    "Oui": {
+      "percentage": 100,
+      "odds": 1.56
+    },
+    "Non": {
+      "percentage": 0,
+      "odds": 2.15
+    }
+  },
+  "\u00c9cart de buts|Wolverhampton gagne par au moins 3 buts d'\u00e9cart": {
+    "Oui": {
+      "percentage": 0,
+      "odds": 10
+    },
+    "Non": {
+      "percentage": 100,
+      "odds": 1.04
+    }
+  },
+  "\u00c9cart de buts|Wolverhampton gagne par au moins 2 buts d'\u00e9cart": {
+    "Oui": {
+      "percentage": 0,
+      "odds": 4.5
+    },
+    "Non": {
+      "percentage": 100,
+      "odds": 1.14
+    }
+  },
+  "\u00c9cart de buts|Manchester United gagne par au moins 2 buts d'\u00e9cart": {
+    "Non": {
+      "percentage": 100,
+      "odds": 1.15
+    },
+    "Oui": {
+      "percentage": 0,
+      "odds": 4.3
+    }
+  },
+  "\u00c9cart de buts|Manchester United gagne par au moins 3 buts d'\u00e9cart": {
+    "Non": {
+      "percentage": 100,
+      "odds": 1.04
+    },
+    "Oui": {
+      "percentage": 0,
+      "odds": 9.5
+    }
+  },
+  "\u00c9cart de buts (handicap)": {
+    "Wolverhampton +2.5": {
+      "percentage": 100,
+      "odds": 1.04
+    },
+    "Manchester United -2.5": {
+      "percentage": 0,
+      "odds": 9.5
+    }
+  },
+  "Nombre de buts": {
+    "Plus de 5": {
+      "percentage": 0,
+      "odds": 8.5
+    },
+    "Moins de 5": {
+      "percentage": 0,
+      "odds": 1.07
+    }
+  },
+  "Vainqueur (rembours\u00e9 si match nul)": {
+    "Wolverhampton": {
+      "percentage": 100,
+      "odds": 1.84
+    },
+    "Manchester United": {
+      "percentage": 0,
+      "odds": 1.78
+    }
+  },
+  "\u00c9quipe qui marque le 1er but": {
+    "Wolverhampton": {
+      "percentage": 0,
+      "odds": 1.88
+    },
+    "Aucune": {
+      "percentage": 0,
+      "odds": 11.5
+    },
+    "Manchester United": {
+      "percentage": 0,
+      "odds": 1.84
+    }
+  },
+  "\u00c9quipe qui marque le dernier but": {
+    "Wolverhampton": {
+      "percentage": 0,
+      "odds": 1.88
+    },
+    "Aucune": {
+      "percentage": 0,
+      "odds": 11.5
+    },
+    "Manchester United": {
+      "percentage": 0,
+      "odds": 1.84
+    }
+  },
+  "Mi-temps - R\u00e9sultat": {
+    "Wolverhampton": {
+      "percentage": 0,
+      "odds": 2.9
+    },
+    "Match nul": {
+      "percentage": 0,
+      "odds": 2.1
+    },
+    "Manchester United": {
+      "percentage": 0,
+      "odds": 2.85
+    }
+  },
+  "Mi-temps - Score exact": {
+    "0 - 0": {
+      "percentage": 0,
+      "odds": 2.9
+    },
+    "1 - 1": {
+      "percentage": 0,
+      "odds": 6.5
+    },
+    "2 - 2": {
+      "percentage": 0,
+      "odds": 46
+    },
+    "1 - 0": {
+      "percentage": 0,
+      "odds": 4.5
+    },
+    "2 - 0": {
+      "percentage": 0,
+      "odds": 12
+    },
+    "2 - 1": {
+      "percentage": 0,
+      "odds": 18
+    },
+    "0 - 1": {
+      "percentage": 0,
+      "odds": 4.4
+    },
+    "0 - 2": {
+      "percentage": 0,
+      "odds": 11.5
+    },
+    "1 - 2": {
+      "percentage": 0,
+      "odds": 18
+    },
+    "Autre": {
+      "percentage": 0,
+      "odds": 12.5
+    }
+  },
+  "Mi-temps - Nombre de buts": {
+    "Plus de 3": {
+      "percentage": 0,
+      "odds": 15
+    },
+    "Moins de 3": {
+      "percentage": 0,
+      "odds": 1.02
+    }
+  },
+  "Mi-temps - \u00c9cart de buts (handicap)": {
+    "Wolverhampton +0.5": {
+      "percentage": 0,
+      "odds": 1.31
+    },
+    "Manchester United -0.5": {
+      "percentage": 0,
+      "odds": 2.85
+    }
+  },
+  "Minute du 1er but (10 min)": {
+    "1-10": {
+      "percentage": 0,
+      "odds": 3.95
+    },
+    "11-20": {
+      "percentage": 0,
+      "odds": 4.2
+    },
+    "21-30": {
+      "percentage": 0,
+      "odds": 5.2
+    },
+    "31-40": {
+      "percentage": 0,
+      "odds": 6.5
+    },
+    "41-50": {
+      "percentage": 0,
+      "odds": 7.25
+    },
+    "51-60": {
+      "percentage": 0,
+      "odds": 9.5
+    },
+    "61-70": {
+      "percentage": 0,
+      "odds": 13
+    },
+    "71-80": {
+      "percentage": 0,
+      "odds": 17
+    },
+    "81-90": {
+      "percentage": 0,
+      "odds": 18
+    },
+    "Aucun": {
+      "percentage": 0,
+      "odds": 11.5
+    }
+  },
+  "Minute du 1er but (15 min)": {
+    "1-15": {
+      "percentage": 0,
+      "odds": 2.8
+    },
+    "16-30": {
+      "percentage": 0,
+      "odds": 3.5
+    },
+    "31-45": {
+      "percentage": 0,
+      "odds": 4.4
+    },
+    "46-60": {
+      "percentage": 0,
+      "odds": 6.75
+    },
+    "61-75": {
+      "percentage": 0,
+      "odds": 9.5
+    },
+    "76-90": {
+      "percentage": 0,
+      "odds": 12.5
+    },
+    "Aucun": {
+      "percentage": 0,
+      "odds": 11.5
+    }
+  },
+  "Nombre exact de buts": {
+    "0": {
+      "percentage": 0,
+      "odds": 11.5
+    },
+    "1": {
+      "percentage": 0,
+      "odds": 4.9
+    },
+    "2": {
+      "percentage": 0,
+      "odds": 3.5
+    },
+    "3": {
+      "percentage": 0,
+      "odds": 3.7
+    },
+    "4": {
+      "percentage": 0,
+      "odds": 4.7
+    },
+    "5": {
+      "percentage": 0,
+      "odds": 7.75
+    },
+    "6": {
+      "percentage": 0,
+      "odds": 14
+    },
+    "7": {
+      "percentage": 0,
+      "odds": 32
+    },
+    "8": {
+      "percentage": 0,
+      "odds": 60
+    },
+    "9 ou plus": {
+      "percentage": 0,
+      "odds": 95
+    }
+  },
+  "Nombre de buts (intervalle)": {
+    "0-1": {
+      "percentage": 0,
+      "odds": 3.8
+    },
+    "2-3": {
+      "percentage": 0,
+      "odds": 1.92
+    },
+    "4-6": {
+      "percentage": 0,
+      "odds": 2.8
+    },
+    "7 et plus": {
+      "percentage": 0,
+      "odds": 22
+    }
+  },
+  "Nombre de buts de Wolverhampton": {
+    "Plus de 4,5": {
+      "percentage": 0,
+      "odds": 36
+    },
+    "Moins de 4,5": {
+      "percentage": 0,
+      "odds": 1
+    }
+  },
+  "Nombre de buts de Manchester United": {
+    "Plus de 4,5": {
+      "percentage": 0,
+      "odds": 34
+    },
+    "Moins de 4,5": {
+      "percentage": 0,
+      "odds": 1
+    }
+  },
+  "Nombre exact de buts de Wolverhampton": {
+    "0": {
+      "percentage": 0,
+      "odds": 3.5
+    },
+    "1": {
+      "percentage": 0,
+      "odds": 2.45
+    },
+    "2": {
+      "percentage": 0,
+      "odds": 3.4
+    },
+    "3 ou plus": {
+      "percentage": 0,
+      "odds": 4.5
+    }
+  },
+  "Nombre exact de buts de Manchester United": {
+    "0": {
+      "percentage": 0,
+      "odds": 3.6
+    },
+    "1": {
+      "percentage": 0,
+      "odds": 2.5
+    },
+    "2": {
+      "percentage": 0,
+      "odds": 3.35
+    },
+    "3 ou plus": {
+      "percentage": 0,
+      "odds": 4.3
+    }
+  },
+  "Nombre de buts de Wolverhampton (intervalle)": {
+    "1-2": {
+      "percentage": 0,
+      "odds": 1.52
+    },
+    "1-3": {
+      "percentage": 0,
+      "odds": 1.31
+    },
+    "2-3": {
+      "percentage": 0,
+      "odds": 2.35
+    },
+    "4 et plus": {
+      "percentage": 0,
+      "odds": 11.5
+    },
+    "0": {
+      "percentage": 0,
+      "odds": 3.5
+    }
+  },
+  "Nombre de buts de Manchester United (intervalle)": {
+    "1-2": {
+      "percentage": 0,
+      "odds": 1.52
+    },
+    "1-3": {
+      "percentage": 0,
+      "odds": 1.3
+    },
+    "2-3": {
+      "percentage": 0,
+      "odds": 2.3
+    },
+    "4 et plus": {
+      "percentage": 0,
+      "odds": 11
+    },
+    "0": {
+      "percentage": 0,
+      "odds": 3.6
+    }
+  },
+  "Mi-temps/Fin de match": {
+    "Manchester United/Manchester United": {
+      "percentage": 0,
+      "odds": 3.8
+    },
+    "Wolverhampton/Wolverhampton": {
+      "percentage": 0,
+      "odds": 3.95
+    },
+    "Match nul/Match nul": {
+      "percentage": 0,
+      "odds": 5.1
+    },
+    "Match nul/Manchester United": {
+      "percentage": 0,
+      "odds": 5.6
+    },
+    "Match nul/Wolverhampton": {
+      "percentage": 0,
+      "odds": 5.8
+    },
+    "Manchester United/Match nul": {
+      "percentage": 0,
+      "odds": 11.5
+    },
+    "Wolverhampton/Match nul": {
+      "percentage": 0,
+      "odds": 11.5
+    },
+    "Wolverhampton/Manchester United": {
+      "percentage": 0,
+      "odds": 23
+    },
+    "Manchester United/Wolverhampton": {
+      "percentage": 0,
+      "odds": 23
+    }
+  },
+  "Marge de victoire": {
+    "Wolverhampton gagne d'au moins 3 buts d'\u00e9cart": {
+      "percentage": 0,
+      "odds": 10.5
+    },
+    "Wolverhampton gagne par exactement 2 buts d'\u00e9cart": {
+      "percentage": 0,
+      "odds": 6.75
+    },
+    "Wolverhampton gagne par exactement 1 but d'\u00e9cart": {
+      "percentage": 0,
+      "odds": 4.1
+    },
+    "Match nul": {
+      "percentage": 0,
+      "odds": 3.2
+    },
+    "Manchester United gagne par exactement 1 but d'\u00e9cart": {
+      "percentage": 0,
+      "odds": 4
+    },
+    "Manchester United gagne par exactement 2 buts d'\u00e9cart": {
+      "percentage": 0,
+      "odds": 6.5
+    },
+    "Manchester United gagne d'au moins 3 buts d'\u00e9cart": {
+      "percentage": 0,
+      "odds": 10
+    }
+  },
+  "R\u00e9sultat et nombre de buts": {
+    "Manchester United et moins de 4,5": {
+      "percentage": 0,
+      "odds": 2.8
+    },
+    "Wolverhampton et moins de 4,5": {
+      "percentage": 0,
+      "odds": 2.9
+    },
+    "Match nul et moins de 4,5": {
+      "percentage": 0,
+      "odds": 3.4
+    },
+    "Manchester United et plus de 4,5": {
+      "percentage": 0,
+      "odds": 9
+    },
+    "Wolverhampton et plus de 4,5": {
+      "percentage": 0,
+      "odds": 9
+    },
+    "Match nul et plus de 4,5": {
+      "percentage": 0,
+      "odds": 34
+    }
+  },
+  "R\u00e9sultat et les deux \u00e9quipes marquent": {
+    "Match nul et oui": {
+      "percentage": 0,
+      "odds": 3.95
+    },
+    "Manchester United et oui": {
+      "percentage": 0,
+      "odds": 4
+    },
+    "Wolverhampton et oui": {
+      "percentage": 0,
+      "odds": 4.2
+    },
+    "Manchester United et non": {
+      "percentage": 0,
+      "odds": 4.4
+    },
+    "Wolverhampton et non": {
+      "percentage": 0,
+      "odds": 4.5
+    },
+    "Match nul et non": {
+      "percentage": 0,
+      "odds": 11.5
+    }
+  },
+  "\u00c9quipe qui marque le 1er but et r\u00e9sultat": {
+    "Manchester United marque et Manchester United gagne": {
+      "percentage": 0,
+      "odds": 2.7
+    },
+    "Wolverhampton marque et Wolverhampton gagne": {
+      "percentage": 0,
+      "odds": 2.8
+    },
+    "Wolverhampton marque et match nul": {
+      "percentage": 0,
+      "odds": 7
+    },
+    "Manchester United marque et match nul": {
+      "percentage": 0,
+      "odds": 7
+    },
+    "Wolverhampton marque et Manchester United gagne": {
+      "percentage": 0,
+      "odds": 11
+    },
+    "Manchester United marque et Wolverhampton gagne": {
+      "percentage": 0,
+      "odds": 11
+    },
+    "Aucun but": {
+      "percentage": 0,
+      "odds": 11.5
+    }
+  },
+  "Double chance et nombre de buts": {
+    "Wolverhampton/Manchester United et moins de 4,5": {
+      "percentage": 0,
+      "odds": 1.52
+    },
+    "Manchester United/match nul et moins de 4,5": {
+      "percentage": 0,
+      "odds": 1.64
+    },
+    "Wolverhampton/match nul et moins de 4,5": {
+      "percentage": 0,
+      "odds": 1.66
+    },
+    "Wolverhampton/Manchester United et plus de 4,5": {
+      "percentage": 0,
+      "odds": 5.1
+    },
+    "Manchester United/match nul et plus de 4,5": {
+      "percentage": 0,
+      "odds": 7.5
+    },
+    "Wolverhampton/match nul et plus de 4,5": {
+      "percentage": 0,
+      "odds": 7.75
+    }
+  },
+  "Double chance et les deux \u00e9quipes marquent": {
+    "Manchester United/match nul et oui": {
+      "percentage": 0,
+      "odds": 2.15
+    },
+    "Wolverhampton/match nul et oui": {
+      "percentage": 0,
+      "odds": 2.2
+    },
+    "Wolverhampton/Manchester United et oui": {
+      "percentage": 0,
+      "odds": 2.2
+    },
+    "Wolverhampton/Manchester United et non": {
+      "percentage": 0,
+      "odds": 2.4
+    },
+    "Manchester United/match nul et non": {
+      "percentage": 0,
+      "odds": 3.5
+    },
+    "Wolverhampton/match nul et non": {
+      "percentage": 0,
+      "odds": 3.6
+    }
+  },
+  "Quelle \u00e9quipe va marquer ?": {
+    "Aucune": {
+      "percentage": 0,
+      "odds": 11.5
+    },
+    "Seulement Wolverhampton": {
+      "percentage": 0,
+      "odds": 4.5
+    },
+    "Seulement Manchester United": {
+      "percentage": 0,
+      "odds": 4.4
+    },
+    "Les deux \u00e9quipes": {
+      "percentage": 0,
+      "odds": 1.52
+    }
+  },
+  "Wolverhampton garde sa cage inviol\u00e9e": {
+    "Oui": {
+      "percentage": 0,
+      "odds": 3.6
+    },
+    "Non": {
+      "percentage": 0,
+      "odds": 1.21
+    }
+  },
+  "Manchester United garde sa cage inviol\u00e9e": {
+    "Oui": {
+      "percentage": 0,
+      "odds": 3.5
+    },
+    "Non": {
+      "percentage": 0,
+      "odds": 1.22
+    }
+  },
+  "Wolverhampton gagne sans conc\u00e9der de but": {
+    "Oui": {
+      "percentage": 0,
+      "odds": 4.5
+    },
+    "Non": {
+      "percentage": 0,
+      "odds": 1.14
+    }
+  },
+  "Manchester United gagne sans conc\u00e9der de but": {
+    "Oui": {
+      "percentage": 0,
+      "odds": 4.4
+    },
+    "Non": {
+      "percentage": 0,
+      "odds": 1.15
+    }
+  },
+  "Wolverhampton gagne une des mi-temps": {
+    "Oui": {
+      "percentage": 0,
+      "odds": 1.7
+    },
+    "Non": {
+      "percentage": 0,
+      "odds": 1.84
+    }
+  },
+  "Manchester United gagne une des mi-temps": {
+    "Oui": {
+      "percentage": 0,
+      "odds": 1.66
+    },
+    "Non": {
+      "percentage": 0,
+      "odds": 1.88
+    }
+  },
+  "Wolverhampton gagne les deux mi-temps": {
+    "Oui": {
+      "percentage": 0,
+      "odds": 7.75
+    },
+    "Non": {
+      "percentage": 0,
+      "odds": 1.05
+    }
+  },
+  "Manchester United gagne les deux mi-temps": {
+    "Oui": {
+      "percentage": 0,
+      "odds": 7.25
+    },
+    "Non": {
+      "percentage": 0,
+      "odds": 1.06
+    }
+  },
+  "Wolverhampton marque dans les deux mi-temps": {
+    "Oui": {
+      "percentage": 0,
+      "odds": 3.25
+    },
+    "Non": {
+      "percentage": 0,
+      "odds": 1.25
+    }
+  },
+  "Manchester United marque dans les deux mi-temps": {
+    "Oui": {
+      "percentage": 0,
+      "odds": 3.2
+    },
+    "Non": {
+      "percentage": 0,
+      "odds": 1.26
+    }
+  },
+  "Mi-temps - Double chance": {
+    "Wolverhampton ou match nul": {
+      "percentage": 0,
+      "odds": 1.31
+    },
+    "Wolverhampton ou Manchester United": {
+      "percentage": 0,
+      "odds": 1.54
+    },
+    "Manchester United ou match nul": {
+      "percentage": 0,
+      "odds": 1.3
+    }
+  },
+  "Mi-temps - Les 2 \u00e9quipes marquent": {
+    "Oui": {
+      "percentage": 0,
+      "odds": 3.75
+    },
+    "Non": {
+      "percentage": 0,
+      "odds": 1.2
+    }
+  },
+  "Mi-temps - Nombre de buts de Wolverhampton": {
+    "Plus de 2,5": {
+      "percentage": 0,
+      "odds": 25
+    },
+    "Moins de 2,5": {
+      "percentage": 0,
+      "odds": 1.01
+    }
+  },
+  "Mi-temps - Nombre de buts de Manchester United": {
+    "Plus de 2,5": {
+      "percentage": 0,
+      "odds": 23
+    },
+    "Moins de 2,5": {
+      "percentage": 0,
+      "odds": 1.01
+    }
+  },
+  "Mi-temps - Nombre exact de buts": {
+    "0": {
+      "percentage": 0,
+      "odds": 2.9
+    },
+    "1": {
+      "percentage": 0,
+      "odds": 2.4
+    },
+    "2": {
+      "percentage": 0,
+      "odds": 3.65
+    },
+    "3 ou plus": {
+      "percentage": 0,
+      "odds": 5.6
+    }
+  },
+  "Mi-temps - Nombre de buts (intervalle)": {
+    "0": {
+      "percentage": 0,
+      "odds": 2.9
+    },
+    "1-2": {
+      "percentage": 0,
+      "odds": 1.56
+    },
+    "1-3": {
+      "percentage": 100,
+      "odds": 1.37
+    },
+    "2-3": {
+      "percentage": 0,
+      "odds": 2.65
+    },
+    "4 et plus": {
+      "percentage": 0,
+      "odds": 16
+    }
+  },
+  "Mi-temps - Vainqueur (rembours\u00e9 si match nul)": {
+    "Wolverhampton": {
+      "percentage": 0,
+      "odds": 1.78
+    },
+    "Manchester United": {
+      "percentage": 0,
+      "odds": 1.74
+    }
+  },
+  "Mi-temps - Wolverhampton gardera t-il sa cage inviol\u00e9e ?": {
+    "Oui": {
+      "percentage": 0,
+      "odds": 1.66
+    },
+    "Non": {
+      "percentage": 0,
+      "odds": 1.88
+    }
+  },
+  "Mi-temps - Manchester United gardera t-il sa cage inviol\u00e9e ?": {
+    "Oui": {
+      "percentage": 0,
+      "odds": 1.64
+    },
+    "Non": {
+      "percentage": 0,
+      "odds": 1.9
+    }
+  },
+  "Mi-temps - R\u00e9sultat et nombre de buts": {
+    "Match nul et moins de 1,5": {
+      "percentage": 0,
+      "odds": 2.9
+    },
+    "Manchester United et moins de 1,5": {
+      "percentage": 0,
+      "odds": 4.4
+    },
+    "Wolverhampton et moins de 1,5": {
+      "percentage": 0,
+      "odds": 4.5
+    },
+    "Match nul et plus de 1,5": {
+      "percentage": 0,
+      "odds": 6
+    },
+    "Manchester United et plus de 1,5": {
+      "percentage": 0,
+      "odds": 6.25
+    },
+    "Wolverhampton et plus de 1,5": {
+      "percentage": 0,
+      "odds": 6.25
+    }
+  },
+  "Mi-temps  - Double chance et les deux \u00e9quipes marquent": {
+    "Manchester United/match nul et non": {
+      "percentage": 0,
+      "odds": 1.64
+    },
+    "Wolverhampton/match nul et non": {
+      "percentage": 0,
+      "odds": 1.66
+    },
+    "Wolverhampton/Manchester United et non": {
+      "percentage": 0,
+      "odds": 1.78
+    },
+    "Manchester United/match nul et oui": {
+      "percentage": 0,
+      "odds": 4.5
+    },
+    "Wolverhampton/match nul et oui": {
+      "percentage": 0,
+      "odds": 4.5
+    },
+    "Wolverhampton/Manchester United et oui": {
+      "percentage": 0,
+      "odds": 7.5
+    }
+  },
+  "Mi-temps avec le plus de buts": {
+    "1re mi-temps": {
+      "percentage": 0,
+      "odds": 2.95
+    },
+    "\u00c9galit\u00e9": {
+      "percentage": 0,
+      "odds": 3.35
+    },
+    "2de mi-temps": {
+      "percentage": 0,
+      "odds": 1.88
+    }
+  }
+}

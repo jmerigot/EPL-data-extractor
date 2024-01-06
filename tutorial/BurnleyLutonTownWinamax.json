@@ -1,0 +1,1128 @@
+{
+  "R\u00e9sultat": {
+    "Burnley": {
+      "percentage": 33,
+      "odds": 1.94
+    },
+    "Match nul": {
+      "percentage": 60,
+      "odds": 3.55
+    },
+    "Luton Town": {
+      "percentage": 7,
+      "odds": 3.85
+    }
+  },
+  "Double chance": {
+    "Burnley ou match nul": {
+      "percentage": 21,
+      "odds": 1.22
+    },
+    "Burnley ou Luton Town": {
+      "percentage": 69,
+      "odds": 1.25
+    },
+    "Luton Town ou match nul": {
+      "percentage": 10,
+      "odds": 1.78
+    }
+  },
+  "Score exact": {
+    "0 - 0": {
+      "percentage": 0,
+      "odds": 9
+    },
+    "1 - 0": {
+      "percentage": 0,
+      "odds": 6.5
+    },
+    "2 - 0": {
+      "percentage": 0,
+      "odds": 8
+    },
+    "3 - 0": {
+      "percentage": 0,
+      "odds": 14
+    },
+    "4 - 0": {
+      "percentage": 0,
+      "odds": 30
+    },
+    "5 - 0": {
+      "percentage": 0,
+      "odds": 60
+    },
+    "0 - 1": {
+      "percentage": 0,
+      "odds": 9.5
+    },
+    "1 - 1": {
+      "percentage": 100,
+      "odds": 5.9
+    },
+    "2 - 1": {
+      "percentage": 0,
+      "odds": 7.75
+    },
+    "3 - 1": {
+      "percentage": 0,
+      "odds": 13
+    },
+    "4 - 1": {
+      "percentage": 0,
+      "odds": 30
+    },
+    "5 - 1": {
+      "percentage": 0,
+      "odds": 60
+    },
+    "0 - 2": {
+      "percentage": 0,
+      "odds": 17
+    },
+    "1 - 2": {
+      "percentage": 0,
+      "odds": 11
+    },
+    "2 - 2": {
+      "percentage": 0,
+      "odds": 12.5
+    },
+    "3 - 2": {
+      "percentage": 0,
+      "odds": 24
+    },
+    "4 - 2": {
+      "percentage": 0,
+      "odds": 48
+    },
+    "5 - 2": {
+      "percentage": 0,
+      "odds": 85
+    },
+    "0 - 3": {
+      "percentage": 0,
+      "odds": 40
+    },
+    "1 - 3": {
+      "percentage": 0,
+      "odds": 28
+    },
+    "2 - 3": {
+      "percentage": 0,
+      "odds": 34
+    },
+    "3 - 3": {
+      "percentage": 0,
+      "odds": 50
+    },
+    "4 - 3": {
+      "percentage": 0,
+      "odds": 80
+    },
+    "5 - 3": {
+      "percentage": 0,
+      "odds": 180
+    },
+    "0 - 4": {
+      "percentage": 0,
+      "odds": 85
+    },
+    "1 - 4": {
+      "percentage": 0,
+      "odds": 65
+    },
+    "2 - 4": {
+      "percentage": 0,
+      "odds": 70
+    },
+    "3 - 4": {
+      "percentage": 0,
+      "odds": 110
+    },
+    "4 - 4": {
+      "percentage": 0,
+      "odds": 190
+    },
+    "5 - 4": {
+      "percentage": 0,
+      "odds": 450
+    },
+    "0 - 5": {
+      "percentage": 0,
+      "odds": 250
+    },
+    "1 - 5": {
+      "percentage": 0,
+      "odds": 180
+    },
+    "2 - 5": {
+      "percentage": 0,
+      "odds": 200
+    },
+    "3 - 5": {
+      "percentage": 0,
+      "odds": 350
+    },
+    "4 - 5": {
+      "percentage": 0,
+      "odds": 450
+    },
+    "Autre": {
+      "percentage": 0,
+      "odds": 60
+    }
+  },
+  "Score exact multichance": {
+    "1-0 ou 2-0 ou 3-0": {
+      "percentage": 0,
+      "odds": 3.4
+    },
+    "0-1 ou 0-2 ou 0-3": {
+      "percentage": 0,
+      "odds": 6
+    },
+    "4-0 ou 5-0 ou 6-0": {
+      "percentage": 0,
+      "odds": 23
+    },
+    "0-4 ou 0-5 ou 0-6": {
+      "percentage": 0,
+      "odds": 70
+    },
+    "2-1 ou 3-1 ou 4-1": {
+      "percentage": 0,
+      "odds": 4.7
+    },
+    "1-2 ou 1-3 ou 1-4": {
+      "percentage": 0,
+      "odds": 8
+    },
+    "3-2 ou 4-2 ou 4-3 ou 5-1": {
+      "percentage": 0,
+      "odds": 14
+    },
+    "2-3 ou 2-4 ou 3-4 ou 1-5": {
+      "percentage": 0,
+      "odds": 24
+    },
+    "Autre victoire \u00e0 domicile": {
+      "percentage": 0,
+      "odds": 50
+    },
+    "Autre victoire \u00e0 l'ext\u00e9rieur": {
+      "percentage": 0,
+      "odds": 100
+    },
+    "Match nul": {
+      "percentage": 0,
+      "odds": 3.15
+    }
+  },
+  "Les 2 \u00e9quipes marquent": {
+    "Oui": {
+      "percentage": 100,
+      "odds": 1.74
+    },
+    "Non": {
+      "percentage": 0,
+      "odds": 1.9
+    }
+  },
+  "\u00c9cart de buts|Burnley gagne par au moins 3 buts d'\u00e9cart": {
+    "Oui": {
+      "percentage": 0,
+      "odds": 6.75
+    },
+    "Non": {
+      "percentage": 100,
+      "odds": 1.07
+    }
+  },
+  "\u00c9cart de buts|Burnley gagne par au moins 2 buts d'\u00e9cart": {
+    "Oui": {
+      "percentage": 0,
+      "odds": 3.2
+    },
+    "Non": {
+      "percentage": 100,
+      "odds": 1.26
+    }
+  },
+  "\u00c9cart de buts|Luton Town gagne par au moins 2 buts d'\u00e9cart": {
+    "Non": {
+      "percentage": 100,
+      "odds": 1.05
+    },
+    "Oui": {
+      "percentage": 0,
+      "odds": 7.75
+    }
+  },
+  "\u00c9cart de buts (handicap)": {
+    "Burnley +1.5": {
+      "percentage": 100,
+      "odds": 1.05
+    },
+    "Luton Town -1.5": {
+      "percentage": 0,
+      "odds": 7.75
+    }
+  },
+  "Nombre de buts": {
+    "Plus de 5": {
+      "percentage": 0,
+      "odds": 12
+    },
+    "Moins de 5": {
+      "percentage": 0,
+      "odds": 1.05
+    }
+  },
+  "Vainqueur (rembours\u00e9 si match nul)": {
+    "Burnley": {
+      "percentage": 9,
+      "odds": 1.39
+    },
+    "Luton Town": {
+      "percentage": 91,
+      "odds": 2.6
+    }
+  },
+  "\u00c9quipe qui marque le 1er but": {
+    "Burnley": {
+      "percentage": 0,
+      "odds": 1.6
+    },
+    "Aucune": {
+      "percentage": 0,
+      "odds": 9
+    },
+    "Luton Town": {
+      "percentage": 0,
+      "odds": 2.3
+    }
+  },
+  "\u00c9quipe qui marque le dernier but": {
+    "Burnley": {
+      "percentage": 0,
+      "odds": 1.6
+    },
+    "Aucune": {
+      "percentage": 0,
+      "odds": 9
+    },
+    "Luton Town": {
+      "percentage": 0,
+      "odds": 2.3
+    }
+  },
+  "Mi-temps - R\u00e9sultat": {
+    "Burnley": {
+      "percentage": 0,
+      "odds": 2.35
+    },
+    "Match nul": {
+      "percentage": 100,
+      "odds": 2
+    },
+    "Luton Town": {
+      "percentage": 0,
+      "odds": 3.85
+    }
+  },
+  "Mi-temps - Score exact": {
+    "0 - 0": {
+      "percentage": 0,
+      "odds": 2.65
+    },
+    "1 - 1": {
+      "percentage": 0,
+      "odds": 7.25
+    },
+    "2 - 2": {
+      "percentage": 0,
+      "odds": 55
+    },
+    "1 - 0": {
+      "percentage": 0,
+      "odds": 3.75
+    },
+    "2 - 0": {
+      "percentage": 0,
+      "odds": 9
+    },
+    "2 - 1": {
+      "percentage": 0,
+      "odds": 18
+    },
+    "0 - 1": {
+      "percentage": 0,
+      "odds": 5.3
+    },
+    "0 - 2": {
+      "percentage": 0,
+      "odds": 19
+    },
+    "1 - 2": {
+      "percentage": 0,
+      "odds": 27
+    },
+    "Autre": {
+      "percentage": 0,
+      "odds": 14.5
+    }
+  },
+  "Mi-temps - Nombre de buts": {
+    "Plus de 3": {
+      "percentage": 0,
+      "odds": 20
+    },
+    "Moins de 3": {
+      "percentage": 0,
+      "odds": 1.01
+    }
+  },
+  "Mi-temps - \u00c9cart de buts (handicap)": {
+    "Burnley +0.5": {
+      "percentage": 0,
+      "odds": 1.19
+    },
+    "Luton Town -0.5": {
+      "percentage": 0,
+      "odds": 3.85
+    }
+  },
+  "Minute du 1er but (10 min)": {
+    "1-10": {
+      "percentage": 0,
+      "odds": 4.2
+    },
+    "11-20": {
+      "percentage": 0,
+      "odds": 4.4
+    },
+    "21-30": {
+      "percentage": 0,
+      "odds": 5.3
+    },
+    "31-40": {
+      "percentage": 0,
+      "odds": 6.5
+    },
+    "41-50": {
+      "percentage": 0,
+      "odds": 7.25
+    },
+    "51-60": {
+      "percentage": 0,
+      "odds": 9.5
+    },
+    "61-70": {
+      "percentage": 0,
+      "odds": 12
+    },
+    "71-80": {
+      "percentage": 0,
+      "odds": 16
+    },
+    "81-90": {
+      "percentage": 0,
+      "odds": 16
+    },
+    "Aucun": {
+      "percentage": 0,
+      "odds": 9
+    }
+  },
+  "Minute du 1er but (15 min)": {
+    "1-15": {
+      "percentage": 0,
+      "odds": 3
+    },
+    "16-30": {
+      "percentage": 0,
+      "odds": 3.65
+    },
+    "31-45": {
+      "percentage": 0,
+      "odds": 4.4
+    },
+    "46-60": {
+      "percentage": 0,
+      "odds": 6.5
+    },
+    "61-75": {
+      "percentage": 0,
+      "odds": 9
+    },
+    "76-90": {
+      "percentage": 0,
+      "odds": 11
+    },
+    "Aucun": {
+      "percentage": 0,
+      "odds": 9
+    }
+  },
+  "Nombre exact de buts": {
+    "0": {
+      "percentage": 0,
+      "odds": 9
+    },
+    "1": {
+      "percentage": 0,
+      "odds": 4.3
+    },
+    "2": {
+      "percentage": 0,
+      "odds": 3.3
+    },
+    "3": {
+      "percentage": 0,
+      "odds": 3.8
+    },
+    "4": {
+      "percentage": 0,
+      "odds": 5.2
+    },
+    "5": {
+      "percentage": 0,
+      "odds": 9
+    },
+    "6": {
+      "percentage": 0,
+      "odds": 18
+    },
+    "7": {
+      "percentage": 0,
+      "odds": 42
+    },
+    "8": {
+      "percentage": 0,
+      "odds": 70
+    },
+    "9 ou plus": {
+      "percentage": 0,
+      "odds": 100
+    }
+  },
+  "Nombre de buts (intervalle)": {
+    "0-1": {
+      "percentage": 0,
+      "odds": 3.25
+    },
+    "2-3": {
+      "percentage": 0,
+      "odds": 1.88
+    },
+    "4-6": {
+      "percentage": 0,
+      "odds": 3.25
+    },
+    "7 et plus": {
+      "percentage": 0,
+      "odds": 32
+    }
+  },
+  "Nombre de buts de Burnley": {
+    "Plus de 4,5": {
+      "percentage": 0,
+      "odds": 26
+    },
+    "Moins de 4,5": {
+      "percentage": 0,
+      "odds": 1.01
+    }
+  },
+  "Nombre de buts de Luton Town": {
+    "Plus de 3,5": {
+      "percentage": 0,
+      "odds": 29
+    },
+    "Moins de 3,5": {
+      "percentage": 0,
+      "odds": 1.01
+    }
+  },
+  "Nombre exact de buts de Burnley": {
+    "0": {
+      "percentage": 0,
+      "odds": 3.95
+    },
+    "1": {
+      "percentage": 0,
+      "odds": 2.6
+    },
+    "2": {
+      "percentage": 0,
+      "odds": 3.25
+    },
+    "3 ou plus": {
+      "percentage": 0,
+      "odds": 3.8
+    }
+  },
+  "Nombre exact de buts de Luton Town": {
+    "0": {
+      "percentage": 0,
+      "odds": 2.45
+    },
+    "1": {
+      "percentage": 0,
+      "odds": 2.3
+    },
+    "2": {
+      "percentage": 0,
+      "odds": 4.1
+    },
+    "3 ou plus": {
+      "percentage": 0,
+      "odds": 8
+    }
+  },
+  "Nombre de buts de Burnley (intervalle)": {
+    "1-2": {
+      "percentage": 0,
+      "odds": 1.54
+    },
+    "1-3": {
+      "percentage": 100,
+      "odds": 1.29
+    },
+    "2-3": {
+      "percentage": 0,
+      "odds": 2.2
+    },
+    "4 et plus": {
+      "percentage": 0,
+      "odds": 9
+    },
+    "0": {
+      "percentage": 0,
+      "odds": 3.95
+    }
+  },
+  "Nombre de buts de Luton Town (intervalle)": {
+    "1-2": {
+      "percentage": 0,
+      "odds": 1.58
+    },
+    "1-3": {
+      "percentage": 0,
+      "odds": 1.44
+    },
+    "2-3": {
+      "percentage": 0,
+      "odds": 3.2
+    },
+    "4 et plus": {
+      "percentage": 0,
+      "odds": 28
+    },
+    "0": {
+      "percentage": 0,
+      "odds": 2.45
+    }
+  },
+  "Mi-temps/Fin de match": {
+    "Burnley/Burnley": {
+      "percentage": 0,
+      "odds": 2.9
+    },
+    "Match nul/Burnley": {
+      "percentage": 0,
+      "odds": 4.5
+    },
+    "Match nul/Match nul": {
+      "percentage": 0,
+      "odds": 4.8
+    },
+    "Luton Town/Luton Town": {
+      "percentage": 100,
+      "odds": 5.8
+    },
+    "Match nul/Luton Town": {
+      "percentage": 0,
+      "odds": 7.5
+    },
+    "Burnley/Match nul": {
+      "percentage": 0,
+      "odds": 12.5
+    },
+    "Luton Town/Match nul": {
+      "percentage": 0,
+      "odds": 13
+    },
+    "Luton Town/Burnley": {
+      "percentage": 0,
+      "odds": 22
+    },
+    "Burnley/Luton Town": {
+      "percentage": 0,
+      "odds": 32
+    }
+  },
+  "Marge de victoire": {
+    "Burnley gagne d'au moins 3 buts d'\u00e9cart": {
+      "percentage": 0,
+      "odds": 6.75
+    },
+    "Burnley gagne par exactement 2 buts d'\u00e9cart": {
+      "percentage": 0,
+      "odds": 5.1
+    },
+    "Burnley gagne par exactement 1 but d'\u00e9cart": {
+      "percentage": 0,
+      "odds": 3.55
+    },
+    "Match nul": {
+      "percentage": 0,
+      "odds": 3.15
+    },
+    "Luton Town gagne par exactement 1 but d'\u00e9cart": {
+      "percentage": 0,
+      "odds": 5
+    },
+    "Luton Town gagne par exactement 2 buts d'\u00e9cart": {
+      "percentage": 0,
+      "odds": 10.5
+    },
+    "Luton Town gagne d'au moins 3 buts d'\u00e9cart": {
+      "percentage": 0,
+      "odds": 24
+    }
+  },
+  "R\u00e9sultat et nombre de buts": {
+    "Burnley et moins de 4,5": {
+      "percentage": 0,
+      "odds": 2.1
+    },
+    "Match nul et moins de 4,5": {
+      "percentage": 0,
+      "odds": 3.3
+    },
+    "Luton Town et moins de 4,5": {
+      "percentage": 0,
+      "odds": 3.85
+    },
+    "Burnley et plus de 4,5": {
+      "percentage": 0,
+      "odds": 8.5
+    },
+    "Luton Town et plus de 4,5": {
+      "percentage": 0,
+      "odds": 19
+    },
+    "Match nul et plus de 4,5": {
+      "percentage": 0,
+      "odds": 46
+    }
+  },
+  "R\u00e9sultat et les deux \u00e9quipes marquent": {
+    "Burnley et non": {
+      "percentage": 0,
+      "odds": 3.05
+    },
+    "Burnley et oui": {
+      "percentage": 0,
+      "odds": 3.75
+    },
+    "Match nul et oui": {
+      "percentage": 0,
+      "odds": 4.1
+    },
+    "Luton Town et non": {
+      "percentage": 0,
+      "odds": 5.8
+    },
+    "Luton Town et oui": {
+      "percentage": 0,
+      "odds": 6.25
+    },
+    "Match nul et non": {
+      "percentage": 0,
+      "odds": 9
+    }
+  },
+  "\u00c9quipe qui marque le 1er but et r\u00e9sultat": {
+    "Burnley marque et Burnley gagne": {
+      "percentage": 0,
+      "odds": 2.05
+    },
+    "Luton Town marque et Luton Town gagne": {
+      "percentage": 0,
+      "odds": 3.9
+    },
+    "Burnley marque et match nul": {
+      "percentage": 0,
+      "odds": 7.5
+    },
+    "Luton Town marque et match nul": {
+      "percentage": 0,
+      "odds": 7.5
+    },
+    "Aucun but": {
+      "percentage": 0,
+      "odds": 9
+    },
+    "Luton Town marque et Burnley gagne": {
+      "percentage": 0,
+      "odds": 10
+    },
+    "Burnley marque et Luton Town gagne": {
+      "percentage": 0,
+      "odds": 17
+    }
+  },
+  "Double chance et nombre de buts": {
+    "Burnley/match nul et moins de 4,5": {
+      "percentage": 0,
+      "odds": 1.38
+    },
+    "Burnley/Luton Town et moins de 4,5": {
+      "percentage": 0,
+      "odds": 1.47
+    },
+    "Luton Town/match nul et moins de 4,5": {
+      "percentage": 0,
+      "odds": 1.88
+    },
+    "Burnley/Luton Town et plus de 4,5": {
+      "percentage": 0,
+      "odds": 6.25
+    },
+    "Burnley/match nul et plus de 4,5": {
+      "percentage": 0,
+      "odds": 7.5
+    },
+    "Luton Town/match nul et plus de 4,5": {
+      "percentage": 0,
+      "odds": 14.5
+    }
+  },
+  "Double chance et les deux \u00e9quipes marquent": {
+    "Burnley/match nul et oui": {
+      "percentage": 0,
+      "odds": 2.1
+    },
+    "Burnley/Luton Town et non": {
+      "percentage": 0,
+      "odds": 2.15
+    },
+    "Burnley/match nul et non": {
+      "percentage": 0,
+      "odds": 2.45
+    },
+    "Burnley/Luton Town et oui": {
+      "percentage": 0,
+      "odds": 2.55
+    },
+    "Luton Town/match nul et oui": {
+      "percentage": 0,
+      "odds": 2.75
+    },
+    "Luton Town/match nul et non": {
+      "percentage": 0,
+      "odds": 3.95
+    }
+  },
+  "Quelle \u00e9quipe va marquer ?": {
+    "Aucune": {
+      "percentage": 0,
+      "odds": 9
+    },
+    "Seulement Burnley": {
+      "percentage": 0,
+      "odds": 3.05
+    },
+    "Seulement Luton Town": {
+      "percentage": 0,
+      "odds": 5.9
+    },
+    "Les deux \u00e9quipes": {
+      "percentage": 0,
+      "odds": 1.68
+    }
+  },
+  "Burnley garde sa cage inviol\u00e9e": {
+    "Oui": {
+      "percentage": 0,
+      "odds": 2.45
+    },
+    "Non": {
+      "percentage": 0,
+      "odds": 1.4
+    }
+  },
+  "Luton Town garde sa cage inviol\u00e9e": {
+    "Oui": {
+      "percentage": 0,
+      "odds": 3.95
+    },
+    "Non": {
+      "percentage": 0,
+      "odds": 1.18
+    }
+  },
+  "Burnley gagne sans conc\u00e9der de but": {
+    "Oui": {
+      "percentage": 0,
+      "odds": 3.05
+    },
+    "Non": {
+      "percentage": 100,
+      "odds": 1.27
+    }
+  },
+  "Luton Town gagne sans conc\u00e9der de but": {
+    "Oui": {
+      "percentage": 0,
+      "odds": 5.8
+    },
+    "Non": {
+      "percentage": 0,
+      "odds": 1.09
+    }
+  },
+  "Burnley gagne une des mi-temps": {
+    "Oui": {
+      "percentage": 0,
+      "odds": 1.45
+    },
+    "Non": {
+      "percentage": 0,
+      "odds": 2.3
+    }
+  },
+  "Luton Town gagne une des mi-temps": {
+    "Oui": {
+      "percentage": 0,
+      "odds": 2.15
+    },
+    "Non": {
+      "percentage": 0,
+      "odds": 1.5
+    }
+  },
+  "Burnley gagne les deux mi-temps": {
+    "Oui": {
+      "percentage": 0,
+      "odds": 5.2
+    },
+    "Non": {
+      "percentage": 0,
+      "odds": 1.11
+    }
+  },
+  "Luton Town gagne les deux mi-temps": {
+    "Oui": {
+      "percentage": 0,
+      "odds": 14
+    },
+    "Non": {
+      "percentage": 0,
+      "odds": 1.02
+    }
+  },
+  "Burnley marque dans les deux mi-temps": {
+    "Oui": {
+      "percentage": 0,
+      "odds": 2.85
+    },
+    "Non": {
+      "percentage": 0,
+      "odds": 1.31
+    }
+  },
+  "Luton Town marque dans les deux mi-temps": {
+    "Oui": {
+      "percentage": 50,
+      "odds": 4.7
+    },
+    "Non": {
+      "percentage": 50,
+      "odds": 1.13
+    }
+  },
+  "Mi-temps - Double chance": {
+    "Burnley ou match nul": {
+      "percentage": 0,
+      "odds": 1.19
+    },
+    "Burnley ou Luton Town": {
+      "percentage": 0,
+      "odds": 1.56
+    },
+    "Luton Town ou match nul": {
+      "percentage": 0,
+      "odds": 1.42
+    }
+  },
+  "Mi-temps - Les 2 \u00e9quipes marquent": {
+    "Oui": {
+      "percentage": 0,
+      "odds": 4.3
+    },
+    "Non": {
+      "percentage": 100,
+      "odds": 1.15
+    }
+  },
+  "Mi-temps - Nombre de buts de Burnley": {
+    "Plus de 2,5": {
+      "percentage": 0,
+      "odds": 19
+    },
+    "Moins de 2,5": {
+      "percentage": 0,
+      "odds": 1.02
+    }
+  },
+  "Mi-temps - Nombre de buts de Luton Town": {
+    "Plus de 2,5": {
+      "percentage": 0,
+      "odds": 50
+    },
+    "Moins de 2,5": {
+      "percentage": 0,
+      "odds": 1
+    }
+  },
+  "Mi-temps - Nombre exact de buts": {
+    "0": {
+      "percentage": 0,
+      "odds": 2.65
+    },
+    "1": {
+      "percentage": 0,
+      "odds": 2.35
+    },
+    "2": {
+      "percentage": 0,
+      "odds": 3.9
+    },
+    "3 ou plus": {
+      "percentage": 0,
+      "odds": 6.5
+    }
+  },
+  "Mi-temps - Nombre de buts (intervalle)": {
+    "0": {
+      "percentage": 0,
+      "odds": 2.6
+    },
+    "1-2": {
+      "percentage": 0,
+      "odds": 1.58
+    },
+    "1-3": {
+      "percentage": 0,
+      "odds": 1.41
+    },
+    "2-3": {
+      "percentage": 0,
+      "odds": 2.9
+    },
+    "4 et plus": {
+      "percentage": 0,
+      "odds": 21
+    }
+  },
+  "Mi-temps - Vainqueur (rembours\u00e9 si match nul)": {
+    "Burnley": {
+      "percentage": 0,
+      "odds": 1.43
+    },
+    "Luton Town": {
+      "percentage": 0,
+      "odds": 2.35
+    }
+  },
+  "Mi-temps - Burnley gardera t-il sa cage inviol\u00e9e ?": {
+    "Oui": {
+      "percentage": 0,
+      "odds": 1.43
+    },
+    "Non": {
+      "percentage": 0,
+      "odds": 2.35
+    }
+  },
+  "Mi-temps - Luton Town gardera t-il sa cage inviol\u00e9e ?": {
+    "Oui": {
+      "percentage": 0,
+      "odds": 1.76
+    },
+    "Non": {
+      "percentage": 0,
+      "odds": 1.76
+    }
+  },
+  "Mi-temps - R\u00e9sultat et nombre de buts": {
+    "Match nul et moins de 1,5": {
+      "percentage": 0,
+      "odds": 2.65
+    },
+    "Burnley et moins de 1,5": {
+      "percentage": 0,
+      "odds": 3.75
+    },
+    "Burnley et plus de 1,5": {
+      "percentage": 0,
+      "odds": 5.2
+    },
+    "Luton Town et moins de 1,5": {
+      "percentage": 0,
+      "odds": 5.3
+    },
+    "Match nul et plus de 1,5": {
+      "percentage": 0,
+      "odds": 6.75
+    },
+    "Luton Town et plus de 1,5": {
+      "percentage": 0,
+      "odds": 10
+    }
+  },
+  "Mi-temps  - Double chance et les deux \u00e9quipes marquent": {
+    "Burnley/match nul et non": {
+      "percentage": 0,
+      "odds": 1.43
+    },
+    "Luton Town/match nul et non": {
+      "percentage": 0,
+      "odds": 1.76
+    },
+    "Burnley/Luton Town et non": {
+      "percentage": 0,
+      "odds": 1.78
+    },
+    "Burnley/match nul et oui": {
+      "percentage": 0,
+      "odds": 4.9
+    },
+    "Luton Town/match nul et oui": {
+      "percentage": 0,
+      "odds": 5.5
+    },
+    "Burnley/Luton Town et oui": {
+      "percentage": 0,
+      "odds": 9
+    }
+  },
+  "Mi-temps avec le plus de buts": {
+    "1re mi-temps": {
+      "percentage": 0,
+      "odds": 3
+    },
+    "\u00c9galit\u00e9": {
+      "percentage": 0,
+      "odds": 3.15
+    },
+    "2de mi-temps": {
+      "percentage": 100,
+      "odds": 1.92
+    }
+  }
+}

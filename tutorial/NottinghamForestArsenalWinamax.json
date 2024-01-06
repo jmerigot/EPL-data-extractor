@@ -1,0 +1,1128 @@
+{
+  "R\u00e9sultat": {
+    "Nottingham Forest": {
+      "percentage": 2,
+      "odds": 5.8
+    },
+    "Match nul": {
+      "percentage": 0,
+      "odds": 4
+    },
+    "Arsenal": {
+      "percentage": 98,
+      "odds": 1.39
+    }
+  },
+  "Double chance": {
+    "Nottingham Forest ou match nul": {
+      "percentage": 0,
+      "odds": 2.6
+    },
+    "Nottingham Forest ou Arsenal": {
+      "percentage": 0,
+      "odds": 1.16
+    },
+    "Arsenal ou match nul": {
+      "percentage": 100,
+      "odds": 1.07
+    }
+  },
+  "Score exact": {
+    "0 - 0": {
+      "percentage": 0,
+      "odds": 11.5
+    },
+    "1 - 0": {
+      "percentage": 0,
+      "odds": 14.5
+    },
+    "2 - 0": {
+      "percentage": 0,
+      "odds": 32
+    },
+    "3 - 0": {
+      "percentage": 0,
+      "odds": 65
+    },
+    "4 - 0": {
+      "percentage": 0,
+      "odds": 190
+    },
+    "5 - 0": {
+      "percentage": 0,
+      "odds": 500
+    },
+    "0 - 1": {
+      "percentage": 0,
+      "odds": 6.25
+    },
+    "1 - 1": {
+      "percentage": 0,
+      "odds": 7.5
+    },
+    "2 - 1": {
+      "percentage": 0,
+      "odds": 17
+    },
+    "3 - 1": {
+      "percentage": 0,
+      "odds": 48
+    },
+    "4 - 1": {
+      "percentage": 0,
+      "odds": 120
+    },
+    "5 - 1": {
+      "percentage": 0,
+      "odds": 450
+    },
+    "0 - 2": {
+      "percentage": 100,
+      "odds": 6.25
+    },
+    "1 - 2": {
+      "percentage": 0,
+      "odds": 7.5
+    },
+    "2 - 2": {
+      "percentage": 0,
+      "odds": 16
+    },
+    "3 - 2": {
+      "percentage": 0,
+      "odds": 48
+    },
+    "4 - 2": {
+      "percentage": 0,
+      "odds": 110
+    },
+    "5 - 2": {
+      "percentage": 0,
+      "odds": 450
+    },
+    "0 - 3": {
+      "percentage": 0,
+      "odds": 8.5
+    },
+    "1 - 3": {
+      "percentage": 0,
+      "odds": 10
+    },
+    "2 - 3": {
+      "percentage": 0,
+      "odds": 23
+    },
+    "3 - 3": {
+      "percentage": 0,
+      "odds": 55
+    },
+    "4 - 3": {
+      "percentage": 0,
+      "odds": 150
+    },
+    "5 - 3": {
+      "percentage": 0,
+      "odds": 450
+    },
+    "0 - 4": {
+      "percentage": 0,
+      "odds": 15
+    },
+    "1 - 4": {
+      "percentage": 0,
+      "odds": 18
+    },
+    "2 - 4": {
+      "percentage": 0,
+      "odds": 38
+    },
+    "3 - 4": {
+      "percentage": 0,
+      "odds": 80
+    },
+    "4 - 4": {
+      "percentage": 0,
+      "odds": 225
+    },
+    "5 - 4": {
+      "percentage": 0,
+      "odds": 500
+    },
+    "0 - 5": {
+      "percentage": 0,
+      "odds": 32
+    },
+    "1 - 5": {
+      "percentage": 0,
+      "odds": 38
+    },
+    "2 - 5": {
+      "percentage": 0,
+      "odds": 60
+    },
+    "3 - 5": {
+      "percentage": 0,
+      "odds": 140
+    },
+    "4 - 5": {
+      "percentage": 0,
+      "odds": 450
+    },
+    "Autre": {
+      "percentage": 0,
+      "odds": 30
+    }
+  },
+  "Score exact multichance": {
+    "1-0 ou 2-0 ou 3-0": {
+      "percentage": 0,
+      "odds": 9.5
+    },
+    "0-1 ou 0-2 ou 0-3": {
+      "percentage": 0,
+      "odds": 2.7
+    },
+    "4-0 ou 5-0 ou 6-0": {
+      "percentage": 0,
+      "odds": 100
+    },
+    "0-4 ou 0-5 ou 0-6": {
+      "percentage": 0,
+      "odds": 10
+    },
+    "2-1 ou 3-1 ou 4-1": {
+      "percentage": 0,
+      "odds": 13
+    },
+    "1-2 ou 1-3 ou 1-4": {
+      "percentage": 0,
+      "odds": 4
+    },
+    "3-2 ou 4-2 ou 4-3 ou 5-1": {
+      "percentage": 0,
+      "odds": 38
+    },
+    "2-3 ou 2-4 ou 3-4 ou 1-5": {
+      "percentage": 0,
+      "odds": 11
+    },
+    "Autre victoire \u00e0 domicile": {
+      "percentage": 0,
+      "odds": 100
+    },
+    "Autre victoire \u00e0 l'ext\u00e9rieur": {
+      "percentage": 0,
+      "odds": 29
+    },
+    "Match nul": {
+      "percentage": 0,
+      "odds": 3.95
+    }
+  },
+  "Les 2 \u00e9quipes marquent": {
+    "Oui": {
+      "percentage": 99,
+      "odds": 1.84
+    },
+    "Non": {
+      "percentage": 1,
+      "odds": 1.78
+    }
+  },
+  "\u00c9cart de buts|Arsenal gagne par au moins 2 buts d'\u00e9cart": {
+    "Non": {
+      "percentage": 0,
+      "odds": 1.54
+    },
+    "Oui": {
+      "percentage": 100,
+      "odds": 2.05
+    }
+  },
+  "\u00c9cart de buts|Arsenal gagne par au moins 3 buts d'\u00e9cart": {
+    "Non": {
+      "percentage": 100,
+      "odds": 1.19
+    },
+    "Oui": {
+      "percentage": 0,
+      "odds": 3.75
+    }
+  },
+  "\u00c9cart de buts|Arsenal gagne par au moins 4 buts d'\u00e9cart": {
+    "Non": {
+      "percentage": 100,
+      "odds": 1.05
+    },
+    "Oui": {
+      "percentage": 0,
+      "odds": 7.75
+    }
+  },
+  "\u00c9cart de buts (handicap)": {
+    "Nottingham Forest +3.5": {
+      "percentage": 100,
+      "odds": 1.05
+    },
+    "Arsenal -3.5": {
+      "percentage": 0,
+      "odds": 7.75
+    }
+  },
+  "Nombre de buts": {
+    "Plus de 5": {
+      "percentage": 0,
+      "odds": 8.5
+    },
+    "Moins de 5": {
+      "percentage": 0,
+      "odds": 1.07
+    }
+  },
+  "Vainqueur (rembours\u00e9 si match nul)": {
+    "Nottingham Forest": {
+      "percentage": 0,
+      "odds": 4.3
+    },
+    "Arsenal": {
+      "percentage": 100,
+      "odds": 1.14
+    }
+  },
+  "\u00c9quipe qui marque le 1er but": {
+    "Nottingham Forest": {
+      "percentage": 0,
+      "odds": 3.15
+    },
+    "Aucune": {
+      "percentage": 0,
+      "odds": 11.5
+    },
+    "Arsenal": {
+      "percentage": 0,
+      "odds": 1.36
+    }
+  },
+  "\u00c9quipe qui marque le dernier but": {
+    "Nottingham Forest": {
+      "percentage": 0,
+      "odds": 3.15
+    },
+    "Aucune": {
+      "percentage": 0,
+      "odds": 11.5
+    },
+    "Arsenal": {
+      "percentage": 0,
+      "odds": 1.36
+    }
+  },
+  "Mi-temps - R\u00e9sultat": {
+    "Nottingham Forest": {
+      "percentage": 0,
+      "odds": 5.4
+    },
+    "Match nul": {
+      "percentage": 0,
+      "odds": 2.25
+    },
+    "Arsenal": {
+      "percentage": 0,
+      "odds": 1.84
+    }
+  },
+  "Mi-temps - Score exact": {
+    "0 - 0": {
+      "percentage": 0,
+      "odds": 2.95
+    },
+    "1 - 1": {
+      "percentage": 0,
+      "odds": 7.75
+    },
+    "2 - 2": {
+      "percentage": 0,
+      "odds": 55
+    },
+    "1 - 0": {
+      "percentage": 0,
+      "odds": 7.25
+    },
+    "2 - 0": {
+      "percentage": 0,
+      "odds": 32
+    },
+    "2 - 1": {
+      "percentage": 0,
+      "odds": 34
+    },
+    "0 - 1": {
+      "percentage": 0,
+      "odds": 3.25
+    },
+    "0 - 2": {
+      "percentage": 0,
+      "odds": 6.25
+    },
+    "1 - 2": {
+      "percentage": 0,
+      "odds": 16
+    },
+    "Autre": {
+      "percentage": 0,
+      "odds": 9.5
+    }
+  },
+  "Mi-temps - Nombre de buts": {
+    "Plus de 3": {
+      "percentage": 0,
+      "odds": 15
+    },
+    "Moins de 3": {
+      "percentage": 0,
+      "odds": 1.02
+    }
+  },
+  "Mi-temps - \u00c9cart de buts (handicap)": {
+    "Nottingham Forest +1": {
+      "percentage": 0,
+      "odds": 1.24
+    },
+    "Arsenal -1": {
+      "percentage": 0,
+      "odds": 3.3
+    }
+  },
+  "Minute du 1er but (10 min)": {
+    "1-10": {
+      "percentage": 0,
+      "odds": 3.95
+    },
+    "11-20": {
+      "percentage": 0,
+      "odds": 4.2
+    },
+    "21-30": {
+      "percentage": 0,
+      "odds": 5.1
+    },
+    "31-40": {
+      "percentage": 0,
+      "odds": 6.5
+    },
+    "41-50": {
+      "percentage": 0,
+      "odds": 7.25
+    },
+    "51-60": {
+      "percentage": 0,
+      "odds": 9.5
+    },
+    "61-70": {
+      "percentage": 0,
+      "odds": 13
+    },
+    "71-80": {
+      "percentage": 0,
+      "odds": 18
+    },
+    "81-90": {
+      "percentage": 0,
+      "odds": 18
+    },
+    "Aucun": {
+      "percentage": 0,
+      "odds": 11.5
+    }
+  },
+  "Minute du 1er but (15 min)": {
+    "1-15": {
+      "percentage": 0,
+      "odds": 2.8
+    },
+    "16-30": {
+      "percentage": 0,
+      "odds": 3.5
+    },
+    "31-45": {
+      "percentage": 0,
+      "odds": 4.4
+    },
+    "46-60": {
+      "percentage": 0,
+      "odds": 6.75
+    },
+    "61-75": {
+      "percentage": 0,
+      "odds": 9.5
+    },
+    "76-90": {
+      "percentage": 0,
+      "odds": 12.5
+    },
+    "Aucun": {
+      "percentage": 0,
+      "odds": 11.5
+    }
+  },
+  "Nombre exact de buts": {
+    "0": {
+      "percentage": 0,
+      "odds": 11.5
+    },
+    "1": {
+      "percentage": 0,
+      "odds": 4.8
+    },
+    "2": {
+      "percentage": 0,
+      "odds": 3.55
+    },
+    "3": {
+      "percentage": 0,
+      "odds": 3.7
+    },
+    "4": {
+      "percentage": 0,
+      "odds": 4.7
+    },
+    "5": {
+      "percentage": 0,
+      "odds": 7.75
+    },
+    "6": {
+      "percentage": 0,
+      "odds": 14.5
+    },
+    "7": {
+      "percentage": 0,
+      "odds": 32
+    },
+    "8": {
+      "percentage": 0,
+      "odds": 60
+    },
+    "9 ou plus": {
+      "percentage": 0,
+      "odds": 95
+    }
+  },
+  "Nombre de buts (intervalle)": {
+    "0-1": {
+      "percentage": 0,
+      "odds": 3.75
+    },
+    "2-3": {
+      "percentage": 0,
+      "odds": 1.92
+    },
+    "4-6": {
+      "percentage": 0,
+      "odds": 2.8
+    },
+    "7 et plus": {
+      "percentage": 0,
+      "odds": 22
+    }
+  },
+  "Nombre de buts de Nottingham Forest": {
+    "Plus de 3,5": {
+      "percentage": 0,
+      "odds": 50
+    },
+    "Moins de 3,5": {
+      "percentage": 0,
+      "odds": 1
+    }
+  },
+  "Nombre de buts de Arsenal": {
+    "Plus de 4,5": {
+      "percentage": 0,
+      "odds": 11
+    },
+    "Moins de 4,5": {
+      "percentage": 0,
+      "odds": 1.03
+    }
+  },
+  "Nombre exact de buts de Nottingham Forest": {
+    "0": {
+      "percentage": 0,
+      "odds": 1.98
+    },
+    "1": {
+      "percentage": 0,
+      "odds": 2.35
+    },
+    "2": {
+      "percentage": 0,
+      "odds": 5.1
+    },
+    "3 ou plus": {
+      "percentage": 0,
+      "odds": 13
+    }
+  },
+  "Nombre exact de buts de Arsenal": {
+    "0": {
+      "percentage": 0,
+      "odds": 5.9
+    },
+    "1": {
+      "percentage": 0,
+      "odds": 3.2
+    },
+    "2": {
+      "percentage": 0,
+      "odds": 3.1
+    },
+    "3 ou plus": {
+      "percentage": 0,
+      "odds": 2.5
+    }
+  },
+  "Nombre de buts de Nottingham Forest (intervalle)": {
+    "1-2": {
+      "percentage": 0,
+      "odds": 1.74
+    },
+    "1-3": {
+      "percentage": 0,
+      "odds": 1.62
+    },
+    "2-3": {
+      "percentage": 0,
+      "odds": 4.2
+    },
+    "4 et plus": {
+      "percentage": 0,
+      "odds": 50
+    },
+    "0": {
+      "percentage": 0,
+      "odds": 1.98
+    }
+  },
+  "Nombre de buts de Arsenal (intervalle)": {
+    "1-2": {
+      "percentage": 0,
+      "odds": 1.66
+    },
+    "1-3": {
+      "percentage": 0,
+      "odds": 1.29
+    },
+    "2-3": {
+      "percentage": 0,
+      "odds": 1.92
+    },
+    "4 et plus": {
+      "percentage": 0,
+      "odds": 4.9
+    },
+    "0": {
+      "percentage": 0,
+      "odds": 5.9
+    }
+  },
+  "Mi-temps/Fin de match": {
+    "Arsenal/Arsenal": {
+      "percentage": 0,
+      "odds": 2.05
+    },
+    "Match nul/Arsenal": {
+      "percentage": 0,
+      "odds": 3.95
+    },
+    "Match nul/Match nul": {
+      "percentage": 0,
+      "odds": 6
+    },
+    "Nottingham Forest/Nottingham Forest": {
+      "percentage": 0,
+      "odds": 9.5
+    },
+    "Match nul/Nottingham Forest": {
+      "percentage": 0,
+      "odds": 12
+    },
+    "Arsenal/Match nul": {
+      "percentage": 0,
+      "odds": 16
+    },
+    "Nottingham Forest/Match nul": {
+      "percentage": 0,
+      "odds": 16
+    },
+    "Nottingham Forest/Arsenal": {
+      "percentage": 0,
+      "odds": 20
+    },
+    "Arsenal/Nottingham Forest": {
+      "percentage": 0,
+      "odds": 48
+    }
+  },
+  "Marge de victoire": {
+    "Nottingham Forest gagne d'au moins 3 buts d'\u00e9cart": {
+      "percentage": 0,
+      "odds": 50
+    },
+    "Nottingham Forest gagne par exactement 2 buts d'\u00e9cart": {
+      "percentage": 0,
+      "odds": 20
+    },
+    "Nottingham Forest gagne par exactement 1 but d'\u00e9cart": {
+      "percentage": 0,
+      "odds": 7.5
+    },
+    "Match nul": {
+      "percentage": 0,
+      "odds": 3.95
+    },
+    "Arsenal gagne par exactement 1 but d'\u00e9cart": {
+      "percentage": 0,
+      "odds": 3.4
+    },
+    "Arsenal gagne par exactement 2 buts d'\u00e9cart": {
+      "percentage": 0,
+      "odds": 4
+    },
+    "Arsenal gagne d'au moins 3 buts d'\u00e9cart": {
+      "percentage": 0,
+      "odds": 3.75
+    }
+  },
+  "R\u00e9sultat et nombre de buts": {
+    "Arsenal et moins de 4,5": {
+      "percentage": 0,
+      "odds": 1.7
+    },
+    "Match nul et moins de 4,5": {
+      "percentage": 0,
+      "odds": 4.1
+    },
+    "Arsenal et plus de 4,5": {
+      "percentage": 0,
+      "odds": 5.4
+    },
+    "Nottingham Forest et moins de 4,5": {
+      "percentage": 0,
+      "odds": 6.25
+    },
+    "Nottingham Forest et plus de 4,5": {
+      "percentage": 0,
+      "odds": 32
+    },
+    "Match nul et plus de 4,5": {
+      "percentage": 0,
+      "odds": 50
+    }
+  },
+  "R\u00e9sultat et les deux \u00e9quipes marquent": {
+    "Arsenal et non": {
+      "percentage": 0,
+      "odds": 2.25
+    },
+    "Arsenal et oui": {
+      "percentage": 0,
+      "odds": 3.05
+    },
+    "Match nul et oui": {
+      "percentage": 0,
+      "odds": 5.2
+    },
+    "Nottingham Forest et non": {
+      "percentage": 0,
+      "odds": 9.5
+    },
+    "Nottingham Forest et oui": {
+      "percentage": 0,
+      "odds": 10
+    },
+    "Match nul et non": {
+      "percentage": 0,
+      "odds": 11.5
+    }
+  },
+  "\u00c9quipe qui marque le 1er but et r\u00e9sultat": {
+    "Arsenal marque et Arsenal gagne": {
+      "percentage": 0,
+      "odds": 1.54
+    },
+    "Nottingham Forest marque et Nottingham Forest gagne": {
+      "percentage": 0,
+      "odds": 6.25
+    },
+    "Nottingham Forest marque et Arsenal gagne": {
+      "percentage": 0,
+      "odds": 8.5
+    },
+    "Nottingham Forest marque et match nul": {
+      "percentage": 0,
+      "odds": 9.5
+    },
+    "Arsenal marque et match nul": {
+      "percentage": 0,
+      "odds": 9.5
+    },
+    "Aucun but": {
+      "percentage": 0,
+      "odds": 11.5
+    },
+    "Arsenal marque et Nottingham Forest gagne": {
+      "percentage": 0,
+      "odds": 28
+    }
+  },
+  "Double chance et nombre de buts": {
+    "Arsenal/match nul et moins de 4,5": {
+      "percentage": 0,
+      "odds": 1.29
+    },
+    "Nottingham Forest/Arsenal et moins de 4,5": {
+      "percentage": 0,
+      "odds": 1.42
+    },
+    "Nottingham Forest/match nul et moins de 4,5": {
+      "percentage": 0,
+      "odds": 2.7
+    },
+    "Nottingham Forest/Arsenal et plus de 4,5": {
+      "percentage": 0,
+      "odds": 4.9
+    },
+    "Arsenal/match nul et plus de 4,5": {
+      "percentage": 0,
+      "odds": 5.1
+    },
+    "Nottingham Forest/match nul et plus de 4,5": {
+      "percentage": 0,
+      "odds": 23
+    }
+  },
+  "Double chance et les deux \u00e9quipes marquent": {
+    "Nottingham Forest/Arsenal et non": {
+      "percentage": 0,
+      "odds": 1.92
+    },
+    "Arsenal/match nul et non": {
+      "percentage": 0,
+      "odds": 1.98
+    },
+    "Arsenal/match nul et oui": {
+      "percentage": 0,
+      "odds": 2.05
+    },
+    "Nottingham Forest/Arsenal et oui": {
+      "percentage": 0,
+      "odds": 2.45
+    },
+    "Nottingham Forest/match nul et oui": {
+      "percentage": 0,
+      "odds": 3.8
+    },
+    "Nottingham Forest/match nul et non": {
+      "percentage": 0,
+      "odds": 5.9
+    }
+  },
+  "Quelle \u00e9quipe va marquer ?": {
+    "Aucune": {
+      "percentage": 0,
+      "odds": 11.5
+    },
+    "Seulement Nottingham Forest": {
+      "percentage": 0,
+      "odds": 9.5
+    },
+    "Seulement Arsenal": {
+      "percentage": 0,
+      "odds": 2.25
+    },
+    "Les deux \u00e9quipes": {
+      "percentage": 0,
+      "odds": 1.8
+    }
+  },
+  "Nottingham Forest garde sa cage inviol\u00e9e": {
+    "Oui": {
+      "percentage": 0,
+      "odds": 5.9
+    },
+    "Non": {
+      "percentage": 0,
+      "odds": 1.09
+    }
+  },
+  "Arsenal garde sa cage inviol\u00e9e": {
+    "Oui": {
+      "percentage": 0,
+      "odds": 1.98
+    },
+    "Non": {
+      "percentage": 0,
+      "odds": 1.6
+    }
+  },
+  "Nottingham Forest gagne sans conc\u00e9der de but": {
+    "Oui": {
+      "percentage": 0,
+      "odds": 9.5
+    },
+    "Non": {
+      "percentage": 0,
+      "odds": 1.04
+    }
+  },
+  "Arsenal gagne sans conc\u00e9der de but": {
+    "Oui": {
+      "percentage": 0,
+      "odds": 2.25
+    },
+    "Non": {
+      "percentage": 0,
+      "odds": 1.47
+    }
+  },
+  "Nottingham Forest gagne une des mi-temps": {
+    "Oui": {
+      "percentage": 0,
+      "odds": 3.1
+    },
+    "Non": {
+      "percentage": 0,
+      "odds": 1.27
+    }
+  },
+  "Arsenal gagne une des mi-temps": {
+    "Oui": {
+      "percentage": 100,
+      "odds": 1.23
+    },
+    "Non": {
+      "percentage": 0,
+      "odds": 3.45
+    }
+  },
+  "Nottingham Forest gagne les deux mi-temps": {
+    "Oui": {
+      "percentage": 0,
+      "odds": 30
+    },
+    "Non": {
+      "percentage": 0,
+      "odds": 1.01
+    }
+  },
+  "Arsenal gagne les deux mi-temps": {
+    "Oui": {
+      "percentage": 0,
+      "odds": 3.25
+    },
+    "Non": {
+      "percentage": 0,
+      "odds": 1.25
+    }
+  },
+  "Nottingham Forest marque dans les deux mi-temps": {
+    "Oui": {
+      "percentage": 0,
+      "odds": 6.5
+    },
+    "Non": {
+      "percentage": 0,
+      "odds": 1.07
+    }
+  },
+  "Arsenal marque dans les deux mi-temps": {
+    "Oui": {
+      "percentage": 0,
+      "odds": 2.1
+    },
+    "Non": {
+      "percentage": 0,
+      "odds": 1.52
+    }
+  },
+  "Mi-temps - Double chance": {
+    "Nottingham Forest ou match nul": {
+      "percentage": 0,
+      "odds": 1.68
+    },
+    "Nottingham Forest ou Arsenal": {
+      "percentage": 0,
+      "odds": 1.47
+    },
+    "Arsenal ou match nul": {
+      "percentage": 0,
+      "odds": 1.1
+    }
+  },
+  "Mi-temps - Les 2 \u00e9quipes marquent": {
+    "Oui": {
+      "percentage": 0,
+      "odds": 4.4
+    },
+    "Non": {
+      "percentage": 0,
+      "odds": 1.15
+    }
+  },
+  "Mi-temps - Nombre de buts de Nottingham Forest": {
+    "Plus de 1,5": {
+      "percentage": 0,
+      "odds": 13
+    },
+    "Moins de 1,5": {
+      "percentage": 100,
+      "odds": 1.03
+    }
+  },
+  "Mi-temps - Nombre de buts de Arsenal": {
+    "Plus de 2,5": {
+      "percentage": 0,
+      "odds": 10.5
+    },
+    "Moins de 2,5": {
+      "percentage": 0,
+      "odds": 1.03
+    }
+  },
+  "Mi-temps - Nombre exact de buts": {
+    "0": {
+      "percentage": 0,
+      "odds": 2.95
+    },
+    "1": {
+      "percentage": 0,
+      "odds": 2.4
+    },
+    "2": {
+      "percentage": 0,
+      "odds": 3.65
+    },
+    "3 ou plus": {
+      "percentage": 0,
+      "odds": 5.6
+    }
+  },
+  "Mi-temps - Nombre de buts (intervalle)": {
+    "0": {
+      "percentage": 0,
+      "odds": 2.95
+    },
+    "1-2": {
+      "percentage": 0,
+      "odds": 1.54
+    },
+    "1-3": {
+      "percentage": 100,
+      "odds": 1.35
+    },
+    "2-3": {
+      "percentage": 0,
+      "odds": 2.65
+    },
+    "4 et plus": {
+      "percentage": 0,
+      "odds": 16
+    }
+  },
+  "Mi-temps - Vainqueur (rembours\u00e9 si match nul)": {
+    "Nottingham Forest": {
+      "percentage": 0,
+      "odds": 3.6
+    },
+    "Arsenal": {
+      "percentage": 100,
+      "odds": 1.21
+    }
+  },
+  "Mi-temps - Nottingham Forest gardera t-il sa cage inviol\u00e9e ?": {
+    "Oui": {
+      "percentage": 0,
+      "odds": 2.1
+    },
+    "Non": {
+      "percentage": 0,
+      "odds": 1.52
+    }
+  },
+  "Mi-temps - Arsenal gardera t-il sa cage inviol\u00e9e ?": {
+    "Oui": {
+      "percentage": 0,
+      "odds": 1.32
+    },
+    "Non": {
+      "percentage": 0,
+      "odds": 2.8
+    }
+  },
+  "Mi-temps - R\u00e9sultat et nombre de buts": {
+    "Match nul et moins de 1,5": {
+      "percentage": 0,
+      "odds": 2.95
+    },
+    "Arsenal et moins de 1,5": {
+      "percentage": 0,
+      "odds": 3.25
+    },
+    "Arsenal et plus de 1,5": {
+      "percentage": 0,
+      "odds": 3.7
+    },
+    "Nottingham Forest et moins de 1,5": {
+      "percentage": 0,
+      "odds": 7.25
+    },
+    "Match nul et plus de 1,5": {
+      "percentage": 0,
+      "odds": 7.25
+    },
+    "Nottingham Forest et plus de 1,5": {
+      "percentage": 0,
+      "odds": 16
+    }
+  },
+  "Mi-temps  - Double chance et les deux \u00e9quipes marquent": {
+    "Arsenal/match nul et non": {
+      "percentage": 0,
+      "odds": 1.32
+    },
+    "Nottingham Forest/Arsenal et non": {
+      "percentage": 0,
+      "odds": 1.66
+    },
+    "Nottingham Forest/match nul et non": {
+      "percentage": 0,
+      "odds": 2.1
+    },
+    "Arsenal/match nul et oui": {
+      "percentage": 0,
+      "odds": 4.8
+    },
+    "Nottingham Forest/match nul et oui": {
+      "percentage": 0,
+      "odds": 6.25
+    },
+    "Nottingham Forest/Arsenal et oui": {
+      "percentage": 0,
+      "odds": 8.5
+    }
+  },
+  "Mi-temps avec le plus de buts": {
+    "1re mi-temps": {
+      "percentage": 0,
+      "odds": 2.9
+    },
+    "\u00c9galit\u00e9": {
+      "percentage": 0,
+      "odds": 3.35
+    },
+    "2de mi-temps": {
+      "percentage": 0,
+      "odds": 1.9
+    }
+  }
+}

@@ -1,0 +1,1128 @@
+{
+  "R\u00e9sultat": {
+    "Manchester City": {
+      "percentage": 100,
+      "odds": 1.09
+    },
+    "Match nul": {
+      "percentage": 0,
+      "odds": 6.25
+    },
+    "Burnley": {
+      "percentage": 0,
+      "odds": 13
+    }
+  },
+  "Double chance": {
+    "Manchester City ou match nul": {
+      "percentage": 100,
+      "odds": 1.01
+    },
+    "Manchester City ou Burnley": {
+      "percentage": 0,
+      "odds": 1.03
+    },
+    "Burnley ou match nul": {
+      "percentage": 0,
+      "odds": 5.6
+    }
+  },
+  "Score exact": {
+    "0 - 0": {
+      "percentage": 0,
+      "odds": 24
+    },
+    "1 - 0": {
+      "percentage": 0,
+      "odds": 8.5
+    },
+    "2 - 0": {
+      "percentage": 0,
+      "odds": 6
+    },
+    "3 - 0": {
+      "percentage": 0,
+      "odds": 6
+    },
+    "4 - 0": {
+      "percentage": 0,
+      "odds": 7.5
+    },
+    "5 - 0": {
+      "percentage": 0,
+      "odds": 11.5
+    },
+    "0 - 1": {
+      "percentage": 0,
+      "odds": 36
+    },
+    "1 - 1": {
+      "percentage": 0,
+      "odds": 14
+    },
+    "2 - 1": {
+      "percentage": 0,
+      "odds": 9
+    },
+    "3 - 1": {
+      "percentage": 0,
+      "odds": 9
+    },
+    "4 - 1": {
+      "percentage": 0,
+      "odds": 12
+    },
+    "5 - 1": {
+      "percentage": 0,
+      "odds": 19
+    },
+    "0 - 2": {
+      "percentage": 0,
+      "odds": 65
+    },
+    "1 - 2": {
+      "percentage": 0,
+      "odds": 38
+    },
+    "2 - 2": {
+      "percentage": 0,
+      "odds": 29
+    },
+    "3 - 2": {
+      "percentage": 0,
+      "odds": 28
+    },
+    "4 - 2": {
+      "percentage": 0,
+      "odds": 34
+    },
+    "5 - 2": {
+      "percentage": 0,
+      "odds": 50
+    },
+    "0 - 3": {
+      "percentage": 0,
+      "odds": 200
+    },
+    "1 - 3": {
+      "percentage": 0,
+      "odds": 100
+    },
+    "2 - 3": {
+      "percentage": 0,
+      "odds": 75
+    },
+    "3 - 3": {
+      "percentage": 0,
+      "odds": 75
+    },
+    "4 - 3": {
+      "percentage": 0,
+      "odds": 90
+    },
+    "5 - 3": {
+      "percentage": 0,
+      "odds": 120
+    },
+    "0 - 4": {
+      "percentage": 0,
+      "odds": 500
+    },
+    "1 - 4": {
+      "percentage": 0,
+      "odds": 400
+    },
+    "2 - 4": {
+      "percentage": 0,
+      "odds": 300
+    },
+    "3 - 4": {
+      "percentage": 0,
+      "odds": 300
+    },
+    "4 - 4": {
+      "percentage": 0,
+      "odds": 400
+    },
+    "5 - 4": {
+      "percentage": 0,
+      "odds": 450
+    },
+    "0 - 5": {
+      "percentage": 0,
+      "odds": 500
+    },
+    "1 - 5": {
+      "percentage": 0,
+      "odds": 500
+    },
+    "2 - 5": {
+      "percentage": 0,
+      "odds": 500
+    },
+    "3 - 5": {
+      "percentage": 0,
+      "odds": 500
+    },
+    "4 - 5": {
+      "percentage": 0,
+      "odds": 500
+    },
+    "Autre": {
+      "percentage": 0,
+      "odds": 8
+    }
+  },
+  "Score exact multichance": {
+    "1-0 ou 2-0 ou 3-0": {
+      "percentage": 0,
+      "odds": 2.55
+    },
+    "0-1 ou 0-2 ou 0-3": {
+      "percentage": 0,
+      "odds": 28
+    },
+    "4-0 ou 5-0 ou 6-0": {
+      "percentage": 0,
+      "odds": 4.4
+    },
+    "0-4 ou 0-5 ou 0-6": {
+      "percentage": 0,
+      "odds": 100
+    },
+    "2-1 ou 3-1 ou 4-1": {
+      "percentage": 0,
+      "odds": 3.95
+    },
+    "1-2 ou 1-3 ou 1-4": {
+      "percentage": 0,
+      "odds": 32
+    },
+    "3-2 ou 4-2 ou 4-3 ou 5-1": {
+      "percentage": 0,
+      "odds": 9
+    },
+    "2-3 ou 2-4 ou 3-4 ou 1-5": {
+      "percentage": 0,
+      "odds": 65
+    },
+    "Autre victoire \u00e0 domicile": {
+      "percentage": 0,
+      "odds": 9.5
+    },
+    "Autre victoire \u00e0 l'ext\u00e9rieur": {
+      "percentage": 0,
+      "odds": 100
+    },
+    "Match nul": {
+      "percentage": 0,
+      "odds": 7.5
+    }
+  },
+  "Les 2 \u00e9quipes marquent": {
+    "Oui": {
+      "percentage": 58,
+      "odds": 2.1
+    },
+    "Non": {
+      "percentage": 42,
+      "odds": 1.58
+    }
+  },
+  "\u00c9cart de buts|Manchester City gagne par au moins 5 buts d'\u00e9cart": {
+    "Oui": {
+      "percentage": 0,
+      "odds": 5.5
+    },
+    "Non": {
+      "percentage": 100,
+      "odds": 1.1
+    }
+  },
+  "\u00c9cart de buts|Manchester City gagne par au moins 4 buts d'\u00e9cart": {
+    "Oui": {
+      "percentage": 0,
+      "odds": 3.1
+    },
+    "Non": {
+      "percentage": 100,
+      "odds": 1.27
+    }
+  },
+  "\u00c9cart de buts|Manchester City gagne par au moins 3 buts d'\u00e9cart": {
+    "Oui": {
+      "percentage": 100,
+      "odds": 1.9
+    },
+    "Non": {
+      "percentage": 0,
+      "odds": 1.64
+    }
+  },
+  "\u00c9cart de buts|Manchester City gagne par au moins 2 buts d'\u00e9cart": {
+    "Oui": {
+      "percentage": 100,
+      "odds": 1.36
+    },
+    "Non": {
+      "percentage": 0,
+      "odds": 2.6
+    }
+  },
+  "\u00c9cart de buts (handicap)": {
+    "Manchester City -1.5": {
+      "percentage": 100,
+      "odds": 1.36
+    },
+    "Burnley +1.5": {
+      "percentage": 0,
+      "odds": 2.6
+    }
+  },
+  "Nombre de buts": {
+    "Plus de 6": {
+      "percentage": 0,
+      "odds": 8.5
+    },
+    "Moins de 6": {
+      "percentage": 0,
+      "odds": 1.07
+    }
+  },
+  "Vainqueur (rembours\u00e9 si match nul)": {
+    "Manchester City": {
+      "percentage": 100,
+      "odds": 1.02
+    },
+    "Burnley": {
+      "percentage": 0,
+      "odds": 8
+    }
+  },
+  "\u00c9quipe qui marque le 1er but": {
+    "Manchester City": {
+      "percentage": 0,
+      "odds": 1.16
+    },
+    "Aucune": {
+      "percentage": 0,
+      "odds": 24
+    },
+    "Burnley": {
+      "percentage": 0,
+      "odds": 4.8
+    }
+  },
+  "\u00c9quipe qui marque le dernier but": {
+    "Manchester City": {
+      "percentage": 0,
+      "odds": 1.16
+    },
+    "Aucune": {
+      "percentage": 0,
+      "odds": 24
+    },
+    "Burnley": {
+      "percentage": 0,
+      "odds": 4.8
+    }
+  },
+  "Mi-temps - R\u00e9sultat": {
+    "Manchester City": {
+      "percentage": 58,
+      "odds": 1.41
+    },
+    "Match nul": {
+      "percentage": 42,
+      "odds": 3
+    },
+    "Burnley": {
+      "percentage": 0,
+      "odds": 9.5
+    }
+  },
+  "Mi-temps - Score exact": {
+    "0 - 0": {
+      "percentage": 0,
+      "odds": 3.95
+    },
+    "1 - 1": {
+      "percentage": 0,
+      "odds": 9.5
+    },
+    "2 - 2": {
+      "percentage": 0,
+      "odds": 60
+    },
+    "1 - 0": {
+      "percentage": 0,
+      "odds": 3.05
+    },
+    "2 - 0": {
+      "percentage": 0,
+      "odds": 4.3
+    },
+    "2 - 1": {
+      "percentage": 0,
+      "odds": 14
+    },
+    "0 - 1": {
+      "percentage": 0,
+      "odds": 12.5
+    },
+    "0 - 2": {
+      "percentage": 0,
+      "odds": 60
+    },
+    "1 - 2": {
+      "percentage": 0,
+      "odds": 50
+    },
+    "Autre": {
+      "percentage": 0,
+      "odds": 5.1
+    }
+  },
+  "Mi-temps - Nombre de buts": {
+    "Plus de 3": {
+      "percentage": 0,
+      "odds": 8
+    },
+    "Moins de 3": {
+      "percentage": 0,
+      "odds": 1.05
+    }
+  },
+  "Mi-temps - \u00c9cart de buts (handicap)": {
+    "Manchester City -0.5": {
+      "percentage": 0,
+      "odds": 1.41
+    },
+    "Burnley +0.5": {
+      "percentage": 0,
+      "odds": 2.4
+    }
+  },
+  "Minute du 1er but (10 min)": {
+    "1-10": {
+      "percentage": 0,
+      "odds": 3.35
+    },
+    "11-20": {
+      "percentage": 0,
+      "odds": 3.8
+    },
+    "21-30": {
+      "percentage": 0,
+      "odds": 4.8
+    },
+    "31-40": {
+      "percentage": 0,
+      "odds": 6.5
+    },
+    "41-50": {
+      "percentage": 0,
+      "odds": 8
+    },
+    "51-60": {
+      "percentage": 0,
+      "odds": 11.5
+    },
+    "61-70": {
+      "percentage": 0,
+      "odds": 16
+    },
+    "71-80": {
+      "percentage": 0,
+      "odds": 24
+    },
+    "81-90": {
+      "percentage": 0,
+      "odds": 27
+    },
+    "Aucun": {
+      "percentage": 0,
+      "odds": 24
+    }
+  },
+  "Minute du 1er but (15 min)": {
+    "1-15": {
+      "percentage": 0,
+      "odds": 2.35
+    },
+    "16-30": {
+      "percentage": 0,
+      "odds": 3.25
+    },
+    "31-45": {
+      "percentage": 0,
+      "odds": 4.5
+    },
+    "46-60": {
+      "percentage": 0,
+      "odds": 7.75
+    },
+    "61-75": {
+      "percentage": 0,
+      "odds": 12.5
+    },
+    "76-90": {
+      "percentage": 0,
+      "odds": 18
+    },
+    "Aucun": {
+      "percentage": 0,
+      "odds": 24
+    }
+  },
+  "Nombre exact de buts": {
+    "0": {
+      "percentage": 0,
+      "odds": 24
+    },
+    "1": {
+      "percentage": 0,
+      "odds": 7.25
+    },
+    "2": {
+      "percentage": 0,
+      "odds": 4.4
+    },
+    "3": {
+      "percentage": 0,
+      "odds": 3.8
+    },
+    "4": {
+      "percentage": 0,
+      "odds": 4.1
+    },
+    "5": {
+      "percentage": 0,
+      "odds": 5.4
+    },
+    "6": {
+      "percentage": 0,
+      "odds": 8.5
+    },
+    "7": {
+      "percentage": 0,
+      "odds": 15
+    },
+    "8": {
+      "percentage": 0,
+      "odds": 30
+    },
+    "9 ou plus": {
+      "percentage": 0,
+      "odds": 44
+    }
+  },
+  "Nombre de buts (intervalle)": {
+    "0-1": {
+      "percentage": 0,
+      "odds": 6
+    },
+    "2-3": {
+      "percentage": 0,
+      "odds": 2.2
+    },
+    "4-6": {
+      "percentage": 0,
+      "odds": 2.1
+    },
+    "7 et plus": {
+      "percentage": 0,
+      "odds": 9
+    }
+  },
+  "Nombre de buts de Manchester City": {
+    "Plus de 5,5": {
+      "percentage": 0,
+      "odds": 8
+    },
+    "Moins de 5,5": {
+      "percentage": 100,
+      "odds": 1.05
+    }
+  },
+  "Nombre de buts de Burnley": {
+    "Plus de 2,5": {
+      "percentage": 0,
+      "odds": 29
+    },
+    "Moins de 2,5": {
+      "percentage": 100,
+      "odds": 1.01
+    }
+  },
+  "Nombre exact de buts de Manchester City": {
+    "0": {
+      "percentage": 0,
+      "odds": 13.5
+    },
+    "1": {
+      "percentage": 0,
+      "odds": 5.2
+    },
+    "2": {
+      "percentage": 0,
+      "odds": 3.65
+    },
+    "3 ou plus": {
+      "percentage": 0,
+      "odds": 1.54
+    }
+  },
+  "Nombre exact de buts de Burnley": {
+    "0": {
+      "percentage": 0,
+      "odds": 1.6
+    },
+    "1": {
+      "percentage": 0,
+      "odds": 2.6
+    },
+    "2": {
+      "percentage": 0,
+      "odds": 7.5
+    },
+    "3 ou plus": {
+      "percentage": 0,
+      "odds": 28
+    }
+  },
+  "Nombre de buts de Manchester City (intervalle)": {
+    "1-2": {
+      "percentage": 0,
+      "odds": 2.3
+    },
+    "1-3": {
+      "percentage": 0,
+      "odds": 1.52
+    },
+    "2-3": {
+      "percentage": 0,
+      "odds": 1.94
+    },
+    "4 et plus": {
+      "percentage": 0,
+      "odds": 2.4
+    },
+    "0": {
+      "percentage": 0,
+      "odds": 13.5
+    }
+  },
+  "Nombre de buts de Burnley (intervalle)": {
+    "1-2": {
+      "percentage": 0,
+      "odds": 2.05
+    },
+    "1-3": {
+      "percentage": 0,
+      "odds": 1.98
+    },
+    "2-3": {
+      "percentage": 0,
+      "odds": 6.25
+    },
+    "4 et plus": {
+      "percentage": 0,
+      "odds": 90
+    },
+    "0": {
+      "percentage": 0,
+      "odds": 1.6
+    }
+  },
+  "Mi-temps/Fin de match": {
+    "Manchester City/Manchester City": {
+      "percentage": 100,
+      "odds": 1.45
+    },
+    "Match nul/Manchester City": {
+      "percentage": 0,
+      "odds": 3.95
+    },
+    "Match nul/Match nul": {
+      "percentage": 0,
+      "odds": 11.5
+    },
+    "Burnley/Manchester City": {
+      "percentage": 0,
+      "odds": 23
+    },
+    "Burnley/Burnley": {
+      "percentage": 0,
+      "odds": 25
+    },
+    "Burnley/Match nul": {
+      "percentage": 0,
+      "odds": 30
+    },
+    "Manchester City/Match nul": {
+      "percentage": 0,
+      "odds": 30
+    },
+    "Match nul/Burnley": {
+      "percentage": 0,
+      "odds": 32
+    },
+    "Manchester City/Burnley": {
+      "percentage": 0,
+      "odds": 90
+    }
+  },
+  "Marge de victoire": {
+    "Manchester City gagne d'au moins 3 buts d'\u00e9cart": {
+      "percentage": 0,
+      "odds": 1.9
+    },
+    "Manchester City gagne par exactement 2 buts d'\u00e9cart": {
+      "percentage": 0,
+      "odds": 3.75
+    },
+    "Manchester City gagne par exactement 1 but d'\u00e9cart": {
+      "percentage": 0,
+      "odds": 4.3
+    },
+    "Match nul": {
+      "percentage": 0,
+      "odds": 7.5
+    },
+    "Burnley gagne par exactement 1 but d'\u00e9cart": {
+      "percentage": 0,
+      "odds": 18
+    },
+    "Burnley gagne par exactement 2 buts d'\u00e9cart": {
+      "percentage": 0,
+      "odds": 55
+    },
+    "Burnley gagne d'au moins 3 buts d'\u00e9cart": {
+      "percentage": 0,
+      "odds": 100
+    }
+  },
+  "R\u00e9sultat et nombre de buts": {
+    "Manchester City et moins de 4,5": {
+      "percentage": 0,
+      "odds": 1.56
+    },
+    "Manchester City et plus de 4,5": {
+      "percentage": 0,
+      "odds": 2.95
+    },
+    "Match nul et moins de 4,5": {
+      "percentage": 0,
+      "odds": 7.75
+    },
+    "Burnley et moins de 4,5": {
+      "percentage": 0,
+      "odds": 16
+    },
+    "Burnley et plus de 4,5": {
+      "percentage": 0,
+      "odds": 60
+    },
+    "Match nul et plus de 4,5": {
+      "percentage": 0,
+      "odds": 70
+    }
+  },
+  "R\u00e9sultat et les deux \u00e9quipes marquent": {
+    "Manchester City et non": {
+      "percentage": 0,
+      "odds": 1.68
+    },
+    "Manchester City et oui": {
+      "percentage": 0,
+      "odds": 2.6
+    },
+    "Match nul et oui": {
+      "percentage": 0,
+      "odds": 9.5
+    },
+    "Match nul et non": {
+      "percentage": 0,
+      "odds": 24
+    },
+    "Burnley et oui": {
+      "percentage": 0,
+      "odds": 26
+    },
+    "Burnley et non": {
+      "percentage": 0,
+      "odds": 28
+    }
+  },
+  "\u00c9quipe qui marque le 1er but et r\u00e9sultat": {
+    "Manchester City marque et Manchester City gagne": {
+      "percentage": 0,
+      "odds": 1.21
+    },
+    "Burnley marque et Manchester City gagne": {
+      "percentage": 0,
+      "odds": 8
+    },
+    "Burnley marque et Burnley gagne": {
+      "percentage": 0,
+      "odds": 17
+    },
+    "Manchester City marque et match nul": {
+      "percentage": 0,
+      "odds": 18
+    },
+    "Burnley marque et match nul": {
+      "percentage": 0,
+      "odds": 18
+    },
+    "Aucun but": {
+      "percentage": 0,
+      "odds": 24
+    },
+    "Manchester City marque et Burnley gagne": {
+      "percentage": 0,
+      "odds": 55
+    }
+  },
+  "Double chance et nombre de buts": {
+    "Manchester City/match nul et moins de 4,5": {
+      "percentage": 0,
+      "odds": 1.37
+    },
+    "Manchester City/Burnley et moins de 4,5": {
+      "percentage": 0,
+      "odds": 1.48
+    },
+    "Manchester City/Burnley et plus de 4,5": {
+      "percentage": 0,
+      "odds": 2.9
+    },
+    "Manchester City/match nul et plus de 4,5": {
+      "percentage": 0,
+      "odds": 2.9
+    },
+    "Burnley/match nul et moins de 4,5": {
+      "percentage": 0,
+      "odds": 5.7
+    },
+    "Burnley/match nul et plus de 4,5": {
+      "percentage": 0,
+      "odds": 48
+    }
+  },
+  "Double chance et les deux \u00e9quipes marquent": {
+    "Manchester City/match nul et non": {
+      "percentage": 0,
+      "odds": 1.6
+    },
+    "Manchester City/Burnley et non": {
+      "percentage": 0,
+      "odds": 1.62
+    },
+    "Manchester City/match nul et oui": {
+      "percentage": 0,
+      "odds": 2.15
+    },
+    "Manchester City/Burnley et oui": {
+      "percentage": 0,
+      "odds": 2.4
+    },
+    "Burnley/match nul et oui": {
+      "percentage": 0,
+      "odds": 7.5
+    },
+    "Burnley/match nul et non": {
+      "percentage": 0,
+      "odds": 13.5
+    }
+  },
+  "Quelle \u00e9quipe va marquer ?": {
+    "Aucune": {
+      "percentage": 0,
+      "odds": 24
+    },
+    "Seulement Manchester City": {
+      "percentage": 0,
+      "odds": 1.68
+    },
+    "Seulement Burnley": {
+      "percentage": 0,
+      "odds": 28
+    },
+    "Les deux \u00e9quipes": {
+      "percentage": 0,
+      "odds": 2.05
+    }
+  },
+  "Manchester City garde sa cage inviol\u00e9e": {
+    "Oui": {
+      "percentage": 0,
+      "odds": 1.6
+    },
+    "Non": {
+      "percentage": 0,
+      "odds": 1.96
+    }
+  },
+  "Burnley garde sa cage inviol\u00e9e": {
+    "Oui": {
+      "percentage": 0,
+      "odds": 13.5
+    },
+    "Non": {
+      "percentage": 100,
+      "odds": 1.02
+    }
+  },
+  "Manchester City gagne sans conc\u00e9der de but": {
+    "Oui": {
+      "percentage": 0,
+      "odds": 1.68
+    },
+    "Non": {
+      "percentage": 0,
+      "odds": 1.86
+    }
+  },
+  "Burnley gagne sans conc\u00e9der de but": {
+    "Oui": {
+      "percentage": 0,
+      "odds": 29
+    },
+    "Non": {
+      "percentage": 100,
+      "odds": 1.01
+    }
+  },
+  "Manchester City gagne une des mi-temps": {
+    "Oui": {
+      "percentage": 0,
+      "odds": 1.06
+    },
+    "Non": {
+      "percentage": 0,
+      "odds": 7.25
+    }
+  },
+  "Burnley gagne une des mi-temps": {
+    "Oui": {
+      "percentage": 0,
+      "odds": 5.8
+    },
+    "Non": {
+      "percentage": 0,
+      "odds": 1.09
+    }
+  },
+  "Manchester City gagne les deux mi-temps": {
+    "Oui": {
+      "percentage": 100,
+      "odds": 1.86
+    },
+    "Non": {
+      "percentage": 0,
+      "odds": 1.68
+    }
+  },
+  "Manchester City marque dans les deux mi-temps": {
+    "Oui": {
+      "percentage": 100,
+      "odds": 1.49
+    },
+    "Non": {
+      "percentage": 0,
+      "odds": 2.2
+    }
+  },
+  "Burnley marque dans les deux mi-temps": {
+    "Oui": {
+      "percentage": 0,
+      "odds": 10
+    },
+    "Non": {
+      "percentage": 0,
+      "odds": 1.04
+    }
+  },
+  "Mi-temps - Double chance": {
+    "Manchester City ou match nul": {
+      "percentage": 93,
+      "odds": 1.04
+    },
+    "Manchester City ou Burnley": {
+      "percentage": 7,
+      "odds": 1.29
+    },
+    "Burnley ou match nul": {
+      "percentage": 0,
+      "odds": 2.4
+    }
+  },
+  "Mi-temps - Les 2 \u00e9quipes marquent": {
+    "Oui": {
+      "percentage": 0,
+      "odds": 4.6
+    },
+    "Non": {
+      "percentage": 0,
+      "odds": 1.14
+    }
+  },
+  "Mi-temps - Nombre de buts de Manchester City": {
+    "Plus de 2,5": {
+      "percentage": 0,
+      "odds": 5.2
+    },
+    "Moins de 2,5": {
+      "percentage": 100,
+      "odds": 1.11
+    }
+  },
+  "Mi-temps - Nombre de buts de Burnley": {
+    "Plus de 1,5": {
+      "percentage": 0,
+      "odds": 22
+    },
+    "Moins de 1,5": {
+      "percentage": 0,
+      "odds": 1.01
+    }
+  },
+  "Mi-temps - Nombre exact de buts": {
+    "0": {
+      "percentage": 0,
+      "odds": 3.95
+    },
+    "1": {
+      "percentage": 0,
+      "odds": 2.6
+    },
+    "2": {
+      "percentage": 0,
+      "odds": 3.25
+    },
+    "3 ou plus": {
+      "percentage": 0,
+      "odds": 3.85
+    }
+  },
+  "Mi-temps - Nombre de buts (intervalle)": {
+    "0": {
+      "percentage": 0,
+      "odds": 3.95
+    },
+    "1-2": {
+      "percentage": 0,
+      "odds": 1.54
+    },
+    "1-3": {
+      "percentage": 100,
+      "odds": 1.28
+    },
+    "2-3": {
+      "percentage": 0,
+      "odds": 2.2
+    },
+    "4 et plus": {
+      "percentage": 0,
+      "odds": 9
+    }
+  },
+  "Mi-temps - Vainqueur (rembours\u00e9 si match nul)": {
+    "Manchester City": {
+      "percentage": 0,
+      "odds": 1.06
+    },
+    "Burnley": {
+      "percentage": 0,
+      "odds": 7.25
+    }
+  },
+  "Mi-temps - Manchester City gardera t-il sa cage inviol\u00e9e ?": {
+    "Oui": {
+      "percentage": 100,
+      "odds": 1.21
+    },
+    "Non": {
+      "percentage": 0,
+      "odds": 3.6
+    }
+  },
+  "Mi-temps - Burnley gardera t-il sa cage inviol\u00e9e ?": {
+    "Oui": {
+      "percentage": 0,
+      "odds": 3.15
+    },
+    "Non": {
+      "percentage": 0,
+      "odds": 1.26
+    }
+  },
+  "Mi-temps - R\u00e9sultat et nombre de buts": {
+    "Manchester City et plus de 1,5": {
+      "percentage": 0,
+      "odds": 2.3
+    },
+    "Manchester City et moins de 1,5": {
+      "percentage": 0,
+      "odds": 3.05
+    },
+    "Match nul et moins de 1,5": {
+      "percentage": 0,
+      "odds": 3.95
+    },
+    "Match nul et plus de 1,5": {
+      "percentage": 0,
+      "odds": 9
+    },
+    "Burnley et moins de 1,5": {
+      "percentage": 0,
+      "odds": 12.5
+    },
+    "Burnley et plus de 1,5": {
+      "percentage": 0,
+      "odds": 32
+    }
+  },
+  "Mi-temps  - Double chance et les deux \u00e9quipes marquent": {
+    "Manchester City/match nul et non": {
+      "percentage": 0,
+      "odds": 1.21
+    },
+    "Manchester City/Burnley et non": {
+      "percentage": 0,
+      "odds": 1.44
+    },
+    "Burnley/match nul et non": {
+      "percentage": 0,
+      "odds": 3.15
+    },
+    "Manchester City/match nul et oui": {
+      "percentage": 0,
+      "odds": 4.9
+    },
+    "Manchester City/Burnley et oui": {
+      "percentage": 0,
+      "odds": 7.75
+    },
+    "Burnley/match nul et oui": {
+      "percentage": 0,
+      "odds": 8
+    }
+  },
+  "Mi-temps avec le plus de buts": {
+    "1re mi-temps": {
+      "percentage": 0,
+      "odds": 2.85
+    },
+    "\u00c9galit\u00e9": {
+      "percentage": 0,
+      "odds": 3.75
+    },
+    "2de mi-temps": {
+      "percentage": 0,
+      "odds": 1.8
+    }
+  }
+}
