@@ -40,7 +40,8 @@ class WinSpider(scrapy.Spider):
                 except KeyError:
                     percent_distribution = None
 
-                interm_dict[data_dict["outcomes"][str(i)]["label"]] = [data_dict["odds"][str(i)],percent_distribution]
+                interm_dict[data_dict["outcomes"][str(i)]["label"] + " odd"] = data_dict["odds"][str(i)]
+                interm_dict[data_dict["outcomes"][str(i)]["label"] + " percentage"] = percent_distribution
                 timestamp = main_bet_to_title_dict[bets_keys_list[m]][1]
                 dt_object = datetime.datetime.utcfromtimestamp(timestamp)
                 formatted_date = dt_object.strftime('%Y-%m-%d %H:%M:%S')

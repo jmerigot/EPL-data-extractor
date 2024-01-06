@@ -1,474 +1,266 @@
 {
   "Premier League 2023/24": {
-    "Manchester City": [
-      1.75,
-      66
-    ],
+    "Manchester City odd": 1.75,
+    "Manchester City percentage": 67,
     "time": 1716076800,
     "formated_time": "2024-05-19 00:00:00",
-    "Liverpool": [
-      3.25,
-      6
-    ],
-    "Arsenal": [
-      7.5,
-      19
-    ],
-    "Aston Villa": [
-      25,
-      2
-    ],
-    "Tottenham Hotspur": [
-      35,
-      3
-    ],
-    "Manchester United": [
-      400,
-      2
-    ],
-    "West Ham United": [
-      500,
-      0
-    ],
-    "Newcastle United": [
-      500,
-      1
-    ],
-    "Chelsea": [
-      1000,
-      1
-    ],
-    "Brighton & Hove Albion": [
-      1000,
-      0
-    ]
-  },
-  "Tottenham - Burnley": {
-    "Tottenham": [
-      1.4,
-      99
-    ],
-    "time": 1704484800,
-    "formated_time": "2024-01-05 20:00:00",
-    "Match nul": [
-      5.2,
-      1
-    ],
-    "Burnley": [
-      6.25,
-      0
-    ]
+    "Liverpool odd": 3.25,
+    "Liverpool percentage": 6,
+    "Arsenal odd": 7.5,
+    "Arsenal percentage": 19,
+    "Aston Villa odd": 25,
+    "Aston Villa percentage": 2,
+    "Tottenham Hotspur odd": 35,
+    "Tottenham Hotspur percentage": 3,
+    "Manchester United odd": 400,
+    "Manchester United percentage": 2,
+    "West Ham United odd": 500,
+    "West Ham United percentage": 0,
+    "Newcastle United odd": 500,
+    "Newcastle United percentage": 1,
+    "Chelsea odd": 1000,
+    "Chelsea percentage": 0,
+    "Brighton & Hove Albion odd": 1000,
+    "Brighton & Hove Albion percentage": 0
   },
   "Inter Milan - Hellas V\u00e9rone": {
-    "Inter": [
-      1.15,
-      96
-    ],
+    "Inter odd": 1.09,
+    "Inter percentage": null,
     "time": 1704540600,
     "formated_time": "2024-01-06 11:30:00",
-    "Match nul": [
-      7.75,
-      3
-    ],
-    "Hellas V\u00e9rone": [
-      17,
-      1
-    ]
+    "Match nul odd": 8.5,
+    "Match nul percentage": null,
+    "Hellas V\u00e9rone odd": 32,
+    "Hellas V\u00e9rone percentage": 0
   },
   "Nice - Auxerre": {
-    "Nice": [
-      1.74,
-      86
-    ],
+    "Nice odd": 1.7,
+    "Nice percentage": 88,
     "time": 1704570300,
     "formated_time": "2024-01-06 19:45:00",
-    "Match nul": [
-      3.55,
-      9
-    ],
-    "Auxerre": [
-      4.6,
-      5
-    ]
+    "Match nul odd": 3.7,
+    "Match nul percentage": 8,
+    "Auxerre odd": 4.9,
+    "Auxerre percentage": 4
   },
   "US Revel - Paris SG": {
-    "US Revel": [
-      75,
-      13
-    ],
+    "US Revel odd": 100,
+    "US Revel percentage": 14,
     "time": 1704656700,
     "formated_time": "2024-01-07 19:45:00",
-    "Match nul": [
-      25,
-      3
-    ],
-    "PSG": [
-      1.01,
-      84
-    ]
-  },
-  "Metz - Clermont": {
-    "Metz": [
-      2.5,
-      69
-    ],
-    "time": 1704483900,
-    "formated_time": "2024-01-05 19:45:00",
-    "Match nul": [
-      3.05,
-      17
-    ],
-    "Clermont": [
-      2.75,
-      14
-    ]
+    "Match nul odd": 25,
+    "Match nul percentage": 2,
+    "PSG odd": 1.01,
+    "PSG percentage": 84
   },
   "Lens - Monaco": {
-    "Lens": [
-      2.2,
-      50
-    ],
+    "Lens odd": 2.2,
+    "Lens percentage": 59,
     "time": 1704634200,
     "formated_time": "2024-01-07 13:30:00",
-    "Match nul": [
-      3.55,
-      19
-    ],
-    "Monaco": [
-      2.85,
-      31
-    ]
+    "Match nul odd": 3.55,
+    "Match nul percentage": 15,
+    "Monaco odd": 2.85,
+    "Monaco percentage": 26
   },
   "Chelsea - Fulham": {
-    "Chelsea": [
-      1.6,
-      52
-    ],
+    "Chelsea odd": 1.6,
+    "Chelsea percentage": 52,
     "time": 1705149000,
     "formated_time": "2024-01-13 12:30:00",
-    "Match nul": [
-      4.2,
-      45
-    ],
-    "Fulham": [
-      5.2,
-      3
-    ]
+    "Match nul odd": 4.2,
+    "Match nul percentage": 44,
+    "Fulham odd": 5.3,
+    "Fulham percentage": 4
   },
   "Sheffield United - West Ham": {
-    "Sheffield United": [
-      3.55,
-      1
-    ],
+    "Sheffield United odd": 3.6,
+    "Sheffield United percentage": 1,
     "time": 1705845600,
     "formated_time": "2024-01-21 14:00:00",
-    "Match nul": [
-      3.3,
-      1
-    ],
-    "West Ham": [
-      1.78,
-      98
-    ]
+    "Match nul odd": 3.3,
+    "Match nul percentage": 1,
+    "West Ham odd": 1.78,
+    "West Ham percentage": 98
   },
   "Brentford - Nottingham Forest": {
-    "Brentford": [
-      1.88,
-      4
-    ],
+    "Brentford odd": 1.88,
+    "Brentford percentage": 4,
     "time": 1705771800,
     "formated_time": "2024-01-20 17:30:00",
-    "Match nul": [
-      3.2,
-      92
-    ],
-    "Nottingham Forest": [
-      3.25,
-      4
-    ]
+    "Match nul odd": 3.2,
+    "Match nul percentage": 92,
+    "Nottingham Forest odd": 3.3,
+    "Nottingham Forest percentage": 4
   },
   "Brighton - Wolverhampton": {
-    "Brighton": [
-      1.56,
-      32
-    ],
+    "Brighton odd": 1.56,
+    "Brighton percentage": 32,
     "time": 1705952700,
     "formated_time": "2024-01-22 19:45:00",
-    "Match nul": [
-      3.65,
-      52
-    ],
-    "Wolverhampton": [
-      4.3,
-      16
-    ]
+    "Match nul odd": 3.65,
+    "Match nul percentage": 51,
+    "Wolverhampton odd": 4.3,
+    "Wolverhampton percentage": 17
   },
   "Newcastle - Manchester City": {
-    "Newcastle": [
-      5.4,
-      2
-    ],
+    "Newcastle odd": 5.4,
+    "Newcastle percentage": 2,
     "time": 1705167000,
     "formated_time": "2024-01-13 17:30:00",
-    "Match nul": [
-      4.3,
-      10
-    ],
-    "Manchester City": [
-      1.56,
-      88
-    ]
+    "Match nul odd": 4.3,
+    "Match nul percentage": 9,
+    "Manchester City odd": 1.56,
+    "Manchester City percentage": 89
   },
   "Burnley - Luton Town": {
-    "Burnley": [
-      1.94,
-      33
-    ],
+    "Burnley odd": 1.94,
+    "Burnley percentage": 33,
     "time": 1705347900,
     "formated_time": "2024-01-15 19:45:00",
-    "Match nul": [
-      3.55,
-      60
-    ],
-    "Luton Town": [
-      3.85,
-      7
-    ]
+    "Match nul odd": 3.55,
+    "Match nul percentage": 60,
+    "Luton Town odd": 3.85,
+    "Luton Town percentage": 7
   },
   "Manchester United - Tottenham": {
-    "Manchester United": [
-      2.15,
-      28
-    ],
+    "Manchester United odd": 2.15,
+    "Manchester United percentage": 27,
     "time": 1705249800,
     "formated_time": "2024-01-14 16:30:00",
-    "Match nul": [
-      3.8,
-      26
-    ],
-    "Tottenham": [
-      3,
-      46
-    ]
+    "Match nul odd": 3.8,
+    "Match nul percentage": 26,
+    "Tottenham odd": 3,
+    "Tottenham percentage": 47
   },
   "Everton - Aston Villa": {
-    "Everton": [
-      2.75,
-      6
-    ],
+    "Everton odd": 2.75,
+    "Everton percentage": 5,
     "time": 1705240800,
     "formated_time": "2024-01-14 14:00:00",
-    "Match nul": [
-      3.5,
-      29
-    ],
-    "Aston Villa": [
-      2.45,
-      65
-    ]
+    "Match nul odd": 3.5,
+    "Match nul percentage": 35,
+    "Aston Villa odd": 2.45,
+    "Aston Villa percentage": 60
   },
   "Bournemouth - Liverpool": {
-    "Bournemouth": [
-      4.2,
-      0
-    ],
+    "Bournemouth odd": 4.2,
+    "Bournemouth percentage": 1,
     "time": 1705854600,
     "formated_time": "2024-01-21 16:30:00",
-    "Match nul": [
-      3.8,
-      3
-    ],
-    "Liverpool": [
-      1.54,
-      97
-    ]
+    "Match nul odd": 3.8,
+    "Match nul percentage": 2,
+    "Liverpool odd": 1.54,
+    "Liverpool percentage": 97
   },
   "Arsenal - Crystal Palace": {
-    "Arsenal": [
-      1.28,
-      98
-    ],
+    "Arsenal odd": 1.28,
+    "Arsenal percentage": 98,
     "time": 1705753800,
     "formated_time": "2024-01-20 12:30:00",
-    "Match nul": [
-      4.3,
-      1
-    ],
-    "Crystal Palace": [
-      7.25,
-      1
-    ]
+    "Match nul odd": 4.3,
+    "Match nul percentage": 1,
+    "Crystal Palace odd": 7.25,
+    "Crystal Palace percentage": 1
   },
   "Luton Town - Brighton": {
-    "Luton Town": [
-      4.3,
-      5
-    ],
+    "Luton Town odd": 4.3,
+    "Luton Town percentage": 5,
     "time": 1706643900,
     "formated_time": "2024-01-30 19:45:00",
-    "Match nul": [
-      3.75,
-      2
-    ],
-    "Brighton": [
-      1.54,
-      93
-    ]
+    "Match nul odd": 3.75,
+    "Match nul percentage": 1,
+    "Brighton odd": 1.54,
+    "Brighton percentage": 94
   },
   "Tottenham - Brentford": {
-    "Tottenham": [
-      1.56,
-      100
-    ],
+    "Tottenham odd": 1.56,
+    "Tottenham percentage": 100,
     "time": 1706729400,
     "formated_time": "2024-01-31 19:30:00",
-    "Match nul": [
-      3.75,
-      0
-    ],
-    "Brentford": [
-      4.2,
-      0
-    ]
+    "Match nul odd": 3.75,
+    "Match nul percentage": 0,
+    "Brentford odd": 4.2,
+    "Brentford percentage": 0
   },
   "Wolverhampton - Manchester United": {
-    "Wolverhampton": [
-      2.4,
-      9
-    ],
+    "Wolverhampton odd": 2.4,
+    "Wolverhampton percentage": 13,
     "time": 1706818500,
     "formated_time": "2024-02-01 20:15:00",
-    "Match nul": [
-      3.25,
-      2
-    ],
-    "Manchester United": [
-      2.35,
-      89
-    ]
+    "Match nul odd": 3.25,
+    "Match nul percentage": 2,
+    "Manchester United odd": 2.35,
+    "Manchester United percentage": 85
   },
   "Aston Villa - Newcastle": {
-    "Aston Villa": [
-      1.84,
-      81
-    ],
+    "Aston Villa odd": 1.84,
+    "Aston Villa percentage": 82,
     "time": 1706645700,
     "formated_time": "2024-01-30 20:15:00",
-    "Match nul": [
-      3.5,
-      13
-    ],
-    "Newcastle": [
-      3.15,
-      6
-    ]
+    "Match nul odd": 3.5,
+    "Match nul percentage": 12,
+    "Newcastle odd": 3.15,
+    "Newcastle percentage": 6
   },
   "Fulham - Everton": {
-    "Fulham": [
-      2.3,
-      43
-    ],
+    "Fulham odd": 2.3,
+    "Fulham percentage": 35,
     "time": 1706643900,
     "formated_time": "2024-01-30 19:45:00",
-    "Match nul": [
-      3.05,
-      45
-    ],
-    "Everton": [
-      2.55,
-      12
-    ]
+    "Match nul odd": 3.05,
+    "Match nul percentage": 56,
+    "Everton odd": 2.55,
+    "Everton percentage": 9
   },
   "West Ham - Bournemouth": {
-    "West Ham": [
-      1.94,
-      98
-    ],
+    "West Ham odd": 1.92,
+    "West Ham percentage": 98,
     "time": 1706815800,
     "formated_time": "2024-02-01 19:30:00",
-    "Match nul": [
-      3.45,
-      0
-    ],
-    "Bournemouth": [
-      2.9,
-      2
-    ]
+    "Match nul odd": 3.45,
+    "Match nul percentage": 0,
+    "Bournemouth odd": 2.95,
+    "Bournemouth percentage": 2
   },
   "Manchester City - Burnley": {
-    "Manchester City": [
-      1.09,
-      100
-    ],
+    "Manchester City odd": 1.09,
+    "Manchester City percentage": 100,
     "time": 1706729400,
     "formated_time": "2024-01-31 19:30:00",
-    "Match nul": [
-      6.25,
-      null
-    ],
-    "Burnley": [
-      13,
-      0
-    ]
+    "Match nul odd": 6.25,
+    "Match nul percentage": null,
+    "Burnley odd": 13,
+    "Burnley percentage": 0
   },
   "Nottingham Forest - Arsenal": {
-    "Nottingham Forest": [
-      5.7,
-      2
-    ],
+    "Nottingham Forest odd": 5.8,
+    "Nottingham Forest percentage": 2,
     "time": 1706643000,
     "formated_time": "2024-01-30 19:30:00",
-    "Match nul": [
-      3.95,
-      0
-    ],
-    "Arsenal": [
-      1.39,
-      98
-    ]
+    "Match nul odd": 4,
+    "Match nul percentage": 0,
+    "Arsenal odd": 1.39,
+    "Arsenal percentage": 98
   },
   "Crystal Palace - Sheffield United": {
-    "Crystal Palace": [
-      1.42,
-      91
-    ],
+    "Crystal Palace odd": 1.42,
+    "Crystal Palace percentage": 91,
     "time": 1706644800,
     "formated_time": "2024-01-30 20:00:00",
-    "Match nul": [
-      3.75,
-      7
-    ],
-    "Sheffield United": [
-      5.7,
-      2
-    ]
+    "Match nul odd": 3.75,
+    "Match nul percentage": 7,
+    "Sheffield United odd": 5.7,
+    "Sheffield United percentage": 2
   },
   "Liverpool - Chelsea": {
-    "Liverpool": [
-      1.45,
-      94
-    ],
+    "Liverpool odd": 1.46,
+    "Liverpool percentage": 95,
     "time": 1706732100,
     "formated_time": "2024-01-31 20:15:00",
-    "Match nul": [
-      4,
-      1
-    ],
-    "Chelsea": [
-      4.8,
-      5
-    ]
-  },
-  "Boston Celtics - Utah Jazz": {
-    "Boston Celtics": [
-      1.09,
-      97
-    ],
-    "time": 1704500100,
-    "formated_time": "2024-01-06 00:15:00",
-    "Utah Jazz": [
-      7.25,
-      3
-    ]
+    "Match nul odd": 4,
+    "Match nul percentage": 1,
+    "Chelsea odd": 4.7,
+    "Chelsea percentage": 4
   }
 }
