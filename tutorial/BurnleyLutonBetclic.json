@@ -1,0 +1,66 @@
+{
+  "R\u00e9sultat du match (temps r\u00e9glementaire)": {
+    "": "3,67"
+  },
+  "Double chance": {
+    "Burnley ou Nul": "1,21",
+    "Burnley ou Luton": "1,21",
+    "Nul ou Luton": "1,74"
+  },
+  "Nombre total de buts": {
+    "+ de 0,5": "1,03",
+    "- de 0,5": "11",
+    "+ de 1,5": "1,23",
+    "- de 1,5": "3,25",
+    "+ de 2,5": "1,78",
+    "- de 2,5": "1,72"
+  },
+  "But pour les 2 \u00e9quipes": {
+    "Oui": "1,69",
+    "Non": "1,81"
+  },
+  "Total de buts - Burnley": {
+    "+ de 0,5": "1,17",
+    "- de 0,5": "4,12",
+    "+ de 1,5": "1,86",
+    "- de 1,5": "1,69",
+    "+ de 2,5": "3,92",
+    "- de 2,5": "1,19",
+    "+ de 3,5": "6,05",
+    "- de 3,5": "1,04"
+  },
+  "Total de buts - Luton": {
+    "+ de 0,5": "1,40",
+    "- de 0,5": "2,47",
+    "+ de 1,5": "2,84",
+    "- de 1,5": "1,29",
+    "+ de 2,5": "9,00",
+    "- de 2,5": "1,05"
+  },
+  "\u00c9cart de buts": {
+    "Burnley gagne de 5 buts ou +": "18,75",
+    "Burnley gagne de 4 buts exactement": "8,05",
+    "Luton ne perd pas ou perd de 3 buts ou -": "1,01"
+  },
+  "Premi\u00e8re \u00e9quipe \u00e0 marquer": {
+    "Burnley": "1,63",
+    "Pas de but dans le match": "11",
+    "Luton": "2,36"
+  },
+  "Score exact": {
+    "1 - 0": "7,40",
+    "0 - 0": "11",
+    "0 - 1": "11",
+    "2 - 0": "9,00",
+    "1 - 1": "6,40",
+    "0 - 2": "21",
+    "2 - 1": "8,60",
+    "2 - 2": "15",
+    "1 - 2": "13"
+  },
+  "1\u00e8re mi-temps - R\u00e9sultat": {
+    "Burnley": "2,45",
+    "Nul": "2,09",
+    "Luton": "4,12"
+  }
+}

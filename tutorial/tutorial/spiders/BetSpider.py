@@ -36,17 +36,31 @@ class BetSpider(scrapy.Spider):
             json.dump(results, json_file, indent=2)
 
         next_page_links = response.css('a.cardEvent::attr(href)').getall()
-        print(next_page_links)
 
         for next_page in next_page_links:
             yield response.follow(next_page, callback=self.parse_match)
 
     def parse_match(self, response):
-        page = response.url.split("/")[-2]
-        filename = f"quotes-{page}.html"
-        Path(filename).write_bytes(response.body)
-        self.log(f"Saved file {filename}")
-        raise error
+        team_1 = response.css('div.scoreboard_contestant-1 div.scoreboard_contestantLabel::text').get(default='').strip()
+        team_2 = response.css('div.scoreboard_contestant-2 div.scoreboard_contestantLabel::text').get(default='').strip()
+        concatenated_teams = team_1+team_2
+        OddBoards = response.css('div.marketBox')
+        match_odds = {}
+        for board in OddBoards:
+            odd_class = board.css('h2.marketBox_headTitle::text').get(default='').strip()
+            oddTypes = board.css('div.marketBox_lineSelection')
+            match_odds[str(odd_class)] = {}
+            for oddT in oddTypes:
+                odd_Name = oddT.css('p.marketBox_label::text').get(default='').strip()
+                odd_value = oddT.css('span.oddValue::text').get(default='').strip()
+                match_odds[str(odd_class)][str(odd_Name)] = odd_value
+        cleaned_title = re.sub(r'[^a-zA-Z0-9]', '', concatenated_teams) 
+        cleaned_title = re.sub(r'\s+', '', cleaned_title)
+        match_filename = cleaned_title + 'Betclic.json'
+        with open(match_filename, 'w') as json_file:
+            json.dump(match_odds, json_file, indent=2)
+
+
 
 
 """    def parse(self, response):

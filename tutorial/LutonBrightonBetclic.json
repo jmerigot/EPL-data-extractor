@@ -1,0 +1,64 @@
+{
+  "R\u00e9sultat du match (temps r\u00e9glementaire)": {
+    "": "1,57"
+  },
+  "Double chance": {
+    "Luton ou Nul": "2,12",
+    "Luton ou Brighton": "1,16",
+    "Nul ou Brighton": "1,14"
+  },
+  "Nombre total de buts": {
+    "+ de 1,5": "1,14",
+    "- de 1,5": "4,40",
+    "+ de 2,5": "1,50",
+    "- de 2,5": "2,05",
+    "+ de 3,5": "2,25",
+    "- de 3,5": "1,42"
+  },
+  "But pour les 2 \u00e9quipes": {
+    "Oui": "1,56",
+    "Non": "1,97"
+  },
+  "Total de buts - Luton": {
+    "+ de 0,5": "1,38",
+    "- de 0,5": "2,48",
+    "+ de 1,5": "2,73",
+    "- de 1,5": "1,28",
+    "+ de 2,5": "8,80",
+    "- de 2,5": "1,04"
+  },
+  "Total de buts - Brighton": {
+    "+ de 0,5": "1,08",
+    "- de 0,5": "6,15",
+    "+ de 1,5": "1,49",
+    "- de 1,5": "2,08",
+    "+ de 2,5": "2,63",
+    "- de 2,5": "1,34"
+  },
+  "\u00c9cart de buts": {
+    "Luton gagne de 4 buts ou +": "24",
+    "Luton gagne de 3 buts exactement": "7,70",
+    "Brighton ne perd pas ou perd de 2 buts ou -": "1,01"
+  },
+  "Premi\u00e8re \u00e9quipe \u00e0 marquer": {
+    "Luton": "2,52",
+    "Pas de but dans le match": "17",
+    "Brighton": "1,45"
+  },
+  "Score exact": {
+    "1 - 0": "17",
+    "0 - 0": "17",
+    "0 - 1": "8,80",
+    "2 - 0": "30",
+    "1 - 1": "7,80",
+    "0 - 2": "8,60",
+    "2 - 1": "15",
+    "2 - 2": "14",
+    "1 - 2": "8,20"
+  },
+  "1\u00e8re mi-temps - R\u00e9sultat": {
+    "Luton": "4,55",
+    "Nul": "2,29",
+    "Brighton": "2,03"
+  }
+}

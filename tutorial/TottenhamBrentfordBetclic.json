@@ -1,0 +1,64 @@
+{
+  "R\u00e9sultat du match (temps r\u00e9glementaire)": {
+    "": "4,33"
+  },
+  "Double chance": {
+    "Tottenham ou Nul": "1,15",
+    "Tottenham ou Brentford": "1,16",
+    "Nul ou Brentford": "2,08"
+  },
+  "Nombre total de buts": {
+    "+ de 1,5": "1,12",
+    "- de 1,5": "4,80",
+    "+ de 2,5": "1,45",
+    "- de 2,5": "2,20",
+    "+ de 3,5": "2,10",
+    "- de 3,5": "1,50"
+  },
+  "But pour les 2 \u00e9quipes": {
+    "Oui": "1,49",
+    "Non": "2,09"
+  },
+  "Total de buts - Tottenham": {
+    "+ de 0,5": "1,07",
+    "- de 0,5": "6,50",
+    "+ de 1,5": "1,46",
+    "- de 1,5": "2,15",
+    "+ de 2,5": "2,52",
+    "- de 2,5": "1,37"
+  },
+  "Total de buts - Brentford": {
+    "+ de 0,5": "1,33",
+    "- de 0,5": "2,67",
+    "+ de 1,5": "2,54",
+    "- de 1,5": "1,32",
+    "+ de 2,5": "7,60",
+    "- de 2,5": "1,06"
+  },
+  "\u00c9cart de buts": {
+    "Tottenham gagne de 5 buts ou +": "13,50",
+    "Tottenham gagne de 4 buts exactement": "7,95",
+    "Brentford ne perd pas ou perd de 3 buts ou -": "1,03"
+  },
+  "Premi\u00e8re \u00e9quipe \u00e0 marquer": {
+    "Tottenham": "1,46",
+    "Pas de but dans le match": "19",
+    "Brentford": "2,45"
+  },
+  "Score exact": {
+    "1 - 0": "9,80",
+    "0 - 0": "19",
+    "0 - 1": "18",
+    "2 - 0": "9,40",
+    "1 - 1": "8,00",
+    "0 - 2": "30",
+    "2 - 1": "8,20",
+    "2 - 2": "13",
+    "1 - 2": "15"
+  },
+  "1\u00e8re mi-temps - R\u00e9sultat": {
+    "Tottenham": "2,02",
+    "Nul": "2,34",
+    "Brentford": "4,37"
+  }
+}

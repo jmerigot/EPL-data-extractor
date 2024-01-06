@@ -1,0 +1,68 @@
+{
+  "R\u00e9sultat du match (temps r\u00e9glementaire)": {
+    "": "3,25"
+  },
+  "Double chance": {
+    "Aston Villa ou Nul": "1,25",
+    "Aston Villa ou Newcastle": "1,19",
+    "Nul ou Newcastle": "1,73"
+  },
+  "Nombre total de buts": {
+    "+ de 1,5": "1,13",
+    "- de 1,5": "4,60",
+    "+ de 2,5": "1,48",
+    "- de 2,5": "2,15",
+    "+ de 3,5": "2,15",
+    "- de 3,5": "1,45"
+  },
+  "But pour les 2 \u00e9quipes": {
+    "Oui": "1,45",
+    "Non": "2,19"
+  },
+  "Total de buts - Aston Villa": {
+    "+ de 0,5": "1,11",
+    "- de 0,5": "5,20",
+    "+ de 1,5": "1,61",
+    "- de 1,5": "1,89",
+    "+ de 2,5": "3,07",
+    "- de 2,5": "1,26",
+    "+ de 3,5": "4,78",
+    "- de 3,5": "1,06"
+  },
+  "Total de buts - Newcastle": {
+    "+ de 0,5": "1,25",
+    "- de 0,5": "3,18",
+    "+ de 1,5": "2,19",
+    "- de 1,5": "1,44",
+    "+ de 2,5": "5,65",
+    "- de 2,5": "1,09",
+    "+ de 3,5": "6,20",
+    "- de 3,5": "1,01"
+  },
+  "\u00c9cart de buts": {
+    "Aston Villa gagne de 5 buts ou +": "16,50",
+    "Aston Villa gagne de 4 buts exactement": "8,25",
+    "Newcastle ne perd pas ou perd de 3 buts ou -": "1,01"
+  },
+  "Premi\u00e8re \u00e9quipe \u00e0 marquer": {
+    "Aston Villa": "1,60",
+    "Pas de but dans le match": "18,25",
+    "Newcastle": "2,14"
+  },
+  "Score exact": {
+    "1 - 0": "11",
+    "0 - 0": "18",
+    "0 - 1": "15",
+    "2 - 0": "11",
+    "1 - 1": "7,40",
+    "0 - 2": "22",
+    "2 - 1": "8,60",
+    "2 - 2": "12",
+    "1 - 2": "12"
+  },
+  "1\u00e8re mi-temps - R\u00e9sultat": {
+    "Aston Villa": "2,34",
+    "Nul": "2,26",
+    "Newcastle": "3,57"
+  }
+}

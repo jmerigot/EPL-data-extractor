@@ -1,0 +1,62 @@
+{
+  "R\u00e9sultat du match (temps r\u00e9glementaire)": {
+    "": "5,95"
+  },
+  "Double chance": {
+    "Crystal Palace ou Nul": "1,09",
+    "Crystal Palace ou Sheffield United": "1,15",
+    "Nul ou Sheffield United": "2,40"
+  },
+  "Nombre total de buts": {
+    "+ de 0,5": "1,03",
+    "- de 0,5": "11",
+    "+ de 1,5": "1,24",
+    "- de 1,5": "3,20",
+    "+ de 2,5": "1,78",
+    "- de 2,5": "1,72"
+  },
+  "But pour les 2 \u00e9quipes": {
+    "Oui": "1,93",
+    "Non": "1,60"
+  },
+  "Total de buts - Crystal Palace": {
+    "+ de 0,5": "1,10",
+    "- de 0,5": "5,45",
+    "+ de 1,5": "1,57",
+    "- de 1,5": "1,95",
+    "+ de 2,5": "2,90",
+    "- de 2,5": "1,29"
+  },
+  "Total de buts - Sheffield United": {
+    "+ de 0,5": "1,66",
+    "- de 0,5": "1,85",
+    "+ de 1,5": "3,85",
+    "- de 1,5": "1,12"
+  },
+  "\u00c9cart de buts": {
+    "Crystal Palace gagne de 6 buts ou +": "19",
+    "Crystal Palace gagne de 5 buts exactement": "8,25",
+    "Sheffield United ne perd pas ou perd de 4 buts ou -": "1,01"
+  },
+  "Premi\u00e8re \u00e9quipe \u00e0 marquer": {
+    "Crystal Palace": "1,37",
+    "Pas de but dans le match": "11,25",
+    "Sheffield United": "3,07"
+  },
+  "Score exact": {
+    "1 - 0": "6,00",
+    "0 - 0": "11",
+    "0 - 1": "15",
+    "2 - 0": "6,40",
+    "1 - 1": "7,80",
+    "0 - 2": "40",
+    "2 - 1": "8,40",
+    "2 - 2": "22",
+    "1 - 2": "21"
+  },
+  "1\u00e8re mi-temps - R\u00e9sultat": {
+    "Crystal Palace": "1,94",
+    "Nul": "2,14",
+    "Sheffield United": "5,95"
+  }
+}
