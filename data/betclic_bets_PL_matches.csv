@@ -1,4 +1,4 @@
-,home_team,away_team,bet_type,outcome,odd
+,team_home,team_away,bet_type,outcome,odd
 0,Arsenal,Crystal Palace,Résultat du match (temps réglementaire),,8.00
 1,Arsenal,Crystal Palace,Double chance,Arsenal ou Nul,1.06
 2,Arsenal,Crystal Palace,Double chance,Arsenal ou Crystal Palace,1.11

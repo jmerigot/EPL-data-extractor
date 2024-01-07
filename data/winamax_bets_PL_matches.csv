@@ -1,4 +1,4 @@
-,home_team,away_team,bet_type,outcome,odd,percentage
+,team_home,team_away,bet_type,outcome,odd,percentage
 0,Arsenal,Crystal Palace,Résultat,Arsenal,1.28,98
 1,Arsenal,Crystal Palace,Résultat,Match nul,4.3,1
 2,Arsenal,Crystal Palace,Résultat,Crystal Palace,7.25,1
