@@ -1,6 +1,6 @@
 # Premier League Data Extraction Project
 
-**Problem Statement**: Premier League Football \& Betting Statistics
+## **Problem Statement**: Premier League Football \& Betting Statistics
 
 **Group Members:** Matthias Besnier, Augustin Gervreau, Jules Merigot
 
